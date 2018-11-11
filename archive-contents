@@ -3549,6 +3549,23 @@
 			  ("André Riemann" . "andre.riemann@web.de"))
 			 (:maintainer "André Riemann" . "andre.riemann@web.de")
 			 (:url . "https://github.com/andre-r/centered-cursor-mode.el"))])
+ (ccls .
+       [(20181105 2146)
+	((emacs
+	  (25 1))
+	 (lsp-mode
+	  (4 2))
+	 (dash
+	  (0 14))
+	 (projectile
+	  (1 0 0)))
+	"ccls client for lsp-mode" tar
+	((:commit . "07ad553950e69f862f7c74c9b1f02c00ab450d22")
+	 (:keywords "languages" "lsp" "c++")
+	 (:authors
+	  ("Tobias Pisani, Fangrui Song"))
+	 (:maintainer "Tobias Pisani, Fangrui Song")
+	 (:url . "https://github.com/MaskRay/emacs-ccls"))])
  (browse-at-remote .
 		   [(20180621 2331)
 		    ((f
