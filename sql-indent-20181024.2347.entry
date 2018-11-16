@@ -1,0 +1,2 @@
+
+(sql-indent . [(20181024 2347) ((cl-lib (0 5))) "Support for indenting code in SQL files." single ((:commit . "87a6b4ae82bc34b5083558b6dffb0f0749d8f6c9") (:keywords "languages" "sql") (:authors ("Alex Harsanyi" . "AlexHarsanyi@gmail.com")) (:maintainer "Alex Harsanyi" . "AlexHarsanyi@gmail.com") (:url . "https://github.com/alex-hhh/emacs-sql-indent"))])
