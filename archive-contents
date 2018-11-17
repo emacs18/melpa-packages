@@ -1698,9 +1698,9 @@
 	       (:maintainer "Bar Magal (2015)")
 	       (:url . "https://github.com/bmag/imenu-list"))])
  (iedit .
-	[(20180918 2023)
+	[(20181114 150)
 	 nil "Edit multiple regions in the same way simultaneously." tar
-	 ((:commit . "a1a2abbfc34bf08bb156bee5c21b6d85dc92a9b3")
+	 ((:commit . "35505ad860be27feaee71e8caf646706bf8ee31d")
 	  (:keywords "occurrence" "region" "simultaneous" "refactoring")
 	  (:authors
 	   ("Victor Ren" . "victorhge@gmail.com"))
