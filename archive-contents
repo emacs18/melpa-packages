@@ -962,6 +962,24 @@
 	      ("Samuel Tonini" . "tonini.samuel@gmail.com"))
 	     (:maintainer "Samuel Tonini" . "tonini.samuel@gmail.com")
 	     (:url . "http://www.github.com/tonini/overseer.el"))])
+ (outshine .
+	   [(20181024 714)
+	    ((outorg
+	      (2 0))
+	     (cl-lib
+	      (0 5)))
+	    "outline with outshine outshines outline" tar
+	    ((:commit . "345d85ab5467ec6015fc58fe268936da93be0a5c")
+	     (:maintainer "Adam Porter" . "adam@alphapapa.net")
+	     (:url . "http://github.com/alphapapa/outshine"))])
+ (outorg .
+	 [(20170414 1215)
+	  ((emacs
+	    (24 4)))
+	  "Org-style comment editing" single
+	  ((:commit . "78b0695121fb974bc4e971eb4ef7f8afd6d89d64")
+	   (:maintainer "Adam Porter")
+	   (:url . "https://github.com/alphapapa/outorg"))])
  (orgit .
 	[(20180318 1301)
 	 ((emacs
@@ -1127,6 +1145,16 @@
 	     ("jaypei" . "jaypei97159@gmail.com"))
 	    (:maintainer "jaypei" . "jaypei97159@gmail.com")
 	    (:url . "https://github.com/jaypei/emacs-neotree"))])
+ (navi-mode .
+	    [(20180515 1948)
+	     ((outshine
+	       (2 0))
+	      (outorg
+	       (2 0)))
+	     "major-mode for easy buffer-navigation" single
+	     ((:commit . "7c3fd1a9b520300abfdb1b7c3de21403e81a95bf")
+	      (:maintainer "Adam Porter")
+	      (:url . "https://github.com/alphapapa/navi"))])
  (nameless .
 	   [(20180215 1421)
 	    ((emacs
