@@ -96,6 +96,18 @@
 	       ("Le Wang"))
 	      (:maintainer "Le Wang")
 	      (:url . "https://github.com/lewang/ws-butler"))])
+ (writeroom-mode .
+		 [(20170623 327)
+		  ((emacs
+		    (24 1))
+		   (visual-fill-column
+		    (1 9)))
+		  "Minor mode for distraction-free writing" tar
+		  ((:commit . "be822ebe916fe30e8de228289757df1a30009a57")
+		   (:keywords "text")
+		   (:authors
+		    ("Joost Kremers" . "joostkremers@fastmail.fm"))
+		   (:maintainer "Joost Kremers" . "joostkremers@fastmail.fm"))])
  (worf .
        [(20180620 1011)
 	((swiper
