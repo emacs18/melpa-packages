@@ -1897,6 +1897,16 @@
 	    (:authors
 	     ("Hrvoje Niksic" . "hniksic@gmail.com"))
 	    (:maintainer "Hrvoje Niksic" . "hniksic@gmail.com"))])
+ (ht .
+     [(20181216 337)
+      ((dash
+	(2 12 0)))
+      "The missing hash table library for Emacs" single
+      ((:commit . "8ec3eb96ee63430fb24257e4aa8169b50cb7be12")
+       (:keywords "hash table" "hash map" "hash")
+       (:authors
+	("Wilfred Hughes" . "me@wilfred.me.uk"))
+       (:maintainer "Wilfred Hughes" . "me@wilfred.me.uk"))])
  (hl-todo .
 	  [(20181031 1209)
 	   nil "highlight TODO and similar keywords" single
