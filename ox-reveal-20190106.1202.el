@@ -5,8 +5,8 @@
 ;; Author: Yujie Wen <yjwen.ty at gmail dot com>
 ;; Created: 2013-04-27
 ;; Version: 1.0
-;; Package-Version: 20161027.226
-;; Package-Requires: ((org "20150330"))
+;; Package-Version: 20190106.1202
+;; Package-Requires: ((org "8.3"))
 ;; Keywords: outlines, hypermedia, slideshow, presentation
 
 ;; This file is not part of GNU Emacs.
@@ -65,6 +65,8 @@
     (:reveal-extra-js "REVEAL_EXTRA_JS" nil org-reveal-extra-js nil)
     (:reveal-hlevel "REVEAL_HLEVEL" nil nil t)
     (:reveal-title-slide nil "reveal_title_slide" org-reveal-title-slide t)
+    (:reveal-slide-global-header nil "reveal_global_header" org-reveal-global-header t)
+    (:reveal-slide-global-footer nil "reveal_global_footer" org-reveal-global-footer t)
     (:reveal-title-slide-background "REVEAL_TITLE_SLIDE_BACKGROUND" nil nil t)
     (:reveal-title-slide-background-size "REVEAL_TITLE_SLIDE_BACKGROUND_SIZE" nil nil t)
     (:reveal-title-slide-background-position "REVEAL_TITLE_SLIDE_BACKGROUND_POSITION" nil nil t)
@@ -297,6 +299,18 @@ content."
   :group 'org-export-reveal
   :type 'string)
 
+(defcustom org-reveal-global-header nil
+  "If non nil, slide header defined in org-reveal-slide-header
+  is displayed also on title and toc slide"
+  :group 'org-export-reveal
+  :type 'boolean)
+
+(defcustom org-reveal-global-footer nil
+  "If non nil, slide footer defined in org-reveal-slide-footer
+  is displayed also on title and toc slide"
+  :group 'org-export-reveal
+  :type 'boolean)
+
 (defcustom org-reveal-slide-footer nil
   "HTML content used as Reveal.js slide footer"
   :group 'org-export-reveal
@@ -320,6 +334,15 @@ content."
           (const search)
           (const remotes)
           (const multiplex)))
+
+(defcustom org-reveal-external-plugins nil
+  "Additional third-party Plugins to load with reveal. 
+Each entry should contain a name and an expression of the form 
+\"{src: '%srelative/path/from/reveal/root', async:true/false,condition: jscallbackfunction(){}}\"
+Note that some plugins have dependencies such as jquery; these must be included here as well, 
+BEFORE the plugins that depend on them."
+  :group 'org-export-reveal
+  :type 'alist)
 
 (defcustom org-reveal-single-file nil
   "Export presentation into one single HTML file, which embedded
@@ -346,6 +369,21 @@ content."
 
   The default value is \"n\". Set the variable to nil to disable
   registering the completion"
+  :group 'org-export-reveal
+  :type 'string)
+
+(defcustom org-reveal-klipsify-src nil
+  "Set to non-nil if you would like to make source code blocks editable in exported presentation."
+  :group 'org-export-reveal
+  :type 'boolean)
+
+(defcustom org-reveal-klipse-css "https://storage.googleapis.com/app.klipse.tech/css/codemirror.css"
+  "Location of the codemirror css file for use with klipse."
+  :group 'org-export-reveal
+  :type 'string)
+
+(defcustom org-reveal-klipse-js "https://storage.googleapis.com/app.klipse.tech/plugin_prod/js/klipse_plugin.min.js"
+  "location of the klipse js source code."
   :group 'org-export-reveal
   :type 'string)
 
@@ -398,8 +436,11 @@ holding contextual information."
         (org-html-headline headline contents info)
       ;; Standard headline.  Export it as a slide
       (let* ((level (org-export-get-relative-level headline info))
+	     (section-number (mapconcat #'number-to-string
+					(org-export-get-headline-number headline info)
+					"-"))
 	     (preferred-id (or (org-element-property :CUSTOM_ID headline)
-			       (org-export-get-reference headline info)
+			       section-number
 			       (org-element-property :ID headline)))
 	     (hlevel (org-reveal--get-hlevel info))
 	     (header (plist-get info :reveal-slide-header))
@@ -415,7 +456,7 @@ holding contextual information."
              (default-slide-background-transition (plist-get info :reveal-default-slide-background-transition))
              (slide-section-tag (format "<section %s%s>\n"
                                         (org-html--make-attribute-string
-                                         `(:id ,(format "slide-%s" preferred-id)
+                                         `(:id ,(format "slide-sec-%s" preferred-id)
                                            :data-transition ,(org-element-property :REVEAL_DATA_TRANSITION headline)
                                            :data-state ,(org-element-property :REVEAL_DATA_STATE headline)
                                            :data-background ,(or (org-element-property :REVEAL_BACKGROUND headline)
@@ -541,7 +582,7 @@ using custom variable `org-reveal-root'."
 
      ;; Include CSS for highlight.js if necessary
      (if (org-reveal--using-highlight.js info)
-         (format "<link rel=\"stylesheet\" href=\"%s\"/>" 
+         (format "<link rel=\"stylesheet\" href=\"%s\"/>"
                  (format-spec (plist-get info :reveal-highlight-css)
                               `((?r . ,(directory-file-name root-path))))))
      ;; print-pdf
@@ -707,10 +748,13 @@ dependencies: [
                                          (wrong-type-argument nil))))
                    (or (and buffer-plugins (listp buffer-plugins) buffer-plugins)
                        org-reveal-plugins))))
+               (external-plugins
+                (cl-loop for (key . value) in org-reveal-external-plugins
+                         collect (format  value root-path )) )
+               (all-plugins (if external-plugins (append external-plugins builtin-codes) builtin-codes))
                (extra-codes (plist-get info :reveal-extra-js))
                (total-codes
-                (if (string= "" extra-codes) builtin-codes
-                  (append (list extra-codes) builtin-codes))))
+                (if (string= "" extra-codes) all-plugins (append (list extra-codes) all-plugins))                ))
           (mapconcat 'identity total-codes ",\n"))
         "]\n"
          ))
@@ -721,9 +765,18 @@ dependencies: [
 (defun org-reveal-toc (depth info)
   "Build a slide of table of contents."
   (let ((toc (org-html-toc depth info)))
-    (if toc
-        (format "<section id=\"table-of-contents\">\n%s</section>\n"
-                (replace-regexp-in-string "<a href=\"#" "<a href=\"#/slide-" toc)))))
+    (when toc
+      (let ((toc-slide-with-header (plist-get info :reveal-slide-global-header))
+            (toc-slide-with-footer (plist-get info :reveal-slide-global-footer)))
+        (concat "<section id=\"table-of-contents\">\n"
+                (when toc-slide-with-header
+                   (let ((header (plist-get info :reveal-slide-header)))
+                     (when header (format "<div class=\"slide-header\">%s</div>\n" header))))
+                (replace-regexp-in-string "<a href=\"#" "<a href=\"#/slide-" toc)
+                (when toc-slide-with-footer
+                   (let ((footer (plist-get info :reveal-slide-footer)))
+                     (when footer (format "<div class=\"slide-footer\">%s</div>\n" footer))))
+                "</section>\n")))))
 
 (defun org-reveal-inner-template (contents info)
   "Return body of document string after HTML conversion.
@@ -742,7 +795,7 @@ holding export options."
   "Return HTML tags or perform SIDE EFFECT according to key.
 Use the previous section tag as the tag of the split section. "
   (case (intern key)
-    (split (format "</section>\n%s" org-reveal--last-slide-section-tag ""))))
+    (split (format "</section>\n%s" org-reveal--last-slide-section-tag))))
 
 (defun org-reveal-parse-keyword-value (value)
   "According to the value content, return HTML tags to split slides."
@@ -903,13 +956,12 @@ Extract and set `attr_html' to plain-list tag attributes."
                (unordered "ul")
                (descriptive "dl")))
         (attrs (org-export-read-attribute :attr_html plain-list)))
-    (format "%s<%s%s>\n%s\n</%s>%s"
-            (if (string= org-html-checkbox-type 'html) "<form>" "")
+    (format "<%s%s>\n%s\n</%s>"
             tag
             (if attrs (concat " " (org-html--make-attribute-string attrs)) "")
             contents
             tag
-            (if (string= org-html-checkbox-type 'html) "</form>" ""))))
+            )))
 
 (defun org-reveal--build-pre/postamble (type info)
   "Return document preamble or postamble as a string, or nil."
@@ -959,25 +1011,61 @@ contextual information."
 			 :attr_reveal src-block :code_attribs) ""))
            (label (let ((lbl (org-element-property :name src-block)))
                     (if (not lbl) ""
-                      (format " id=\"%s\"" lbl)))))
+                      (format " id=\"%s\"" lbl))))
+           (klipsify  (and  org-reveal-klipsify-src 
+                           (member lang '("javascript" "js" "ruby" "scheme" "clojure" "php" "html"))))
+           (langselector (cond ((or (string= lang "js") (string= lang "javascript")) "selector_eval_js")
+                               ((string= lang "clojure") "selector")
+                               ((string= lang "python") "selector_eval_python_client")
+                               ((string= lang "scheme") "selector_eval_scheme")
+                               ((string= lang "ruby") "selector_eval_ruby")
+                               ((string= lang "html") "selector_eval_html"))
+                         )
+)
       (if (not lang)
           (format "<pre %s%s>\n%s</pre>"
                   (or (frag-class frag info) " class=\"example\"")
                   label
                   code)
-        (format
-         "<div class=\"org-src-container\">\n%s%s\n</div>"
-         (if (not caption) ""
-           (format "<label class=\"org-src-name\">%s</label>"
-                   (org-export-data caption info)))
-         (if use-highlight
-             (format "\n<pre%s%s><code class=\"%s\" %s>%s</code></pre>"
-                     (or (frag-class frag info) "")
-                     label lang code-attribs code)
-           (format "\n<pre %s%s>%s</pre>"
-                   (or (frag-class frag info)
-                       (format " class=\"src src-%s\"" lang))
-                   label code)))))))
+        (if klipsify
+            (concat
+             "<iframe style=\"background-color:white;\" height=\"500px\" width= \"100%\" srcdoc='<html><body><pre><code "
+             (if (string= lang "html" )"data-editor-type=\"html\"  "  "") "class=\"klipse\" "code-attribs ">
+" (if (string= lang "html")
+      (replace-regexp-in-string "'" "&#39;"
+                                (replace-regexp-in-string "&" "&amp;"
+                                                          (replace-regexp-in-string "<" "&lt;"
+                                                                                    (replace-regexp-in-string ">" "&gt;"
+                                                                                                              (cl-letf (((symbol-function 'org-html-htmlize-region-for-paste)
+                                                                                                                         #'buffer-substring))
+                                                                                                                (org-html-format-code src-block info))))))
+    (replace-regexp-in-string "'" "&#39;"
+                              code))  "
+</code></pre>
+<link rel= \"stylesheet\" type= \"text/css\" href=\"" org-reveal-klipse-css "\">
+<style>
+.CodeMirror { font-size: 2em; }
+</style>
+<script>
+window.klipse_settings = { " langselector  ": \".klipse\" };
+</script>
+<script src= \"" org-reveal-klipse-js "\"></script></body></html>
+'>
+</iframe>")
+          (format
+            "<div class=\"org-src-container\">\n%s%s\n</div>"
+            (if (not caption) ""
+              (format "<label class=\"org-src-name\">%s</label>"
+                      (org-export-data caption info)))
+            (if use-highlight
+                (format "\n<pre%s%s><code class=\"%s\" %s>%s</code></pre>"
+                        (or (frag-class frag info) "")
+                        label lang code-attribs code)
+              (format "\n<pre %s%s>%s</pre>"
+                      (or (frag-class frag info)
+                          (format " class=\"src src-%s\"" lang))
+                      label code)
+              )))))))
 
 (defun org-reveal-quote-block (quote-block contents info)
   "Transcode a QUOTE-BLOCK element from Org to Reveal.
@@ -1012,8 +1100,7 @@ contextual information."
        (concat "<p class=\"date\">"
                (org-html--translate "Created" info)
                ": "
-               (format-time-string
-                (plist-get info :html-metadata-timestamp-format))
+               (format-time-string org-html-metadata-timestamp-format)
                "</p>")))))
 
 (defun org-reveal-template (contents info)
@@ -1045,7 +1132,9 @@ info is a plist holding export options."
              (title-slide-background-size (plist-get info :reveal-title-slide-background-size))
              (title-slide-background-position (plist-get info :reveal-title-slide-background-position))
              (title-slide-background-repeat (plist-get info :reveal-title-slide-background-repeat))
-             (title-slide-background-transition (plist-get info :reveal-title-slide-background-transition)))
+             (title-slide-background-transition (plist-get info :reveal-title-slide-background-transition))
+             (title-slide-with-header (plist-get info :reveal-slide-global-header))
+             (title-slide-with-footer (plist-get info :reveal-slide-global-footer)))
          (concat "<section id=\"sec-title-slide\""
                  (when title-slide-background
                    (concat " data-background=\"" title-slide-background "\""))
@@ -1058,10 +1147,17 @@ info is a plist holding export options."
                  (when title-slide-background-transition
                    (concat " data-background-transition=\"" title-slide-background-transition "\""))
                  ">"
+                 (when title-slide-with-header
+                   (let ((header (plist-get info :reveal-slide-header)))
+                     (when header (format "<div class=\"slide-header\">%s</div>\n" header))))
                  (cond ((eq title-slide nil) nil)
                        ((stringp title-slide) (format-spec title-slide (org-html-format-spec info)))
                        ((eq title-slide 'auto) (org-reveal--auto-title-slide-template info)))
-                 "\n</section>\n"))))
+                 "\n"
+                 (when title-slide-with-footer
+                   (let ((footer (plist-get info :reveal-slide-footer)))
+                     (when footer (format "<div class=\"slide-footer\">%s</div>\n" footer))))
+                 "</section>\n"))))
    contents
    "</div>
 </div>\n"
@@ -1087,7 +1183,7 @@ Each `attr_reveal' attribute is mapped to corresponding
   tree)
 
 (defun org-reveal--update-attr-html (elem frag default-style &optional frag-index)
-  "Update ELEM's attr_html atrribute with reveal's
+  "Update ELEM's attr_html attribute with reveal's
 fragment attributes."
   (let ((attr-html (org-element-property :attr_html elem)))
     (when (and frag (not (string= frag "none")))
@@ -1116,17 +1212,17 @@ transformed fragment attribute to ELEM's attr_html plist."
                                                  s))
                                              frag-list)
                                    frag-list))
-                      (items (org-element-contents elem)))
+                      (items (org-element-contents elem))
+		      (default-style-list
+                            (mapcar (lambda (a) default-style)
+                                    (number-sequence 1 (length items)))))
                  (if frag-index
                      (mapcar* 'org-reveal--update-attr-html
-                              items frag-list default-style (car (read-from-string frag-index)))
+                              items frag-list default-style-list (car (read-from-string frag-index)))
                    (let* ((last-frag (car (last frag-list)))
                           (tail-list (mapcar (lambda (a) last-frag)
                                              (number-sequence (+ (length frag-list) 1)
-                                                              (length items))))
-                          (default-style-list
-                            (mapcar (lambda (a) default-style)
-                                    (number-sequence 1 (length items)))))
+                                                              (length items)))))
                      (nconc frag-list tail-list)
                      (mapcar* 'org-reveal--update-attr-html items frag-list default-style-list)))))
               (t (org-reveal--update-attr-html elem frag default-style frag-index)))
@@ -1185,7 +1281,9 @@ Return output file name."
 ;; Register auto-completion for speaker notes.
 (when org-reveal-note-key-char
   (add-to-list 'org-structure-template-alist
-               (list org-reveal-note-key-char "#+BEGIN_NOTES\n\?\n#+END_NOTES")))
+               (if (version< org-version "9.2")
+                   (list org-reveal-note-key-char "#+BEGIN_NOTES\n\?\n#+END_NOTES")
+                 (cons org-reveal-note-key-char "notes"))))
 
 (provide 'ox-reveal)
 
