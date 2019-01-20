@@ -7,10 +7,10 @@ The doom-modeline was designed for minimalism, and offers:
 - A match count panel (for anzu, iedit, multiple-cursors, symbol-overlay,
   evil-search and evil-substitute)
 - An indicator for recording a macro
-- Local python/ruby version in the major-mode
+- Current environment version (e.g. python, ruby, go, etc.) in the major-mode
 - A customizable mode-line height (see doom-modeline-height)
 - A minor modes segment which is compatible with minions
-- An error/warning count segment for flycheck
+- An error/warning count segment for flymake/flycheck
 - A workspace number segment for eyebrowse
 - A perspective name segment for persp-mode
 - A window number segment for winum and window-numbering
@@ -23,6 +23,9 @@ The doom-modeline was designed for minimalism, and offers:
 - An indicator for debug state
 - An indicator for LSP state
 - An indicator for github notifications
+- An indicator for buffer position which is compatible with nyan-mode
+- An indicator for party parrot
+- An indicator for PDF page number
 - Truncated file name, file icon, buffer state and project name in buffer
   information segment, which is compatible with projectile and project
 
@@ -30,9 +33,8 @@ Installation:
 From melpa, `M-x package-install RET doom-modeline RET`.
 In `init.el`,
 (require 'doom-modeline)
-(doom-modeline-init)
+(doom-modeline-mode 1)
 or
 (use-package doom-modeline
   :ensure t
-  :defer t
-  :hook (after-init . doom-modeline-init))
+  :hook (after-init . doom-modeline-mode))

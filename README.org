@@ -1,6 +1,0 @@
-This is my own build of some of the packages found at [[https://melpa.org][MELPA]]. These packages are
-updated once a few weeks after I review all upstream changes.  I simply don't 
-have the time or energy to review all changes.  I review what I can and skim 
-the rest.
-
-[[https://github.com/syl20bnr/spacelpa][spacelpa]] is a similar archive of "stable" packages used by [[https://spacemacs.org][spacemacs]].
