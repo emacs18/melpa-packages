@@ -335,6 +335,56 @@
 	    ("Daniel Barreto" . "daniel.barreto.n@gmail.com"))
 	   (:maintainer "Daniel Barreto" . "daniel.barreto.n@gmail.com")
 	   (:url . "https://github.com/volrath/treepy.el"))])
+ (treemacs-projectile .
+		      [(20190114 834)
+		       ((projectile
+			 (0 14 0))
+			(treemacs
+			 (0 0)))
+		       "Projectile integration for treemacs" single
+		       ((:commit . "0a2ce6b1a461612d3b69f56a9d39862715cf4cc5")
+			(:authors
+			 ("Alexander Miller" . "alexanderm@web.de"))
+			(:maintainer "Alexander Miller" . "alexanderm@web.de")
+			(:url . "https://github.com/Alexander-Miller/treemacs"))])
+ (treemacs-evil .
+		[(20190113 2222)
+		 ((evil
+		   (1 2 12))
+		  (treemacs
+		   (0 0)))
+		 "Evil mode integration for treemacs" single
+		 ((:commit . "0a2ce6b1a461612d3b69f56a9d39862715cf4cc5")
+		  (:authors
+		   ("Alexander Miller" . "alexanderm@web.de"))
+		  (:maintainer "Alexander Miller" . "alexanderm@web.de")
+		  (:url . "https://github.com/Alexander-Miller/treemacs"))])
+ (treemacs .
+	   [(20190210 400)
+	    ((emacs
+	      (25 2))
+	     (cl-lib
+	      (0 5))
+	     (dash
+	      (2 11 0))
+	     (s
+	      (1 10 0))
+	     (f
+	      (0 11 0))
+	     (ace-window
+	      (0 9 0))
+	     (pfuture
+	      (1 2))
+	     (hydra
+	      (0 13 2))
+	     (ht
+	      (2 2)))
+	    "A tree style file explorer package" tar
+	    ((:commit . "0a2ce6b1a461612d3b69f56a9d39862715cf4cc5")
+	     (:authors
+	      ("Alexander Miller" . "alexanderm@web.de"))
+	     (:maintainer "Alexander Miller" . "alexanderm@web.de")
+	     (:url . "https://github.com/Alexander-Miller/treemacs"))])
  (toc-org .
 	  [(20181108 821)
 	   nil "add table of contents to org-mode files (formerly, org-toc)" single
