@@ -1391,6 +1391,17 @@
 		   ("Jason R. Blevins" . "jblevins@xbeta.org"))
 		  (:maintainer "Jason R. Blevins" . "jblevins@xbeta.org")
 		  (:url . "https://jblevins.org/projects/markdown-mode/"))])
+ (manage-minor-mode .
+		    [(20140310 900)
+		     ((emacs
+		       (24 3)))
+		     "Manage your minor-modes easily" single
+		     ((:commit . "1bed33b0752380b548b822fe72e6858c5fe70c8e")
+		      (:keywords "minor-mode" "manage" "emacs")
+		      (:authors
+		       ("Shingo Fukuyama - http://fukuyama.co"))
+		      (:maintainer "Shingo Fukuyama - http://fukuyama.co")
+		      (:url . "https://github.com/ShingoFukuyama/manage-minor-mode"))])
  (magithub .
 	   [(20190118 1347)
 	    ((emacs
