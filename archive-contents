@@ -1507,6 +1507,13 @@
 	      (:maintainer "joddie" . "j.j.oddie@gmail.com")
 	      (:keywords "lisp" "languages" "macro" "debugging")
 	      (:url . "https://github.com/joddie/macrostep"))])
+ (lv .
+     [(20181110 940)
+      nil "Other echo area" single
+      ((:commit . "9c4a4711bc78364e114acbbcf484a60669d02d78")
+       (:authors
+	("Oleh Krehel"))
+       (:maintainer "Oleh Krehel"))])
  (lsp-ui .
 	 [(20190214 815)
 	  ((emacs
