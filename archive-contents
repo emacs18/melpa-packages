@@ -793,6 +793,10 @@
 	      ("Artem Malyshev" . "proofit404@gmail.com"))
 	     (:maintainer "Artem Malyshev" . "proofit404@gmail.com")
 	     (:url . "https://github.com/proofit404/pythonic"))])
+ (python-info .
+	      [(20151228 1052)
+	       nil "Python info manual for Emacs" tar
+	       ((:commit . "306f15441b54b25757cdfd3b327b84024ea21ed7"))])
  (pytest .
 	 [(20181005 824)
 	  ((s
