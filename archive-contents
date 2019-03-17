@@ -1421,6 +1421,20 @@
 		       ("Shingo Fukuyama - http://fukuyama.co"))
 		      (:maintainer "Shingo Fukuyama - http://fukuyama.co")
 		      (:url . "https://github.com/ShingoFukuyama/manage-minor-mode"))])
+ (major-mode-hydra .
+		   [(20190226 1946)
+		    ((dash
+		      (2 15 0))
+		     (pretty-hydra
+		      (0 1 1))
+		     (emacs
+		      (25)))
+		    "Major mode keybindings managed by Hydra" single
+		    ((:commit . "2142be970874c679300e539a1d9d0f048eb72a7f")
+		     (:authors
+		      ("Jerry Peng" . "pr2jerry@gmail.com"))
+		     (:maintainer "Jerry Peng" . "pr2jerry@gmail.com")
+		     (:url . "https://github.com/jerrypnz/major-mode-hydra.el"))])
  (magithub .
 	   [(20190118 1347)
 	    ((emacs
