@@ -1957,6 +1957,19 @@
 		(:maintainer "Nicolás Salas V." . "nikosalas@gmail.com")
 		(:keywords "languages" "convenience")
 		(:url . "https://github.com/anachronic/importmagic.el"))])
+ (import-js .
+	    [(20180709 1133)
+	     ((grizzl
+	       (0 1 0))
+	      (emacs
+	       (24)))
+	     "Import Javascript dependencies" single
+	     ((:commit . "fb1f167e33c388b09a2afd32fbda90a67bfb2e40")
+	      (:authors
+	       ("Kevin Kehl" . "kevin.kehl@gmail.com"))
+	      (:maintainer "Kevin Kehl" . "kevin.kehl@gmail.com")
+	      (:keywords "javascript")
+	      (:url . "http://github.com/Galooshi/emacs-import-js/"))])
  (impatient-mode .
 		 [(20181002 531)
 		  ((cl-lib
@@ -2792,6 +2805,19 @@
 		     (:maintainer "Sebastian Wiesner" . "swiesner@lunaryorn.com")
 		     (:keywords "tools" "convenience")
 		     (:url . "https://github.com/flycheck/flycheck-pos-tip"))])
+ (flycheck-package .
+		   [(20161111 1451)
+		    ((flycheck
+		      (0 22))
+		     (package-lint
+		      (0 2)))
+		    "A Flycheck checker for elisp package authors" single
+		    ((:commit . "6d99248b45eea1e5236062f38e524230efdb1a84")
+		     (:authors
+		      ("Steve Purcell" . "steve@sanityinc.com")
+		      ("Fanael Linithien" . "fanael4@gmail.com"))
+		     (:maintainer "Steve Purcell" . "steve@sanityinc.com")
+		     (:keywords "lisp"))])
  (flycheck-irony .
 		 [(20180604 1452)
 		  ((emacs
@@ -2974,6 +3000,16 @@
 	       (:maintainer "Sylvain Benner" . "sylvain.benner@gmail.com")
 	       (:keywords "convenience" "editing" "evil")
 	       (:url . "https://github.com/syl20bnr/evil-tutor"))])
+ (evil-textobj-line .
+		    [(20150729 822)
+		     ((evil
+		       (1 0 0)))
+		     "evil textobj line" single
+		     ((:commit . "3d401b6831bdbeec967ec8e64177a8950251e812")
+		      (:authors
+		       ("Syohei YOSHIDA" . "syohex@gmail.com"))
+		      (:maintainer "Syohei YOSHIDA" . "syohex@gmail.com")
+		      (:url . "https://github.com/syohex/emacs-evil-textobj-line"))])
  (evil-surround .
 		[(20181218 1157)
 		 ((evil
