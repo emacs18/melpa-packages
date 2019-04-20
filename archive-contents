@@ -1100,6 +1100,20 @@
 	   (:maintainer "Jonas Bernoulli" . "jonas@bernoul.li")
 	   (:keywords "compile" "convenience" "lisp" "package" "library")
 	   (:url . "https://github.com/emacscollective/packed"))])
+ (package-lint .
+	       [(20190307 1612)
+		((cl-lib
+		  (0 5))
+		 (emacs
+		  (24)))
+		"A linting library for elisp package authors" single
+		((:commit . "e494a1a9027e73fa07fc42236b953792ce0a32bf")
+		 (:authors
+		  ("Steve Purcell" . "steve@sanityinc.com")
+		  ("Fanael Linithien" . "fanael4@gmail.com"))
+		 (:maintainer "Steve Purcell" . "steve@sanityinc.com")
+		 (:keywords "lisp")
+		 (:url . "https://github.com/purcell/package-lint"))])
  (p4 .
      [(20150721 1237)
       nil "Simple Perforce-Emacs Integration" single
@@ -1578,6 +1592,28 @@
 	   (:maintainer "Sebastien Chapuis <sebastien@chapu.is>, Fangrui Song" . "i@maskray.me")
 	   (:keywords "lsp")
 	   (:url . "https://github.com/emacs-lsp/lsp-ui"))])
+ (lsp-treemacs .
+	       [(20190328 2351)
+		((emacs
+		  (25 1))
+		 (dash
+		  (2 14 1))
+		 (dash-functional
+		  (2 14 1))
+		 (f
+		  (0 20 0))
+		 (ht
+		  (2 0))
+		 (treemacs
+		  (2 5))
+		 (lsp-mode
+		  (6 0)))
+		"LSP treemacs" single
+		((:commit . "5b3f0d3242b272cc31b7620766ff7a7a3d997f20")
+		 (:authors
+		  ("Ivan Yonchovski"))
+		 (:maintainer "Ivan Yonchovski")
+		 (:keywords "languages"))])
  (lsp-python .
 	     [(20181107 2354)
 	      ((lsp-mode
@@ -2268,6 +2304,23 @@
 	      (:maintainer "Oleh Krehel" . "ohwoeowho@gmail.com")
 	      (:keywords "makefile")
 	      (:url . "https://github.com/abo-abo/helm-make"))])
+ (helm-lsp .
+	   [(20190104 1334)
+	    ((emacs
+	      (25 1))
+	     (dash
+	      (2 14 1))
+	     (lsp-mode
+	      (5 0))
+	     (helm
+	      (2 0)))
+	    "LSP helm integration" single
+	    ((:commit . "56e17bb73dfbd70a4c424944ec75d53a769523f4")
+	     (:authors
+	      ("Ivan Yonchovski" . "yyoncho@gmail.com"))
+	     (:maintainer "Ivan Yonchovski" . "yyoncho@gmail.com")
+	     (:keywords "languages" "debug")
+	     (:url . "https://github.com/yyoncho/helm-lsp"))])
  (helm-gtags .
 	     [(20170115 2129)
 	      ((emacs
@@ -2455,6 +2508,19 @@
 	      (:maintainer "Natalie Weizenbaum")
 	      (:keywords "markup" "languages" "html")
 	      (:url . "https://github.com/nex3/haml-mode"))])
+ (grizzl .
+	 [(20160818 37)
+	  ((cl-lib
+	    (0 5))
+	   (emacs
+	    (24 3)))
+	  "Fast fuzzy search index for Emacs." single
+	  ((:commit . "1e917253ce2b846f0272b8356fad3dbff9cd513a")
+	   (:authors
+	    ("Chris Corbyn" . "chris@w3style.co.uk"))
+	   (:maintainer "Bozhidar Batsov" . "bozhidar@batsov.com")
+	   (:keywords "convenience" "usability")
+	   (:url . "https://github.com/grizzl/grizzl"))])
  (graphviz-dot-mode .
 		    [(20181117 2151)
 		     nil "Mode for the dot-language used by graphviz (att)." single
@@ -4032,6 +4098,16 @@
 		      ("Rustem Muslimov" . "r.muslimov@gmail.com"))
 		     (:maintainer "Rustem Muslimov" . "r.muslimov@gmail.com")
 		     (:keywords "github" "gitlab" "bitbucket" "gist" "stash" "phabricator" "sourcehut"))])
+ (blacken .
+	  [(20190301 605)
+	   ((emacs
+	     (25 2)))
+	   "Reformat python buffers using the \"black\" formatter" single
+	   ((:commit . "17b48ee432d83517094635f8caaf2db1128d1db1")
+	    (:authors
+	     ("Artem Malyshev" . "proofit404@gmail.com"))
+	    (:maintainer "Artem Malyshev" . "proofit404@gmail.com")
+	    (:url . "https://github.com/proofit404/blacken"))])
  (bind-map .
 	   [(20161207 711)
 	    ((emacs
