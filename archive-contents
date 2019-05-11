@@ -935,6 +935,17 @@
 	   ("Tomohiro Matsuyama" . "m2ym.pub@gmail.com"))
 	  (:maintainer "Tomohiro Matsuyama" . "m2ym.pub@gmail.com")
 	  (:keywords "lisp"))])
+ (polymode .
+	   [(20190508 1147)
+	    ((emacs
+	      (25)))
+	    "Extensible framework for multiple major modes" tar
+	    ((:commit . "291e2fed6e723d857a5eac59c375aad6fbddf473")
+	     (:authors
+	      ("Vitalie Spinu"))
+	     (:maintainer "Vitalie Spinu")
+	     (:keywords "languages" "multi-modes" "processes")
+	     (:url . "https://github.com/vitoshka/polymode"))])
  (pkg-info .
 	   [(20150517 443)
 	    ((epl
@@ -3677,6 +3688,23 @@
 		   "Collection of useful combinators for Emacs Lisp" single
 		   ((:commit . "258c324d9840901db83b2cabef3fa75bba57c1ba")
 		    (:keywords "lisp" "functions" "combinators"))])
+ (dash-docs .
+	    [(20190507 654)
+	     ((emacs
+	       (24 4))
+	      (cl-lib
+	       (0 5))
+	      (async
+	       (1 9 3)))
+	     "Offline documentation browser using Dash docsets." single
+	     ((:commit . "fcde53fd006928fe68380d2ee5139a9c46dea5df")
+	      (:authors
+	       ("Raimon Grau" . "raimonster@gmail.com")
+	       ("Toni Reina " . "areina0@gmail.com")
+	       ("Bryan Gilbert" . "bryan@bryan.sh"))
+	      (:maintainer "Raimon Grau" . "raimonster@gmail.com")
+	      (:keywords "docs")
+	      (:url . "http://github.com/areina/helm-dash"))])
  (dash .
        [(20190424 1104)
 	nil "A modern list library for Emacs" single
