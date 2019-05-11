@@ -14,10 +14,8 @@ The doom-modeline offers:
 - A workspace number segment for eyebrowse
 - A perspective name segment for persp-mode
 - A window number segment for winum and window-numbering
-- An indicator for evil state
-- An indicator for god state
-- An indicator for ryo-modal state
-- An indicator for xah-fly-keys state
+- An indicator for modal editing state, including evil, god, ryo and
+  xah-fly-keys, etc.
 - An indicator for remote host
 - An indicator for current input method
 - An indicator for debug state
@@ -27,10 +25,13 @@ The doom-modeline offers:
 - An indicator for irc notifications with circe
 - An indicator for buffer position which is compatible with nyan-mode
 - An indicator for party parrot
-- An indicator for PDF page number
+- An indicator for PDF page number with pdf-tools
 - An indicator for battery status with fancy-battery
 - Truncated file name, file icon, buffer state and project name in buffer
   information segment, which is compatible with projectile and project
+- New mode-line for Info-mode buffers
+- New package mode-line for paradox
+- New mode-line for helm buffers
 
 Installation:
 From melpa, `M-x package-install RET doom-modeline RET`.
