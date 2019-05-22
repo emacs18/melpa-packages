@@ -1035,6 +1035,15 @@
 	       ("Leo Liu" . "sdl.web@gmail.com"))
 	      (:maintainer "Leo Liu" . "sdl.web@gmail.com")
 	      (:keywords "tools"))])
+ (pcache .
+	 [(20170105 1414)
+	  ((eieio
+	    (1 3)))
+	  "persistent caching for Emacs." single
+	  ((:commit . "1f8086077d770e524492e6fa59b07856e85a6fea")
+	   (:authors
+	    ("Yann Hodique" . "yann.hodique@gmail.com"))
+	   (:maintainer "Yann Hodique" . "yann.hodique@gmail.com"))])
  (password-store .
 		 [(20190425 1942)
 		  ((emacs
@@ -1484,6 +1493,21 @@
 	     ("Christopher Wellons" . "mosquitopsu@gmail.com"))
 	    (:maintainer "Christopher Wellons" . "mosquitopsu@gmail.com")
 	    (:url . "https://github.com/skeeto/emacs-memoize"))])
+ (marshal .
+	  [(20180124 439)
+	   ((eieio
+	     (1 4))
+	    (json
+	     (1 3))
+	    (ht
+	     (2 1)))
+	   "eieio extension for automatic (un)marshalling" single
+	   ((:commit . "f038689cbd5b3680b80b44edd0c7a63ca3038e26")
+	    (:authors
+	     ("Yann Hodique" . "hodiquey@vmware.com"))
+	    (:maintainer "Yann Hodique" . "hodiquey@vmware.com")
+	    (:keywords "eieio")
+	    (:url . "https://github.com/sigma/marshal.el"))])
  (markdown-toc .
 	       [(20170711 1249)
 		((s
@@ -1726,6 +1750,16 @@
 		 ("Jean-Philippe Theberge" . "jphil21@sourceforge.net"))
 		(:maintainer "Joe Schafer" . "joe@jschaf.com")
 		(:keywords "tools" "language" "convenience"))])
+ (logito .
+	 [(20120225 1255)
+	  ((eieio
+	    (1 3)))
+	  "logging library for Emacs" single
+	  ((:commit . "824acb89d2cc18cb47281a4fbddd81ad244a2052")
+	   (:authors
+	    ("Yann Hodique" . "yann.hodique@gmail.com"))
+	   (:maintainer "Yann Hodique" . "yann.hodique@gmail.com")
+	   (:keywords "lisp" "tool"))])
  (log4e .
 	[(20170401 604)
 	 nil "provide logging framework for elisp" single
@@ -2680,6 +2714,19 @@
 		   (:maintainer "Jonas Bernoulli" . "jonas@bernoul.li")
 		   (:keywords "convenience" "vc" "git")
 		   (:url . "https://github.com/magit/git-modes"))])
+ (github-search .
+		[(20170823 2023)
+		 ((magit
+		   (0 8 1))
+		  (gh
+		   (1 0 0)))
+		 "Clone repositories by searching github" single
+		 ((:commit . "c5fa1d9f8f9bcf201fa31478a6f5e02ed5ac086b")
+		  (:authors
+		   ("Ivan Malison" . "IvanMalison@gmail.com"))
+		  (:maintainer "Ivan Malison" . "IvanMalison@gmail.com")
+		  (:keywords "github" "search" "clone" "api" "gh" "magit" "vc" "tools")
+		  (:url . "https://github.com/IvanMalison/github-search"))])
  (github-explorer .
 		  [(20190420 2210)
 		   ((emacs
@@ -2693,6 +2740,21 @@
 		    (:maintainer "Giap Tran" . "txgvnn@gmail.com")
 		    (:keywords "comm")
 		    (:url . "https://github.com/TxGVNN/github-explorer"))])
+ (github-clone .
+	       [(20160622 2010)
+		((gh
+		  (0 7 2))
+		 (magit
+		  (2 1 0))
+		 (emacs
+		  (24 4)))
+		"Fork and clone github repos" single
+		((:commit . "467b40ca60a6c26257466ebc43c74414df7f19cc")
+		 (:authors
+		  ("Charles L.G. Comstock" . "dgtized@gmail.com"))
+		 (:maintainer "Charles L.G. Comstock" . "dgtized@gmail.com")
+		 (:keywords "vc" "tools")
+		 (:url . "https://github.com/dgtized/github-clone.el"))])
  (gitconfig-mode .
 		 [(20180318 1256)
 		  nil "Major mode for editing .gitconfig files" single
@@ -2811,6 +2873,19 @@
 	       (:maintainer "Jonas Bernoulli" . "jonas@bernoul.li")
 	       (:keywords "git" "tools" "vc")
 	       (:url . "https://github.com/magit/magit"))])
+ (gist .
+       [(20171127 2006)
+	((emacs
+	  (24 1))
+	 (gh
+	  (0 10 0)))
+	"Emacs integration for gist.github.com" single
+	((:commit . "314fe6ab80fae35b95f0734eceb82f72813b6f41")
+	 (:authors
+	  ("Yann Hodique" . "yann.hodique@gmail.com"))
+	 (:maintainer "Yann Hodique" . "yann.hodique@gmail.com")
+	 (:keywords "tools")
+	 (:url . "https://github.com/defunkt/gist.el"))])
  (ghub .
        [(20190513 633)
 	((emacs
@@ -2836,6 +2911,18 @@
 	  (:maintainer "Mario Rodas" . "marsam@users.noreply.github.com")
 	  (:keywords "convenience")
 	  (:url . "https://github.com/emacs-pe/gh-md.el"))])
+ (gh .
+     [(20180308 1338)
+      ((emacs
+	(24 3))
+       (pcache
+	(0 4 1))
+       (logito
+	(0 1))
+       (marshal
+	(0 6 3)))
+      "A GitHub library for Emacs" tar
+      ((:commit . "f029fc11f345ef04ab62ee91c38657e29c462fea"))])
  (ggtags .
 	 [(20190320 1508)
 	  ((emacs
@@ -2864,6 +2951,30 @@
 		  (:maintainer "Nikolaj Schumacher <bugs * nschum de>")
 		  (:keywords "lisp")
 		  (:url . "http://nschum.de/src/emacs/fringe-helper/"))])
+ (forge .
+	[(20190507 2201)
+	 ((emacs
+	   (25 1))
+	  (closql
+	   (1 0 0))
+	  (dash
+	   (2 14 1))
+	  (emacsql-sqlite
+	   (3 0 0))
+	  (ghub
+	   (20190319))
+	  (graphql
+	   (0 1 1))
+	  (let-alist
+	      (1 0 5))
+	  (magit
+	   (20190408))
+	  (markdown-mode
+	   (2 3))
+	  (transient
+	   (0 1 0)))
+	 "Access Git forges from Magit." tar
+	 ((:commit . "0375541d9ea3a18172d9829fb3083e8adf207874"))])
  (font-lock+ .
 	     [(20180101 1139)
 	      nil "Enhancements to standard library `font-lock.el'." single
