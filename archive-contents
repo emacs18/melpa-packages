@@ -1236,6 +1236,25 @@
 		   (:maintainer "Takaaki ISHIKAWA <takaxp at ieee dot org>")
 		   (:keywords "convenience" "org-mode" "presentation" "narrowing")
 		   (:url . "https://github.com/takaxp/org-tree-slide"))])
+ (org-super-agenda .
+		   [(20190314 2321)
+		    ((emacs
+		      (25 1))
+		     (s
+		      (1 10 0))
+		     (dash
+		      (2 13))
+		     (org
+		      (9 0))
+		     (ht
+		      (2 2)))
+		    "Supercharge your agenda" tar
+		    ((:commit . "8934ff10afed5d49c4ba3c9df9550796f727fbc2")
+		     (:authors
+		      ("Adam Porter" . "adam@alphapapa.net"))
+		     (:maintainer "Adam Porter" . "adam@alphapapa.net")
+		     (:keywords "hypermedia" "outlines" "org" "agenda")
+		     (:url . "http://github.com/alphapapa/org-super-agenda"))])
  (org-re-reveal .
 		[(20190405 959)
 		 ((emacs
@@ -1325,6 +1344,16 @@
 		 (:maintainer "Oleh Krehel")
 		 (:keywords "images" "screenshots" "download")
 		 (:url . "https://github.com/abo-abo/org-download"))])
+ (org-cliplink .
+	       [(20190518 712)
+		((emacs
+		  (24 4)))
+		"insert org-mode links from the clipboard" tar
+		((:commit . "e03aa07fef350cfeb6374c669d1cd80eeb1a0f26")
+		 (:authors
+		  ("Alexey Kutepov" . "reximkut@gmail.com"))
+		 (:maintainer "Alexey Kutepov" . "reximkut@gmail.com")
+		 (:url . "http://github.com/rexim/org-cliplink"))])
  (org-category-capture .
 		       [(20180531 1942)
 			((org
@@ -2650,6 +2679,19 @@
 		   (:maintainer "Jonas Bernoulli" . "jonas@bernoul.li")
 		   (:keywords "convenience" "vc" "git")
 		   (:url . "https://github.com/magit/git-modes"))])
+ (github-explorer .
+		  [(20190420 2210)
+		   ((emacs
+		     (24 4))
+		    (request
+		     (0 1 0)))
+		   "Explore a GitHub repository on the fly" single
+		   ((:commit . "27be3f515d9b163477bbd2dc0253e5eeb9c8bfd4")
+		    (:authors
+		     ("Giap Tran" . "txgvnn@gmail.com"))
+		    (:maintainer "Giap Tran" . "txgvnn@gmail.com")
+		    (:keywords "comm")
+		    (:url . "https://github.com/TxGVNN/github-explorer"))])
  (gitconfig-mode .
 		 [(20180318 1256)
 		  nil "Major mode for editing .gitconfig files" single
@@ -3633,6 +3675,14 @@
 	    (:maintainer "Dmitry Gutov" . "dgutov@yandex.ru")
 	    (:keywords "vc" "diff")
 	    (:url . "https://github.com/dgutov/diff-hl"))])
+ (devdocs .
+	  [(20170731 150)
+	   nil "Launch DevDocs search" single
+	   ((:commit . "a2d51e824f0cc48a9dd611cc740bc8b86143e611")
+	    (:authors
+	     ("Chunyang Xu" . "xuchunyang.me@gmail.com"))
+	    (:maintainer "Chunyang Xu" . "xuchunyang.me@gmail.com")
+	    (:url . "https://github.com/xuchunyang/DevDocs.el"))])
  (demangle-mode .
 		[(20190116 1857)
 		 ((cl-lib
