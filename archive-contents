@@ -384,6 +384,14 @@
 	      ("Alexander Miller" . "alexanderm@web.de"))
 	     (:maintainer "Alexander Miller" . "alexanderm@web.de")
 	     (:url . "https://github.com/Alexander-Miller/treemacs"))])
+ (tree-mode .
+	    [(20151104 531)
+	     nil "A mode to manage tree widgets" single
+	     ((:commit . "b06078826d5875d74b0e7b7ac47b0d0917610534")
+	      (:authors
+	       (nil . "wenbinye@163.com"))
+	      (:maintainer nil . "wenbinye@163.com")
+	      (:keywords "help" "convenience" "widget"))])
  (transient .
 	    [(20190520 1025)
 	     ((emacs
@@ -3875,6 +3883,31 @@
 	  ("Magnar Sveen" . "magnars@gmail.com"))
 	 (:maintainer "Magnar Sveen" . "magnars@gmail.com")
 	 (:keywords "lists"))])
+ (dap-mode .
+	   [(20190524 2158)
+	    ((emacs
+	      (25 1))
+	     (dash
+	      (2 14 1))
+	     (lsp-mode
+	      (6 0))
+	     (dash-functional
+	      (1 2 0))
+	     (tree-mode
+	      (1 1 1 1))
+	     (bui
+	      (1 1 0))
+	     (f
+	      (0 20 0))
+	     (s
+	      (1 12 0)))
+	    "Debug Adapter Protocol mode" tar
+	    ((:commit . "d53f000f82ac4ac4edcd1e1fd6c9fb61e63be8fd")
+	     (:authors
+	      ("Ivan Yonchovski" . "yyoncho@gmail.com"))
+	     (:maintainer "Ivan Yonchovski" . "yyoncho@gmail.com")
+	     (:keywords "languages" "debug")
+	     (:url . "https://github.com/yyoncho/dap-mode"))])
  (dactyl-mode .
 	      [(20140906 1025)
 	       nil "Major mode for editing Pentadactyl config files" single
@@ -4076,6 +4109,21 @@
 		   ("Anders Bakken" . "agbakken@gmail.com"))
 		  (:maintainer "Jan Erik Hanssen" . "jhanssen@gmail.com")
 		  (:url . "http://rtags.net"))])
+ (company-reftex .
+		 [(20181222 106)
+		  ((emacs
+		    (25 1))
+		   (s
+		    (1 12))
+		   (company
+		    (0 8)))
+		  "Company backend based on RefTeX." single
+		  ((:commit . "33935e96540201adab43f3a765d62289eba9e286")
+		   (:authors
+		    ("Eivind Fonn" . "evfonn@gmail.com"))
+		   (:maintainer "Eivind Fonn" . "evfonn@gmail.com")
+		   (:keywords "bib" "tex" "company" "latex" "reftex" "references" "labels" "citations")
+		   (:url . "https://github.com/TheBB/company-reftex"))])
  (company-quickhelp .
 		    [(20180525 303)
 		     ((emacs
@@ -4302,6 +4350,19 @@
 	 (:maintainer "Tobias Pisani, Fangrui Song")
 	 (:keywords "languages" "lsp" "c++")
 	 (:url . "https://github.com/MaskRay/emacs-ccls"))])
+ (bui .
+      [(20181218 1030)
+       ((emacs
+	 (24 3))
+	(dash
+	 (2 11 0)))
+       "Buffer interface library" tar
+       ((:commit . "508577a7225b3d07eaefa9444064410af2518675")
+	(:authors
+	 ("Alex Kost" . "alezost@gmail.com"))
+	(:maintainer "Alex Kost" . "alezost@gmail.com")
+	(:keywords "tools")
+	(:url . "https://github.com/alezost/bui.el"))])
  (browse-at-remote .
 		   [(20190213 1129)
 		    ((f
