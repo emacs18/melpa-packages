@@ -1,0 +1,2 @@
+
+(ace-window . [(20190527 651) ((avy (0 2 0))) "Quickly switch windows." single ((:commit . "138a80cbc4e9ed17d3a085a3687f5223a142a9a3") (:authors ("Oleh Krehel" . "ohwoeowho@gmail.com")) (:maintainer "Oleh Krehel" . "ohwoeowho@gmail.com") (:keywords "window" "location") (:url . "https://github.com/abo-abo/ace-window"))])
