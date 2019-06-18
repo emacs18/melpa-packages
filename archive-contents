@@ -1436,6 +1436,13 @@
 	nil "Easy Python test running in Emacs" single
 	((:commit . "194d7789bf797f31ea0adc45f08beb66ae9ea98e")
 	 (:keywords "nose" "python" "testing"))])
+ (nodejs-repl .
+	      [(20181024 954)
+	       nil "Run Node.js REPL" single
+	       ((:commit . "d518947584c8041a36ffa103e2d487d852cd12ee")
+		(:authors
+		 ("Takeshi Arabiki"))
+		(:maintainer "Takeshi Arabiki"))])
  (neotree .
 	  [(20181121 1226)
 	   ((cl-lib
@@ -1699,6 +1706,25 @@
 		  ("Ivan Yonchovski"))
 		 (:maintainer "Ivan Yonchovski")
 		 (:keywords "languages"))])
+ (lsp-python-ms .
+		[(20190614 114)
+		 ((cl-lib
+		   (0 6 1))
+		  (lsp-mode
+		   (6 0))
+		  (python
+		   (0 26 1))
+		  (json
+		   (1 4))
+		  (emacs
+		   (24 4)))
+		 "lsp-mode client for Microsoft python-language-server" single
+		 ((:commit . "809b59a944fb1ac6fe3467dde026d4389dad16ef")
+		  (:authors
+		   ("Charl Botha"))
+		  (:maintainer "Andrew Christianson")
+		  (:keywords "languages" "tools")
+		  (:url . "https://github.com/andrew-christianson/lsp-python-ms"))])
  (lsp-python .
 	     [(20181107 2354)
 	      ((lsp-mode
