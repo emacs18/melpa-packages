@@ -17,21 +17,21 @@
 		  (:maintainer "Jinzhu" . "wosmvp@gmail.com")
 		  (:url . "https://github.com/jinzhu/zeal-at-point"))])
  (yasnippet-snippets .
-		     [(20190513 349)
+		     [(20190714 204)
 		      ((yasnippet
 			(0 8 0)))
 		      "Collection of yasnippet snippets" tar
-		      ((:commit . "15e4b08f7484c049d6b043263c5e09bc73846e32")
+		      ((:commit . "7e94b9e948e16b3b1778aacb05c65e75d81fc188")
 		       (:authors
 			("Andrea Crotti" . "andrea.crotti.0@gmail.com"))
 		       (:maintainer "Andrea Crotti" . "andrea.crotti.0@gmail.com")
 		       (:keywords "snippets"))])
  (yasnippet .
-	    [(20190502 1514)
+	    [(20190630 1020)
 	     ((cl-lib
 	       (0 5)))
 	     "Yet another snippet extension for Emacs." single
-	     ((:commit . "e45e3de357fbd4289fcfa3dd26aaa7be357fb0b8")
+	     ((:commit . "476bc77c34edc9ff24ed39c55ab1b1baa103d39a")
 	      (:maintainer "Noam Postavsky" . "npostavs@gmail.com")
 	      (:keywords "convenience" "emulation")
 	      (:url . "http://github.com/joaotavora/yasnippet"))])
@@ -44,11 +44,11 @@
 	    (:maintainer "Joris Engbers" . "info@jorisengbers.nl")
 	    (:url . "https://github.com/JorisE/yapfify"))])
  (yaml-mode .
-	    [(20180408 2307)
+	    [(20190625 1040)
 	     ((emacs
 	       (24 1)))
 	     "Major mode for editing YAML files" single
-	     ((:commit . "40067a10ac1360f0b9533f0bbbb2eea128e2574d")
+	     ((:commit . "5b4a0db384f996554454b5642e4531c502421de8")
 	      (:authors
 	       ("Yoshiki Kurihara" . "clouder@gmail.com")
 	       ("Marshall T. Vandegrift" . "llasram@gmail.com"))
@@ -125,13 +125,13 @@
 	 (:keywords "lisp")
 	 (:url . "https://github.com/abo-abo/worf"))])
  (with-editor .
-	      [(20190511 457)
+	      [(20190715 1307)
 	       ((emacs
 		 (24 4))
 		(async
 		 (1 9)))
 	       "Use the Emacsclient as $EDITOR" tar
-	       ((:commit . "ff23166feb857e3cfee96cb1c9ef416a224a7e20")
+	       ((:commit . "45c29f9bfb7f2df93426ce1571e2f4f41ed4e492")
 		(:authors
 		 ("Jonas Bernoulli" . "jonas@bernoul.li"))
 		(:maintainer "Jonas Bernoulli" . "jonas@bernoul.li")
@@ -151,7 +151,7 @@
 	  (:keywords "convenience" "frames" "windows" "multi-screen")
 	  (:url . "http://github.com/deb0ch/winum.el"))])
  (window-purpose .
-		 [(20190405 401)
+		 [(20190628 1127)
 		  ((emacs
 		    (24 4))
 		   (let-alist
@@ -159,7 +159,7 @@
 		   (imenu-list
 		    (0 1)))
 		  "Purpose-based window management for Emacs" tar
-		  ((:commit . "fb649bb07de63a70ecdace464eadcaafe01e1995")
+		  ((:commit . "f6421966761ad911fe8861aba2b110c5dd60d1ea")
 		   (:authors
 		    ("Bar Magal"))
 		   (:maintainer "Bar Magal")
@@ -196,21 +196,21 @@
 	  (:keywords "grep" "edit" "extensions")
 	  (:url . "http://github.com/mhayashi1120/Emacs-wgrep/raw/master/wgrep.el"))])
  (websocket .
-	    [(20190611 1647)
+	    [(20190620 1754)
 	     ((cl-lib
 	       (0 5)))
 	     "Emacs WebSocket client and server" single
-	     ((:commit . "53bfd56e12d9d1384b8105aa2a6ea0d7bdacb7da")
+	     ((:commit . "d91a9aef5a3ec5af985e5185c3b237fdd24605e0")
 	      (:authors
 	       ("Andrew Hyatt" . "ahyatt@gmail.com"))
 	      (:maintainer "Andrew Hyatt" . "ahyatt@gmail.com")
 	      (:keywords "communication" "websocket" "server"))])
  (web-mode .
-	   [(20190609 1217)
+	   [(20190625 1251)
 	    ((emacs
 	      (23 1)))
 	    "major mode for editing web templates" single
-	    ((:commit . "97bdc26a97d8433df9a3eff50a61e7290f98ad6b")
+	    ((:commit . "a723d3ecd3606d1c1948871f46fc8c8d7f879fe4")
 	     (:authors
 	      ("François-Xavier Bois <fxbois AT Google Mail Service>"))
 	     (:maintainer "François-Xavier Bois")
@@ -288,20 +288,20 @@
 	    (:maintainer "Kan-Ru Chen" . "koster@debian.org")
 	    (:keywords "extensions" "lisp" "tools"))])
  (use-package .
-	      [(20190529 1340)
+	      [(20190716 1129)
 	       ((emacs
 		 (24 3))
 		(bind-key
 		 (2 4)))
 	       "A configuration macro for simplifying your .emacs" tar
-	       ((:commit . "4aa14a4fcd5ca52b3f1bfcf5ab294173f7bbe390")
+	       ((:commit . "1d5ffb2e0d1427066ced58febbba68c1328bf001")
 		(:authors
 		 ("John Wiegley" . "johnw@newartisans.com"))
 		(:maintainer "John Wiegley" . "johnw@newartisans.com")
 		(:keywords "dotemacs" "startup" "speed" "config" "package")
 		(:url . "https://github.com/jwiegley/use-package"))])
  (typit .
-	[(20181231 2302)
+	[(20190713 636)
 	 ((emacs
 	   (24 4))
 	  (f
@@ -309,18 +309,18 @@
 	  (mmt
 	   (0 1 1)))
 	 "Typing game similar to tests on 10 fast fingers" tar
-	 ((:commit . "50a34a34892d262fb3447c4ae7a5e952094557f0")
+	 ((:commit . "2adb0e0df4689b5abaa89a71808ec7993ecfaf9b")
 	  (:authors
 	   ("Mark Karpov" . "markkarpov92@gmail.com"))
 	  (:maintainer "Mark Karpov" . "markkarpov92@gmail.com")
 	  (:keywords "games")
 	  (:url . "https://github.com/mrkkrp/typit"))])
  (typescript-mode .
-		  [(20190611 330)
+		  [(20190710 1311)
 		   ((emacs
 		     (24 3)))
 		   "Major mode for editing typescript" tar
-		   ((:commit . "c0f11efdfd693aa55a192c8e4a26fc6fcd2c9f90")
+		   ((:commit . "32146510b8ebb031e468c6c0898a9b253c73617e")
 		    (:keywords "typescript" "languages")
 		    (:url . "http://github.com/ananthakumaran/typescript.el"))])
  (treepy .
@@ -359,7 +359,7 @@
 		  (:maintainer "Alexander Miller" . "alexanderm@web.de")
 		  (:url . "https://github.com/Alexander-Miller/treemacs"))])
  (treemacs .
-	   [(20190615 313)
+	   [(20190719 156)
 	    ((emacs
 	      (25 2))
 	     (cl-lib
@@ -379,7 +379,7 @@
 	     (ht
 	      (2 2)))
 	    "A tree style file explorer package" tar
-	    ((:commit . "0c54cb7a001fc573a7ff0d8b69f2c86f744980ee")
+	    ((:commit . "ff635a8ef3707fa31fd98476736f89ea47029fe0")
 	     (:authors
 	      ("Alexander Miller" . "alexanderm@web.de"))
 	     (:maintainer "Alexander Miller" . "alexanderm@web.de")
@@ -393,13 +393,13 @@
 	      (:maintainer nil . "wenbinye@163.com")
 	      (:keywords "help" "convenience" "widget"))])
  (transient .
-	    [(20190528 104)
+	    [(20190630 659)
 	     ((emacs
 	       (25 1))
 	      (dash
 	       (2 15 0)))
 	     "Transient commands" tar
-	     ((:commit . "2eff8d57e851ec7403e5e042147ad2644b336633")
+	     ((:commit . "01a166fcb8bbd9918ba741e9b5428a4b524eab33")
 	      (:authors
 	       ("Jonas Bernoulli" . "jonas@bernoul.li"))
 	      (:maintainer "Jonas Bernoulli" . "jonas@bernoul.li")
@@ -436,7 +436,7 @@
 	 (emacs
 	  (24)))
 	"Tern-powered JavaScript integration" single
-	((:commit . "4ba411719279c62d9c0acd1243a03477ada1ac32")
+	((:commit . "9ddff4ca9bce7f46694b15c51799904ff41131b6")
 	 (:authors
 	  ("Marijn Haverbeke"))
 	 (:maintainer "Marijn Haverbeke")
@@ -473,13 +473,13 @@
 		   (:keywords "faces" "matching")
 		   (:url . "https://github.com/wolray/symbol-overlay/"))])
  (swiper .
-	 [(20190611 158)
+	 [(20190720 953)
 	  ((emacs
 	    (24 1))
 	   (ivy
-	    (0 11 0)))
+	    (0 12 0)))
 	  "Isearch with an overview. Oh, man!" single
-	  ((:commit . "44b2d7d6a8a81d1ed5c2aaa613eabe7e25c0b9a3")
+	  ((:commit . "196b4ea86f979dd6fa4a96299b35c370d026fc69")
 	   (:authors
 	    ("Oleh Krehel" . "ohwoeowho@gmail.com"))
 	   (:maintainer "Oleh Krehel" . "ohwoeowho@gmail.com")
@@ -504,11 +504,11 @@
 		      (:maintainer "akicho8" . "akicho8@gmail.com")
 		      (:keywords "elisp"))])
  (sql-indent .
-	     [(20190607 1549)
+	     [(20190620 242)
 	      ((cl-lib
 		(0 5)))
 	      "Support for indenting code in SQL files." single
-	      ((:commit . "47e9ccbd06b327320a47dd1da778e6797b7608ce")
+	      ((:commit . "08f0417fd739a789991d739be7d524c419558741")
 	       (:authors
 		("Alex Harsanyi" . "AlexHarsanyi@gmail.com"))
 	       (:maintainer "Alex Harsanyi" . "AlexHarsanyi@gmail.com")
@@ -572,13 +572,13 @@
 	     (:maintainer "Syohei YOSHIDA" . "syohex@gmail.com")
 	     (:url . "https://github.com/syohex/emacs-smeargle"))])
  (smartparens .
-	      [(20190522 1534)
+	      [(20190622 1050)
 	       ((dash
 		 (2 13 0))
 		(cl-lib
 		 (0 3)))
 	       "Automatic insertion, wrapping and paredit-like navigation with user defined pairs." tar
-	       ((:commit . "046440700f292c90c4a992f959c8d6725aa9a3bc"))])
+	       ((:commit . "04dd4eefa4ed6e13e1c9045b873b0a8b25a9f91d"))])
  (slim-mode .
 	    [(20170728 648)
 	     nil "Major mode for editing Slim files" single
@@ -699,14 +699,25 @@
       (:maintainer "Magnar Sveen" . "magnars@gmail.com")
       (:keywords "strings"))])
  (rtags .
-	[(20190410 915)
+	[(20190621 1306)
 	 nil "A front-end for rtags" single
-	 ((:commit . "42bd740119e4cdfb8caa367aefa5f27ed44536d4")
+	 ((:commit . "3c071313d743b07a2ea4a02655f23cdc7010f0c2")
 	  (:authors
 	   ("Jan Erik Hanssen" . "jhanssen@gmail.com")
 	   ("Anders Bakken" . "agbakken@gmail.com"))
 	  (:maintainer "Jan Erik Hanssen" . "jhanssen@gmail.com")
 	  (:url . "http://rtags.net"))])
+ (rmsbolt .
+	  [(20190507 2309)
+	   ((emacs
+	     (25 1)))
+	   "A compiler output viewer" tar
+	   ((:commit . "fcefc0509dd0a4ec2e02020c83e1c4a1101ef903")
+	    (:authors
+	     ("Jay Kamat" . "jaygkamat@gmail.com"))
+	    (:maintainer "Jay Kamat" . "jaygkamat@gmail.com")
+	    (:keywords "compilation" "tools")
+	    (:url . "http://gitlab.com/jgkamat/rmsbolt"))])
  (restart-emacs .
 		[(20180601 331)
 		 nil "Restart emacs from within emacs" single
@@ -723,23 +734,23 @@
 		     (request
 		      (0 2 0)))
 		    "Wrap request.el by deferred" single
-		    ((:commit . "db88fd21d25399ff9940c208173665b12493992b")
+		    ((:commit . "ef9f509b5579f2b529a20e43f7e0f061e641fec5")
 		     (:authors
 		      ("Takafumi Arakaki <aka.tkf at gmail.com>"))
 		     (:maintainer "Takafumi Arakaki <aka.tkf at gmail.com>")
 		     (:url . "https://github.com/tkf/emacs-request"))])
  (request .
-	  [(20181129 338)
+	  [(20190621 922)
 	   ((emacs
 	     (24 4)))
 	   "Compatible layer for URL request in Emacs" single
-	   ((:commit . "db88fd21d25399ff9940c208173665b12493992b")
+	   ((:commit . "ef9f509b5579f2b529a20e43f7e0f061e641fec5")
 	    (:authors
 	     ("Takafumi Arakaki <aka.tkf at gmail.com>"))
 	    (:maintainer "Takafumi Arakaki <aka.tkf at gmail.com>")
 	    (:url . "https://github.com/tkf/emacs-request"))])
  (realgud .
-	  [(20190603 1457)
+	  [(20190715 1628)
 	   ((load-relative
 	     (1 3 1))
 	    (loc-changes
@@ -749,7 +760,7 @@
 	    (emacs
 	     (25)))
 	   "A modular front-end for interacting with external debuggers" tar
-	   ((:commit . "3c949225001d6d903622c4a5bed792bfb6ca6796")
+	   ((:commit . "53938f04d5252677484e5c48513e1c138aafc756")
 	    (:authors
 	     ("Rocky Bernstein" . "rocky@gnu.org"))
 	    (:maintainer "Rocky Bernstein" . "rocky@gnu.org")
@@ -796,7 +807,7 @@
 	   (:keywords "python" "virtualenv" "tools")
 	   (:url . "http://github.com/jorgenschaefer/pyvenv"))])
  (pythonic .
-	   [(20190214 1016)
+	   [(20190714 29)
 	    ((emacs
 	      (25))
 	     (s
@@ -804,7 +815,7 @@
 	     (f
 	      (0 17 2)))
 	    "Utility functions for writing pythonic emacs package." single
-	    ((:commit . "16c16202b76d33edd6a95814b2a9c298437f9832")
+	    ((:commit . "69b812c87236c4d86fed11a743867af4b91f0ad3")
 	     (:authors
 	      ("Artem Malyshev" . "proofit404@gmail.com"))
 	     (:maintainer "Artem Malyshev" . "proofit404@gmail.com")
@@ -853,20 +864,20 @@
 	     (:keywords "markup" "language" "jade" "pug")
 	     (:url . "https://github.com/hlissner/emacs-pug-mode"))])
  (projectile .
-	     [(20190603 2330)
+	     [(20190626 615)
 	      ((emacs
 		(25 1))
 	       (pkg-info
 		(0 4)))
 	      "Manage and navigate projects in Emacs easily" single
-	      ((:commit . "fd85829ef2bdb8b2c183ea1b3ccfd50925824d78")
+	      ((:commit . "71a01f409a319d57eb3832e93e8a412fbc9d7a65")
 	       (:authors
 		("Bozhidar Batsov" . "bozhidar@batsov.com"))
 	       (:maintainer "Bozhidar Batsov" . "bozhidar@batsov.com")
 	       (:keywords "project" "convenience")
 	       (:url . "https://github.com/bbatsov/projectile"))])
  (pretty-hydra .
-	       [(20190530 1353)
+	       [(20190715 237)
 		((hydra
 		  (0 15 0))
 		 (s
@@ -878,7 +889,7 @@
 		 (emacs
 		  (24)))
 		"A macro for creating nice-looking hydras" single
-		((:commit . "a93eb369e0ffd553f1fe9da2cdb7cee2edd02206")
+		((:commit . "854827d0585a4fc9310708bfae2514957f4dc341")
 		 (:authors
 		  ("Jerry Peng" . "pr2jerry@gmail.com"))
 		 (:maintainer "Jerry Peng" . "pr2jerry@gmail.com")
@@ -893,7 +904,7 @@
 		(:keywords "convenience" "wp" "edit" "js")
 		(:url . "https://github.com/prettier/prettier-emacs"))])
  (powerthesaurus .
-		 [(20180719 208)
+		 [(20190623 1317)
 		  ((emacs
 		    (24))
 		   (request
@@ -901,7 +912,7 @@
 		   (s
 		    (1 12 0)))
 		  "Powerthesaurus integration" single
-		  ((:commit . "ab39b050e801934872f3dcaa60b50b0d30ecf367")
+		  ((:commit . "961624939123957874498e3a2eaad2cf25025c51")
 		   (:keywords "convenience" "writing")
 		   (:url . "http://github.com/SavchenkoValeriy/emacs-powerthesaurus"))])
  (powerline .
@@ -1061,7 +1072,7 @@
 		   (with-editor
 		    (2 5 11)))
 		  "Password store (pass) support" single
-		  ((:commit . "ee9faa9df54555337738dfd88b355e23fbef6a30")
+		  ((:commit . "c22cdbd4674a25dec71fe42ec1ef0b4829b6c7f3")
 		   (:authors
 		    ("Svend Sorensen" . "svend@svends.net"))
 		   (:maintainer "Svend Sorensen" . "svend@svends.net")
@@ -1092,7 +1103,7 @@
 	    (:maintainer "Taylor R. Campbell" . "campbell+paredit@mumble.net")
 	    (:keywords "lisp"))])
  (paradox .
-	  [(20190429 457)
+	  [(20190623 1741)
 	   ((emacs
 	     (24 4))
 	    (seq
@@ -1104,7 +1115,7 @@
 	    (hydra
 	     (0 13 2)))
 	   "A modern Packages Menu. Colored, with package ratings, and customizable." tar
-	   ((:commit . "906cf2a944c3ef0cd7bf08dc76ec5049e461f5d6")
+	   ((:commit . "1b9e4b198e0a02773b52f6fe4fd03a82340c6cbc")
 	    (:authors
 	     ("Artur Malabarba" . "emacs@endlessparentheses.com"))
 	    (:maintainer "Artur Malabarba" . "emacs@endlessparentheses.com")
@@ -1162,11 +1173,11 @@
        (:maintainer "Gareth Rees" . "gdr@garethrees.org")
        (:url . "https://github.com/gareth-rees/p4.el"))])
  (ox-reveal .
-	    [(20190615 920)
+	    [(20190718 925)
 	     ((org
 	       (8 3)))
 	     "reveal.js Presentation Back-End for Org Export Engine" single
-	     ((:commit . "30086c4a0881bdf2248b1a59b69e92353fe02367")
+	     ((:commit . "6434b3114354f75c62add9d020601437812fa08b")
 	      (:authors
 	       ("Yujie Wen <yjwen.ty at gmail dot com>"))
 	      (:maintainer "Yujie Wen <yjwen.ty at gmail dot com>")
@@ -1196,25 +1207,25 @@
 	     (:maintainer "Samuel Tonini" . "tonini.samuel@gmail.com")
 	     (:url . "http://www.github.com/tonini/overseer.el"))])
  (outshine .
-	   [(20190313 453)
+	   [(20190717 447)
 	    ((outorg
 	      (2 0))
 	     (cl-lib
 	      (0 5)))
 	    "outline with outshine outshines outline" tar
-	    ((:commit . "c3bfa4aa72dcbceabd552345b58a9100805ec6ef")
+	    ((:commit . "4c6107da8fd6119ba1b2379cd2f68c8c7374e8d5")
 	     (:authors
 	      ("Thorsten Jolitz"))
 	     (:maintainer "Thibault Polge" . "thibault@thb.lt")
 	     (:keywords "convenience" "outlines" "org")
 	     (:url . "https://github.com/alphapapa/outshine"))])
  (outorg .
-	 [(20181224 121)
+	 [(20190720 1302)
 	  ((emacs
 	    (24 4)))
 	  "Org-style comment editing" single
-	  ((:commit . "91065d2c1700e8da0ca360373391f1d8741128e6")
-	   (:maintainer "Adam Porter")
+	  ((:commit . "ef0f86f4b893b30be8bcf8b43a5ec357a6c70f07")
+	   (:maintainer "Adam Porter" . "adam@alphapapa.net")
 	   (:url . "https://github.com/alphapapa/outorg"))])
  (osx-lib .
 	  [(20160919 1700)
@@ -1227,7 +1238,7 @@
 	    (:maintainer "Raghav Kumar Gautam" . "raghav@apache.org")
 	    (:keywords "apple" "applescript" "osx" "finder" "emacs" "elisp" "vpn" "speech"))])
  (orgit .
-	[(20190417 1024)
+	[(20190717 826)
 	 ((emacs
 	   (25 1))
 	  (dash
@@ -1235,9 +1246,9 @@
 	  (magit
 	   (2 90 0))
 	  (org
-	   (8 3 3)))
+	   (9 3)))
 	 "support for Org links to Magit buffers" single
-	 ((:commit . "d7e773e1b60f61c858bacd0e9bf01e66904433b4")
+	 ((:commit . "1e578f8cf97b07835f02858f05a094ae9a5e99bb")
 	  (:authors
 	   ("Jonas Bernoulli" . "jonas@bernoul.li"))
 	  (:maintainer "Jonas Bernoulli" . "jonas@bernoul.li")
@@ -1336,13 +1347,13 @@
 		(:maintainer "Markus Hauck" . "markus1189@gmail.com")
 		(:keywords "org" "pdf-view" "pdf-tools"))])
  (org-mime .
-	   [(20190513 637)
+	   [(20190702 429)
 	    ((emacs
 	      (24 4))
 	     (cl-lib
 	      (0 5)))
 	    "org html export for text/html MIME emails" single
-	    ((:commit . "95c33ec35339477f24daa1a43cf6f155e2a64e85")
+	    ((:commit . "286330fa15167add4b17eb62b0c52695f08a76e8")
 	     (:authors
 	      ("Eric Schulte"))
 	     (:maintainer "Chen Bin (redguardtoo)")
@@ -1454,14 +1465,14 @@
 	    (:maintainer "jaypei" . "jaypei97159@gmail.com")
 	    (:url . "https://github.com/jaypei/emacs-neotree"))])
  (navi-mode .
-	    [(20190101 1723)
+	    [(20190720 1303)
 	     ((outshine
 	       (2 0))
 	      (outorg
 	       (2 0)))
 	     "major-mode for easy buffer-navigation" single
-	     ((:commit . "d3b66180e93e009c1bae352a7e74edf58f81487e")
-	      (:maintainer "Adam Porter")
+	     ((:commit . "7eb7cf0c4a6ee537ec462f5ec90f00d12e3ca9c2")
+	      (:maintainer "Adam Porter" . "adam@alphapapa.net")
 	      (:url . "https://github.com/alphapapa/navi"))])
  (nameless .
 	   [(20190429 502)
@@ -1556,7 +1567,7 @@
 		      (:keywords "minor-mode" "manage" "emacs")
 		      (:url . "https://github.com/ShingoFukuyama/manage-minor-mode"))])
  (major-mode-hydra .
-		   [(20190226 1946)
+		   [(20190715 237)
 		    ((dash
 		      (2 15 0))
 		     (pretty-hydra
@@ -1564,7 +1575,7 @@
 		     (emacs
 		      (25)))
 		    "Major mode keybindings managed by Hydra" single
-		    ((:commit . "a93eb369e0ffd553f1fe9da2cdb7cee2edd02206")
+		    ((:commit . "854827d0585a4fc9310708bfae2514957f4dc341")
 		     (:authors
 		      ("Jerry Peng" . "pr2jerry@gmail.com"))
 		     (:maintainer "Jerry Peng" . "pr2jerry@gmail.com")
@@ -1631,7 +1642,7 @@
 		  (:keywords "vc" "tools")
 		  (:url . "https://github.com/jtatarik/magit-gitflow"))])
  (magit .
-	[(20190609 724)
+	[(20190715 1104)
 	 ((emacs
 	   (25 1))
 	  (async
@@ -1645,7 +1656,7 @@
 	  (with-editor
 	   (20181103)))
 	 "A Git porcelain inside Emacs." tar
-	 ((:commit . "0984d77fbdae0fe85b38dd27036318212b9a1e5d")
+	 ((:commit . "a26862d4149c8c017432b33f0b365bf8799d2e18")
 	  (:keywords "git" "tools" "vc"))])
  (macrostep .
 	    [(20161120 1306)
@@ -1737,7 +1748,7 @@
 	       (:maintainer "Vibhav Pant" . "vibhavp@gmail.com")
 	       (:url . "https://github.com/emacs-lsp/lsp-python"))])
  (lsp-mode .
-	   [(20190615 649)
+	   [(20190720 814)
 	    ((emacs
 	      (25 1))
 	     (dash
@@ -1753,7 +1764,7 @@
 	     (markdown-mode
 	      (2 3)))
 	    "LSP mode" tar
-	    ((:commit . "432a563fcac6d59de2009f335d653724e0aca58a")
+	    ((:commit . "3000d437ea95933304a47a9b06cd98903ca11781")
 	     (:authors
 	      ("Vibhav Pant, Fangrui Song, Ivan Yonchovski"))
 	     (:maintainer "Vibhav Pant, Fangrui Song, Ivan Yonchovski")
@@ -1818,28 +1829,28 @@
 		((emacs
 		  (24 3)))
 		"Live Coding in Python" tar
-		((:commit . "0e8c415502c30704db4068702d9dd45821eec723")
+		((:commit . "4c378e4afdffb09ab3ca338d3b37d9a2b69d9584")
 		 (:authors
 		  ("Don Kirkby http://donkirkby.github.io"))
 		 (:maintainer "Don Kirkby http://donkirkby.github.io")
 		 (:keywords "live" "coding")
 		 (:url . "http://donkirkby.github.io/live-py-plugin/"))])
  (lispy .
-	[(20190608 450)
+	[(20190717 634)
 	 ((emacs
 	   (24 3))
 	  (ace-window
 	   (0 9 0))
 	  (iedit
 	   (0 9 9))
-	  (swiper
+	  (counsel
 	   (0 11 0))
 	  (hydra
 	   (0 14 0))
 	  (zoutline
 	   (0 1 0)))
 	 "vi-like Paredit" tar
-	 ((:commit . "8a8328ea94009a008f678da5f45f7553d31cf533"))])
+	 ((:commit . "3c136314b6ddebd08135ecd8750cd1212661c538"))])
  (linum-relative .
 		 [(20180124 247)
 		  nil "display relative line number in emacs." single
@@ -1850,7 +1861,7 @@
 		   (:keywords "converience")
 		   (:url . "http://github.com/coldnew/linum-relative"))])
  (link-hint .
-	    [(20190312 1604)
+	    [(20190718 1842)
 	     ((avy
 	       (0 4 0))
 	      (emacs
@@ -1858,10 +1869,10 @@
 	      (cl-lib
 	       (0 5)))
 	     "Use avy to open, copy, etc. visible links." single
-	     ((:commit . "d74a483652486260c052941fedeadddb1ea71f88")
+	     ((:commit . "2384d309e17ed0e574e3c1ec937f05d76864ab07")
 	      (:authors
-	       ("Fox Kiester" . "noct@openmailbox.org"))
-	      (:maintainer "Fox Kiester" . "noct@openmailbox.org")
+	       ("Fox Kiester" . "noct@posteo.net"))
+	      (:maintainer "Fox Kiester" . "noct@posteo.net")
 	      (:keywords "convenience" "url" "avy" "link" "links" "hyperlink")
 	      (:url . "https://github.com/noctuid/link-hint.el"))])
  (levenshtein .
@@ -1934,7 +1945,7 @@
 	      (:maintainer "Josh Johnston")
 	      (:url . "https://github.com/joshwnj/json-mode"))])
  (js2-refactor .
-	       [(20180502 342)
+	       [(20190630 1408)
 		((js2-mode
 		  (20101228))
 		 (s
@@ -1948,7 +1959,7 @@
 		 (yasnippet
 		  (0 9 0 1)))
 		"A JavaScript refactoring library for emacs." tar
-		((:commit . "79124b3274c43ad1f9ec6205fa362576552db02f"))])
+		((:commit . "d4c40b5fc86d3edd7c6a7d83ac86483ee1cb7a28"))])
  (js2-mode .
 	   [(20190606 308)
 	    ((emacs
@@ -2011,7 +2022,7 @@
 	      (rtags
 	       (2 10)))
 	     "RTags completion back-end for ivy" single
-	     ((:commit . "42bd740119e4cdfb8caa367aefa5f27ed44536d4")
+	     ((:commit . "3c071313d743b07a2ea4a02655f23cdc7010f0c2")
 	      (:authors
 	       ("Jan Erik Hanssen" . "jhanssen@gmail.com")
 	       ("Anders Bakken" . "agbakken@gmail.com"))
@@ -2032,26 +2043,26 @@
 		(:maintainer "Bar Magal (2016)")
 		(:url . "https://github.com/bmag/ivy-purpose"))])
  (ivy-hydra .
-	    [(20190328 845)
+	    [(20190720 953)
 	     ((emacs
 	       (24 1))
 	      (ivy
-	       (0 11 0))
+	       (0 12 0))
 	      (hydra
 	       (0 13 4)))
 	     "Additional key bindings for Ivy" single
-	     ((:commit . "44b2d7d6a8a81d1ed5c2aaa613eabe7e25c0b9a3")
+	     ((:commit . "196b4ea86f979dd6fa4a96299b35c370d026fc69")
 	      (:authors
 	       ("Oleh Krehel" . "ohwoeowho@gmail.com"))
 	      (:maintainer "Oleh Krehel" . "ohwoeowho@gmail.com")
 	      (:keywords "convenience")
 	      (:url . "https://github.com/abo-abo/swiper"))])
  (ivy .
-      [(20190613 839)
+      [(20190720 953)
        ((emacs
 	 (24 1)))
        "Incremental Vertical completYon" tar
-       ((:commit . "44b2d7d6a8a81d1ed5c2aaa613eabe7e25c0b9a3")
+       ((:commit . "196b4ea86f979dd6fa4a96299b35c370d026fc69")
 	(:authors
 	 ("Oleh Krehel" . "ohwoeowho@gmail.com"))
 	(:maintainer "Oleh Krehel" . "ohwoeowho@gmail.com")
@@ -2073,13 +2084,13 @@
 		(:keywords "c" "c++" "objc" "convenience" "tools")
 		(:url . "https://github.com/ikirill/irony-eldoc"))])
  (irony .
-	[(20190516 1648)
+	[(20190703 1032)
 	 ((cl-lib
 	   (0 5))
 	  (json
 	   (1 2)))
 	 "C/C++ minor mode powered by libclang" tar
-	 ((:commit . "c3ae899b61124a747ebafc705086345e460ac08e")
+	 ((:commit . "c7cca52b197babd023fd4745704ae4b695af0d10")
 	  (:authors
 	   ("Guillaume Papin" . "guillaume.papin@epitech.eu"))
 	  (:maintainer "Guillaume Papin" . "guillaume.papin@epitech.eu")
@@ -2173,20 +2184,20 @@
 		      (:keywords "convenience")
 		      (:url . "https://github.com/creichert/ido-vertical-mode.el"))])
  (hydra .
-	[(20190525 117)
+	[(20190617 159)
 	 ((cl-lib
 	   (0 5))
 	  (lv
 	   (0)))
 	 "Make bindings that stick around." tar
-	 ((:commit . "a2bb124a3f2e57c032fc264bcd08219fa3d513d9")
+	 ((:commit . "a91dd72529aadd2d3cc14e132a3e0545eb2975a6")
 	  (:authors
 	   ("Oleh Krehel" . "ohwoeowho@gmail.com"))
 	  (:maintainer "Oleh Krehel" . "ohwoeowho@gmail.com")
 	  (:keywords "bindings")
 	  (:url . "https://github.com/abo-abo/hydra"))])
  (hy-mode .
-	  [(20190611 1245)
+	  [(20190620 1104)
 	   ((dash
 	     (2 13 0))
 	    (dash-functional
@@ -2196,7 +2207,7 @@
 	    (emacs
 	     (24)))
 	   "Major mode for Hylang" tar
-	   ((:commit . "f483c5bd16fe2f2453bc4ef1ddb2fdfd4ba78ba0")
+	   ((:commit . "8699b744c03e0399c049757b7819d69768cac3bc")
 	    (:keywords "languages" "lisp" "python")
 	    (:url . "http://github.com/hylang/hy-mode"))])
  (hungry-delete .
@@ -2226,11 +2237,11 @@
        (:maintainer "Wilfred Hughes" . "me@wilfred.me.uk")
        (:keywords "hash table" "hash map" "hash"))])
  (hl-todo .
-	  [(20190415 1600)
+	  [(20190720 447)
 	   ((emacs
 	     (25)))
 	   "highlight TODO and similar keywords" single
-	   ((:commit . "804155bdaaf24d5d0c17c50191211fe2346c9609")
+	   ((:commit . "3010adfe09ee64cf403c2c7806581e5ea6823d05")
 	    (:authors
 	     ("Jonas Bernoulli" . "jonas@bernoul.li"))
 	    (:maintainer "Jonas Bernoulli" . "jonas@bernoul.li")
@@ -2347,7 +2358,7 @@
 	       (rtags
 		(2 10)))
 	      "A front-end for rtags" single
-	      ((:commit . "42bd740119e4cdfb8caa367aefa5f27ed44536d4")
+	      ((:commit . "3c071313d743b07a2ea4a02655f23cdc7010f0c2")
 	       (:authors
 		("Jan Erik Hanssen" . "jhanssen@gmail.com")
 		("Anders Bakken" . "agbakken@gmail.com"))
@@ -2380,7 +2391,7 @@
 		 (:maintainer "Bar Magal (2016)")
 		 (:url . "https://github.com/bmag/helm-purpose"))])
  (helm-projectile .
-		  [(20190408 808)
+		  [(20190719 1436)
 		   ((helm
 		     (1 9 9))
 		    (projectile
@@ -2388,7 +2399,7 @@
 		    (cl-lib
 		     (0 3)))
 		   "Helm integration for Projectile" single
-		   ((:commit . "38d72b6b661234088bae9f3c2b3c18228a3c0564")
+		   ((:commit . "277028889cfdddaf508c9137e607b0394edac851")
 		    (:authors
 		     ("Bozhidar Batsov"))
 		    (:maintainer "Bozhidar Batsov")
@@ -2424,9 +2435,9 @@
 		      (:maintainer "istib")
 		      (:url . "https://github.com/istib/helm-mode-manager"))])
  (helm-make .
-	    [(20190518 1246)
+	    [(20190630 906)
 	     nil "Select a Makefile target with helm" single
-	     ((:commit . "8eabcaf29102f5ab07543f627af5d75178c86d10")
+	     ((:commit . "4a1a21ddfbf09887d1d5a2dd94e5bf111e151e25")
 	      (:authors
 	       ("Oleh Krehel" . "ohwoeowho@gmail.com"))
 	      (:maintainer "Oleh Krehel" . "ohwoeowho@gmail.com")
@@ -2569,13 +2580,13 @@
 		  (:keywords "scss" "css" "less" "selector" "helm")
 		  (:url . "https://github.com/ShingoFukuyama/helm-css-scss"))])
  (helm-core .
-	    [(20190601 2326)
+	    [(20190715 334)
 	     ((emacs
 	       (24 4))
 	      (async
 	       (1 9 3)))
 	     "Development files for Helm" tar
-	     ((:commit . "08e6770471d7a6b056aadee4cb2699a8d64a6f13")
+	     ((:commit . "12c50cf2a3748f44eb8c8ccad89ebd6e63fe99f6")
 	      (:url . "https://emacs-helm.github.io/helm/"))])
  (helm-company .
 	       [(20190522 2018)
@@ -2616,7 +2627,7 @@
 	    (:maintainer "Syohei YOSHIDA" . "syohex@gmail.com")
 	    (:url . "https://github.com/syohex/emacs-helm-ag"))])
  (helm .
-       [(20190612 13)
+       [(20190716 2250)
 	((emacs
 	  (24 4))
 	 (async
@@ -2626,7 +2637,7 @@
 	 (helm-core
 	  (3 0)))
 	"Helm is an Emacs incremental and narrowing framework" tar
-	((:commit . "08e6770471d7a6b056aadee4cb2699a8d64a6f13")
+	((:commit . "12c50cf2a3748f44eb8c8ccad89ebd6e63fe99f6")
 	 (:url . "https://emacs-helm.github.io/helm/"))])
  (haml-mode .
 	    [(20190219 1302)
@@ -2684,9 +2695,9 @@
 	     (:keywords "convenience" "matching")
 	     (:url . "https://github.com/emacs-evil/goto-chg"))])
  (google-translate .
-		   [(20190206 429)
+		   [(20190620 716)
 		    nil "Emacs interface to Google Translate." tar
-		    ((:commit . "bf119aac424994d2aa91fce9630adc01ed0ea617"))])
+		    ((:commit . "dc118de511c433750d4c98b9dd67350118c04fd6"))])
  (google-c-style .
 		 [(20180130 936)
 		  nil "Google's C/C++ style for c-mode" single
@@ -2893,7 +2904,7 @@
 		(:keywords "git" "vc")
 		(:url . "https://github.com/nonsequitur/git-gutter-plus"))])
  (git-commit .
-	     [(20190501 1123)
+	     [(20190716 1729)
 	      ((emacs
 		(25 1))
 	       (dash
@@ -2901,7 +2912,7 @@
 	       (with-editor
 		(20181103)))
 	      "Edit Git commit messages" single
-	      ((:commit . "0984d77fbdae0fe85b38dd27036318212b9a1e5d")
+	      ((:commit . "a26862d4149c8c017432b33f0b365bf8799d2e18")
 	       (:maintainer "Jonas Bernoulli" . "jonas@bernoul.li")
 	       (:keywords "git" "tools" "vc")
 	       (:url . "https://github.com/magit/magit"))])
@@ -2919,7 +2930,7 @@
 	 (:keywords "tools")
 	 (:url . "https://github.com/defunkt/gist.el"))])
  (ghub .
-       [(20190613 2332)
+       [(20190710 1514)
 	((emacs
 	  (25 1))
 	 (dash
@@ -2929,7 +2940,7 @@
 	 (treepy
 	  (0 1 1)))
 	"Minuscule client libraries for Git forge APIs." tar
-	((:commit . "2b196577d463b5685decca1d4fa20e2858725a25"))])
+	((:commit . "a8191c6a63dfa630af418105b58434266859d21b"))])
  (gh-md .
 	[(20151207 940)
 	 ((emacs
@@ -3071,7 +3082,7 @@
 		   (rtags
 		    (2 10)))
 		  "RTags Flycheck integration." single
-		  ((:commit . "42bd740119e4cdfb8caa367aefa5f27ed44536d4")
+		  ((:commit . "3c071313d743b07a2ea4a02655f23cdc7010f0c2")
 		   (:authors
 		    ("Christian Schwarzgruber" . "c.schwarzgruber.cs@gmail.com"))
 		   (:maintainer "Christian Schwarzgruber" . "c.schwarzgruber.cs@gmail.com")
@@ -3133,7 +3144,7 @@
 		     (:maintainer "Alex Murray" . "murray.alex@gmail.com")
 		     (:url . "https://github.com/alexmurray/flycheck-bashate"))])
  (flycheck .
-	   [(20190612 945)
+	   [(20190709 743)
 	    ((dash
 	      (2 12 1))
 	     (pkg-info
@@ -3145,7 +3156,7 @@
 	     (emacs
 	      (24 3)))
 	    "On-the-fly syntax checking" tar
-	    ((:commit . "bd8a93240aee78e90c83a54ab3799ff4d02f9f15")
+	    ((:commit . "1555b185ab2b5f1ec99536a641fff545fd8aa6bf")
 	     (:authors
 	      ("Sebastian Wiesner" . "swiesner@lunaryorn.com"))
 	     (:maintainer "Clément Pit-Claudel" . "clement.pitclaudel@live.com")
@@ -3329,11 +3340,11 @@
 		 (:keywords "numbers" "increment" "decrement" "octal" "hex" "binary")
 		 (:url . "http://github.com/cofi/evil-numbers"))])
  (evil-nerd-commenter .
-		      [(20190407 128)
+		      [(20190623 1917)
 		       ((emacs
 			 (24 4)))
 		       "Comment/uncomment lines efficiently. Like Nerd Commenter in Vim" tar
-		       ((:commit . "acc0f75cde9e4ffd946f7835c3b388fb77f633a7")
+		       ((:commit . "27d8fe0bf0111d13dbc6c3fdde95ef4e2f2733ef")
 			(:authors
 			 ("Chen Bin" . "chenbin.sh@gmail.com"))
 			(:maintainer "Chen Bin" . "chenbin.sh@gmail.com")
@@ -3355,26 +3366,26 @@
 	    (:keywords "evil" "editing" "multiple-cursors" "vim" "evil-multiple-cursors" "evil-mc" "evil-mc")
 	    (:url . "https://github.com/gabesoft/evil-mc"))])
  (evil-matchit .
-	       [(20190606 1912)
+	       [(20190710 512)
 		((evil
 		  (1 2 0))
 		 (emacs
 		  (24 4)))
 		"Vim matchit ported to Evil" tar
-		((:commit . "8fa4c1390d82036f9d51750eb6d3f054785cb396")
+		((:commit . "7bee6fad805ff98eb3163fb4386e5a176d6a6d9e")
 		 (:authors
 		  ("Chen Bin" . "chenbin.sh@gmail.com"))
 		 (:maintainer "Chen Bin" . "chenbin.sh@gmail.com")
 		 (:keywords "matchit" "vim" "evil")
 		 (:url . "http://github.com/redguardtoo/evil-matchit"))])
  (evil-magit .
-	     [(20190224 1228)
+	     [(20190619 1853)
 	      ((evil
 		(1 2 3))
 	       (magit
 		(2 6 0)))
 	      "evil-based key bindings for magit" single
-	      ((:commit . "e2fec5877994c0c19f0c25fa01f3d22cb0ab38ba")
+	      ((:commit . "6a32e4359cbd2803bafb7134cb6df312644ac986")
 	       (:authors
 		("Justin Burkett" . "justin@burkett.cc"))
 	       (:maintainer "Justin Burkett" . "justin@burkett.cc")
@@ -3594,11 +3605,11 @@
 	(:keywords "lisp" "rpc")
 	(:url . "https://github.com/kiwanami/emacs-epc"))])
  (emms .
-       [(20190529 1011)
+       [(20190620 826)
 	((cl-lib
 	  (0 5)))
 	"The Emacs Multimedia System" tar
-	((:commit . "f7e27094f09432b40ced77c7163cd29f338b7db6")
+	((:commit . "e70459caaadeb715116abb45ddf5e98921d46c14")
 	 (:authors
 	  ("Jorgen Schäfer" . "forcer@forcix.cx"))
 	 (:maintainer "Jorgen Schäfer" . "forcer@forcix.cx")
@@ -3620,17 +3631,17 @@
 		   (emacsql
 		    (2 0 0)))
 		  "EmacSQL back-end for SQLite" tar
-		  ((:commit . "d5c37d905d133a3887bc582e4a0126671816beaa")
+		  ((:commit . "488e7ebbb523713c787f7113e73df82e86cc2bb2")
 		   (:authors
 		    ("Christopher Wellons" . "wellons@nullprogram.com"))
 		   (:maintainer "Christopher Wellons" . "wellons@nullprogram.com")
 		   (:url . "https://github.com/skeeto/emacsql"))])
  (emacsql .
-	  [(20190310 622)
+	  [(20190625 1159)
 	   ((emacs
 	     (25 1)))
 	   "high-level SQL database front-end" tar
-	   ((:commit . "d5c37d905d133a3887bc582e4a0126671816beaa")
+	   ((:commit . "488e7ebbb523713c787f7113e73df82e86cc2bb2")
 	    (:authors
 	     ("Christopher Wellons" . "wellons@nullprogram.com"))
 	    (:maintainer "Christopher Wellons" . "wellons@nullprogram.com")
@@ -3646,12 +3657,23 @@
 		    (:maintainer "Steve Purcell" . "steve@sanityinc.com")
 		    (:keywords "navigation" "slime" "elisp" "emacs-lisp")
 		    (:url . "https://github.com/purcell/elisp-slime-nav"))])
+ (elisp-demos .
+	      [(20190626 912)
+	       ((emacs
+		 (24 4)))
+	       "Elisp API Demos" tar
+	       ((:commit . "68c48cacd46391889c42b08ba75469afffbf541d")
+		(:authors
+		 ("Xu Chunyang" . "mail@xuchunyang.me"))
+		(:maintainer "Xu Chunyang" . "mail@xuchunyang.me")
+		(:keywords "lisp" "docs")
+		(:url . "https://github.com/xuchunyang/elisp-demos"))])
  (elfeed .
-	 [(20190514 1025)
+	 [(20190701 1817)
 	  ((emacs
 	    (24 3)))
 	  "an Emacs Atom/RSS feed reader" tar
-	  ((:commit . "fd539da2da94ab4794fd69247ce06deca7aa66bf"))])
+	  ((:commit . "d705df2a1344c79cfa0199b64e10d02563cd18cd"))])
  (eldoc-eval .
 	     [(20190423 1158)
 	      nil "Enable eldoc support when minibuffer is in use." single
@@ -3660,15 +3682,15 @@
 		("Thierry Volpiatto" . "thierry.volpiatto@gmail.com"))
 	       (:maintainer "Thierry Volpiatto" . "thierry.volpiatto@gmail.com"))])
  (ein .
-      [(20190611 529)
+      [(20190702 530)
        ((emacs
 	 (25))
 	(websocket
-	 (1 7))
+	 (20190620 338))
 	(auto-complete
 	 (1 4 0))
 	(request
-	 (0 3))
+	 (20190621 1622))
 	(deferred
 	  (0 5))
 	(polymode
@@ -3682,15 +3704,15 @@
 	(skewer-mode
 	 (1 6 2)))
        "Emacs IPython Notebook" tar
-       ((:commit . "27e9b8c9c4da24b499db32d06a18adf3a2c53efd"))])
+       ((:commit . "fbf6664c330034f3553589e22af220c5a1558c01"))])
  (editorconfig .
-	       [(20190603 424)
+	       [(20190702 2036)
 		((cl-lib
 		  (0 5))
 		 (emacs
 		  (24)))
 		"EditorConfig Emacs Plugin" tar
-		((:commit . "efc1ff4b1c3422d6e231b1c01138becab4b9eded")
+		((:commit . "f24f651245344f5f97c348246ce035843419b322")
 		 (:authors
 		  ("EditorConfig Team" . "editorconfig@googlegroups.com"))
 		 (:maintainer "EditorConfig Team" . "editorconfig@googlegroups.com")
@@ -3724,7 +3746,7 @@
 		(:maintainer "Preetpal S. Sohal")
 		(:url . "https://github.com/preetpalS/emacs-dotenv-mode"))])
  (doom-modeline .
-		[(20190614 127)
+		[(20190720 235)
 		 ((emacs
 		   (25 1))
 		  (all-the-icons
@@ -3734,7 +3756,7 @@
 		  (dash
 		   (2 11 0)))
 		 "A minimal and modern mode-line" tar
-		 ((:commit . "1a77ba069087c3e681973e5766aaec5c2eb2740c")
+		 ((:commit . "00ddd1b964f0b9f811e423e47c3ed6226c7a641e")
 		  (:authors
 		   ("Vincent Zhang" . "seagle0128@gmail.com"))
 		  (:maintainer "Vincent Zhang" . "seagle0128@gmail.com")
@@ -3805,13 +3827,13 @@
 	     (:keywords "extensions" "diminish" "minor" "codeprose")
 	     (:url . "https://github.com/myrjola/diminish.el"))])
  (diff-hl .
-	  [(20190223 1533)
+	  [(20190707 1543)
 	   ((cl-lib
 	     (0 2))
 	    (emacs
 	     (24 3)))
 	   "Highlight uncommitted changes using VC" tar
-	   ((:commit . "84a5fe1900af2e5cc522f02749804f0d9f094bbf")
+	   ((:commit . "374b1d4b34876219218da7a539e7301259b56958")
 	    (:authors
 	     ("Dmitry Gutov" . "dgutov@yandex.ru"))
 	    (:maintainer "Dmitry Gutov" . "dgutov@yandex.ru")
@@ -3939,7 +3961,7 @@
  (cython-mode .
 	      [(20190111 1350)
 	       nil "Major mode for editing Cython files" single
-	       ((:commit . "8ac1a6a55fc44ff858cc367af556250a91f71d16"))])
+	       ((:commit . "ba6d2c5e657c14046381dae712207f2b985fdeb5"))])
  (ctable .
 	 [(20171005 1711)
 	  nil "Table component for Emacs Lisp" single
@@ -4024,18 +4046,37 @@
 		(:keywords "convenience" "tools" "counsel" "swiper" "selector" "css" "less" "scss")
 		(:url . "https://github.com/hlissner/emacs-counsel-css"))])
  (counsel .
-	  [(20190613 839)
+	  [(20190720 953)
 	   ((emacs
 	     (24 3))
 	    (swiper
-	     (0 11 0)))
+	     (0 12 0)))
 	   "Various completion functions using Ivy" single
-	   ((:commit . "44b2d7d6a8a81d1ed5c2aaa613eabe7e25c0b9a3")
+	   ((:commit . "196b4ea86f979dd6fa4a96299b35c370d026fc69")
 	    (:authors
 	     ("Oleh Krehel" . "ohwoeowho@gmail.com"))
 	    (:maintainer "Oleh Krehel" . "ohwoeowho@gmail.com")
 	    (:keywords "convenience" "matching" "tools")
 	    (:url . "https://github.com/abo-abo/swiper"))])
+ (conda .
+	[(20190607 925)
+	 ((emacs
+	   (24 4))
+	  (pythonic
+	   (0 1 0))
+	  (dash
+	   (2 13 0))
+	  (s
+	   (1 11 0))
+	  (f
+	   (0 18 2)))
+	 "Work with your conda environments" single
+	 ((:commit . "d65f6d2a47c96e1ff1c7af0e83aee1f5acfe858e")
+	  (:authors
+	   ("Rami Chowdhury" . "rami.chowdhury@gmail.com"))
+	  (:maintainer "Rami Chowdhury" . "rami.chowdhury@gmail.com")
+	  (:keywords "python" "environment" "conda")
+	  (:url . "http://github.com/necaris/conda.el"))])
  (concurrent .
 	     [(20161228 1930)
 	      ((emacs
@@ -4125,7 +4166,7 @@
 		  (rtags
 		   (2 10)))
 		 "RTags back-end for company" single
-		 ((:commit . "42bd740119e4cdfb8caa367aefa5f27ed44536d4")
+		 ((:commit . "3c071313d743b07a2ea4a02655f23cdc7010f0c2")
 		  (:authors
 		   ("Jan Erik Hanssen" . "jhanssen@gmail.com")
 		   ("Anders Bakken" . "agbakken@gmail.com"))
@@ -4286,10 +4327,22 @@
 		(:maintainer "Chris Wanstrath" . "chris@ozmm.org")
 		(:keywords "coffeescript" "major" "mode")
 		(:url . "http://github.com/defunkt/coffee-mode"))])
+ (code-archive .
+	       [(20190611 2008)
+		((emacs
+		  (24 3)))
+		"git supported code archive and reference for org-mode" single
+		((:commit . "1ad9af6679d0294c3056eab9cad673f29c562721")
+		 (:authors
+		  ("Michael Schuldt" . "mbschuldt@gmail.com"))
+		 (:maintainer "Michael Schuldt" . "mbschuldt@gmail.com")
+		 (:url . "https://github.com/mschuldt/code-archive"))])
  (cmake-mode .
-	     [(20180709 726)
-	      nil "major-mode for editing CMake sources" single
-	      ((:commit . "6f7b68e7f969ae39622492b27a6f4bbb79d25117"))])
+	     [(20190710 619)
+	      ((emacs
+		(24 1)))
+	      "major-mode for editing CMake sources" single
+	      ((:commit . "0c6e27bff1dc362993c2e1f5271424b4c881140a"))])
  (cmake-ide .
 	    [(20190527 207)
 	     ((emacs
@@ -4303,31 +4356,31 @@
 	      (s
 	       (1 11 0)))
 	     "Calls CMake to find out include paths and other compiler flags" single
-	     ((:commit . "6fc593e47d28bfe531d1029f61e4efeb2eefe982")
+	     ((:commit . "e04a725fb4d70f21155b548956d4e14fd2c446f6")
 	      (:authors
 	       ("Atila Neves" . "atila.neves@gmail.com"))
 	      (:maintainer "Atila Neves" . "atila.neves@gmail.com")
 	      (:keywords "languages")
 	      (:url . "http://github.com/atilaneves/cmake-ide"))])
  (closql .
-	 [(20181031 1458)
+	 [(20190716 730)
 	  ((emacs
 	    (25 1))
 	   (emacsql-sqlite
 	    (3 0 0)))
 	  "store EIEIO objects using EmacSQL" single
-	  ((:commit . "0dabd594187407fa9ce9f820f174fac86199a39f")
+	  ((:commit . "f2f1d7bc76153ec257cb13452075f51feb99f14e")
 	   (:authors
 	    ("Jonas Bernoulli" . "jonas@bernoul.li"))
 	   (:maintainer "Jonas Bernoulli" . "jonas@bernoul.li")
 	   (:keywords "extensions")
 	   (:url . "https://github.com/emacscollective/closql"))])
  (clojure-mode .
-	       [(20190508 822)
+	       [(20190716 218)
 		((emacs
 		  (25 1)))
 		"Major mode for Clojure code" single
-		((:commit . "a9cbe6a37f51da1c37035390d43500b437e8bff2")
+		((:commit . "721287c7a756678d5fe8fa0dcb2d8dc846d239a2")
 		 (:keywords "languages" "clojure" "clojurescript" "lisp")
 		 (:url . "http://github.com/clojure-emacs/clojure-mode"))])
  (clean-aindent-mode .
@@ -4346,6 +4399,19 @@
 		"Format code using clang-format" single
 		((:commit . "1469728c61dcba8fa09c456e841f97e9eb75fa85")
 		 (:keywords "tools" "c"))])
+ (choice-program .
+		 [(20190615 1042)
+		  ((emacs
+		    (26))
+		   (cl-lib
+		    (1 0)))
+		  "parameter based program" tar
+		  ((:commit . "b9eabd7d20967304eb2316d6846e0046edf2df36")
+		   (:authors
+		    ("Paul Landes"))
+		   (:maintainer "Paul Landes")
+		   (:keywords "exec" "execution" "parameter" "option")
+		   (:url . "https://github.com/plandes/choice-program"))])
  (centered-cursor-mode .
 		       [(20190306 206)
 			nil "cursor stays vertically centered" single
@@ -4356,7 +4422,7 @@
 			 (:keywords "convenience")
 			 (:url . "https://github.com/andre-r/centered-cursor-mode.el"))])
  (ccls .
-       [(20190512 1857)
+       [(20190720 235)
 	((emacs
 	  (25 1))
 	 (lsp-mode
@@ -4366,7 +4432,7 @@
 	 (projectile
 	  (1 0 0)))
 	"ccls client for lsp-mode" tar
-	((:commit . "2764ddd57b03646f0327ea680a954b4a67450aef")
+	((:commit . "9061ebbf9d5ec3ee7e88dbd226c77017cf0447b1")
 	 (:authors
 	  ("Tobias Pisani, Fangrui Song"))
 	 (:maintainer "Tobias Pisani, Fangrui Song")
@@ -4385,6 +4451,34 @@
 	(:maintainer "Alex Kost" . "alezost@gmail.com")
 	(:keywords "tools")
 	(:url . "https://github.com/alezost/bui.el"))])
+ (buffer-manage .
+		[(20190621 2017)
+		 ((emacs
+		   (26))
+		  (choice-program
+		   (0 5))
+		  (dash
+		   (2 13 0)))
+		 "manage buffers" tar
+		 ((:commit . "91287ed806cd6793d68ec80b416da72a0cb1e09d")
+		  (:authors
+		   ("Paul Landes"))
+		  (:maintainer "Paul Landes")
+		  (:keywords "interactive" "buffer" "management")
+		  (:url . "https://github.com/plandes/buffer-manage"))])
+ (bshell .
+	 [(20190616 1938)
+	  ((emacs
+	    (25))
+	   (buffer-manage
+	    (0 5)))
+	  "manage and track multiple inferior shells" single
+	  ((:commit . "5cdffa393ec3f923736bc6459bc958829a321327")
+	   (:authors
+	    ("Paul Landes"))
+	   (:maintainer "Paul Landes")
+	   (:keywords "interactive" "shell" "management")
+	   (:url . "https://github.com/plandes/bshell"))])
  (browse-at-remote .
 		   [(20190213 1129)
 		    ((f
@@ -4394,7 +4488,7 @@
 		     (cl-lib
 		      (0 5)))
 		    "Open github/gitlab/bitbucket/stash/gist/phab/sourcehut page from Emacs" single
-		    ((:commit . "a61bda14a84983c84e81d2135bb59e92049cdf85")
+		    ((:commit . "1a9392e9d1fad4e1aafb25b68b4e6857fde8f564")
 		     (:authors
 		      ("Rustem Muslimov" . "r.muslimov@gmail.com"))
 		     (:maintainer "Rustem Muslimov" . "r.muslimov@gmail.com")
@@ -4422,7 +4516,7 @@
  (bind-key .
 	   [(20180512 2130)
 	    nil "A simple way to manage personal keybindings" single
-	    ((:commit . "4aa14a4fcd5ca52b3f1bfcf5ab294173f7bbe390")
+	    ((:commit . "1d5ffb2e0d1427066ced58febbba68c1328bf001")
 	     (:authors
 	      ("John Wiegley" . "johnw@newartisans.com"))
 	     (:maintainer "John Wiegley" . "johnw@newartisans.com")
@@ -4453,13 +4547,13 @@
 		  (:keywords "backup")
 		  (:url . "https://github.com/lewang/backup-walker"))])
  (avy .
-      [(20190520 247)
+      [(20190630 838)
        ((emacs
 	 (24 1))
 	(cl-lib
 	 (0 5)))
        "Jump to arbitrary positions in visible text and select text quickly." single
-       ((:commit . "f91ae613a86187c8ca75e86f22e3f5ac9958399c")
+       ((:commit . "66886e265cf41c6061dc70440eb5b61fad8f48e0")
 	(:authors
 	 ("Oleh Krehel" . "ohwoeowho@gmail.com"))
 	(:maintainer "Oleh Krehel" . "ohwoeowho@gmail.com")
@@ -4531,7 +4625,7 @@
 	 (:maintainer "Syohei YOSHIDA" . "syohex@gmail.com")
 	 (:url . "https://github.com/syohex/emacs-anzu"))])
  (anaconda-mode .
-		[(20190612 15)
+		[(20190616 319)
 		 ((emacs
 		   (25))
 		  (pythonic
@@ -4543,7 +4637,7 @@
 		  (f
 		   (0 16 2)))
 		 "Code navigation, documentation lookup and completion for Python" single
-		 ((:commit . "6574d8c80aa493b4db9f61da0c9758d266952ccb")
+		 ((:commit . "24aa81ba62f13d7bb505a03fe244181c461fec68")
 		  (:authors
 		   ("Artem Malyshev" . "proofit404@gmail.com"))
 		  (:maintainer "Artem Malyshev" . "proofit404@gmail.com")
@@ -4603,22 +4697,22 @@
 	("Wilfred Hughes" . "me@wilfred.me.uk"))
        (:maintainer "Wilfred Hughes" . "me@wilfred.me.uk"))])
  (ace-window .
-	     [(20190527 651)
+	     [(20190708 233)
 	      ((avy
 		(0 2 0)))
 	      "Quickly switch windows." single
-	      ((:commit . "138a80cbc4e9ed17d3a085a3687f5223a142a9a3")
+	      ((:commit . "a5344925e399e1f015721cda6cf5db03c90ab87a")
 	       (:authors
 		("Oleh Krehel" . "ohwoeowho@gmail.com"))
 	       (:maintainer "Oleh Krehel" . "ohwoeowho@gmail.com")
 	       (:keywords "window" "location")
 	       (:url . "https://github.com/abo-abo/ace-window"))])
  (ace-link .
-	   [(20190406 1944)
+	   [(20190716 220)
 	    ((avy
 	      (0 4 0)))
 	    "Quickly follow links" single
-	    ((:commit . "eb4dfe10051aa0fb4a24a0b14662e709d4d9a134")
+	    ((:commit . "9b6d02564650e963ce05d124f83ced17e0027d7f")
 	     (:authors
 	      ("Oleh Krehel" . "ohwoeowho@gmail.com"))
 	     (:maintainer "Oleh Krehel" . "ohwoeowho@gmail.com")
