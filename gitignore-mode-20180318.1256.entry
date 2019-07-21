@@ -1,2 +1,0 @@
-
-(gitignore-mode . [(20180318 1256) nil "Major mode for editing .gitignore files" single ((:commit . "33c6a116a5b298e20eb39ebb154a51c4dd37c06d") (:authors ("Sebastian Wiesner" . "lunaryorn@gmail.com")) (:maintainer "Jonas Bernoulli" . "jonas@bernoul.li") (:keywords "convenience" "vc" "git") (:url . "https://github.com/magit/git-modes"))])

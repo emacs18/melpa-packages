@@ -1,2 +1,0 @@
-
-(tldr . [(20190425 49) ((emacs (24 3)) (request (0 3 0))) "tldr client for Emacs" single ((:commit . "2ff0834bc58590f98bfece3efc5656d1b47c325d") (:authors ("Ono Hiroko" . "azazabc123@gmail.com")) (:maintainer "Ono Hiroko" . "azazabc123@gmail.com") (:keywords "tools" "docs") (:url . "https://github.com/kuanyui/tldr.el"))])

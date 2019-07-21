@@ -1,0 +1,2 @@
+
+(pyvenv . [(20181228 1722) nil "Python virtual environment interface" single ((:commit . "fa6a028349733b0ecb407c4cfb3a715b71931eec") (:authors ("Jorgen Schaefer" . "contact@jorgenschaefer.de")) (:maintainer "Jorgen Schaefer" . "contact@jorgenschaefer.de") (:keywords "python" "virtualenv" "tools") (:url . "http://github.com/jorgenschaefer/pyvenv"))])
