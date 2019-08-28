@@ -4421,6 +4421,16 @@
 		"Format code using clang-format" single
 		((:commit . "1469728c61dcba8fa09c456e841f97e9eb75fa85")
 		 (:keywords "tools" "c"))])
+ (clang-format+ .
+		[(20190824 2216)
+		 ((emacs
+		   (25 1))
+		  (clang-format
+		   (20180406 1514)))
+		 "Minor mode for automatic clang-format application" single
+		 ((:commit . "ddd4bfe1a13c2fd494ce339a320a51124c1d2f68")
+		  (:keywords "c" "c++" "clang-format")
+		  (:url . "https://github.com/SavchenkoValeriy/emacs-clang-format-plus"))])
  (choice-program .
 		 [(20190615 1742)
 		  ((emacs
