@@ -5,7 +5,7 @@
 ;; Author: Steve Purcell <steve@sanityinc.com>
 ;; Keywords: unix, environment
 ;; URL: https://github.com/purcell/exec-path-from-shell
-;; Package-Version: 20190426.1527
+;; Package-Version: 20190426.2227
 ;; Package-X-Original-Version: 0
 
 ;; This file is not part of GNU Emacs.
