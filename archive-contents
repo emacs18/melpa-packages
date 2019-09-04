@@ -3143,6 +3143,19 @@
 		   (:maintainer "Guillaume Papin" . "guillaume.papin@epitech.eu")
 		   (:keywords "convenience" "tools" "c")
 		   (:url . "https://github.com/Sarcasm/flycheck-irony/"))])
+ (flycheck-dmd-dub .
+		   [(20180625 1635)
+		    ((flycheck
+		      (0 24))
+		     (f
+		      (0 18 2)))
+		    "Sets flycheck-dmd-include-paths from dub package information" single
+		    ((:commit . "d7df2895d7d27cc39916816e3c32a60ce0e1d2d9")
+		     (:authors
+		      ("Atila Neves" . "atila.neves@gmail.com"))
+		     (:maintainer "Atila Neves" . "atila.neves@gmail.com")
+		     (:keywords "languages")
+		     (:url . "http://github.com/atilaneves/flycheck-dmd-dub"))])
  (flycheck-bashate .
 		   [(20160630 440)
 		    ((flycheck
@@ -3980,6 +3993,16 @@
 	       ((:commit . "cc55fe6b987271d9647492b8df4c812d884f661f")
 		(:keywords "languages" "vim")
 		(:url . "https://github.com/luxbock/dactyl-mode"))])
+ (d-mode .
+	 [(20190826 2244)
+	  ((emacs
+	    (24 3)))
+	  "D Programming Language major mode for (X)Emacs" single
+	  ((:commit . "f3843276e235c6b633ba5367f78d74fe7c04e244")
+	   (:authors
+	    ("William Baxter"))
+	   (:maintainer "Russel Winder" . "russel@winder.org.uk")
+	   (:keywords "d" "programming" "language" "emacs" "cc-mode"))])
  (cython-mode .
 	      [(20190111 2150)
 	       nil "Major mode for editing Cython files" single
@@ -4256,6 +4279,27 @@
 		  (:maintainer "Guillaume Papin" . "guillaume.papin@epitech.eu")
 		  (:keywords "convenience")
 		  (:url . "https://github.com/Sarcasm/company-irony/"))])
+ (company-dcd .
+	      [(20190116 256)
+	       ((company
+		 (0 9))
+		(flycheck-dmd-dub
+		 (0 7))
+		(yasnippet
+		 (0 8))
+		(popwin
+		 (0 7))
+		(cl-lib
+		 (0 5))
+		(ivy
+		 (20160804 326)))
+	       "Company backend for Dlang using DCD." single
+	       ((:commit . "11e90949e546fcff1b1cd40887ad7b6701aa1653")
+		(:authors
+		 ("tsukimizake <shomasd_at_gmail.com>"))
+		(:maintainer "tsukimizake <shomasd_at_gmail.com>")
+		(:keywords "languages")
+		(:url . "http://github.com/tsukimizake/company-dcd"))])
  (company-c-headers .
 		    [(20180814 1730)
 		     ((emacs
