@@ -1988,6 +1988,16 @@
 	   (:maintainer "mooz" . "stillpedant@gmail.com")
 	   (:keywords "document" "comment")
 	   (:url . "https://github.com/mooz/js-doc"))])
+ (jeison .
+	 [(20190721 1651)
+	  ((emacs
+	    (25 1))
+	   (dash
+	    (2 16 0)))
+	  "A library for declarative JSON parsing" single
+	  ((:commit . "66e276c1f2f08ca54d2cd60f2c9f974c662aae8b")
+	   (:keywords "lisp" "json" "data-types")
+	   (:url . "http://github.com/SavchenkoValeriy/jeison"))])
  (ivy-yasnippet .
 		[(20181002 1655)
 		 ((emacs
@@ -2717,7 +2727,7 @@
  (google-c-style .
 		 [(20180130 1736)
 		  nil "Google's C/C++ style for c-mode" single
-		  ((:commit . "9c6b371f419b1dd33c338846e3e7c1ce7304baff")
+		  ((:commit . "c89900f7211ba6c36f7f0ef451f1aee625dbfe5c")
 		   (:keywords "c" "tools"))])
  (golden-ratio .
 	       [(20150819 1120)
