@@ -1,10 +1,10 @@
 ;;; treemacs-projectile.el --- Projectile integration for treemacs -*- lexical-binding: t -*-
 
-;; Copyright (C) 2018 Alexander Miller
+;; Copyright (C) 2019 Alexander Miller
 
 ;; Author: Alexander Miller <alexanderm@web.de>
 ;; Package-Requires: ((projectile "0.14.0") (treemacs "0.0"))
-;; Package-Version: 20190114.1634
+;; Package-Version: 20190619.1516
 ;; Package-X-Original-Version: 0
 ;; Homepage: https://github.com/Alexander-Miller/treemacs
 
@@ -57,10 +57,10 @@ the project's root directory."
                  (propertize (treemacs-project->name duplicate) 'face 'font-lock-type-face)))))))
     (treemacs-pulse-on-failure "It looks like projectile does not know any projects.")))
 
-(define-key treemacs-mode-map (kbd "C-p p") #'treemacs-projectile)
+(define-key treemacs-project-map (kbd "p") #'treemacs-projectile)
 
 (defun treemacs--read-first-project-path ()
-  "Overwrites the original definition from `treemacs-impl'.
+  "Overwrites the original definition from `treemacs-core-utils'.
 This version will read a directory based on the current project root instead of
 the current dir."
   (when (treemacs-workspace->is-empty?)
@@ -69,6 +69,13 @@ the current dir."
                           (condition-case _
                               (projectile-project-root)
                             (error nil))))))
+
+(defun treemacs--projectile-current-user-project-function ()
+  "Get the current projectile project root."
+  (declare (side-effect-free t))
+  (-some-> (projectile-project-root) (file-truename) (treemacs--canonical-path)))
+
+(add-to-list 'treemacs--find-user-project-functions #'treemacs--projectile-current-user-project-function)
 
 (provide 'treemacs-projectile)
 

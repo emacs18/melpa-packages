@@ -5,8 +5,8 @@
 ;; Author: Jan Erik Hanssen <jhanssen@gmail.com>
 ;;         Anders Bakken <agbakken@gmail.com>
 ;; URL: http://rtags.net
-;; Package-Version: 20190820.502
-;; Version: 2.33.128
+;; Package-Version: 20190909.2333
+;; Version: 2.34.129
 
 ;; This file is not part of GNU Emacs.
 
@@ -74,8 +74,8 @@
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ;; Constants
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-(defconst rtags-protocol-version 128)
-(defconst rtags-package-version "2.33")
+(defconst rtags-protocol-version 129)
+(defconst rtags-package-version "2.34")
 (defconst rtags-popup-available (require 'popup nil t))
 (defconst rtags-supported-major-modes '(c-mode c++-mode objc-mode) "Major modes RTags supports.")
 (defconst rtags-verbose-results-delimiter "------------------------------------------")
@@ -1547,6 +1547,7 @@ Uses `completing-read' to ask for the project."
 (defun* rtags-symbol-info-internal (&rest foo
                                           &key
                                           (parents nil)
+                                          (source-code nil)
                                           (references nil)
                                           (targets nil)
                                           (base-classes nil)
@@ -1565,6 +1566,7 @@ Uses `completing-read' to ask for the project."
                                          (when parents "--symbol-info-include-parents")
                                          (when references "--symbol-info-include-references")
                                          (when targets "--symbol-info-include-targets")
+                                         (when source-code "--symbol-info-include-source-code")
                                          (when base-classes "--symbol-info-include-base-classes"))
                           (goto-char (point-min))
                           (looking-at "(")

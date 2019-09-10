@@ -3,8 +3,9 @@
 ;; Copyright (C) 2016 by Syohei YOSHIDA
 
 ;; Author: Syohei YOSHIDA <syohex@gmail.com>
-;; URL: https://github.com/syohex/emacs-counsel-gtags
-;; Package-Version: 20190422.1501
+;;         Felipe Lema <felipelema@mortemale.org>
+;; URL: https://github.com/FelipeLema/emacs-counsel-gtags
+;; Package-Version: 20190909.1740
 ;; Version: 0.01
 ;; Package-Requires: ((emacs "25.1") (counsel "0.8.0") (seq "1.0"))
 
@@ -205,12 +206,18 @@ Otherwise, returns nil if couldn't find any."
 Used in `counsel-gtags--async-tag-query'.  Forward QUERY and EXTRA-ARGS to
 `counsel-gtags--command-options'.
 Since it's a tag query, we use definition as type when getting options"
-  (mapconcat #'shell-quote-argument
-	     (append
-	      `("global")
-	      (counsel-gtags--command-options 'definition extra-args)
-	      `(,(counsel--elisp-to-pcre (ivy--regex query))))
-	     " "))
+  (concat
+   (mapconcat #'shell-quote-argument
+	      (append
+	       `("global" "-c")
+	       (counsel-gtags--command-options 'definition extra-args))
+	      " ")
+   " | "
+   (counsel-gtags--get-grep-command) " "
+   (thread-last (ivy--regex query)
+     (counsel--elisp-to-pcre)
+     (shell-quote-argument))))
+
 (defun counsel-gtags--filter-tags (s)
   "Filter function receving S.
 
