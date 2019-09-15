@@ -863,6 +863,19 @@
 	     (:maintainer "Henrik Lissner" . "henrik@lissner.net")
 	     (:keywords "markup" "language" "jade" "pug")
 	     (:url . "https://github.com/hlissner/emacs-pug-mode"))])
+ (promise .
+	  [(20190711 328)
+	   ((emacs
+	     (25))
+	    (async
+	     (1 9)))
+	   "Promises/A+" tar
+	   ((:commit . "99fdb3b7efb813af41f825b24d0615d603baeede")
+	    (:authors
+	     ("chuntaro" . "chuntaro@sakura-games.jp"))
+	    (:maintainer "chuntaro" . "chuntaro@sakura-games.jp")
+	    (:keywords "async" "promise" "convenience")
+	    (:url . "https://github.com/chuntaro/emacs-promise"))])
  (projectile .
 	     [(20190904 1025)
 	      ((emacs
@@ -1266,6 +1279,17 @@
 		   (:maintainer "Takaaki ISHIKAWA <takaxp at ieee dot org>")
 		   (:keywords "convenience" "org-mode" "presentation" "narrowing")
 		   (:url . "https://github.com/takaxp/org-tree-slide"))])
+ (org-tanglesync .
+		 [(20190901 1910)
+		  ((emacs
+		    (24 4)))
+		  "Syncing org src blocks with tangled external files" single
+		  ((:commit . "a5e673b20b60afc6f528878572a9f9f3956ac396")
+		   (:authors
+		    ("Mehmet Tekman"))
+		   (:maintainer "Mehmet Tekman")
+		   (:keywords "outlines")
+		   (:url . "https://github.com/mtekman/org-tanglesync.el"))])
  (org-super-agenda .
 		   [(20190315 621)
 		    ((emacs
@@ -2250,6 +2274,17 @@
 	("Wilfred Hughes" . "me@wilfred.me.uk"))
        (:maintainer "Wilfred Hughes" . "me@wilfred.me.uk")
        (:keywords "hash table" "hash map" "hash"))])
+ (howdoyou .
+	   [(20190912 526)
+	    ((emacs
+	      (25))
+	     )
+	    "A stackoverflow and its sisters' sites reader" single
+	    ((:commit . "2b83276da268a016b52ad15d4f59f2d53e52c1f8")
+	     (:authors
+	      ("Thanh Vuong" . "thanhvg@gmail.com"))
+	     (:maintainer "Thanh Vuong" . "thanhvg@gmail.com")
+	     (:url . "https://github.com/thanhvg/howdoyou/"))])
  (hl-todo .
 	  [(20190807 1831)
 	   ((emacs
