@@ -837,7 +837,7 @@
 	      ((pythonic
 		(0 1 0)))
 	      "Integrate pyenv with python-mode" single
-	      ((:commit . "eabb1c66f9e0c0500fef4d089508aad246d81dc0")
+	      ((:commit . "aec6f2aa289f6aed974f053c081143758dd142fb")
 	       (:authors
 		("Artem Malyshev" . "proofit404@gmail.com"))
 	       (:maintainer "Artem Malyshev" . "proofit404@gmail.com")
@@ -2277,8 +2277,13 @@
  (howdoyou .
 	   [(20190912 526)
 	    ((emacs
-	      (25))
-	     )
+	      (25 1))
+	     (promise
+	      (1 1))
+	     (request
+	      (0 3 0))
+	     (org
+	      (9 2)))
 	    "A stackoverflow and its sisters' sites reader" single
 	    ((:commit . "2b83276da268a016b52ad15d4f59f2d53e52c1f8")
 	     (:authors
@@ -4389,7 +4394,7 @@
 		     (s
 		      (1 9)))
 		    "Anaconda backend for company-mode" single
-		    ((:commit . "0ab70de1740e67cee451abcf3685c7525ff9e95a")
+		    ((:commit . "398fad19160cc1d0e31dcb1d4a3f88de7a2d355d")
 		     (:authors
 		      ("Artem Malyshev" . "proofit404@gmail.com"))
 		     (:maintainer "Artem Malyshev" . "proofit404@gmail.com")
@@ -4618,11 +4623,11 @@
 		     (:maintainer "Rustem Muslimov" . "r.muslimov@gmail.com")
 		     (:keywords "github" "gitlab" "bitbucket" "gist" "stash" "phabricator" "sourcehut"))])
  (blacken .
-	  [(20190521 841)
+	  [(20190917 535)
 	   ((emacs
 	     (25 2)))
 	   "Reformat python buffers using the \"black\" formatter" single
-	   ((:commit . "1874018ae242176d0780cdcd0109e8f9a123a914")
+	   ((:commit . "5f30f17b048af1fe73ba710781650e3490a7be49")
 	    (:authors
 	     ("Artem Malyshev" . "proofit404@gmail.com"))
 	    (:maintainer "Artem Malyshev" . "proofit404@gmail.com")
@@ -4760,8 +4765,21 @@
 	  ("Syohei YOSHIDA" . "syohex@gmail.com"))
 	 (:maintainer "Syohei YOSHIDA" . "syohex@gmail.com")
 	 (:url . "https://github.com/syohex/emacs-anzu"))])
+ (annalist .
+	   [(20190905 5)
+	    ((emacs
+	      (24 4))
+	     (cl-lib
+	      (0 5)))
+	    "Record and display information such as keybindings" tar
+	    ((:commit . "8f52a365b2876f034fbf9b335786fa6bafc9ac80")
+	     (:authors
+	      ("Fox Kiester" . "noct@posteo.net"))
+	     (:maintainer "Fox Kiester" . "noct@posteo.net")
+	     (:keywords "convenience" "tools" "keybindings" "org")
+	     (:url . "https://github.com/noctuid/annalist.el"))])
  (anaconda-mode .
-		[(20190616 1019)
+		[(20190918 353)
 		 ((emacs
 		   (25))
 		  (pythonic
@@ -4773,7 +4791,7 @@
 		  (f
 		   (0 16 2)))
 		 "Code navigation, documentation lookup and completion for Python" single
-		 ((:commit . "24aa81ba62f13d7bb505a03fe244181c461fec68")
+		 ((:commit . "dc324ddea5d43e8f9a9d86936fc27ebfca8dac68")
 		  (:authors
 		   ("Artem Malyshev" . "proofit404@gmail.com"))
 		  (:maintainer "Artem Malyshev" . "proofit404@gmail.com")
