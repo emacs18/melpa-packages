@@ -233,6 +233,17 @@
 		  ("Yasuyuki Oka" . "yasuyk@gmail.com"))
 		 (:maintainer "Yasuyuki Oka" . "yasuyk@gmail.com")
 		 (:url . "https://github.com/yasuyk/web-beautify"))])
+ (vterm .
+	[(20190822 1225)
+	 ((emacs
+	   (25 1)))
+	 "This package implements a terminal via libvterm" tar
+	 ((:commit . "097d9806ffab9120f078bea22e9b49502807786b")
+	  (:authors
+	   ("Lukas Fürmetz" . "fuermetz@mailbox.org"))
+	  (:maintainer "Lukas Fürmetz" . "fuermetz@mailbox.org")
+	  (:keywords "terminals")
+	  (:url . "https://github.com/akermu/emacs-libvterm"))])
  (volatile-highlights .
 		      [(20160612 155)
 		       nil "Minor mode for visual feedback on some operations." single
