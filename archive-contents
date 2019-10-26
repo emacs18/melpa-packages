@@ -1,6 +1,6 @@
 (1
- (org . [(20190929) ( ) "Outline-based notes management and organizer" tar])
- (org-plus-contrib . [(20190929) ( ) "Outline-based notes management and organizer" tar])
+ (org              . [(20191026) ( ) "Outline-based notes management and organizer" tar])
+ (org-plus-contrib . [(20191026) ( ) "Outline-based notes management and organizer" tar])
  (zoutline .
 	   [(20190520 1819)
 	    nil "Simple outline library." single
