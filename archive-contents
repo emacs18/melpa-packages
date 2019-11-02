@@ -2560,6 +2560,12 @@
 	     (:maintainer "Ivan Yonchovski" . "yyoncho@gmail.com")
 	     (:keywords "languages" "debug")
 	     (:url . "https://github.com/yyoncho/helm-lsp"))])
+ (helm-ls-git .
+	      [(20190630 737)
+	       ((helm
+		 (1 7 8)))
+	       "list git files." single
+	       ((:commit . "ab825ea050f88babf6f8d340424f9359f3c6036f"))])
  (helm-gtags .
 	     [(20170116 529)
 	      ((emacs
