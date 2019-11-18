@@ -257,11 +257,11 @@
 		 (:maintainer "Yasuyuki Oka" . "yasuyk@gmail.com")
 		 (:url . "https://github.com/yasuyk/web-beautify"))])
  (vterm .
-	[(20191025 1349)
+	[(20191117 659)
 	 ((emacs
 	   (25 1)))
 	 "This package implements a terminal via libvterm" tar
-	 ((:commit . "57134b682dc58308d9edf353decc952f49814594")
+	 ((:commit . "21b54c750b65eed9f195a2544f3a1782626fc5fe")
 	  (:authors
 	   ("Lukas Fürmetz" . "fuermetz@mailbox.org"))
 	  (:maintainer "Lukas Fürmetz" . "fuermetz@mailbox.org")
@@ -912,13 +912,13 @@
 	     (:keywords "markup" "language" "jade" "pug")
 	     (:url . "https://github.com/hlissner/emacs-pug-mode"))])
  (promise .
-	  [(20191108 943)
+	  [(20191116 656)
 	   ((emacs
 	     (26 1))
 	    (async
 	     (1 9)))
 	   "Promises/A+" tar
-	   ((:commit . "0d9dc0e77d4cb858418acad69535a14f6c763bf4")
+	   ((:commit . "7029266f26dca2f5a56fea2cfa4fcc09306700c9")
 	    (:authors
 	     ("chuntaro" . "chuntaro@sakura-games.jp"))
 	    (:maintainer "chuntaro" . "chuntaro@sakura-games.jp")
