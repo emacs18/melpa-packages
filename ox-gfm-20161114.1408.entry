@@ -1,0 +1,2 @@
+
+(ox-gfm . [(20161114 1408) nil "Github Flavored Markdown Back-End for Org Export Engine" single ((:commit . "352ab00a5e06d042700bf7955f9ace48c503c1c8") (:authors ("Lars Tveito")) (:maintainer "Lars Tveito") (:keywords "org" "wp" "markdown" "github"))])

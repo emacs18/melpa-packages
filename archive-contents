@@ -544,6 +544,18 @@
 		  ("Christopher Wellons" . "wellons@nullprogram.com"))
 		 (:maintainer "Christopher Wellons" . "wellons@nullprogram.com")
 		 (:url . "https://github.com/skeeto/emacs-http-server"))])
+ (shut-up .
+	  [(20180628 1830)
+	   ((cl-lib
+	     (0 3))
+	    (emacs
+	     (24)))
+	   "Shut up would you!" single
+	   ((:commit . "081d6b01e3ba0e60326558e545c4019219e046ce")
+	    (:authors
+	     ("Johan Andersson" . "johan.rejeep@gmail.com"))
+	    (:maintainer "Johan Andersson" . "johan.rejeep@gmail.com")
+	    (:url . "http://github.com/rejeep/shut-up.el"))])
  (shrink-path .
 	      [(20190208 1335)
 	       ((emacs
@@ -990,6 +1002,16 @@
 		 (:maintainer "Steve Purcell" . "steve@sanityinc.com")
 		 (:keywords "lisp")
 		 (:url . "https://github.com/purcell/package-lint"))])
+ (package-build .
+		[(20191010 616)
+		 ((cl-lib
+		   (0 5)))
+		 "Tools for assembling a package archive" tar
+		 ((:commit . "f761c2ffeed0daba9c17ac7571c7b979b6ceed64")
+		  (:authors
+		   ("Donald Ephraim Curtis" . "dcurtis@milkbox.net"))
+		  (:maintainer "Donald Ephraim Curtis" . "dcurtis@milkbox.net")
+		  (:keywords "tools"))])
  (p4 .
      [(20150721 1937)
       nil "Simple Perforce-Emacs Integration" single
@@ -2369,6 +2391,21 @@
 		      ("Fanael Linithien" . "fanael4@gmail.com"))
 		     (:maintainer "Steve Purcell" . "steve@sanityinc.com")
 		     (:keywords "lisp"))])
+ (flycheck-elsa .
+		[(20190211 1921)
+		 ((emacs
+		   (25))
+		  (seq
+		   (2 0))
+		  (cask
+		   (0 8 4)))
+		 "Flycheck for Elsa." tar
+		 ((:commit . "c0a226d2520681bb0c16cd31504b620e43ee743c")
+		  (:authors
+		   ("Matúš Goljer" . "matus.goljer@gmail.com"))
+		  (:maintainer "Matúš Goljer" . "matus.goljer@gmail.com")
+		  (:keywords "convenience")
+		  (:url . "https://github.com/emacs-elsa/flycheck-elsa"))])
  (flycheck-bashate .
 		   [(20160630 440)
 		    ((flycheck
@@ -3380,6 +3417,31 @@
 	 (:maintainer "Tobias Pisani, Fangrui Song")
 	 (:keywords "languages" "lsp" "c++")
 	 (:url . "https://github.com/MaskRay/emacs-ccls"))])
+ (cask .
+       [(20191004 1155)
+	((s
+	  (1 8 0))
+	 (dash
+	  (2 2 0))
+	 (f
+	  (0 16 0))
+	 (epl
+	  (0 5))
+	 (shut-up
+	  (0 1 0))
+	 (cl-lib
+	  (0 3))
+	 (package-build
+	  (1 2))
+	 (ansi
+	  (0 4 1)))
+	"Cask: Project management for Emacs package development" tar
+	((:commit . "a4715f7c6c9797639c3636399cb21c2b0332b354")
+	 (:authors
+	  ("Johan Andersson" . "johan.rejeep@gmail.com"))
+	 (:maintainer "Johan Andersson" . "johan.rejeep@gmail.com")
+	 (:keywords "speed" "convenience")
+	 (:url . "http://github.com/cask/cask"))])
  (bui .
       [(20181218 1830)
        ((emacs
@@ -3543,6 +3605,19 @@
 	  ("Syohei YOSHIDA" . "syohex@gmail.com"))
 	 (:maintainer "Syohei YOSHIDA" . "syohex@gmail.com")
 	 (:url . "https://github.com/syohex/emacs-anzu"))])
+ (ansi .
+       [(20150703 826)
+	((s
+	  (1 6 1))
+	 (dash
+	  (1 5 0)))
+	"Turn string into ansi strings" single
+	((:commit . "12b4c5d91b3da1902838f421e5af6d40e2cd57dd")
+	 (:authors
+	  ("Johan Andersson" . "johan.rejeep@gmail.com"))
+	 (:maintainer "Johan Andersson" . "johan.rejeep@gmail.com")
+	 (:keywords "color" "ansi")
+	 (:url . "http://github.com/rejeep/ansi"))])
  (anaconda-mode .
 		[(20191204 111)
 		 ((emacs
