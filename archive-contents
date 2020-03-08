@@ -2784,6 +2784,17 @@
 	    ("Lars Tveito"))
 	   (:maintainer "Lars Tveito")
 	   (:keywords "org" "wp" "markdown" "github"))])
+ (ox-jira .
+	  [(20200218 2301)
+	   ((org
+	     (8 3)))
+	   "JIRA Backend for Org Export Engine" single
+	   ((:commit . "00767df8ba024eb1ef09fe16c3aed30d729d6add")
+	    (:authors
+	     ("Stig Brautaset" . "stig@brautaset.org"))
+	    (:maintainer "Stig Brautaset" . "stig@brautaset.org")
+	    (:keywords "outlines" "hypermedia" "wp")
+	    (:url . "https://github.com/stig/ox-jira.el"))])
  (ox-reveal .
 	    [(20200304 937)
 	     ((org
