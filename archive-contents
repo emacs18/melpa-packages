@@ -3170,6 +3170,19 @@
 		     (:maintainer "Adam Porter" . "adam@alphapapa.net")
 		     (:keywords "hypermedia" "outlines" "org" "agenda")
 		     (:url . "http://github.com/alphapapa/org-super-agenda"))])
+ (org-superstar .
+		[(20200311 1848)
+		 ((org
+		   (9 1 9))
+		  (emacs
+		   (26 2)))
+		 "Prettify headings and plain lists in Org mode" single
+		 ((:commit . "715a9681d31968807df349280f96932f1a986f37")
+		  (:authors
+		   ("D. Williams" . "d.williams@posteo.net"))
+		  (:maintainer "D. Williams" . "d.williams@posteo.net")
+		  (:keywords "faces" "outlines")
+		  (:url . "https://github.com/integral-dw/org-superstar-mode"))])
  (orgit .
 	[(20191205 2300)
 	 ((emacs
