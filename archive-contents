@@ -1044,6 +1044,35 @@
 	       (:maintainer "Shin Aoyama" . "smihica@gmail.com")
 	       (:keywords "convenience")
 	       (:url . "https://github.com/smihica/emmet-mode"))])
+ (emr .
+      [(20200420 721)
+       ((s
+	 (1 3 1))
+	(dash
+	 (1 2 0))
+	(cl-lib
+	 (0 2))
+	(popup
+	 (0 5 0))
+	(emacs
+	 (24 1))
+	(list-utils
+	 (0 3 0))
+	(paredit
+	 (24 0 0))
+	(projectile
+	 (0 9 1))
+	(clang-format
+	 (0 0 1))
+	(iedit
+	 (0 97)))
+       "Emacs refactoring system." tar
+       ((:commit . "a8f6ab823453decf43f0764d02e554d05009a631")
+	(:authors
+	 ("Chris Barrett" . "chris.d.barrett@me.com"))
+	(:maintainer "Chris Barrett" . "chris.d.barrett@me.com")
+	(:keywords "tools" "convenience" "refactoring")
+	(:url . "https://github.com/Wilfred/emacs-refactor"))])
  (engine-mode .
 	      [(20191105 750)
 	       ((cl-lib
@@ -2660,6 +2689,15 @@
 	   (0 1 0)))
 	 "vi-like Paredit" tar
 	 ((:commit . "c7e282ae06f654bf985466ae05dedc4efc87144d"))])
+ (list-utils .
+	     [(20160414 1402)
+	      nil "List-manipulation utility functions" single
+	      ((:commit . "acf18aca1131a90f8d673974673e3c5d8fdc6a86")
+	       (:authors
+		("Roland Walker" . "walker@pobox.com"))
+	       (:maintainer "Roland Walker" . "walker@pobox.com")
+	       (:keywords "extensions")
+	       (:url . "http://github.com/rolandwalker/list-utils"))])
  (live-py-mode .
 	       [(20200401 420)
 		((emacs
