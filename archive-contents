@@ -36,6 +36,15 @@
 		       (:maintainer "Junpeng Qiu" . "qjpchmail@gmail.com")
 		       (:keywords "extensions")
 		       (:url . "https://github.com/cute-jumper/ace-jump-helm-line"))])
+ (ace-jump-mode .
+		[(20140616 815)
+		 nil "a quick cursor location minor mode for emacs" single
+		 ((:commit . "8351e2df4fbbeb2a4003f2fb39f46d33803f3dac")
+		  (:authors
+		   ("winterTTr" . "winterTTr@gmail.com"))
+		  (:maintainer "winterTTr" . "winterTTr@gmail.com")
+		  (:keywords "motion" "location" "cursor")
+		  (:url . "https://github.com/winterTTr/ace-jump-mode/"))])
  (ace-link .
 	   [(20200322 1706)
 	    ((avy
@@ -970,6 +979,51 @@
 		  ("EditorConfig Team" . "editorconfig@googlegroups.com"))
 		 (:maintainer "EditorConfig Team" . "editorconfig@googlegroups.com")
 		 (:url . "https://github.com/editorconfig/editorconfig-emacs#readme"))])
+ (elfeed .
+	 [(20200209 1942)
+	  ((emacs
+	    (24 3)))
+	  "an Emacs Atom/RSS feed reader" tar
+	  ((:commit . "d0405e63863e54a01200740a6717ac875eceabc1"))])
+ (elfeed-goodies .
+		 [(20190128 1631)
+		  ((popwin
+		    (1 0 0))
+		   (powerline
+		    (2 2))
+		   (elfeed
+		    (2 0 0))
+		   (cl-lib
+		    (0 5))
+		   (noflet
+		    (0 0 10))
+		   (ace-jump-mode
+		    (2 0)))
+		  "Elfeed goodies" tar
+		  ((:commit . "95b4ea632fbd5960927952ec8f3394eb88da4752")
+		   (:authors
+		    ("Gergely Nagy"))
+		   (:maintainer "Gergely Nagy")
+		   (:url . "https://github.com/algernon/elfeed-goodies"))])
+ (elfeed-org .
+	     [(20181015 1100)
+	      ((elfeed
+		(1 1 1))
+	       (org
+		(8 2 7))
+	       (dash
+		(2 10 0))
+	       (s
+		(1 9 0))
+	       (cl-lib
+		(0 5)))
+	      "Configure elfeed with one or more org-mode files" single
+	      ((:commit . "77b6bbf222487809813de260447d31c4c59902c9")
+	       (:authors
+		("Remy Honig" . "remyhonig@gmail.com"))
+	       (:maintainer "Remy Honig" . "remyhonig@gmail.com")
+	       (:keywords "news")
+	       (:url . "https://github.com/remyhonig/elfeed-org"))])
  (elisp-depmap .
 	       [(20200413 1215)
 		((emacs
@@ -3052,6 +3106,15 @@
 		(:authors
 		 ("Takeshi Arabiki"))
 		(:maintainer "Takeshi Arabiki"))])
+ (noflet .
+	 [(20141102 1454)
+	  nil "locally override functions" single
+	  ((:commit . "7ae84dc3257637af7334101456dafe1759c6b68a")
+	   (:authors
+	    ("Nic Ferrier" . "nferrier@ferrier.me.uk"))
+	   (:maintainer "Nic Ferrier" . "nferrier@ferrier.me.uk")
+	   (:keywords "lisp")
+	   (:url . "https://github.com/nicferrier/emacs-noflet"))])
  (ob-elixir .
 	    [(20170725 1419)
 	     ((org
