@@ -1,5 +1,5 @@
 (1
- (org-plus-contrib . [(20200430) ( ) "Outline-based notes management and organizer" tar])
+ (org-plus-contrib . [(20200516) ( ) "Outline-based notes management and organizer" tar])
  (a .
     [(20180907 953)
      ((emacs
@@ -600,6 +600,23 @@
 	       "Company completion backend for lsp-mode." single
 	       ((:commit . "f921ffa0cdc542c21dc3dd85f2c93df4288e83bd")
 		(:url . "https://github.com/tigersoldier/company-lsp"))])
+ (company-org-roam .
+		   [(20200511 743)
+		    ((emacs
+		      (26 1))
+		     (company
+		      (0 9 0))
+		     (dash
+		      (2 13))
+		     (org-roam
+		      (1 0 0)))
+		    "Company backend for Org-roam" single
+		    ((:commit . "674c2bd493f571c5323d69279557a6c18ccbd14e")
+		     (:authors
+		      ("Jethro Kuan" . "jethrokuan95@gmail.com"))
+		     (:maintainer "Jethro Kuan" . "jethrokuan95@gmail.com")
+		     (:keywords "org-mode" "roam" "convenience")
+		     (:url . "https://github.com/jethrokuan/company-org-roam"))])
  (company-quickhelp .
 		    [(20180525 1003)
 		     ((emacs
@@ -1477,18 +1494,18 @@
 		 nil "Increase selected region by semantic units." tar
 		 ((:commit . "ea6b4cbb9985ddae532bd2faf9bb00570c9f2781"))])
  (eyebrowse .
-	    [(20190928 1458)
+	    [(20200506 1303)
 	     ((dash
 	       (2 7 0))
 	      (emacs
 	       (24 3 1)))
 	     "Easy window config switching" single
-	     ((:commit . "e483d35e905c2e26fac63f33c77b9e764729a364")
+	     ((:commit . "bde0eb8f56ec7e2501dc33154c273e43cafb1e5d")
 	      (:authors
-	       ("Vasilij Schneidermann" . "v.schneidermann@gmail.com"))
-	      (:maintainer "Vasilij Schneidermann" . "v.schneidermann@gmail.com")
+	       ("Vasilij Schneidermann" . "mail@vasilij.de"))
+	      (:maintainer "Vasilij Schneidermann" . "mail@vasilij.de")
 	      (:keywords "convenience")
-	      (:url . "https://github.com/wasamasa/eyebrowse"))])
+	      (:url . "https://depp.brause.cc/eyebrowse"))])
  (f .
     [(20191110 1357)
      ((s
@@ -3219,13 +3236,13 @@
 	     (:keywords "ahungry" "jira" "org" "bug" "tracker")
 	     (:url . "https://github.com/ahungry/org-jira"))])
  (org-mime .
-	   [(20200323 130)
+	   [(20200502 1133)
 	    ((emacs
-	      (24 4))
+	      (25 1))
 	     (cl-lib
 	      (0 5)))
 	    "org html export for text/html MIME emails" single
-	    ((:commit . "778f818ad3d101f27786556c2a7a9995d5da47c6")
+	    ((:commit . "484bf3b0b8af461805b9e30d175510c031bcfbc3")
 	     (:authors
 	      ("Eric Schulte"))
 	     (:maintainer "Chen Bin (redguardtoo)")
@@ -3318,7 +3335,7 @@
 		  (:keywords "tools" "outlines" "hypermedia" "slideshow" "presentation" "oer")
 		  (:url . "https://gitlab.com/oer/org-re-reveal"))])
  (org-roam .
-	   [(20200419 1824)
+	   [(20200516 1203)
 	    ((emacs
 	      (26 1))
 	     (dash
@@ -3334,12 +3351,12 @@
 	     (emacsql-sqlite
 	      (1 0 0)))
 	    "Roam Research replica with Org-mode" tar
-	    ((:commit . "228af5b6be3b2dfd60dae0dd9a517ebb6fee5b8b")
+	    ((:commit . "265182a698be6babcbb11718c2821c747b1cff52")
 	     (:authors
 	      ("Jethro Kuan" . "jethrokuan95@gmail.com"))
 	     (:maintainer "Jethro Kuan" . "jethrokuan95@gmail.com")
 	     (:keywords "org-mode" "roam" "convenience")
-	     (:url . "https://github.com/jethrokuan/org-roam"))])
+	     (:url . "https://github.com/org-roam/org-roam"))])
  (org-super-agenda .
 		   [(20200310 1337)
 		    ((emacs
