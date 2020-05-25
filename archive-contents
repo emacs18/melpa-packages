@@ -1202,6 +1202,10 @@
 	     (:maintainer "Chunyang Xu" . "mail@xuchunyang.me")
 	     (:keywords "convenience")
 	     (:url . "https://github.com/xuchunyang/eshell-z"))])
+ (esxml .
+	[(20171129 807)
+	 nil "Library for working with xml via esxml and sxml" tar
+	 ((:commit . "193d199305e7abcb5ed795b9bc5434ded20ae60e"))])
  (eval-sexp-fu .
 	       [(20191128 825)
 		((cl-lib
