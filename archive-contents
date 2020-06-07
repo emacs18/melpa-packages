@@ -748,7 +748,7 @@
 	    (swiper
 	     (0 13 0)))
 	   "Various completion functions using Ivy" single
-	   ((:commit . "8d840b2e8680e2768edb794c9ccecf975f6ba4cf")
+	   ((:commit . "0eebf240bfe656990ba36fbcf8341713b8fb69b3")
 	    (:authors
 	     ("Oleh Krehel" . "ohwoeowho@gmail.com"))
 	    (:maintainer "Oleh Krehel" . "ohwoeowho@gmail.com")
@@ -2889,7 +2889,7 @@
 		 (:keywords "languages")
 		 (:url . "https://github.com/emacs-lsp/lsp-treemacs"))])
  (lsp-ui .
-	 [(20200530 618)
+	 [(20200607 2009)
 	  ((emacs
 	    (26 1))
 	   (dash
@@ -2901,11 +2901,11 @@
 	   (markdown-mode
 	    (2 3)))
 	  "UI modules for lsp-mode" tar
-	  ((:commit . "c3e7a3759b52fe0f9c6f0f6668f1d6d88e4f784a")
+	  ((:commit . "d92cf83d95c9ca177b735500ead88cf68dc2e2db")
+	   (:keywords "languages" "tools")
 	   (:authors
 	    ("Sebastien Chapuis <sebastien@chapu.is>, Fangrui Song" . "i@maskray.me"))
 	   (:maintainer "Sebastien Chapuis <sebastien@chapu.is>, Fangrui Song" . "i@maskray.me")
-	   (:keywords "languages" "tools")
 	   (:url . "https://github.com/emacs-lsp/lsp-ui"))])
  (lv .
      [(20200227 1301)
