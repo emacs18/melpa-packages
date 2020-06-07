@@ -1,2 +1,2 @@
 
-(projectile . [(20200517 1330) ((emacs (25 1)) (pkg-info (0 4))) "Manage and navigate projects in Emacs easily" single ((:commit . "5103cfc4248bc341d24c0c96f0728962c85bf8ed") (:authors ("Bozhidar Batsov" . "bozhidar@batsov.com")) (:maintainer "Bozhidar Batsov" . "bozhidar@batsov.com") (:keywords "project" "convenience") (:url . "https://github.com/bbatsov/projectile"))])
+(projectile . [(20200517 1330) ((emacs (25 1)) (pkg-info (0 4))) "Manage and navigate projects in Emacs easily" single ((:commit . "7e552b6d876014ca5b4609318ca8a202b2a89014") (:authors ("Bozhidar Batsov" . "bozhidar@batsov.com")) (:maintainer "Bozhidar Batsov" . "bozhidar@batsov.com") (:keywords "project" "convenience") (:url . "https://github.com/bbatsov/projectile"))])
