@@ -2110,7 +2110,7 @@
 	      (:keywords "markup" "languages" "html")
 	      (:url . "https://github.com/nex3/haml-mode"))])
  (helm .
-       [(20200606 1109)
+       [(20200607 2009)
 	((emacs
 	  (25 1))
 	 (async
@@ -2167,7 +2167,7 @@
 	      (async
 	       (1 9 4)))
 	     "Development files for Helm" tar
-	     ((:commit . "c4095aa01d3cead35ba041841bc143eca3f3f927")
+	     ((:commit . "f2a8255f75b957480eb71c326608a2820b82c08f")
 	      (:url . "https://emacs-helm.github.io/helm/"))])
  (helm-css-scss .
 		[(20191230 1549)
@@ -2629,11 +2629,11 @@
 		   (:keywords "shebang" "tool" "convenience")
 		   (:url . "http://github.com/psachin/insert-shebang"))])
  (ivy .
-      [(20200605 1329)
+      [(20200607 1539)
        ((emacs
 	 (24 5)))
        "Incremental Vertical completYon" tar
-       ((:commit . "8d840b2e8680e2768edb794c9ccecf975f6ba4cf")
+       ((:commit . "0eebf240bfe656990ba36fbcf8341713b8fb69b3")
 	(:authors
 	 ("Oleh Krehel" . "ohwoeowho@gmail.com"))
 	(:maintainer "Oleh Krehel" . "ohwoeowho@gmail.com")
@@ -2826,7 +2826,7 @@
 		(:maintainer "Joe Schafer" . "joe@jschaf.com")
 		(:keywords "tools" "language" "convenience"))])
  (lsp-mode .
-	   [(20200606 1452)
+	   [(20200607 2011)
 	    ((emacs
 	      (25 1))
 	     (dash
@@ -2844,7 +2844,7 @@
 	     (lv
 	      (0)))
 	    "LSP mode" tar
-	    ((:commit . "ad7b48915d3c9486ca63ea85e1a92922b7ea8213")
+	    ((:commit . "865e78e5f49365270815930c1efc4dc4baf9fbbb")
 	     (:authors
 	      ("Vibhav Pant, Fangrui Song, Ivan Yonchovski"))
 	     (:maintainer "Vibhav Pant, Fangrui Song, Ivan Yonchovski")
@@ -2866,7 +2866,7 @@
 		  (:keywords "languages" "tools")
 		  (:url . "https://github.com/andrew-christianson/lsp-python-ms"))])
  (lsp-treemacs .
-	       [(20200606 1456)
+	       [(20200607 1943)
 		((emacs
 		  (25 1))
 		 (dash
@@ -2882,7 +2882,7 @@
 		 (lsp-mode
 		  (6 0)))
 		"LSP treemacs" tar
-		((:commit . "bf054531c278c5d41de504bec3c3df3f2e76c132")
+		((:commit . "90754e4189fc78be31f338383db3d8a2042fd8bc")
 		 (:authors
 		  ("Ivan Yonchovski"))
 		 (:maintainer "Ivan Yonchovski")
@@ -3337,7 +3337,7 @@
 		  (:keywords "tools" "outlines" "hypermedia" "slideshow" "presentation" "oer")
 		  (:url . "https://gitlab.com/oer/org-re-reveal"))])
  (org-roam .
-	   [(20200606 1127)
+	   [(20200607 1410)
 	    ((emacs
 	      (26 1))
 	     (dash
@@ -3353,7 +3353,7 @@
 	     (emacsql-sqlite3
 	      (1 0 0)))
 	    "Roam Research replica with Org-mode" tar
-	    ((:commit . "81e7a5b23101887a60516f4a7645863ed327e8d5")
+	    ((:commit . "30599cc3e80007de6a8b226b0f13e380ad1eecd6")
 	     (:authors
 	      ("Jethro Kuan" . "jethrokuan95@gmail.com"))
 	     (:maintainer "Jethro Kuan" . "jethrokuan95@gmail.com")
@@ -3475,11 +3475,11 @@
 	    (:keywords "outlines" "hypermedia" "wp")
 	    (:url . "https://github.com/stig/ox-jira.el"))])
  (ox-reveal .
-	    [(20200530 1118)
+	    [(20200607 1311)
 	     ((org
 	       (8 3)))
 	     "reveal.js Presentation Back-End for Org Export Engine" single
-	     ((:commit . "92af0d0a3e868207a233e35277d2b7e14260e11c")
+	     ((:commit . "84039bb499290926511b04749882ecb5eda45a0c")
 	      (:authors
 	       ("Yujie Wen <yjwen.ty at gmail dot com>"))
 	      (:maintainer "Yujie Wen <yjwen.ty at gmail dot com>")
