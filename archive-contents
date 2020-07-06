@@ -1,5 +1,5 @@
 (1
- (org-plus-contrib . [(20200704) ( ) "Outline-based notes management and organizer" tar])
+ (org-plus-contrib . [(20200706) ( ) "Outline-based notes management and organizer" tar])
  (a .
     [(20180907 953)
      ((emacs
