@@ -9,7 +9,6 @@
 ;; Maintainer: Yasuyuki Oka <yasuyk@gmail.com>
 ;; Version: 0.10.1
 ;; Package-Version: 20170614.1411
-;; Package-Commit: 744cea07dba6e6a5effbdba83f1b786c78fd86d3
 ;; URL: https://github.com/yasuyk/helm-git-grep
 ;; Package-Requires: ((helm-core "2.2.0"))
 

@@ -5,7 +5,6 @@
 
 ;; Version: 17.0.0
 ;; Package-Version: 20200612.1038
-;; Package-Commit: 60ffd878c4371644bd964f00fea38054645e3e47
 ;; Author: François-Xavier Bois <fxbois AT Google Mail Service>
 ;; Maintainer: François-Xavier Bois
 ;; Package-Requires: ((emacs "23.1"))

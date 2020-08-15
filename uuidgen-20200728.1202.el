@@ -6,7 +6,6 @@
 ;; Created: 08 Nov 2010
 ;; Version: 1.1
 ;; Package-Version: 20200728.1202
-;; Package-Commit: b59aefaed69dda2f704bbc63b13d120fa387309b
 ;; Keywords: extensions, lisp, tools
 
 ;; This file is NOT part of GNU Emacs.

@@ -6,7 +6,6 @@
 ;; Homepage: https://github.com/proofit404/blacken
 ;; Version: 0.0.1
 ;; Package-Version: 20200626.2018
-;; Package-Commit: 784da60033fe3743336d1da0f33239f1bf514266
 ;; Package-Requires: ((emacs "25.2"))
 
 ;; This file is free software; you can redistribute it and/or modify

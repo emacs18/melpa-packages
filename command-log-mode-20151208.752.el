@@ -9,7 +9,6 @@
 ;; Author: Michael Weber <michaelw@foldr.org>
 ;; Keywords: help
 ;; Package-Version: 20151208.752
-;; Package-Commit: 71fb6031721716f48c0cfa333a44d7adbe2fab96
 ;; Initial-version: <2004-10-07 11:41:28 michaelw>
 ;; Time-stamp: <2004-11-06 17:08:11 michaelw>
 

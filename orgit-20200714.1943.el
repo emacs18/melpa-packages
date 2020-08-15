@@ -7,7 +7,6 @@
 
 ;; Package-Requires: ((emacs "25.1") (magit "2.90.1") (org "9.3"))
 ;; Package-Version: 20200714.1943
-;; Package-Commit: ac9b1a42863a864fde9d225890ef5464bffdc646
 ;; Homepage: https://github.com/magit/orgit
 
 ;; This library is free software; you can redistribute it and/or modify

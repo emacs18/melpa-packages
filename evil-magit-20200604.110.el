@@ -5,7 +5,6 @@
 ;; Author: Justin Burkett <justin@burkett.cc>
 ;; Package-Requires: ((evil "1.2.3") (magit "2.6.0"))
 ;; Package-Version: 20200604.110
-;; Package-Commit: 88dc26ce59dbf4acb4e2891c79c4bd329553ba56
 ;; Homepage: https://github.com/justbur/evil-magit
 ;; Version: 0.4.1
 
