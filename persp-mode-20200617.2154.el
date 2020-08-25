@@ -5,6 +5,7 @@
 ;; Author: Constantin Kulikov (Bad_ptr) <zxnotdead@gmail.com>
 ;; Version: 3.0.0
 ;; Package-Version: 20200617.2154
+;; Package-Commit: 14325c11f7a347717d7c3780f29b24a38c68fbfc
 ;; Package-Requires: ((emacs "24.3"))
 ;; Keywords: perspectives, session, workspace, persistence, windows, buffers, convenience
 ;; URL: https://github.com/Bad-ptr/persp-mode.el

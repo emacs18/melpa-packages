@@ -6,6 +6,7 @@
 ;; Maintainer: Oleh Krehel <ohwoeowho@gmail.com>
 ;; URL: https://github.com/abo-abo/ace-window
 ;; Package-Version: 20200606.1259
+;; Package-Commit: c7cb315c14e36fded5ac4096e158497ae974bec9
 ;; Version: 0.10.0
 ;; Package-Requires: ((avy "0.5.0"))
 ;; Keywords: window, location

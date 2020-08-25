@@ -5,6 +5,7 @@
 ;; Author: Tomohiro Matsuyama <m2ym.pub@gmail.com>
 ;; Keywords: lisp
 ;; Package-Version: 20200610.317
+;; Package-Commit: 9d104d4bbbcb37bbc9d9ce762e74d41174683f86
 ;; Version: 0.5.8
 ;; Package-Requires: ((cl-lib "0.5"))
 

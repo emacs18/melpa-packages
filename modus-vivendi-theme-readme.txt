@@ -20,12 +20,13 @@ are disabled by default:
     modus-vivendi-theme-scale-headings                 (boolean)
     modus-vivendi-theme-fringes                        (choice)
     modus-vivendi-theme-org-blocks                     (choice)
+    modus-vivendi-theme-prompts                        (choice)
     modus-vivendi-theme-3d-modeline                    (boolean)
     modus-vivendi-theme-subtle-diffs                   (boolean)
     modus-vivendi-theme-faint-syntax                   (boolean)
     modus-vivendi-theme-intense-hl-line                (boolean)
     modus-vivendi-theme-intense-paren-match            (boolean)
-    modus-vivendi-theme-intense-standard-completions   (boolean)
+    modus-vivendi-theme-completions                    (choice)
     modus-vivendi-theme-override-colors-alist          (alist)
 
 The default scale is as follows (it can be customised as well):
@@ -249,6 +250,7 @@ notify me of any missing package or change you would like to see.
     ruler-mode
     sallet
     selectrum
+    semantic
     sesman
     shell-script-mode
     show-paren-mode
@@ -257,6 +259,7 @@ notify me of any missing package or change you would like to see.
     smart-mode-line
     smartparens
     smerge
+    spaceline
     speedbar
     spell-fu
     stripes

@@ -20,12 +20,13 @@ are disabled by default:
     modus-operandi-theme-scale-headings                 (boolean)
     modus-operandi-theme-fringes                        (choice)
     modus-operandi-theme-org-blocks                     (choice)
+    modus-operandi-theme-prompts                        (choice)
     modus-operandi-theme-3d-modeline                    (boolean)
     modus-operandi-theme-subtle-diffs                   (boolean)
     modus-operandi-theme-faint-syntax                   (boolean)
     modus-operandi-theme-intense-hl-line                (boolean)
     modus-operandi-theme-intense-paren-match            (boolean)
-    modus-operandi-theme-intense-standard-completions   (boolean)
+    modus-operandi-theme-completions                    (choice)
     modus-operandi-theme-override-colors-alist          (alist)
 
 The default scale is as follows (it can be customised as well):
@@ -249,6 +250,7 @@ notify me of any missing package or change you would like to see.
     ruler-mode
     sallet
     selectrum
+    semantic
     sesman
     shell-script-mode
     show-paren-mode
@@ -257,6 +259,7 @@ notify me of any missing package or change you would like to see.
     smart-mode-line
     smartparens
     smerge
+    spaceline
     speedbar
     spell-fu
     stripes

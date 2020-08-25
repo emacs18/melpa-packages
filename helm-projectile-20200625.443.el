@@ -5,6 +5,7 @@
 ;; Author: Bozhidar Batsov
 ;; URL: https://github.com/bbatsov/helm-projectile
 ;; Package-Version: 20200625.443
+;; Package-Commit: 2f3a2a03d6cb9419c25b432637aa11c8d2f9f3b7
 ;; Created: 2011-31-07
 ;; Keywords: project, convenience
 ;; Version: 1.1.0-snapshot

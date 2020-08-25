@@ -6,6 +6,7 @@
 ;; Homepage: https://github.com/emacscollective/closql
 ;; Package-Requires: ((emacs "25.1") (emacsql-sqlite "3.0.0"))
 ;; Package-Version: 20200704.2124
+;; Package-Commit: c864c1fadfea4a05fff29cb60891b7a32ac88c78
 ;; Keywords: extensions
 
 ;; This file is not part of GNU Emacs.

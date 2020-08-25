@@ -5,6 +5,7 @@
 ;; Author: Nathaniel Flath <flat0103@gmail.com>
 ;; URL: http://github.com/nflath/hungry-delete
 ;; Package-Version: 20200807.2257
+;; Package-Commit: 671d941de0176255b79820a662d5a694607cf28a
 ;; Version: 1.1.7
 
 ;; This file is not part of GNU Emacs.

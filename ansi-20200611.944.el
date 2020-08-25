@@ -6,6 +6,7 @@
 ;; Maintainer: Johan Andersson <johan.rejeep@gmail.com>
 ;; Version: 0.4.1
 ;; Package-Version: 20200611.944
+;; Package-Commit: a41d5cc719297515d85bb5256980cd1204a71b88
 ;; Keywords: terminals color ansi
 ;; URL: http://github.com/rejeep/ansi
 ;; Package-Requires: ((emacs "24.1") (cl-lib "0.6") (s "1.6.1") (dash "1.5.0"))

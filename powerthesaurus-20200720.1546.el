@@ -5,6 +5,7 @@
 ;; Authors: Valeriy Savchenko <sinmipt@gmail.com>
 ;; URL: http://github.com/SavchenkoValeriy/emacs-powerthesaurus
 ;; Package-Version: 20200720.1546
+;; Package-Commit: 93036d3b111925ebc34f747ff846cb0b8669b92e
 ;; Version: 0.1.0
 ;; Package-Requires: ((emacs "24") (request "0.3.0") (s "1.12.0") (jeison "1.0.0"))
 ;; Keywords: convenience, writing
