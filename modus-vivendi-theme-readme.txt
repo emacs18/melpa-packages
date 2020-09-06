@@ -21,8 +21,8 @@ are disabled by default:
     modus-vivendi-theme-fringes                        (choice)
     modus-vivendi-theme-org-blocks                     (choice)
     modus-vivendi-theme-prompts                        (choice)
-    modus-vivendi-theme-3d-modeline                    (boolean)
-    modus-vivendi-theme-subtle-diffs                   (boolean)
+    modus-vivendi-theme-mode-line                      (choice)
+    modus-vivendi-theme-diffs                          (choice)
     modus-vivendi-theme-faint-syntax                   (boolean)
     modus-vivendi-theme-intense-hl-line                (boolean)
     modus-vivendi-theme-intense-paren-match            (boolean)
@@ -54,6 +54,8 @@ notify me of any missing package or change you would like to see.
     auctex and TeX
     auto-dim-other-buffers
     avy
+    awesome-tray
+    binder
     bm
     bongo
     boon
@@ -105,6 +107,7 @@ notify me of any missing package or change you would like to see.
     ediff
     eglot
     el-search
+    eldoc
     eldoc-box
     elfeed
     elfeed-score
@@ -119,6 +122,7 @@ notify me of any missing package or change you would like to see.
     eshell-fringe-status
     eshell-git-prompt
     eshell-prompt-extras (epe)
+    eshell-syntax-highlighting
     evil (evil-mode)
     evil-goggles
     evil-visual-mark-mode
@@ -210,6 +214,7 @@ notify me of any missing package or change you would like to see.
     notmuch
     num3-mode
     nxml-mode
+    objed
     orderless
     org
     org-journal
@@ -239,6 +244,7 @@ notify me of any missing package or change you would like to see.
     powerline-evil
     proced
     prodigy
+    racket-mode
     rainbow-blocks
     rainbow-identifiers
     rainbow-delimiters
