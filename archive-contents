@@ -3510,7 +3510,7 @@
 		  (:keywords "tools" "outlines" "hypermedia" "slideshow" "presentation" "oer")
 		  (:url . "https://gitlab.com/oer/org-re-reveal"))])
  (org-roam .
-	   [(20200904 1305)
+	   [(20200912 1130)
 	    ((emacs
 	      (26 1))
 	     (dash
@@ -3526,7 +3526,7 @@
 	     (emacsql-sqlite3
 	      (1 0 0)))
 	    "Roam Research replica with Org-mode" tar
-	    ((:commit . "e3ff54616ec8c7c921aee50efd1400e7514cdfb0")
+	    ((:commit . "fac0465dd81732e9bbe684a3ce63260f10e7049c")
 	     (:authors
 	      ("Jethro Kuan" . "jethrokuan95@gmail.com"))
 	     (:maintainer "Jethro Kuan" . "jethrokuan95@gmail.com")
