@@ -440,6 +440,13 @@
 			("Sylvain Benner" . "sylvain.benner@gmail.com"))
 		       (:maintainer "Sylvain Benner" . "sylvain.benner@gmail.com")
 		       (:keywords "languages" "clojure" "cider"))])
+ (clang-format .
+	       [(20191106 950)
+		((cl-lib
+		  (0 3)))
+		"Format code using clang-format" single
+		((:commit . "e48ff8ae18dc7ab6118c1f6752deb48cb1fc83ac")
+		 (:keywords "tools" "c"))])
  (clang-format+ .
 		[(20190824 2216)
 		 ((emacs
@@ -450,13 +457,6 @@
 		 ((:commit . "ddd4bfe1a13c2fd494ce339a320a51124c1d2f68")
 		  (:keywords "c" "c++" "clang-format")
 		  (:url . "https://github.com/SavchenkoValeriy/emacs-clang-format-plus"))])
- (clang-format .
-	       [(20191106 950)
-		((cl-lib
-		  (0 3)))
-		"Format code using clang-format" single
-		((:commit . "e48ff8ae18dc7ab6118c1f6752deb48cb1fc83ac")
-		 (:keywords "tools" "c"))])
  (clean-aindent-mode .
 		     [(20171017 2043)
 		      nil "Simple indent and unindent, trims indent white-space" single
@@ -777,6 +777,51 @@
 	    (:maintainer "Oleh Krehel" . "ohwoeowho@gmail.com")
 	    (:keywords "convenience" "matching" "tools")
 	    (:url . "https://github.com/abo-abo/swiper"))])
+ (counsel-css .
+	      [(20200331 632)
+	       ((emacs
+		 (24 4))
+		(counsel
+		 (0 7 0))
+		(cl-lib
+		 (0 5)))
+	       "stylesheet-selector-aware swiper" single
+	       ((:commit . "6427dfcbda0d2bbd81db03f9d6b56b06c260ac02")
+		(:authors
+		 ("Henrik Lissner <http://github/hlissner>"))
+		(:maintainer "Henrik Lissner" . "henrik@lissner.net")
+		(:keywords "convenience" "tools" "counsel" "swiper" "selector" "css" "less" "scss")
+		(:url . "https://github.com/hlissner/emacs-counsel-css"))])
+ (counsel-dash .
+	       [(20200103 1411)
+		((emacs
+		  (24 4))
+		 (dash-docs
+		  (1 4 0))
+		 (counsel
+		  (0 8 0))
+		 (cl-lib
+		  (0 5)))
+		"Browse dash docsets using Ivy" single
+		((:commit . "370d5f6f14b5294d0eb717f7b2a6a8e93df1ed24")
+		 (:authors
+		  ("Nathan Kot" . "nk@nathankot.com"))
+		 (:maintainer "Nathan Kot" . "nk@nathankot.com")
+		 (:keywords "dash" "ivy" "counsel")
+		 (:url . "https://github.com/nathankot/counsel-dash"))])
+ (counsel-projectile .
+		     [(20200522 1131)
+		      ((counsel
+			(0 13 0))
+		       (projectile
+			(2 0 0)))
+		      "Ivy integration for Projectile" single
+		      ((:commit . "77392cbbc42e98fc137b43f1db1b111ba6e2dd75")
+		       (:authors
+			("Eric Danan"))
+		       (:maintainer "Eric Danan")
+		       (:keywords "project" "convenience")
+		       (:url . "https://github.com/ericdanan/counsel-projectile"))])
  (cpp-auto-include .
 		   [(20191221 2319)
 		    ((cl-lib
@@ -1792,6 +1837,20 @@
 			   ("Boris Buliga" . "boris@d12frosted.io"))
 			  (:maintainer "Boris Buliga" . "boris@d12frosted.io")
 			  (:url . "https://github.com/d12frosted/flyspell-correct"))])
+ (flyspell-correct-ivy .
+		       [(20200513 708)
+			((flyspell-correct
+			  (0 6 1))
+			 (ivy
+			  (0 8 0))
+			 (emacs
+			  (24 3)))
+			"Correcting words with flyspell via ivy interface" single
+			((:commit . "6d603a1dc51918f7f8aaf99dd5443f74a0afc794")
+			 (:authors
+			  ("Boris Buliga" . "boris@d12frosted.io"))
+			 (:maintainer "Boris Buliga" . "boris@d12frosted.io")
+			 (:url . "https://github.com/d12frosted/flyspell-correct"))])
  (font-lock+ .
 	     [(20180101 1939)
 	      nil "Enhancements to standard library `font-lock.el'." single
@@ -1951,6 +2010,16 @@
 	       (:maintainer "Jonas Bernoulli" . "jonas@bernoul.li")
 	       (:keywords "git" "tools" "vc")
 	       (:url . "https://github.com/magit/magit"))])
+ (git-gutter .
+	     [(20200326 1814)
+	      ((emacs
+		(24 3)))
+	      "Port of Sublime Text plugin GitGutter" single
+	      ((:commit . "2c3242116a42dbbe30fc0844d1ec3c41074cdaba")
+	       (:authors
+		("Syohei YOSHIDA" . "syohex@gmail.com"))
+	       (:maintainer "Neil Okamoto" . "neil.okamoto+melpa@gmail.com")
+	       (:url . "https://github.com/emacsorphanage/git-gutter"))])
  (git-gutter+ .
 	      [(20151204 1723)
 	       ((git-commit
@@ -1964,28 +2033,6 @@
 		(:maintainer "Syohei YOSHIDA" . "syohex@gmail.com")
 		(:keywords "git" "vc")
 		(:url . "https://github.com/nonsequitur/git-gutter-plus"))])
- (git-gutter .
-	     [(20200326 1814)
-	      ((emacs
-		(24 3)))
-	      "Port of Sublime Text plugin GitGutter" single
-	      ((:commit . "2c3242116a42dbbe30fc0844d1ec3c41074cdaba")
-	       (:authors
-		("Syohei YOSHIDA" . "syohex@gmail.com"))
-	       (:maintainer "Neil Okamoto" . "neil.okamoto+melpa@gmail.com")
-	       (:url . "https://github.com/emacsorphanage/git-gutter"))])
- (git-gutter-fringe+ .
-		     [(20140729 1103)
-		      ((git-gutter+
-			(0 1))
-		       (fringe-helper
-			(1 0 1)))
-		      "Fringe version of git-gutter+.el" single
-		      ((:commit . "7a2f49d2455a3a872e90e5f7dd4e6b27f1d96cfc")
-		       (:authors
-			("Syohei YOSHIDA" . "syohex@gmail.com"))
-		       (:maintainer "Syohei YOSHIDA" . "syohex@gmail.com")
-		       (:url . "https://github.com/nonsequitur/git-gutter-fringe-plus"))])
  (git-gutter-fringe .
 		    [(20200323 2249)
 		     ((git-gutter
@@ -2002,6 +2049,18 @@
 		       ("Syohei YOSHIDA" . "syohex@gmail.com"))
 		      (:maintainer "Neil Okamoto" . "neil.okamoto+melpa@gmail.com")
 		      (:url . "https://github.com/emacsorphanage/git-gutter-fringe"))])
+ (git-gutter-fringe+ .
+		     [(20140729 1103)
+		      ((git-gutter+
+			(0 1))
+		       (fringe-helper
+			(1 0 1)))
+		      "Fringe version of git-gutter+.el" single
+		      ((:commit . "7a2f49d2455a3a872e90e5f7dd4e6b27f1d96cfc")
+		       (:authors
+			("Syohei YOSHIDA" . "syohex@gmail.com"))
+		       (:maintainer "Syohei YOSHIDA" . "syohex@gmail.com")
+		       (:url . "https://github.com/nonsequitur/git-gutter-fringe-plus"))])
  (git-link .
 	   [(20200827 2326)
 	    ((emacs
@@ -2790,6 +2849,79 @@
 	(:maintainer "Oleh Krehel" . "ohwoeowho@gmail.com")
 	(:keywords "matching")
 	(:url . "https://github.com/abo-abo/swiper"))])
+ (ivy-hydra .
+	    [(20200608 1010)
+	     ((emacs
+	       (24 5))
+	      (ivy
+	       (0 13 0))
+	      (hydra
+	       (0 15 0)))
+	     "Additional key bindings for Ivy" single
+	     ((:commit . "7e4c56776f811f78b8eb95210156f8fbbdba67e7")
+	      (:authors
+	       ("Oleh Krehel" . "ohwoeowho@gmail.com"))
+	      (:maintainer "Oleh Krehel" . "ohwoeowho@gmail.com")
+	      (:keywords "convenience")
+	      (:url . "https://github.com/abo-abo/swiper"))])
+ (ivy-purpose .
+	      [(20160724 1003)
+	       ((emacs
+		 (24))
+		(ivy
+		 (0 8))
+		(window-purpose
+		 (1 5)))
+	       "Ivy Interface for Purpose" single
+	       ((:commit . "0495f2f3aed64d7e0028125e76a9a68f8fc4107e")
+		(:authors
+		 ("Bar Magal (2016)"))
+		(:maintainer "Bar Magal (2016)")
+		(:url . "https://github.com/bmag/ivy-purpose"))])
+ (ivy-rtags .
+	    [(20191222 920)
+	     ((ivy
+	       (0 7 0))
+	      (rtags
+	       (2 10)))
+	     "RTags completion back-end for ivy" single
+	     ((:commit . "c0637f235e43863b8c52735ad00db2c7cdf93cc0")
+	      (:authors
+	       ("Jan Erik Hanssen" . "jhanssen@gmail.com")
+	       ("Anders Bakken" . "agbakken@gmail.com"))
+	      (:maintainer "Jan Erik Hanssen" . "jhanssen@gmail.com")
+	      (:url . "https://github.com/Andersbakken/rtags"))])
+ (ivy-xref .
+	   [(20191126 401)
+	    ((emacs
+	      (25 1))
+	     (ivy
+	      (0 10 0)))
+	    "Ivy interface for xref results" single
+	    ((:commit . "3d4c35fe2b243d948d8fe02a1f0d76a249d63de9")
+	     (:authors
+	      ("Alex Murray" . "murray.alex@gmail.com"))
+	     (:maintainer "Alex Murray" . "murray.alex@gmail.com")
+	     (:url . "https://github.com/alexmurray/ivy-xref"))])
+ (ivy-yasnippet .
+		[(20200704 700)
+		 ((emacs
+		   (24 1))
+		  (cl-lib
+		   (0 6))
+		  (ivy
+		   (0 10 0))
+		  (yasnippet
+		   (0 12 2))
+		  (dash
+		   (2 14 1)))
+		 "Preview yasnippets with ivy" single
+		 ((:commit . "83402d91b4eba5307f71884a72df8e11cc6a994e")
+		  (:authors
+		   ("Michał Krzywkowski" . "k.michal@zoho.com"))
+		  (:maintainer "Michał Krzywkowski" . "k.michal@zoho.com")
+		  (:keywords "convenience")
+		  (:url . "https://github.com/mkcms/ivy-yasnippet"))])
  (jeison .
 	 [(20190721 1651)
 	  ((emacs
@@ -2983,6 +3115,20 @@
 		 ("Jean-Philippe Theberge" . "jphil21@sourceforge.net"))
 		(:maintainer "Joe Schafer" . "joe@jschaf.com")
 		(:keywords "tools" "language" "convenience"))])
+ (lsp-ivy .
+	  [(20200701 2043)
+	   ((emacs
+	     (25 1))
+	    (dash
+	     (2 14 1))
+	    (lsp-mode
+	     (6 2 1))
+	    (ivy
+	     (0 13 0)))
+	   "LSP ivy integration" single
+	   ((:commit . "20cac6296e5038b7131ee6f34a96635f1d30fe3c")
+	    (:keywords "languages" "debug")
+	    (:url . "https://github.com/emacs-lsp/lsp-ivy"))])
  (lsp-mode .
 	   [(20200906 1919)
 	    ((emacs
@@ -4249,6 +4395,17 @@
 	      ("Syohei YOSHIDA" . "syohex@gmail.com"))
 	     (:maintainer "Neil Okamoto" . "neil.okamoto+melpa@gmail.com")
 	     (:url . "https://github.com/emacsorphanage/smeargle"))])
+ (smex .
+       [(20151212 2209)
+	((emacs
+	  (24)))
+	"M-x interface with Ido-style fuzzy matching." single
+	((:commit . "55aaebe3d793c2c990b39a302eb26c184281c42c")
+	 (:authors
+	  ("Cornelius Mika" . "cornelius.mika@gmail.com"))
+	 (:maintainer "Cornelius Mika" . "cornelius.mika@gmail.com")
+	 (:keywords "convenience" "usability")
+	 (:url . "http://github.com/nonsequitur/smex/"))])
  (spaceline .
 	    [(20191230 1221)
 	     ((emacs
