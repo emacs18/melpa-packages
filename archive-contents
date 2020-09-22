@@ -3683,7 +3683,7 @@
 		  (:keywords "convenience" "hypermedia" "org")
 		  (:url . "https://github.com/unhammer/org-rich-yank"))])
  (org-roam .
-	   [(20200912 1748)
+	   [(20200922 1235)
 	    ((emacs
 	      (26 1))
 	     (dash
@@ -3697,9 +3697,9 @@
 	     (emacsql
 	      (3 0 0))
 	     (emacsql-sqlite3
-	      (1 0 0)))
+	      (1 0 2)))
 	    "Roam Research replica with Org-mode" tar
-	    ((:commit . "70539c40d231b9d35d4757f7869f8c0d8aeef363")
+	    ((:commit . "cd87cfdd58f402f687306bad082d1def3a1e3636")
 	     (:authors
 	      ("Jethro Kuan" . "jethrokuan95@gmail.com"))
 	     (:maintainer "Jethro Kuan" . "jethrokuan95@gmail.com")
