@@ -4507,6 +4507,21 @@
 			    (:maintainer "Dominic Charlesworth" . "dgc336@gmail.com")
 			    (:keywords "convenience" "lisp" "tools")
 			    (:url . "https://github.com/domtronn/spaceline-all-the-icons.el"))])
+ (sphinx-doc .
+	     [(20160116 1117)
+	      ((s
+		(1 9 0))
+	       (cl-lib
+		(0 5))
+	       (dash
+		(2 10 0)))
+	      "Sphinx friendly docstrings for Python functions" single
+	      ((:commit . "f39da2e6cae55d5d7c7ce887e69755b7529bcd67")
+	       (:authors
+		("Vineet Naik" . "naikvin@gmail.com"))
+	       (:maintainer "Vineet Naik" . "naikvin@gmail.com")
+	       (:keywords "sphinx" "python")
+	       (:url . "https://github.com/naiquevin/sphinx-doc.el"))])
  (string-inflection .
 		    [(20200517 115)
 		     nil "underscore -> UPCASE -> CamelCase -> lowerCamelCase conversion of names" single
