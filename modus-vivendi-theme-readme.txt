@@ -15,8 +15,8 @@ are disabled by default:
     modus-vivendi-theme-slanted-constructs             (boolean)
     modus-vivendi-theme-bold-constructs                (boolean)
     modus-vivendi-theme-variable-pitch-headings        (boolean)
-    modus-vivendi-theme-rainbow-headings               (boolean)
-    modus-vivendi-theme-section-headings               (boolean)
+    modus-vivendi-theme-no-mixed-fonts                 (boolean)
+    modus-vivendi-theme-headings                       (alist)
     modus-vivendi-theme-scale-headings                 (boolean)
     modus-vivendi-theme-fringes                        (choice)
     modus-vivendi-theme-org-blocks                     (choice)
@@ -26,6 +26,7 @@ are disabled by default:
     modus-vivendi-theme-faint-syntax                   (boolean)
     modus-vivendi-theme-intense-hl-line                (boolean)
     modus-vivendi-theme-intense-paren-match            (boolean)
+    modus-vivendi-theme-links                          (choice)
     modus-vivendi-theme-completions                    (choice)
     modus-vivendi-theme-override-colors-alist          (alist)
 
@@ -78,6 +79,7 @@ notify me of any missing package or change you would like to see.
     counsel-notmuch
     counsel-org-capture-string
     cov
+    cperl-mode
     csv-mode
     ctrlf
     custom (M-x customize)
@@ -91,6 +93,7 @@ notify me of any missing package or change you would like to see.
     diff-hl
     diff-mode
     dim-autoload
+    dir-treeview
     dired
     dired-async
     dired-git
@@ -130,6 +133,7 @@ notify me of any missing package or change you would like to see.
     eyebrowse
     fancy-dabbrev
     flycheck
+    flycheck-color-mode-line
     flycheck-indicator
     flycheck-posframe
     flymake
@@ -206,6 +210,7 @@ notify me of any missing package or change you would like to see.
     minimap
     modeline
     mood-line
+    mpdel
     mu4e
     mu4e-conversation
     multiple-cursors
@@ -287,6 +292,7 @@ notify me of any missing package or change you would like to see.
     treemacs
     tty-menu
     tuareg
+    typescript
     undo-tree
     vc (built-in mode line status for version control)
     vc-annotate (C-x v g)
