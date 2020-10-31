@@ -2762,6 +2762,20 @@
 	     ("joddie <jonxfield at gmail.com>"))
 	    (:maintainer "joddie <jonxfield at gmail.com>")
 	    (:url . "https://github.com/joddie/pcre2el"))])
+ (pdf-tools .
+	    [(20200512 1524)
+	     ((emacs
+	       (24 3))
+	      (tablist
+	       (1 0))
+	      (let-alist
+		  (1 0 4)))
+	     "Support library for PDF documents." tar
+	     ((:commit . "c510442ab89c8a9e9881230eeb364f4663f59e76")
+	      (:authors
+	       ("Andreas Politz" . "politza@fh-trier.de"))
+	      (:maintainer "Andreas Politz" . "politza@fh-trier.de")
+	      (:keywords "files" "multimedia"))])
  (persp-mode .
 	     [(20200920 1506)
 	      ((emacs
