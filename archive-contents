@@ -4360,9 +4360,9 @@
 			 (:keywords "os x" "finder")
 			 (:url . "https://github.com/kaz-yos/reveal-in-osx-finder"))])
  (rklisp .
-	 [(20201107 445)
+	 [(20201119 451)
 	  nil "No description available." tar
-	  ((:commit . "e34b379fcf32908a14aa624a8b470be4633f485e"))])
+	  ((:commit . "b4cb35d177e3be87786a3e5a264b4f7695e2a5d1"))])
  (rtags .
 	[(20201008 1707)
 	 ((emacs
