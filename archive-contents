@@ -848,6 +848,14 @@
 	   (:maintainer "Tobias Pisani")
 	   (:keywords "languages" "lsp" "c++")
 	   (:url . "https://github.com/jacobdufault/cquery"))])
+ (csv .
+      [(20161113 1510)
+       nil "Functions for reading and parsing CSV files." single
+       ((:commit . "aa1dfa1263565d5fac3879c21d8ddf5f8915e411")
+	(:authors
+	 ("Ulf Jasper" . "ulf.jasper@web.de"))
+	(:maintainer "Ulf Jasper" . "ulf.jasper@web.de")
+	(:keywords "extensions" "data" "csv"))])
  (ctable .
 	 [(20171006 11)
 	  nil "Table component for Emacs Lisp" single
@@ -1008,6 +1016,19 @@
 	     (:maintainer "Martin Yrjölä" . "martin.yrjola@gmail.com")
 	     (:keywords "extensions" "diminish" "minor" "codeprose")
 	     (:url . "https://github.com/myrjola/diminish.el"))])
+ (dired-quick-sort .
+		   [(20201128 116)
+		    ((hydra
+		      (0 13 0))
+		     (emacs
+		      (24)))
+		    "Persistent quick sorting of dired buffers in various ways." single
+		    ((:commit . "9741bae65b5ca077a81589dcc6b3ca3c12f0f76f")
+		     (:authors
+		      ("Hong Xu" . "hong@topbug.net"))
+		     (:maintainer "Hong Xu" . "hong@topbug.net")
+		     (:keywords "convenience" "files")
+		     (:url . "https://gitlab.com/xuhdev/dired-quick-sort#dired-quick-sort"))])
  (disaster .
 	   [(20171016 2152)
 	    nil "Disassemble C/C++ code under cursor in Emacs" single
