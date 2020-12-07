@@ -38,6 +38,7 @@
 (require 'picture)
 (require 'subr-x)
 (require 'seq)
+(eval-and-compile (require 'helm-source))  ; for helm-build-sync-source
 
 (defgroup org-brain nil
   "Org-mode concept mapping"
