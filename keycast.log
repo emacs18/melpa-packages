@@ -1,0 +1,11 @@
+Package: keycast
+Fetcher: github
+Source:  https://github.com/tarsius/keycast.git
+
+Cloning https://github.com/tarsius/keycast.git to /home/kimr/repos/my/melpa/working/keycast/
+Built keycast in 2.595s, finished at Sat Feb 27 10:52:54 2021
+ ✓ Success:
+ 16K -rw-rw-r-- 1 kimr kimr  14K Feb 27 10:52 packages/keycast-20210123.1149.el
+4.0K -rw-rw-r-- 1 kimr kimr  347 Feb 27 10:52 packages/keycast-20210123.1149.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Feb 27 10:52 packages/keycast-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr  188 Feb 27 10:52 packages/keycast-readme.txt
