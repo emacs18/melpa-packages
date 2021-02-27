@@ -1,3 +1,4 @@
+
 This package offers a fancy and fast mode-line inspired by minimalism design.
 
 It's integrated into Doom Emacs (https://github.com/hlissner/doom-emacs) and

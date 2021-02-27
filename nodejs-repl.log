@@ -1,0 +1,11 @@
+Package: nodejs-repl
+Fetcher: github
+Source:  https://github.com/abicky/nodejs-repl.el.git
+
+Updating /home/kimr/repos/my/melpa/working/nodejs-repl/
+Built nodejs-repl in 1.157s, finished at Sat Feb 27 07:48:34 2021
+ ✓ Success:
+ 24K -rw-rw-r-- 1 kimr kimr  22K Feb 27 07:48 packages/nodejs-repl-20200802.1310.el
+4.0K -rw-rw-r-- 1 kimr kimr  222 Feb 27 07:48 packages/nodejs-repl-20200802.1310.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Feb 27 07:48 packages/nodejs-repl-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr 1.9K Feb 27 07:48 packages/nodejs-repl-readme.txt

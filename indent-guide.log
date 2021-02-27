@@ -1,0 +1,13 @@
+Package: indent-guide
+Fetcher: github
+Source:  https://github.com/zk-phi/indent-guide.git
+
+Updating /home/kimr/repos/my/melpa/working/indent-guide/
+Built indent-guide in 1.707s, finished at Sat Feb 27 07:47:07 2021
+ ✓ Success:
+ 16K -rw-rw-r-- 1 kimr kimr  13K Dec  6 19:54 packages/indent-guide-20191106.240.el
+4.0K -rw-rw-r-- 1 kimr kimr  229 Dec  6 19:54 packages/indent-guide-20191106.240.entry
+ 16K -rw-rw-r-- 1 kimr kimr  13K Feb 27 07:47 packages/indent-guide-20210115.400.el
+4.0K -rw-rw-r-- 1 kimr kimr  260 Feb 27 07:47 packages/indent-guide-20210115.400.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Feb 27 07:47 packages/indent-guide-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr  486 Feb 27 07:47 packages/indent-guide-readme.txt

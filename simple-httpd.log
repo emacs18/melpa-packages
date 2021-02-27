@@ -1,0 +1,11 @@
+Package: simple-httpd
+Fetcher: github
+Source:  https://github.com/skeeto/emacs-web-server.git
+
+Updating /home/kimr/repos/my/melpa/working/simple-httpd/
+Built simple-httpd in 1.499s, finished at Sat Feb 27 07:50:41 2021
+ ✓ Success:
+ 36K -rw-rw-r-- 1 kimr kimr  33K Feb 27 07:50 packages/simple-httpd-20191103.1446.el
+4.0K -rw-rw-r-- 1 kimr kimr  366 Feb 27 07:50 packages/simple-httpd-20191103.1446.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Feb 27 07:50 packages/simple-httpd-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr 3.5K Feb 27 07:50 packages/simple-httpd-readme.txt

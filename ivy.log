@@ -1,0 +1,50 @@
+Package: ivy
+Fetcher: github
+Source:  https://github.com/abo-abo/swiper.git
+
+Updating /home/kimr/repos/my/melpa/working/ivy/
+Copying files (->) and directories (=>)
+  from /home/kimr/repos/my/melpa/working/ivy/
+  to /tmp/ivyXALPfe/ivy-20210225.1251
+    colir.el -> colir.el
+    elpa.el -> elpa.el
+    ivy-faces.el -> ivy-faces.el
+    ivy-overlay.el -> ivy-overlay.el
+    ivy.el -> ivy.el
+  ! doc/ivy.texi -> ivy.texi
+  ! doc/ivy-help.org -> ivy-help.org
+Created /tmp/ivyXALPfe/ivy-20210225.1251/ivy.info
+Created ivy-20210225.1251.tar containing:
+  ivy-20210225.1251/
+  ivy-20210225.1251/colir.el
+  ivy-20210225.1251/dir
+  ivy-20210225.1251/elpa.el
+  ivy-20210225.1251/ivy-faces.el
+  ivy-20210225.1251/ivy-help.org
+  ivy-20210225.1251/ivy-overlay.el
+  ivy-20210225.1251/ivy-pkg.el
+  ivy-20210225.1251/ivy.el
+  ivy-20210225.1251/ivy.info
+Built ivy in 1.489s, finished at Sat Feb 27 07:47:11 2021
+ ✓ Success:
+4.0K -rw-rw-r-- 1 kimr kimr  310 Dec 19 20:46 packages/ivy-20201218.1222.entry
+300K -rw-rw-r-- 1 kimr kimr 300K Dec 19 20:46 packages/ivy-20201218.1222.tar
+4.0K -rw-rw-r-- 1 kimr kimr  362 Feb 27 07:47 packages/ivy-20210225.1251.entry
+300K -rw-rw-r-- 1 kimr kimr 300K Feb 27 07:47 packages/ivy-20210225.1251.tar
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Feb 27 07:47 packages/ivy-badge.svg
+8.0K -rw-rw-r-- 1 kimr kimr 5.8K Dec 19 20:46 packages/ivy-hydra-20200608.1010.el
+4.0K -rw-rw-r-- 1 kimr kimr  354 Dec 19 20:46 packages/ivy-hydra-20200608.1010.entry
+4.0K -rw-rw-r-- 1 kimr kimr  178 Dec 19 20:46 packages/ivy-hydra-readme.txt
+4.0K -rw-rw-r-- 1 kimr kimr 3.7K Dec  6 19:54 packages/ivy-purpose-20160724.1003.el
+4.0K -rw-rw-r-- 1 kimr kimr  289 Dec  6 19:54 packages/ivy-purpose-20160724.1003.entry
+4.0K -rw-rw-r-- 1 kimr kimr  856 Dec  6 19:54 packages/ivy-purpose-readme.txt
+4.0K -rw-rw-r-- 1 kimr kimr  396 Feb 27 07:47 packages/ivy-readme.txt
+8.0K -rw-rw-r-- 1 kimr kimr 4.8K Dec 19 20:46 packages/ivy-rtags-20191222.920.el
+4.0K -rw-rw-r-- 1 kimr kimr  364 Dec 19 20:46 packages/ivy-rtags-20191222.920.entry
+   0 -rw-rw-r-- 1 kimr kimr    0 Dec 19 20:46 packages/ivy-rtags-readme.txt
+8.0K -rw-rw-r-- 1 kimr kimr 5.3K Dec  6 19:54 packages/ivy-xref-20191126.401.el
+4.0K -rw-rw-r-- 1 kimr kimr  317 Dec  6 19:54 packages/ivy-xref-20191126.401.entry
+4.0K -rw-rw-r-- 1 kimr kimr  192 Dec  6 19:54 packages/ivy-xref-readme.txt
+ 12K -rw-rw-r-- 1 kimr kimr 8.9K Dec  6 19:54 packages/ivy-yasnippet-20200704.700.el
+4.0K -rw-rw-r-- 1 kimr kimr  405 Dec  6 19:54 packages/ivy-yasnippet-20200704.700.entry
+4.0K -rw-rw-r-- 1 kimr kimr  278 Dec  6 19:54 packages/ivy-yasnippet-readme.txt

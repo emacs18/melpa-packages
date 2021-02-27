@@ -1,0 +1,22 @@
+Package: counsel
+Fetcher: github
+Source:  https://github.com/abo-abo/swiper.git
+
+Updating /home/kimr/repos/my/melpa/working/counsel/
+Built counsel in 1.666s, finished at Sat Feb 27 07:42:30 2021
+ ✓ Success:
+264K -rw-rw-r-- 1 kimr kimr 264K Dec 19 20:46 packages/counsel-20201218.1218.el
+4.0K -rw-rw-r-- 1 kimr kimr  364 Dec 19 20:46 packages/counsel-20201218.1218.entry
+268K -rw-rw-r-- 1 kimr kimr 265K Feb 27 07:42 packages/counsel-20210226.1256.el
+4.0K -rw-rw-r-- 1 kimr kimr  433 Feb 27 07:42 packages/counsel-20210226.1256.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Feb 27 07:42 packages/counsel-badge.svg
+ 12K -rw-rw-r-- 1 kimr kimr 8.5K Dec  6 19:52 packages/counsel-css-20200331.632.el
+4.0K -rw-rw-r-- 1 kimr kimr  433 Dec  6 19:52 packages/counsel-css-20200331.632.entry
+4.0K -rw-rw-r-- 1 kimr kimr  141 Dec  6 19:52 packages/counsel-css-readme.txt
+4.0K -rw-rw-r-- 1 kimr kimr 3.8K Dec  6 19:52 packages/counsel-dash-20200103.1411.el
+4.0K -rw-rw-r-- 1 kimr kimr  385 Dec  6 19:52 packages/counsel-dash-20200103.1411.entry
+4.0K -rw-rw-r-- 1 kimr kimr  126 Dec  6 19:52 packages/counsel-dash-readme.txt
+ 76K -rw-rw-r-- 1 kimr kimr  73K Dec 19 20:46 packages/counsel-projectile-20201015.1109.el
+4.0K -rw-rw-r-- 1 kimr kimr  329 Dec 19 20:46 packages/counsel-projectile-20201015.1109.entry
+4.0K -rw-rw-r-- 1 kimr kimr  537 Dec 19 20:46 packages/counsel-projectile-readme.txt
+4.0K -rw-rw-r-- 1 kimr kimr  535 Feb 27 07:42 packages/counsel-readme.txt

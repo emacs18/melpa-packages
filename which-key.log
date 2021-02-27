@@ -1,0 +1,13 @@
+Package: which-key
+Fetcher: github
+Source:  https://github.com/justbur/emacs-which-key.git
+
+Updating /home/kimr/repos/my/melpa/working/which-key/
+Built which-key in 2.035s, finished at Sat Feb 27 07:51:38 2021
+ ✓ Success:
+116K -rw-rw-r-- 1 kimr kimr 116K Dec 19 20:47 packages/which-key-20201216.1720.el
+4.0K -rw-rw-r-- 1 kimr kimr  314 Dec 19 20:47 packages/which-key-20201216.1720.entry
+116K -rw-rw-r-- 1 kimr kimr 116K Feb 27 07:51 packages/which-key-20210131.1837.el
+4.0K -rw-rw-r-- 1 kimr kimr  364 Feb 27 07:51 packages/which-key-20210131.1837.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Feb 27 07:51 packages/which-key-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr  624 Feb 27 07:51 packages/which-key-readme.txt

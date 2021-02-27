@@ -1,0 +1,70 @@
+Package: bbdb
+Fetcher: git
+Source:  https://git.savannah.nongnu.org/git/bbdb.git
+
+Updating /home/kimr/repos/my/melpa/working/bbdb/
+Copying files (->) and directories (=>)
+  from /home/kimr/repos/my/melpa/working/bbdb/
+  to /tmp/bbdbsq2SQp/bbdb-20210108.38
+  ! lisp/bbdb-anniv.el -> bbdb-anniv.el
+  ! lisp/bbdb-com.el -> bbdb-com.el
+  ! lisp/bbdb-gnus-aux.el -> bbdb-gnus-aux.el
+  ! lisp/bbdb-gnus.el -> bbdb-gnus.el
+  ! lisp/bbdb-ispell.el -> bbdb-ispell.el
+  ! lisp/bbdb-message.el -> bbdb-message.el
+  ! lisp/bbdb-mhe.el -> bbdb-mhe.el
+  ! lisp/bbdb-migrate.el -> bbdb-migrate.el
+  ! lisp/bbdb-mu4e.el -> bbdb-mu4e.el
+  ! lisp/bbdb-mua.el -> bbdb-mua.el
+  ! lisp/bbdb-pgp.el -> bbdb-pgp.el
+  ! lisp/bbdb-pkg.el.in -> bbdb-pkg.el
+  ! lisp/bbdb-rmail.el -> bbdb-rmail.el
+  ! lisp/bbdb-sc.el -> bbdb-sc.el
+  ! lisp/bbdb-site.el.in -> bbdb-site.el
+  ! lisp/bbdb-snarf.el -> bbdb-snarf.el
+  ! lisp/bbdb-tex.el -> bbdb-tex.el
+  ! lisp/bbdb-vm-aux.el -> bbdb-vm-aux.el
+  ! lisp/bbdb-vm.el -> bbdb-vm.el
+  ! lisp/bbdb-wl.el -> bbdb-wl.el
+  ! lisp/bbdb.el -> bbdb.el
+  ! doc/bbdb.texi -> bbdb.texi
+  ! doc/doclicense.texi -> doclicense.texi
+  ! doc/gpl.texi -> gpl.texi
+Created /tmp/bbdbsq2SQp/bbdb-20210108.38/bbdb.info
+Created /tmp/bbdbsq2SQp/bbdb-20210108.38/doclicense.info
+Created /tmp/bbdbsq2SQp/bbdb-20210108.38/gpl.info
+Created bbdb-20210108.38.tar containing:
+  bbdb-20210108.38/
+  bbdb-20210108.38/bbdb-anniv.el
+  bbdb-20210108.38/bbdb-com.el
+  bbdb-20210108.38/bbdb-gnus-aux.el
+  bbdb-20210108.38/bbdb-gnus.el
+  bbdb-20210108.38/bbdb-ispell.el
+  bbdb-20210108.38/bbdb-message.el
+  bbdb-20210108.38/bbdb-mhe.el
+  bbdb-20210108.38/bbdb-migrate.el
+  bbdb-20210108.38/bbdb-mu4e.el
+  bbdb-20210108.38/bbdb-mua.el
+  bbdb-20210108.38/bbdb-pgp.el
+  bbdb-20210108.38/bbdb-pkg.el
+  bbdb-20210108.38/bbdb-rmail.el
+  bbdb-20210108.38/bbdb-sc.el
+  bbdb-20210108.38/bbdb-site.el
+  bbdb-20210108.38/bbdb-snarf.el
+  bbdb-20210108.38/bbdb-tex.el
+  bbdb-20210108.38/bbdb-vm-aux.el
+  bbdb-20210108.38/bbdb-vm.el
+  bbdb-20210108.38/bbdb-wl.el
+  bbdb-20210108.38/bbdb.el
+  bbdb-20210108.38/bbdb.info
+  bbdb-20210108.38/dir
+  bbdb-20210108.38/doclicense.info
+  bbdb-20210108.38/gpl.info
+Built bbdb in 1.982s, finished at Sat Feb 27 07:41:38 2021
+ ✓ Success:
+4.0K -rw-rw-r-- 1 kimr kimr  144 Dec  6 19:51 packages/bbdb-20200928.1749.entry
+672K -rw-rw-r-- 1 kimr kimr 670K Dec  6 19:51 packages/bbdb-20200928.1749.tar
+4.0K -rw-rw-r-- 1 kimr kimr  213 Feb 27 07:41 packages/bbdb-20210108.38.entry
+672K -rw-rw-r-- 1 kimr kimr 670K Feb 27 07:41 packages/bbdb-20210108.38.tar
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Feb 27 07:41 packages/bbdb-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr  707 Feb 27 07:41 packages/bbdb-readme.txt

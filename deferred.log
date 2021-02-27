@@ -1,0 +1,11 @@
+Package: deferred
+Fetcher: github
+Source:  https://github.com/kiwanami/emacs-deferred.git
+
+Updating /home/kimr/repos/my/melpa/working/deferred/
+Built deferred in 1.051s, finished at Sat Feb 27 07:42:52 2021
+ ✓ Success:
+ 36K -rw-rw-r-- 1 kimr kimr  35K Feb 27 07:42 packages/deferred-20170901.1330.el
+4.0K -rw-rw-r-- 1 kimr kimr  400 Feb 27 07:42 packages/deferred-20170901.1330.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Feb 27 07:42 packages/deferred-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr  428 Feb 27 07:42 packages/deferred-readme.txt

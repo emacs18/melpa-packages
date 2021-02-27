@@ -1,0 +1,11 @@
+Package: ansi
+Fetcher: github
+Source:  https://github.com/rejeep/ansi.el.git
+
+Updating /home/kimr/repos/my/melpa/working/ansi/
+Built ansi in 1.497s, finished at Sat Feb 27 07:41:21 2021
+ ✓ Success:
+8.0K -rw-rw-r-- 1 kimr kimr 5.7K Feb 27 07:41 packages/ansi-20200611.944.el
+4.0K -rw-rw-r-- 1 kimr kimr  422 Feb 27 07:41 packages/ansi-20200611.944.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Feb 27 07:41 packages/ansi-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr  200 Feb 27 07:41 packages/ansi-readme.txt

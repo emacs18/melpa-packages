@@ -1,0 +1,31 @@
+Package: cquery
+Fetcher: github
+Source:  https://github.com/cquery-project/emacs-cquery.git
+
+Updating /home/kimr/repos/my/melpa/working/cquery/
+Copying files (->) and directories (=>)
+  from /home/kimr/repos/my/melpa/working/cquery/
+  to /tmp/cqueryIHC0jO/cquery-20190118.542
+    cquery-call-hierarchy.el -> cquery-call-hierarchy.el
+    cquery-code-lens.el -> cquery-code-lens.el
+    cquery-common.el -> cquery-common.el
+    cquery-inheritance-hierarchy.el -> cquery-inheritance-hierarchy.el
+    cquery-semantic-highlighting.el -> cquery-semantic-highlighting.el
+    cquery-tree.el -> cquery-tree.el
+    cquery.el -> cquery.el
+Created cquery-20190118.542.tar containing:
+  cquery-20190118.542/
+  cquery-20190118.542/cquery-call-hierarchy.el
+  cquery-20190118.542/cquery-code-lens.el
+  cquery-20190118.542/cquery-common.el
+  cquery-20190118.542/cquery-inheritance-hierarchy.el
+  cquery-20190118.542/cquery-pkg.el
+  cquery-20190118.542/cquery-semantic-highlighting.el
+  cquery-20190118.542/cquery-tree.el
+  cquery-20190118.542/cquery.el
+Built cquery in 1.507s, finished at Sat Feb 27 07:42:39 2021
+ ✓ Success:
+4.0K -rw-rw-r-- 1 kimr kimr  352 Feb 27 07:42 packages/cquery-20190118.542.entry
+ 72K -rw-rw-r-- 1 kimr kimr  70K Feb 27 07:42 packages/cquery-20190118.542.tar
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Feb 27 07:42 packages/cquery-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr   60 Feb 27 07:42 packages/cquery-readme.txt

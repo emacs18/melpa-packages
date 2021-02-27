@@ -1,0 +1,11 @@
+Package: aggressive-indent
+Fetcher: github
+Source:  https://github.com/Malabarba/aggressive-indent-mode.git
+
+Updating /home/kimr/repos/my/melpa/working/aggressive-indent/
+Built aggressive-indent in 1.905s, finished at Sat Feb 27 07:41:12 2021
+ ✓ Success:
+ 24K -rw-rw-r-- 1 kimr kimr  23K Feb 27 07:41 packages/aggressive-indent-20200824.2352.el
+4.0K -rw-rw-r-- 1 kimr kimr  484 Feb 27 07:41 packages/aggressive-indent-20200824.2352.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Feb 27 07:41 packages/aggressive-indent-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr 1.6K Feb 27 07:41 packages/aggressive-indent-readme.txt

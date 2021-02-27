@@ -1,0 +1,13 @@
+Package: github-clone
+Fetcher: github
+Source:  https://github.com/dgtized/github-clone.el.git
+
+Updating /home/kimr/repos/my/melpa/working/github-clone/
+Built github-clone in 1.682s, finished at Sat Feb 27 07:45:24 2021
+ ✓ Success:
+ 12K -rw-rw-r-- 1 kimr kimr 8.2K Dec  6 19:53 packages/github-clone-20160623.310.el
+4.0K -rw-rw-r-- 1 kimr kimr  373 Dec  6 19:53 packages/github-clone-20160623.310.entry
+ 12K -rw-rw-r-- 1 kimr kimr 9.1K Feb 27 07:45 packages/github-clone-20210108.1920.el
+4.0K -rw-rw-r-- 1 kimr kimr  428 Feb 27 07:45 packages/github-clone-20210108.1920.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Feb 27 07:45 packages/github-clone-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr  165 Feb 27 07:45 packages/github-clone-readme.txt

@@ -1,0 +1,25 @@
+Package: emacsql-sqlite
+Fetcher: github
+Source:  https://github.com/skeeto/emacsql.git
+
+Updating /home/kimr/repos/my/melpa/working/emacsql-sqlite/
+Copying files (->) and directories (=>)
+  from /home/kimr/repos/my/melpa/working/emacsql-sqlite/
+  to /tmp/emacsql-sqlitetRhn2N/emacsql-sqlite-20190727.1710
+    emacsql-sqlite.el -> emacsql-sqlite.el
+    sqlite => sqlite
+Created emacsql-sqlite-20190727.1710.tar containing:
+  emacsql-sqlite-20190727.1710/
+  emacsql-sqlite-20190727.1710/emacsql-sqlite-pkg.el
+  emacsql-sqlite-20190727.1710/emacsql-sqlite.el
+  emacsql-sqlite-20190727.1710/sqlite/
+  emacsql-sqlite-20190727.1710/sqlite/Makefile
+  emacsql-sqlite-20190727.1710/sqlite/emacsql.c
+  emacsql-sqlite-20190727.1710/sqlite/sqlite3.c
+  emacsql-sqlite-20190727.1710/sqlite/sqlite3.h
+Built emacsql-sqlite in 1.498s, finished at Sat Feb 27 07:43:21 2021
+ ✓ Success:
+4.0K -rw-rw-r-- 1 kimr kimr  377 Feb 27 07:43 packages/emacsql-sqlite-20190727.1710.entry
+7.5M -rw-rw-r-- 1 kimr kimr 7.5M Feb 27 07:43 packages/emacsql-sqlite-20190727.1710.tar
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Feb 27 07:43 packages/emacsql-sqlite-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr  125 Feb 27 07:43 packages/emacsql-sqlite-readme.txt

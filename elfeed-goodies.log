@@ -1,0 +1,29 @@
+Package: elfeed-goodies
+Fetcher: github
+Source:  https://github.com/algernon/elfeed-goodies.git
+
+Updating /home/kimr/repos/my/melpa/working/elfeed-goodies/
+Copying files (->) and directories (=>)
+  from /home/kimr/repos/my/melpa/working/elfeed-goodies/
+  to /tmp/elfeed-goodiesKTJYIf/elfeed-goodies-20190128.1631
+    elfeed-goodies-logging.el -> elfeed-goodies-logging.el
+    elfeed-goodies-new-entry-hooks.el -> elfeed-goodies-new-entry-hooks.el
+    elfeed-goodies-search-mode.el -> elfeed-goodies-search-mode.el
+    elfeed-goodies-show-mode.el -> elfeed-goodies-show-mode.el
+    elfeed-goodies-split-pane.el -> elfeed-goodies-split-pane.el
+    elfeed-goodies.el -> elfeed-goodies.el
+Created elfeed-goodies-20190128.1631.tar containing:
+  elfeed-goodies-20190128.1631/
+  elfeed-goodies-20190128.1631/elfeed-goodies-logging.el
+  elfeed-goodies-20190128.1631/elfeed-goodies-new-entry-hooks.el
+  elfeed-goodies-20190128.1631/elfeed-goodies-pkg.el
+  elfeed-goodies-20190128.1631/elfeed-goodies-search-mode.el
+  elfeed-goodies-20190128.1631/elfeed-goodies-show-mode.el
+  elfeed-goodies-20190128.1631/elfeed-goodies-split-pane.el
+  elfeed-goodies-20190128.1631/elfeed-goodies.el
+Built elfeed-goodies in 1.520s, finished at Sat Feb 27 07:43:10 2021
+ ✓ Success:
+4.0K -rw-rw-r-- 1 kimr kimr  413 Feb 27 07:43 packages/elfeed-goodies-20190128.1631.entry
+ 32K -rw-rw-r-- 1 kimr kimr  30K Feb 27 07:43 packages/elfeed-goodies-20190128.1631.tar
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Feb 27 07:43 packages/elfeed-goodies-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr  298 Feb 27 07:43 packages/elfeed-goodies-readme.txt

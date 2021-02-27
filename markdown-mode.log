@@ -1,0 +1,13 @@
+Package: markdown-mode
+Fetcher: github
+Source:  https://github.com/jrblevin/markdown-mode.git
+
+Updating /home/kimr/repos/my/melpa/working/markdown-mode/
+Built markdown-mode in 1.294s, finished at Sat Feb 27 07:48:20 2021
+ ✓ Success:
+400K -rw-rw-r-- 1 kimr kimr 400K Dec 19 20:46 packages/markdown-mode-20201220.253.el
+4.0K -rw-rw-r-- 1 kimr kimr  382 Dec 19 20:46 packages/markdown-mode-20201220.253.entry
+408K -rw-rw-r-- 1 kimr kimr 406K Feb 27 07:48 packages/markdown-mode-20210220.1301.el
+4.0K -rw-rw-r-- 1 kimr kimr  416 Feb 27 07:48 packages/markdown-mode-20210220.1301.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Feb 27 07:48 packages/markdown-mode-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr   36 Feb 27 07:48 packages/markdown-mode-readme.txt

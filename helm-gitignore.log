@@ -1,0 +1,11 @@
+Package: helm-gitignore
+Fetcher: github
+Source:  https://github.com/jupl/helm-gitignore.git
+
+Updating /home/kimr/repos/my/melpa/working/helm-gitignore/
+Built helm-gitignore in 1.093s, finished at Sat Feb 27 07:46:20 2021
+ ✓ Success:
+4.0K -rw-rw-r-- 1 kimr kimr 3.5K Feb 27 07:46 packages/helm-gitignore-20170211.8.el
+4.0K -rw-rw-r-- 1 kimr kimr  441 Feb 27 07:46 packages/helm-gitignore-20170211.8.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Feb 27 07:46 packages/helm-gitignore-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr  103 Feb 27 07:46 packages/helm-gitignore-readme.txt

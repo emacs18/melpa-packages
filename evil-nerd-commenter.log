@@ -1,0 +1,25 @@
+Package: evil-nerd-commenter
+Fetcher: github
+Source:  https://github.com/redguardtoo/evil-nerd-commenter.git
+
+Updating /home/kimr/repos/my/melpa/working/evil-nerd-commenter/
+Copying files (->) and directories (=>)
+  from /home/kimr/repos/my/melpa/working/evil-nerd-commenter/
+  to /tmp/evil-nerd-commenteronSHwn/evil-nerd-commenter-20210208.530
+    evil-nerd-commenter-operator.el -> evil-nerd-commenter-operator.el
+    evil-nerd-commenter-sdk.el -> evil-nerd-commenter-sdk.el
+    evil-nerd-commenter.el -> evil-nerd-commenter.el
+Created evil-nerd-commenter-20210208.530.tar containing:
+  evil-nerd-commenter-20210208.530/
+  evil-nerd-commenter-20210208.530/evil-nerd-commenter-operator.el
+  evil-nerd-commenter-20210208.530/evil-nerd-commenter-pkg.el
+  evil-nerd-commenter-20210208.530/evil-nerd-commenter-sdk.el
+  evil-nerd-commenter-20210208.530/evil-nerd-commenter.el
+Built evil-nerd-commenter in 1.617s, finished at Sat Feb 27 07:44:08 2021
+ ✓ Success:
+4.0K -rw-rw-r-- 1 kimr kimr  390 Dec  6 19:53 packages/evil-nerd-commenter-20201017.1148.entry
+ 60K -rw-rw-r-- 1 kimr kimr  60K Dec  6 19:53 packages/evil-nerd-commenter-20201017.1148.tar
+4.0K -rw-rw-r-- 1 kimr kimr  461 Feb 27 07:44 packages/evil-nerd-commenter-20210208.530.entry
+ 60K -rw-rw-r-- 1 kimr kimr  60K Feb 27 07:44 packages/evil-nerd-commenter-20210208.530.tar
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Feb 27 07:44 packages/evil-nerd-commenter-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr 3.6K Feb 27 07:44 packages/evil-nerd-commenter-readme.txt

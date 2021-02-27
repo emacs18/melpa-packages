@@ -1,0 +1,11 @@
+Package: log4e
+Fetcher: github
+Source:  https://github.com/aki2o/log4e.git
+
+Updating /home/kimr/repos/my/melpa/working/log4e/
+Built log4e in 1.090s, finished at Sat Feb 27 07:47:47 2021
+ ✓ Success:
+ 28K -rw-rw-r-- 1 kimr kimr  25K Feb 27 07:47 packages/log4e-20200420.745.el
+4.0K -rw-rw-r-- 1 kimr kimr  324 Feb 27 07:47 packages/log4e-20200420.745.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Feb 27 07:47 packages/log4e-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr   54 Feb 27 07:47 packages/log4e-readme.txt

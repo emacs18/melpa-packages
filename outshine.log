@@ -1,0 +1,21 @@
+Package: outshine
+Fetcher: github
+Source:  https://github.com/alphapapa/outshine.git
+
+Updating /home/kimr/repos/my/melpa/working/outshine/
+Copying files (->) and directories (=>)
+  from /home/kimr/repos/my/melpa/working/outshine/
+  to /tmp/outshineylpBak/outshine-20191112.1414
+    outshine-org-cmds.el -> outshine-org-cmds.el
+    outshine.el -> outshine.el
+Created outshine-20191112.1414.tar containing:
+  outshine-20191112.1414/
+  outshine-20191112.1414/outshine-org-cmds.el
+  outshine-20191112.1414/outshine-pkg.el
+  outshine-20191112.1414/outshine.el
+Built outshine in 1.051s, finished at Sat Feb 27 07:49:11 2021
+ ✓ Success:
+4.0K -rw-rw-r-- 1 kimr kimr  398 Feb 27 07:49 packages/outshine-20191112.1414.entry
+280K -rw-rw-r-- 1 kimr kimr 280K Feb 27 07:49 packages/outshine-20191112.1414.tar
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Feb 27 07:49 packages/outshine-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr  178 Feb 27 07:49 packages/outshine-readme.txt

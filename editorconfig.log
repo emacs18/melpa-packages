@@ -1,0 +1,33 @@
+Package: editorconfig
+Fetcher: github
+Source:  https://github.com/editorconfig/editorconfig-emacs.git
+
+Updating /home/kimr/repos/my/melpa/working/editorconfig/
+Copying files (->) and directories (=>)
+  from /home/kimr/repos/my/melpa/working/editorconfig/
+  to /tmp/editorconfig1VO4t1/editorconfig-20210221.1617
+    editorconfig-conf-mode.el -> editorconfig-conf-mode.el
+    editorconfig-core-handle.el -> editorconfig-core-handle.el
+    editorconfig-core.el -> editorconfig-core.el
+    editorconfig-fnmatch.el -> editorconfig-fnmatch.el
+    editorconfig.el -> editorconfig.el
+  ! doc/editorconfig.texi -> editorconfig.texi
+Created /tmp/editorconfig1VO4t1/editorconfig-20210221.1617/editorconfig.info
+Created editorconfig-20210221.1617.tar containing:
+  editorconfig-20210221.1617/
+  editorconfig-20210221.1617/dir
+  editorconfig-20210221.1617/editorconfig-conf-mode.el
+  editorconfig-20210221.1617/editorconfig-core-handle.el
+  editorconfig-20210221.1617/editorconfig-core.el
+  editorconfig-20210221.1617/editorconfig-fnmatch.el
+  editorconfig-20210221.1617/editorconfig-pkg.el
+  editorconfig-20210221.1617/editorconfig.el
+  editorconfig-20210221.1617/editorconfig.info
+Built editorconfig in 1.921s, finished at Sat Feb 27 07:43:06 2021
+ ✓ Success:
+4.0K -rw-rw-r-- 1 kimr kimr  359 Dec 19 20:46 packages/editorconfig-20201122.1542.entry
+ 92K -rw-rw-r-- 1 kimr kimr  90K Dec 19 20:46 packages/editorconfig-20201122.1542.tar
+4.0K -rw-rw-r-- 1 kimr kimr  427 Feb 27 07:43 packages/editorconfig-20210221.1617.entry
+ 92K -rw-rw-r-- 1 kimr kimr  90K Feb 27 07:43 packages/editorconfig-20210221.1617.tar
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Feb 27 07:43 packages/editorconfig-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr  394 Feb 27 07:43 packages/editorconfig-readme.txt

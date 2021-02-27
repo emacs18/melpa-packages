@@ -1,0 +1,11 @@
+Package: parent-mode
+Fetcher: github
+Source:  https://github.com/Fanael/parent-mode.git
+
+Updating /home/kimr/repos/my/melpa/working/parent-mode/
+Built parent-mode in 1.442s, finished at Sat Feb 27 07:49:29 2021
+ ✓ Success:
+4.0K -rw-rw-r-- 1 kimr kimr 3.1K Feb 27 07:49 packages/parent-mode-20150824.2300.el
+4.0K -rw-rw-r-- 1 kimr kimr  338 Feb 27 07:49 packages/parent-mode-20150824.2300.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Feb 27 07:49 packages/parent-mode-badge.svg
+   0 -rw-rw-r-- 1 kimr kimr    0 Feb 27 07:49 packages/parent-mode-readme.txt

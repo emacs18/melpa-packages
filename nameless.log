@@ -1,0 +1,11 @@
+Package: nameless
+Fetcher: github
+Source:  https://github.com/Malabarba/Nameless.git
+
+Updating /home/kimr/repos/my/melpa/working/nameless/
+Built nameless in 1.230s, finished at Sat Feb 27 07:48:31 2021
+ ✓ Success:
+ 12K -rw-rw-r-- 1 kimr kimr  12K Feb 27 07:48 packages/nameless-20190429.1202.el
+4.0K -rw-rw-r-- 1 kimr kimr  419 Feb 27 07:48 packages/nameless-20190429.1202.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Feb 27 07:48 packages/nameless-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr  423 Feb 27 07:48 packages/nameless-readme.txt

@@ -1,0 +1,25 @@
+Package: iedit
+Fetcher: github
+Source:  https://github.com/victorhge/iedit.git
+
+Updating /home/kimr/repos/my/melpa/working/iedit/
+Copying files (->) and directories (=>)
+  from /home/kimr/repos/my/melpa/working/iedit/
+  to /tmp/ieditx1N94r/iedit-20210203.23
+    iedit-lib.el -> iedit-lib.el
+    iedit-rect.el -> iedit-rect.el
+    iedit.el -> iedit.el
+Created iedit-20210203.23.tar containing:
+  iedit-20210203.23/
+  iedit-20210203.23/iedit-lib.el
+  iedit-20210203.23/iedit-pkg.el
+  iedit-20210203.23/iedit-rect.el
+  iedit-20210203.23/iedit.el
+Built iedit in 0.996s, finished at Sat Feb 27 07:47:00 2021
+ ✓ Success:
+4.0K -rw-rw-r-- 1 kimr kimr  359 Dec 19 20:46 packages/iedit-20201125.342.entry
+100K -rw-rw-r-- 1 kimr kimr 100K Dec 19 20:46 packages/iedit-20201125.342.tar
+4.0K -rw-rw-r-- 1 kimr kimr  377 Feb 27 07:47 packages/iedit-20210203.23.entry
+100K -rw-rw-r-- 1 kimr kimr 100K Feb 27 07:47 packages/iedit-20210203.23.tar
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Feb 27 07:47 packages/iedit-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr 2.8K Feb 27 07:47 packages/iedit-readme.txt

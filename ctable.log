@@ -1,0 +1,13 @@
+Package: ctable
+Fetcher: github
+Source:  https://github.com/kiwanami/emacs-ctable.git
+
+Updating /home/kimr/repos/my/melpa/working/ctable/
+Built ctable in 1.052s, finished at Sat Feb 27 07:42:41 2021
+ ✓ Success:
+ 76K -rw-rw-r-- 1 kimr kimr  73K Dec  6 19:52 packages/ctable-20171006.11.el
+4.0K -rw-rw-r-- 1 kimr kimr  320 Dec  6 19:52 packages/ctable-20171006.11.entry
+ 76K -rw-rw-r-- 1 kimr kimr  73K Feb 27 07:42 packages/ctable-20210128.629.el
+4.0K -rw-rw-r-- 1 kimr kimr  382 Feb 27 07:42 packages/ctable-20210128.629.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Feb 27 07:42 packages/ctable-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr  216 Feb 27 07:42 packages/ctable-readme.txt

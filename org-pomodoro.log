@@ -1,0 +1,26 @@
+Package: org-pomodoro
+Fetcher: github
+Source:  https://github.com/marcinkoziej/org-pomodoro.git
+
+Updating /home/kimr/repos/my/melpa/working/org-pomodoro/
+Copying files (->) and directories (=>)
+  from /home/kimr/repos/my/melpa/working/org-pomodoro/
+  to /tmp/org-pomodoroHVNkCn/org-pomodoro-20190530.1445
+    org-pomodoro-pidgin.el -> org-pomodoro-pidgin.el
+    org-pomodoro.el -> org-pomodoro.el
+    resources => resources
+Created org-pomodoro-20190530.1445.tar containing:
+  org-pomodoro-20190530.1445/
+  org-pomodoro-20190530.1445/org-pomodoro-pidgin.el
+  org-pomodoro-20190530.1445/org-pomodoro-pkg.el
+  org-pomodoro-20190530.1445/org-pomodoro.el
+  org-pomodoro-20190530.1445/resources/
+  org-pomodoro-20190530.1445/resources/bell.wav
+  org-pomodoro-20190530.1445/resources/bell_multiple.wav
+  org-pomodoro-20190530.1445/resources/tick.wav
+Built org-pomodoro in 1.106s, finished at Sat Feb 27 07:48:53 2021
+ ✓ Success:
+4.0K -rw-rw-r-- 1 kimr kimr  395 Feb 27 07:48 packages/org-pomodoro-20190530.1445.entry
+152K -rw-rw-r-- 1 kimr kimr 150K Feb 27 07:48 packages/org-pomodoro-20190530.1445.tar
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Feb 27 07:48 packages/org-pomodoro-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr  423 Feb 27 07:48 packages/org-pomodoro-readme.txt

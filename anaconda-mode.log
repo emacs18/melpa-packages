@@ -1,0 +1,23 @@
+Package: anaconda-mode
+Fetcher: github
+Source:  https://github.com/pythonic-emacs/anaconda-mode.git
+
+Updating /home/kimr/repos/my/melpa/working/anaconda-mode/
+Copying files (->) and directories (=>)
+  from /home/kimr/repos/my/melpa/working/anaconda-mode/
+  to /tmp/anaconda-modeQKNivk/anaconda-mode-20210210.852
+    anaconda-mode.el -> anaconda-mode.el
+    anaconda-mode.py -> anaconda-mode.py
+Created anaconda-mode-20210210.852.tar containing:
+  anaconda-mode-20210210.852/
+  anaconda-mode-20210210.852/anaconda-mode-pkg.el
+  anaconda-mode-20210210.852/anaconda-mode.el
+  anaconda-mode-20210210.852/anaconda-mode.py
+Built anaconda-mode in 1.494s, finished at Sat Feb 27 07:41:20 2021
+ ✓ Success:
+ 36K -rw-rw-r-- 1 kimr kimr  35K Dec  6 19:51 packages/anaconda-mode-20200912.239.el
+4.0K -rw-rw-r-- 1 kimr kimr  406 Dec  6 19:51 packages/anaconda-mode-20200912.239.entry
+4.0K -rw-rw-r-- 1 kimr kimr  461 Feb 27 07:41 packages/anaconda-mode-20210210.852.entry
+ 40K -rw-rw-r-- 1 kimr kimr  40K Feb 27 07:41 packages/anaconda-mode-20210210.852.tar
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Feb 27 07:41 packages/anaconda-mode-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr   33 Feb 27 07:41 packages/anaconda-mode-readme.txt

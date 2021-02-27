@@ -1,0 +1,21 @@
+Package: sesman
+Fetcher: github
+Source:  https://github.com/vspinu/sesman.git
+
+Updating /home/kimr/repos/my/melpa/working/sesman/
+Copying files (->) and directories (=>)
+  from /home/kimr/repos/my/melpa/working/sesman/
+  to /tmp/sesmangKZisp/sesman-20190909.1754
+    sesman-browser.el -> sesman-browser.el
+    sesman.el -> sesman.el
+Created sesman-20190909.1754.tar containing:
+  sesman-20190909.1754/
+  sesman-20190909.1754/sesman-browser.el
+  sesman-20190909.1754/sesman-pkg.el
+  sesman-20190909.1754/sesman.el
+Built sesman in 1.525s, finished at Sat Feb 27 07:50:35 2021
+ ✓ Success:
+4.0K -rw-rw-r-- 1 kimr kimr  283 Feb 27 07:50 packages/sesman-20190909.1754.entry
+ 72K -rw-rw-r-- 1 kimr kimr  70K Feb 27 07:50 packages/sesman-20190909.1754.tar
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Feb 27 07:50 packages/sesman-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr  258 Feb 27 07:50 packages/sesman-readme.txt

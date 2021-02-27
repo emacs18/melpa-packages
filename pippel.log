@@ -1,0 +1,20 @@
+Package: pippel
+Fetcher: github
+Source:  https://github.com/brotzeit/pippel.git
+
+Updating /home/kimr/repos/my/melpa/working/pippel/
+Copying files (->) and directories (=>)
+  from /home/kimr/repos/my/melpa/working/pippel/
+  to /tmp/pippelXyzX8X/pippel-20180710.856
+    pippel.el -> pippel.el
+    pippel.py -> pippel.py
+Created pippel-20180710.856.tar containing:
+  pippel-20180710.856/
+  pippel-20180710.856/pippel-pkg.el
+  pippel-20180710.856/pippel.el
+  pippel-20180710.856/pippel.py
+Built pippel in 1.084s, finished at Sat Feb 27 07:49:52 2021
+ ✓ Success:
+4.0K -rw-rw-r-- 1 kimr kimr  383 Feb 27 07:49 packages/pippel-20180710.856.entry
+ 20K -rw-rw-r-- 1 kimr kimr  20K Feb 27 07:49 packages/pippel-20180710.856.tar
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Feb 27 07:49 packages/pippel-badge.svg

@@ -1,3 +1,4 @@
+
    Enhancements to standard library `font-lock.el'.
 
  This library tells font lock to ignore any text that has the text
@@ -27,3 +28,5 @@
    `font-lock-fontify-keywords-region',
    `font-lock-fontify-syntactically-region',
    `font-lock-prepend-text-property'.
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

@@ -1,0 +1,11 @@
+Package: f
+Fetcher: github
+Source:  https://github.com/rejeep/f.el.git
+
+Updating /home/kimr/repos/my/melpa/working/f/
+Note: f :files spec is equivalent to the default.
+Built f in 1.129s, finished at Sat Feb 27 07:44:23 2021
+ ✓ Success:
+ 20K -rw-rw-r-- 1 kimr kimr  19K Feb 27 07:44 packages/f-20191110.1357.el
+4.0K -rw-rw-r-- 1 kimr kimr  419 Feb 27 07:44 packages/f-20191110.1357.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Feb 27 07:44 packages/f-badge.svg

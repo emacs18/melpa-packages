@@ -1,0 +1,41 @@
+Package: window-purpose
+Fetcher: github
+Source:  https://github.com/bmag/emacs-purpose.git
+
+Updating /home/kimr/repos/my/melpa/working/window-purpose/
+Copying files (->) and directories (=>)
+  from /home/kimr/repos/my/melpa/working/window-purpose/
+  to /tmp/window-purposeWUmdP8/window-purpose-20210214.1451
+    window-purpose-configuration.el -> window-purpose-configuration.el
+    window-purpose-core.el -> window-purpose-core.el
+    window-purpose-fixes.el -> window-purpose-fixes.el
+    window-purpose-layout.el -> window-purpose-layout.el
+    window-purpose-prefix-overload.el -> window-purpose-prefix-overload.el
+    window-purpose-switch.el -> window-purpose-switch.el
+    window-purpose-utils.el -> window-purpose-utils.el
+    window-purpose-x.el -> window-purpose-x.el
+    window-purpose.el -> window-purpose.el
+    layouts => layouts
+Created window-purpose-20210214.1451.tar containing:
+  window-purpose-20210214.1451/
+  window-purpose-20210214.1451/layouts/
+  window-purpose-20210214.1451/layouts/edit-terminal-general.window-layout
+  window-purpose-20210214.1451/layouts/edit-terminal.window-layout
+  window-purpose-20210214.1451/window-purpose-configuration.el
+  window-purpose-20210214.1451/window-purpose-core.el
+  window-purpose-20210214.1451/window-purpose-fixes.el
+  window-purpose-20210214.1451/window-purpose-layout.el
+  window-purpose-20210214.1451/window-purpose-pkg.el
+  window-purpose-20210214.1451/window-purpose-prefix-overload.el
+  window-purpose-20210214.1451/window-purpose-switch.el
+  window-purpose-20210214.1451/window-purpose-utils.el
+  window-purpose-20210214.1451/window-purpose-x.el
+  window-purpose-20210214.1451/window-purpose.el
+Built window-purpose in 1.471s, finished at Sat Feb 27 07:51:40 2021
+ ✓ Success:
+4.0K -rw-rw-r-- 1 kimr kimr  320 Dec  6 19:56 packages/window-purpose-20190628.1827.entry
+200K -rw-rw-r-- 1 kimr kimr 200K Dec  6 19:56 packages/window-purpose-20190628.1827.tar
+4.0K -rw-rw-r-- 1 kimr kimr  377 Feb 27 07:51 packages/window-purpose-20210214.1451.entry
+200K -rw-rw-r-- 1 kimr kimr 200K Feb 27 07:51 packages/window-purpose-20210214.1451.tar
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Feb 27 07:51 packages/window-purpose-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr 1.4K Feb 27 07:51 packages/window-purpose-readme.txt

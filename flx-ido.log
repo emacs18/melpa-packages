@@ -1,0 +1,11 @@
+Package: flx-ido
+Fetcher: github
+Source:  https://github.com/lewang/flx.git
+
+Updating /home/kimr/repos/my/melpa/working/flx-ido/
+Built flx-ido in 0.730s, finished at Sat Feb 27 07:44:29 2021
+ ✓ Success:
+ 12K -rw-rw-r-- 1 kimr kimr 9.9K Feb 27 07:44 packages/flx-ido-20180117.1519.el
+4.0K -rw-rw-r-- 1 kimr kimr  279 Feb 27 07:44 packages/flx-ido-20180117.1519.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Feb 27 07:44 packages/flx-ido-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr  579 Feb 27 07:44 packages/flx-ido-readme.txt

@@ -1,0 +1,51 @@
+Package: pdf-tools
+Fetcher: github
+Source:  https://github.com/politza/pdf-tools.git
+
+Updating /home/kimr/repos/my/melpa/working/pdf-tools/
+Copying files (->) and directories (=>)
+  from /home/kimr/repos/my/melpa/working/pdf-tools/
+  to /tmp/pdf-tools0jwKyp/pdf-tools-20200512.1524
+  ! lisp/pdf-annot.el -> pdf-annot.el
+  ! lisp/pdf-cache.el -> pdf-cache.el
+  ! lisp/pdf-dev.el -> pdf-dev.el
+  ! lisp/pdf-history.el -> pdf-history.el
+  ! lisp/pdf-info.el -> pdf-info.el
+  ! lisp/pdf-isearch.el -> pdf-isearch.el
+  ! lisp/pdf-links.el -> pdf-links.el
+  ! lisp/pdf-loader.el -> pdf-loader.el
+  ! lisp/pdf-misc.el -> pdf-misc.el
+  ! lisp/pdf-occur.el -> pdf-occur.el
+  ! lisp/pdf-outline.el -> pdf-outline.el
+  ! lisp/pdf-sync.el -> pdf-sync.el
+  ! lisp/pdf-tools.el -> pdf-tools.el
+  ! lisp/pdf-util.el -> pdf-util.el
+  ! lisp/pdf-view.el -> pdf-view.el
+  ! lisp/pdf-virtual.el -> pdf-virtual.el
+    README -> README
+Created pdf-tools-20200512.1524.tar containing:
+  pdf-tools-20200512.1524/
+  pdf-tools-20200512.1524/README
+  pdf-tools-20200512.1524/pdf-annot.el
+  pdf-tools-20200512.1524/pdf-cache.el
+  pdf-tools-20200512.1524/pdf-dev.el
+  pdf-tools-20200512.1524/pdf-history.el
+  pdf-tools-20200512.1524/pdf-info.el
+  pdf-tools-20200512.1524/pdf-isearch.el
+  pdf-tools-20200512.1524/pdf-links.el
+  pdf-tools-20200512.1524/pdf-loader.el
+  pdf-tools-20200512.1524/pdf-misc.el
+  pdf-tools-20200512.1524/pdf-occur.el
+  pdf-tools-20200512.1524/pdf-outline.el
+  pdf-tools-20200512.1524/pdf-sync.el
+  pdf-tools-20200512.1524/pdf-tools-pkg.el
+  pdf-tools-20200512.1524/pdf-tools.el
+  pdf-tools-20200512.1524/pdf-util.el
+  pdf-tools-20200512.1524/pdf-view.el
+  pdf-tools-20200512.1524/pdf-virtual.el
+Built pdf-tools in 1.078s, finished at Sat Feb 27 07:49:46 2021
+ ✓ Success:
+4.0K -rw-rw-r-- 1 kimr kimr  398 Feb 27 07:49 packages/pdf-tools-20200512.1524.entry
+492K -rw-rw-r-- 1 kimr kimr 490K Feb 27 07:49 packages/pdf-tools-20200512.1524.tar
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Feb 27 07:49 packages/pdf-tools-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr 1.7K Feb 27 07:49 packages/pdf-tools-readme.txt

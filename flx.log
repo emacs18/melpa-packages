@@ -1,0 +1,14 @@
+Package: flx
+Fetcher: github
+Source:  https://github.com/lewang/flx.git
+
+Updating /home/kimr/repos/my/melpa/working/flx/
+Built flx in 1.051s, finished at Sat Feb 27 07:44:28 2021
+ ✓ Success:
+ 16K -rw-rw-r-- 1 kimr kimr  16K Feb 27 07:44 packages/flx-20191115.659.el
+4.0K -rw-rw-r-- 1 kimr kimr  275 Feb 27 07:44 packages/flx-20191115.659.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Feb 27 07:44 packages/flx-badge.svg
+ 12K -rw-rw-r-- 1 kimr kimr 9.9K Dec  6 19:53 packages/flx-ido-20180117.1519.el
+4.0K -rw-rw-r-- 1 kimr kimr  238 Dec  6 19:53 packages/flx-ido-20180117.1519.entry
+4.0K -rw-rw-r-- 1 kimr kimr  575 Dec  6 19:53 packages/flx-ido-readme.txt
+4.0K -rw-rw-r-- 1 kimr kimr  498 Feb 27 07:44 packages/flx-readme.txt

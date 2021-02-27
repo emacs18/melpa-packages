@@ -1,0 +1,11 @@
+Package: evil-escape
+Fetcher: github
+Source:  https://github.com/syl20bnr/evil-escape.git
+
+Updating /home/kimr/repos/my/melpa/working/evil-escape/
+Built evil-escape in 1.303s, finished at Sat Feb 27 07:43:54 2021
+ ✓ Success:
+ 16K -rw-rw-r-- 1 kimr kimr  13K Feb 27 07:43 packages/evil-escape-20180910.1234.el
+4.0K -rw-rw-r-- 1 kimr kimr  467 Feb 27 07:43 packages/evil-escape-20180910.1234.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Feb 27 07:43 packages/evil-escape-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr 1.8K Feb 27 07:43 packages/evil-escape-readme.txt

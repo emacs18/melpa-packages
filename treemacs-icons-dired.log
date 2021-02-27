@@ -1,0 +1,13 @@
+Package: treemacs-icons-dired
+Fetcher: github
+Source:  https://github.com/Alexander-Miller/treemacs.git
+
+Updating /home/kimr/repos/my/melpa/working/treemacs-icons-dired/
+Built treemacs-icons-dired in 0.910s, finished at Sat Feb 27 07:51:11 2021
+ ✓ Success:
+8.0K -rw-rw-r-- 1 kimr kimr 7.2K Dec 19 20:47 packages/treemacs-icons-dired-20201005.1309.el
+4.0K -rw-rw-r-- 1 kimr kimr  334 Dec 19 20:47 packages/treemacs-icons-dired-20201005.1309.entry
+8.0K -rw-rw-r-- 1 kimr kimr 7.3K Feb 27 07:51 packages/treemacs-icons-dired-20210107.1251.el
+4.0K -rw-rw-r-- 1 kimr kimr  392 Feb 27 07:51 packages/treemacs-icons-dired-20210107.1251.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Feb 27 07:51 packages/treemacs-icons-dired-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr   69 Feb 27 07:51 packages/treemacs-icons-dired-readme.txt

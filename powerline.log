@@ -1,0 +1,23 @@
+Package: powerline
+Fetcher: github
+Source:  https://github.com/milkypostman/powerline.git
+
+Updating /home/kimr/repos/my/melpa/working/powerline/
+Copying files (->) and directories (=>)
+  from /home/kimr/repos/my/melpa/working/powerline/
+  to /tmp/powerlineHs73pe/powerline-20201129.2306
+    powerline-separators.el -> powerline-separators.el
+    powerline-themes.el -> powerline-themes.el
+    powerline.el -> powerline.el
+Created powerline-20201129.2306.tar containing:
+  powerline-20201129.2306/
+  powerline-20201129.2306/powerline-pkg.el
+  powerline-20201129.2306/powerline-separators.el
+  powerline-20201129.2306/powerline-themes.el
+  powerline-20201129.2306/powerline.el
+Built powerline in 1.087s, finished at Sat Feb 27 07:50:00 2021
+ ✓ Success:
+4.0K -rw-rw-r-- 1 kimr kimr  390 Feb 27 07:49 packages/powerline-20201129.2306.entry
+ 80K -rw-rw-r-- 1 kimr kimr  80K Feb 27 07:49 packages/powerline-20201129.2306.tar
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Feb 27 07:50 packages/powerline-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr  148 Feb 27 07:49 packages/powerline-readme.txt

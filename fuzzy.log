@@ -1,0 +1,12 @@
+Package: fuzzy
+Fetcher: github
+Source:  https://github.com/auto-complete/fuzzy-el.git
+
+Updating /home/kimr/repos/my/melpa/working/fuzzy/
+Note: fuzzy :files spec is equivalent to the default.
+Built fuzzy in 3.717s, finished at Sat Feb 27 07:44:54 2021
+ ✓ Success:
+ 16K -rw-rw-r-- 1 kimr kimr  13K Feb 27 07:44 packages/fuzzy-20150730.337.el
+4.0K -rw-rw-r-- 1 kimr kimr  271 Feb 27 07:44 packages/fuzzy-20150730.337.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Feb 27 07:44 packages/fuzzy-badge.svg
+   0 -rw-rw-r-- 1 kimr kimr    0 Feb 27 07:44 packages/fuzzy-readme.txt

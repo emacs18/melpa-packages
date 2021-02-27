@@ -1,0 +1,21 @@
+Package: epc
+Fetcher: github
+Source:  https://github.com/kiwanami/emacs-epc.git
+
+Updating /home/kimr/repos/my/melpa/working/epc/
+Copying files (->) and directories (=>)
+  from /home/kimr/repos/my/melpa/working/epc/
+  to /tmp/epcI6dADj/epc-20140610.534
+    epc.el -> epc.el
+    epcs.el -> epcs.el
+Created epc-20140610.534.tar containing:
+  epc-20140610.534/
+  epc-20140610.534/epc-pkg.el
+  epc-20140610.534/epc.el
+  epc-20140610.534/epcs.el
+Built epc in 1.253s, finished at Sat Feb 27 07:43:28 2021
+ ✓ Success:
+4.0K -rw-rw-r-- 1 kimr kimr  413 Feb 27 07:43 packages/epc-20140610.534.entry
+ 52K -rw-rw-r-- 1 kimr kimr  50K Feb 27 07:43 packages/epc-20140610.534.tar
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Feb 27 07:43 packages/epc-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr  382 Feb 27 07:43 packages/epc-readme.txt

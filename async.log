@@ -1,0 +1,28 @@
+Package: async
+Fetcher: github
+Source:  https://github.com/jwiegley/emacs-async.git
+
+Updating /home/kimr/repos/my/melpa/working/async/
+Copying files (->) and directories (=>)
+  from /home/kimr/repos/my/melpa/working/async/
+  to /tmp/asyncLaRcgi/async-20210117.718
+    async-bytecomp.el -> async-bytecomp.el
+    async-pkg.el -> async-pkg.el
+    async.el -> async.el
+    dired-async.el -> dired-async.el
+    smtpmail-async.el -> smtpmail-async.el
+Created async-20210117.718.tar containing:
+  async-20210117.718/
+  async-20210117.718/async-bytecomp.el
+  async-20210117.718/async-pkg.el
+  async-20210117.718/async.el
+  async-20210117.718/dired-async.el
+  async-20210117.718/smtpmail-async.el
+Built async in 1.162s, finished at Sat Feb 27 07:41:24 2021
+ ✓ Success:
+4.0K -rw-rw-r-- 1 kimr kimr  212 Dec  6 19:51 packages/async-20200809.501.entry
+ 52K -rw-rw-r-- 1 kimr kimr  50K Dec  6 19:51 packages/async-20200809.501.tar
+4.0K -rw-rw-r-- 1 kimr kimr  352 Feb 27 07:41 packages/async-20210117.718.entry
+ 52K -rw-rw-r-- 1 kimr kimr  50K Feb 27 07:41 packages/async-20210117.718.tar
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Feb 27 07:41 packages/async-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr  139 Feb 27 07:41 packages/async-readme.txt

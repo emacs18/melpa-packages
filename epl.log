@@ -1,0 +1,11 @@
+Package: epl
+Fetcher: github
+Source:  https://github.com/cask/epl.git
+
+Updating /home/kimr/repos/my/melpa/working/epl/
+Built epl in 1.084s, finished at Sat Feb 27 07:43:30 2021
+ ✓ Success:
+ 28K -rw-rw-r-- 1 kimr kimr  26K Feb 27 07:43 packages/epl-20180205.2049.el
+4.0K -rw-rw-r-- 1 kimr kimr  367 Feb 27 07:43 packages/epl-20180205.2049.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Feb 27 07:43 packages/epl-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr 2.5K Feb 27 07:43 packages/epl-readme.txt

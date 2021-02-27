@@ -1,0 +1,22 @@
+Package: org-super-agenda
+Fetcher: github
+Source:  https://github.com/alphapapa/org-super-agenda.git
+
+Updating /home/kimr/repos/my/melpa/working/org-super-agenda/
+Copying files (->) and directories (=>)
+  from /home/kimr/repos/my/melpa/working/org-super-agenda/
+  to /tmp/org-super-agendaiMENwJ/org-super-agenda-20201211.918
+    org-super-agenda.el -> org-super-agenda.el
+    org-super-agenda.info -> org-super-agenda.info
+Created org-super-agenda-20201211.918.tar containing:
+  org-super-agenda-20201211.918/
+  org-super-agenda-20201211.918/dir
+  org-super-agenda-20201211.918/org-super-agenda-pkg.el
+  org-super-agenda-20201211.918/org-super-agenda.el
+  org-super-agenda-20201211.918/org-super-agenda.info
+Built org-super-agenda in 1.480s, finished at Sat Feb 27 07:49:05 2021
+ ✓ Success:
+4.0K -rw-rw-r-- 1 kimr kimr  533 Feb 27 07:49 packages/org-super-agenda-20201211.918.entry
+ 92K -rw-rw-r-- 1 kimr kimr  90K Feb 27 07:49 packages/org-super-agenda-20201211.918.tar
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Feb 27 07:49 packages/org-super-agenda-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr 3.9K Feb 27 07:49 packages/org-super-agenda-readme.txt

@@ -1,0 +1,11 @@
+Package: toc-org
+Fetcher: github
+Source:  https://github.com/snosov1/toc-org.git
+
+Updating /home/kimr/repos/my/melpa/working/toc-org/
+Built toc-org in 1.512s, finished at Sat Feb 27 07:51:06 2021
+ ✓ Success:
+ 20K -rw-rw-r-- 1 kimr kimr  20K Feb 27 07:51 packages/toc-org-20201105.826.el
+4.0K -rw-rw-r-- 1 kimr kimr  430 Feb 27 07:51 packages/toc-org-20201105.826.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Feb 27 07:51 packages/toc-org-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr  800 Feb 27 07:51 packages/toc-org-readme.txt

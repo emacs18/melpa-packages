@@ -1,0 +1,12 @@
+Package: navi-mode
+Fetcher: github
+Source:  https://github.com/alphapapa/navi.git
+
+Updating /home/kimr/repos/my/melpa/working/navi-mode/
+Built navi-mode in 1.290s, finished at Sat Feb 27 07:48:32 2021
+ ✓ Success:
+100K -rw-rw-r-- 1 kimr kimr  98K Dec  6 19:55 packages/navi-mode-20190720.2003.el
+4.0K -rw-rw-r-- 1 kimr kimr  267 Dec  6 19:55 packages/navi-mode-20190720.2003.entry
+100K -rw-rw-r-- 1 kimr kimr  98K Feb 27 07:48 packages/navi-mode-20201220.1727.el
+4.0K -rw-rw-r-- 1 kimr kimr  317 Feb 27 07:48 packages/navi-mode-20201220.1727.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Feb 27 07:48 packages/navi-mode-badge.svg

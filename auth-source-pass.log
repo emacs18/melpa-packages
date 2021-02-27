@@ -1,0 +1,13 @@
+Package: auth-source-pass
+Fetcher: github
+Source:  https://github.com/DamienCassou/auth-source-pass.git
+
+Updating /home/kimr/repos/my/melpa/working/auth-source-pass/
+Built auth-source-pass in 1.091s, finished at Sat Feb 27 07:41:25 2021
+ ✓ Success:
+ 16K -rw-rw-r-- 1 kimr kimr  14K Dec  6 19:51 packages/auth-source-pass-20201108.1043.el
+4.0K -rw-rw-r-- 1 kimr kimr  411 Dec  6 19:51 packages/auth-source-pass-20201108.1043.entry
+ 16K -rw-rw-r-- 1 kimr kimr  14K Feb 27 07:41 packages/auth-source-pass-20210210.1908.el
+4.0K -rw-rw-r-- 1 kimr kimr  475 Feb 27 07:41 packages/auth-source-pass-20210210.1908.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Feb 27 07:41 packages/auth-source-pass-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr   74 Feb 27 07:41 packages/auth-source-pass-readme.txt

@@ -1,0 +1,12 @@
+Package: ox-reveal
+Fetcher: github
+Source:  https://github.com/yjwen/org-reveal.git
+
+Updating /home/kimr/repos/my/melpa/working/ox-reveal/
+Built ox-reveal in 1.190s, finished at Sat Feb 27 07:49:19 2021
+ ✓ Success:
+ 68K -rw-rw-r-- 1 kimr kimr  67K Dec 19 20:46 packages/ox-reveal-20201211.1518.el
+4.0K -rw-rw-r-- 1 kimr kimr  337 Dec 19 20:46 packages/ox-reveal-20201211.1518.entry
+ 68K -rw-rw-r-- 1 kimr kimr  67K Feb 27 07:49 packages/ox-reveal-20210215.1605.el
+4.0K -rw-rw-r-- 1 kimr kimr  387 Feb 27 07:49 packages/ox-reveal-20210215.1605.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Feb 27 07:49 packages/ox-reveal-badge.svg

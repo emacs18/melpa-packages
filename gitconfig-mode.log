@@ -1,0 +1,11 @@
+Package: gitconfig-mode
+Fetcher: github
+Source:  https://github.com/magit/git-modes.git
+
+Updating /home/kimr/repos/my/melpa/working/gitconfig-mode/
+Built gitconfig-mode in 0.681s, finished at Sat Feb 27 07:45:16 2021
+ ✓ Success:
+8.0K -rw-rw-r-- 1 kimr kimr 5.2K Feb 27 07:45 packages/gitconfig-mode-20180318.1956.el
+4.0K -rw-rw-r-- 1 kimr kimr  369 Feb 27 07:45 packages/gitconfig-mode-20180318.1956.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Feb 27 07:45 packages/gitconfig-mode-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr   43 Feb 27 07:45 packages/gitconfig-mode-readme.txt

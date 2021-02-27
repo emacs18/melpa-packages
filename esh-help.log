@@ -1,0 +1,11 @@
+Package: esh-help
+Fetcher: github
+Source:  https://github.com/tom-tan/esh-help.git
+
+Updating /home/kimr/repos/my/melpa/working/esh-help/
+Built esh-help in 1.268s, finished at Sat Feb 27 07:43:33 2021
+ ✓ Success:
+8.0K -rw-rw-r-- 1 kimr kimr 5.2K Feb 27 07:43 packages/esh-help-20190905.22.el
+4.0K -rw-rw-r-- 1 kimr kimr  387 Feb 27 07:43 packages/esh-help-20190905.22.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Feb 27 07:43 packages/esh-help-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr  445 Feb 27 07:43 packages/esh-help-readme.txt

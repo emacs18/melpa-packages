@@ -1,0 +1,23 @@
+Package: esxml
+Fetcher: github
+Source:  https://github.com/tali713/esxml.git
+
+Updating /home/kimr/repos/my/melpa/working/esxml/
+Copying files (->) and directories (=>)
+  from /home/kimr/repos/my/melpa/working/esxml/
+  to /tmp/esxmlTS2h00/esxml-20201226.2146
+    esxml.el -> esxml.el
+    esxml-query.el -> esxml-query.el
+Created esxml-20201226.2146.tar containing:
+  esxml-20201226.2146/
+  esxml-20201226.2146/esxml-pkg.el
+  esxml-20201226.2146/esxml-query.el
+  esxml-20201226.2146/esxml.el
+Built esxml in 1.722s, finished at Sat Feb 27 07:43:37 2021
+ ✓ Success:
+4.0K -rw-rw-r-- 1 kimr kimr  143 Dec 19 20:46 packages/esxml-20201130.809.entry
+ 52K -rw-rw-r-- 1 kimr kimr  50K Dec 19 20:46 packages/esxml-20201130.809.tar
+4.0K -rw-rw-r-- 1 kimr kimr  294 Feb 27 07:43 packages/esxml-20201226.2146.entry
+ 52K -rw-rw-r-- 1 kimr kimr  50K Feb 27 07:43 packages/esxml-20201226.2146.tar
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Feb 27 07:43 packages/esxml-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr  882 Feb 27 07:43 packages/esxml-readme.txt

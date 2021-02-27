@@ -1,0 +1,11 @@
+Package: link-hint
+Fetcher: github
+Source:  https://github.com/noctuid/link-hint.el.git
+
+Updating /home/kimr/repos/my/melpa/working/link-hint/
+Built link-hint in 1.715s, finished at Sat Feb 27 07:47:39 2021
+ ✓ Success:
+ 48K -rw-rw-r-- 1 kimr kimr  48K Feb 27 07:47 packages/link-hint-20201127.2144.el
+4.0K -rw-rw-r-- 1 kimr kimr  452 Feb 27 07:47 packages/link-hint-20201127.2144.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Feb 27 07:47 packages/link-hint-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr  741 Feb 27 07:47 packages/link-hint-readme.txt

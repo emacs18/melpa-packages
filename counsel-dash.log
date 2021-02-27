@@ -1,0 +1,11 @@
+Package: counsel-dash
+Fetcher: github
+Source:  https://github.com/dash-docs-el/counsel-dash.git
+
+Updating /home/kimr/repos/my/melpa/working/counsel-dash/
+Built counsel-dash in 1.170s, finished at Sat Feb 27 07:42:33 2021
+ ✓ Success:
+4.0K -rw-rw-r-- 1 kimr kimr 3.8K Feb 27 07:42 packages/counsel-dash-20200103.1411.el
+4.0K -rw-rw-r-- 1 kimr kimr  444 Feb 27 07:42 packages/counsel-dash-20200103.1411.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Feb 27 07:42 packages/counsel-dash-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr  126 Feb 27 07:42 packages/counsel-dash-readme.txt

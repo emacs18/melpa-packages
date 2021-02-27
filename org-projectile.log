@@ -1,0 +1,11 @@
+Package: org-projectile
+Fetcher: github
+Source:  https://github.com/IvanMalison/org-projectile.git
+
+Updating /home/kimr/repos/my/melpa/working/org-projectile/
+Built org-projectile in 1.301s, finished at Sat Feb 27 07:48:56 2021
+ ✓ Success:
+ 16K -rw-rw-r-- 1 kimr kimr  15K Feb 27 07:48 packages/org-projectile-20190130.1439.el
+4.0K -rw-rw-r-- 1 kimr kimr  540 Feb 27 07:48 packages/org-projectile-20190130.1439.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Feb 27 07:48 packages/org-projectile-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr   95 Feb 27 07:48 packages/org-projectile-readme.txt

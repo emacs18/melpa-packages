@@ -1,0 +1,24 @@
+Package: package-lint
+Fetcher: github
+Source:  https://github.com/purcell/package-lint.git
+
+Updating /home/kimr/repos/my/melpa/working/package-lint/
+Copying files (->) and directories (=>)
+  from /home/kimr/repos/my/melpa/working/package-lint/
+  to /tmp/package-lintIUCu2z/package-lint-20210227.314
+    package-lint.el -> package-lint.el
+    data => data
+Created package-lint-20210227.314.tar containing:
+  package-lint-20210227.314/
+  package-lint-20210227.314/data/
+  package-lint-20210227.314/data/stdlib-changes
+  package-lint-20210227.314/package-lint-pkg.el
+  package-lint-20210227.314/package-lint.el
+Built package-lint in 0.964s, finished at Sat Feb 27 07:49:22 2021
+ ✓ Success:
+4.0K -rw-rw-r-- 1 kimr kimr  414 Dec  6 19:55 packages/package-lint-20200906.512.entry
+752K -rw-rw-r-- 1 kimr kimr 750K Dec  6 19:55 packages/package-lint-20200906.512.tar
+4.0K -rw-rw-r-- 1 kimr kimr  474 Feb 27 07:49 packages/package-lint-20210227.314.entry
+760K -rw-rw-r-- 1 kimr kimr 760K Feb 27 07:49 packages/package-lint-20210227.314.tar
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Feb 27 07:49 packages/package-lint-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr  260 Feb 27 07:49 packages/package-lint-readme.txt

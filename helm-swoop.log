@@ -1,0 +1,11 @@
+Package: helm-swoop
+Fetcher: github
+Source:  https://github.com/emacsorphanage/helm-swoop.git
+
+Updating /home/kimr/repos/my/melpa/working/helm-swoop/
+Built helm-swoop in 1.704s, finished at Sat Feb 27 07:46:37 2021
+ ✓ Success:
+ 72K -rw-rw-r-- 1 kimr kimr  69K Feb 27 07:46 packages/helm-swoop-20200814.448.el
+4.0K -rw-rw-r-- 1 kimr kimr  499 Feb 27 07:46 packages/helm-swoop-20200814.448.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Feb 27 07:46 packages/helm-swoop-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr 2.6K Feb 27 07:46 packages/helm-swoop-readme.txt

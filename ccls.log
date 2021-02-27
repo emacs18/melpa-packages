@@ -1,0 +1,33 @@
+Package: ccls
+Fetcher: github
+Source:  https://github.com/MaskRay/emacs-ccls.git
+
+Updating /home/kimr/repos/my/melpa/working/ccls/
+Copying files (->) and directories (=>)
+  from /home/kimr/repos/my/melpa/working/ccls/
+  to /tmp/cclsnmxuxe/ccls-20200820.308
+    ccls-call-hierarchy.el -> ccls-call-hierarchy.el
+    ccls-code-lens.el -> ccls-code-lens.el
+    ccls-common.el -> ccls-common.el
+    ccls-inheritance-hierarchy.el -> ccls-inheritance-hierarchy.el
+    ccls-member-hierarchy.el -> ccls-member-hierarchy.el
+    ccls-semantic-highlight.el -> ccls-semantic-highlight.el
+    ccls-tree.el -> ccls-tree.el
+    ccls.el -> ccls.el
+Created ccls-20200820.308.tar containing:
+  ccls-20200820.308/
+  ccls-20200820.308/ccls-call-hierarchy.el
+  ccls-20200820.308/ccls-code-lens.el
+  ccls-20200820.308/ccls-common.el
+  ccls-20200820.308/ccls-inheritance-hierarchy.el
+  ccls-20200820.308/ccls-member-hierarchy.el
+  ccls-20200820.308/ccls-pkg.el
+  ccls-20200820.308/ccls-semantic-highlight.el
+  ccls-20200820.308/ccls-tree.el
+  ccls-20200820.308/ccls.el
+Built ccls in 1.045s, finished at Sat Feb 27 07:41:53 2021
+ ✓ Success:
+4.0K -rw-rw-r-- 1 kimr kimr  379 Feb 27 07:41 packages/ccls-20200820.308.entry
+ 72K -rw-rw-r-- 1 kimr kimr  70K Feb 27 07:41 packages/ccls-20200820.308.tar
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Feb 27 07:41 packages/ccls-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr  122 Feb 27 07:41 packages/ccls-readme.txt

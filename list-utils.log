@@ -1,0 +1,13 @@
+Package: list-utils
+Fetcher: github
+Source:  https://github.com/rolandwalker/list-utils.git
+
+Updating /home/kimr/repos/my/melpa/working/list-utils/
+Built list-utils in 1.292s, finished at Sat Feb 27 07:47:43 2021
+ ✓ Success:
+ 40K -rw-rw-r-- 1 kimr kimr  38K Dec  6 19:54 packages/list-utils-20200502.1309.el
+4.0K -rw-rw-r-- 1 kimr kimr  319 Dec  6 19:54 packages/list-utils-20200502.1309.entry
+ 40K -rw-rw-r-- 1 kimr kimr  38K Feb 27 07:47 packages/list-utils-20210111.1522.el
+4.0K -rw-rw-r-- 1 kimr kimr  371 Feb 27 07:47 packages/list-utils-20210111.1522.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Feb 27 07:47 packages/list-utils-badge.svg
+8.0K -rw-rw-r-- 1 kimr kimr 4.2K Feb 27 07:47 packages/list-utils-readme.txt

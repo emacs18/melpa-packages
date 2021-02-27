@@ -1,0 +1,23 @@
+Package: org-jira
+Fetcher: github
+Source:  https://github.com/ahungry/org-jira.git
+
+Updating /home/kimr/repos/my/melpa/working/org-jira/
+Copying files (->) and directories (=>)
+  from /home/kimr/repos/my/melpa/working/org-jira/
+  to /tmp/org-jiranKhJbV/org-jira-20201119.154
+    jiralib.el -> jiralib.el
+    org-jira.el -> org-jira.el
+    org-jira-sdk.el -> org-jira-sdk.el
+Created org-jira-20201119.154.tar containing:
+  org-jira-20201119.154/
+  org-jira-20201119.154/jiralib.el
+  org-jira-20201119.154/org-jira-pkg.el
+  org-jira-20201119.154/org-jira-sdk.el
+  org-jira-20201119.154/org-jira.el
+Built org-jira in 1.306s, finished at Sat Feb 27 07:48:49 2021
+ ✓ Success:
+4.0K -rw-rw-r-- 1 kimr kimr  410 Feb 27 07:48 packages/org-jira-20201119.154.entry
+172K -rw-rw-r-- 1 kimr kimr 170K Feb 27 07:48 packages/org-jira-20201119.154.tar
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Feb 27 07:48 packages/org-jira-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr   83 Feb 27 07:48 packages/org-jira-readme.txt

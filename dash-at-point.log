@@ -1,0 +1,11 @@
+Package: dash-at-point
+Fetcher: github
+Source:  https://github.com/stanaka/dash-at-point.git
+
+Updating /home/kimr/repos/my/melpa/working/dash-at-point/
+Built dash-at-point in 0.881s, finished at Sat Feb 27 07:42:47 2021
+ ✓ Success:
+ 12K -rw-rw-r-- 1 kimr kimr 9.9K Feb 27 07:42 packages/dash-at-point-20180710.1356.el
+4.0K -rw-rw-r-- 1 kimr kimr  333 Feb 27 07:42 packages/dash-at-point-20180710.1356.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Feb 27 07:42 packages/dash-at-point-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr 1.1K Feb 27 07:42 packages/dash-at-point-readme.txt

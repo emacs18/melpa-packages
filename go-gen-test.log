@@ -1,0 +1,11 @@
+Package: go-gen-test
+Fetcher: github
+Source:  https://github.com/s-kostyaev/go-gen-test.git
+
+Updating /home/kimr/repos/my/melpa/working/go-gen-test/
+Built go-gen-test in 1.064s, finished at Sat Feb 27 07:45:45 2021
+ ✓ Success:
+8.0K -rw-rw-r-- 1 kimr kimr 5.1K Feb 27 07:45 packages/go-gen-test-20171023.358.el
+4.0K -rw-rw-r-- 1 kimr kimr  414 Feb 27 07:45 packages/go-gen-test-20171023.358.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Feb 27 07:45 packages/go-gen-test-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr  110 Feb 27 07:45 packages/go-gen-test-readme.txt

@@ -1,0 +1,11 @@
+Package: auto-yasnippet
+Fetcher: github
+Source:  https://github.com/abo-abo/auto-yasnippet.git
+
+Updating /home/kimr/repos/my/melpa/working/auto-yasnippet/
+Built auto-yasnippet in 1.066s, finished at Sat Feb 27 07:41:32 2021
+ ✓ Success:
+ 16K -rw-rw-r-- 1 kimr kimr  15K Feb 27 07:41 packages/auto-yasnippet-20191015.942.el
+4.0K -rw-rw-r-- 1 kimr kimr  351 Feb 27 07:41 packages/auto-yasnippet-20191015.942.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Feb 27 07:41 packages/auto-yasnippet-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr  284 Feb 27 07:41 packages/auto-yasnippet-readme.txt

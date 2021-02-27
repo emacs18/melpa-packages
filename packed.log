@@ -1,0 +1,12 @@
+Package: packed
+Fetcher: github
+Source:  https://github.com/emacscollective/packed.git
+
+Updating /home/kimr/repos/my/melpa/working/packed/
+Note: packed :files spec is equivalent to the default.
+Built packed in 1.326s, finished at Sat Feb 27 07:49:24 2021
+ ✓ Success:
+ 24K -rw-rw-r-- 1 kimr kimr  21K Feb 27 07:49 packages/packed-20201120.2047.el
+4.0K -rw-rw-r-- 1 kimr kimr  414 Feb 27 07:49 packages/packed-20201120.2047.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Feb 27 07:49 packages/packed-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr  548 Feb 27 07:49 packages/packed-readme.txt

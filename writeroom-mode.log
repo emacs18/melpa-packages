@@ -1,0 +1,24 @@
+Package: writeroom-mode
+Fetcher: github
+Source:  https://github.com/joostkremers/writeroom-mode.git
+
+Updating /home/kimr/repos/my/melpa/working/writeroom-mode/
+Copying files (->) and directories (=>)
+  from /home/kimr/repos/my/melpa/working/writeroom-mode/
+  to /tmp/writeroom-modeYydvuk/writeroom-mode-20201229.2242
+    writeroom-mode.el -> writeroom-mode.el
+    writeroom-mode.info -> writeroom-mode.info
+Created writeroom-mode-20201229.2242.tar containing:
+  writeroom-mode-20201229.2242/
+  writeroom-mode-20201229.2242/dir
+  writeroom-mode-20201229.2242/writeroom-mode-pkg.el
+  writeroom-mode-20201229.2242/writeroom-mode.el
+  writeroom-mode-20201229.2242/writeroom-mode.info
+Built writeroom-mode in 1.296s, finished at Sat Feb 27 07:51:46 2021
+ ✓ Success:
+4.0K -rw-rw-r-- 1 kimr kimr  379 Dec  6 19:56 packages/writeroom-mode-20201107.2227.entry
+ 60K -rw-rw-r-- 1 kimr kimr  60K Dec  6 19:56 packages/writeroom-mode-20201107.2227.tar
+4.0K -rw-rw-r-- 1 kimr kimr  424 Feb 27 07:51 packages/writeroom-mode-20201229.2242.entry
+ 60K -rw-rw-r-- 1 kimr kimr  60K Feb 27 07:51 packages/writeroom-mode-20201229.2242.tar
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Feb 27 07:51 packages/writeroom-mode-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr  270 Feb 27 07:51 packages/writeroom-mode-readme.txt

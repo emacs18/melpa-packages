@@ -1,0 +1,54 @@
+Package: org-roam
+Fetcher: github
+Source:  https://github.com/org-roam/org-roam.git
+
+Updating /home/kimr/repos/my/melpa/working/org-roam/
+Copying files (->) and directories (=>)
+  from /home/kimr/repos/my/melpa/working/org-roam/
+  to /tmp/org-roam9y5wWk/org-roam-20210128.1341
+    org-roam-buffer.el -> org-roam-buffer.el
+    org-roam-capture.el -> org-roam-capture.el
+    org-roam-compat.el -> org-roam-compat.el
+    org-roam-completion.el -> org-roam-completion.el
+    org-roam-dailies.el -> org-roam-dailies.el
+    org-roam-db.el -> org-roam-db.el
+    org-roam-dev.el -> org-roam-dev.el
+    org-roam-doctor.el -> org-roam-doctor.el
+    org-roam-faces.el -> org-roam-faces.el
+    org-roam-graph.el -> org-roam-graph.el
+    org-roam-link.el -> org-roam-link.el
+    org-roam-macs.el -> org-roam-macs.el
+    org-roam-protocol.el -> org-roam-protocol.el
+    org-roam.el -> org-roam.el
+  ! doc/org-roam.texi -> org-roam.texi
+Created /tmp/org-roam9y5wWk/org-roam-20210128.1341/org-roam.info
+Created org-roam-20210128.1341.tar containing:
+  org-roam-20210128.1341/
+  org-roam-20210128.1341/dir
+  org-roam-20210128.1341/org-roam-buffer.el
+  org-roam-20210128.1341/org-roam-capture.el
+  org-roam-20210128.1341/org-roam-compat.el
+  org-roam-20210128.1341/org-roam-completion.el
+  org-roam-20210128.1341/org-roam-dailies.el
+  org-roam-20210128.1341/org-roam-db.el
+  org-roam-20210128.1341/org-roam-dev.el
+  org-roam-20210128.1341/org-roam-doctor.el
+  org-roam-20210128.1341/org-roam-faces.el
+  org-roam-20210128.1341/org-roam-graph.el
+  org-roam-20210128.1341/org-roam-link.el
+  org-roam-20210128.1341/org-roam-macs.el
+  org-roam-20210128.1341/org-roam-pkg.el
+  org-roam-20210128.1341/org-roam-protocol.el
+  org-roam-20210128.1341/org-roam.el
+  org-roam-20210128.1341/org-roam.info
+Built org-roam in 1.756s, finished at Sat Feb 27 07:49:02 2021
+ ✓ Success:
+4.0K -rw-rw-r-- 1 kimr kimr  445 Dec  6 19:55 packages/org-roam-20201128.1144.entry
+320K -rw-rw-r-- 1 kimr kimr 320K Dec  6 19:55 packages/org-roam-20201128.1144.tar
+4.0K -rw-rw-r-- 1 kimr kimr  557 Feb 27 07:49 packages/org-roam-20210128.1341.entry
+320K -rw-rw-r-- 1 kimr kimr 320K Feb 27 07:49 packages/org-roam-20210128.1341.tar
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Feb 27 07:49 packages/org-roam-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr  179 Feb 27 07:49 packages/org-roam-readme.txt
+4.0K -rw-rw-r-- 1 kimr kimr  424 Dec  6 19:55 packages/org-roam-server-20201203.2002.entry
+1.3M -rw-rw-r-- 1 kimr kimr 1.3M Dec  6 19:55 packages/org-roam-server-20201203.2002.tar
+4.0K -rw-rw-r-- 1 kimr kimr  166 Dec  6 19:55 packages/org-roam-server-readme.txt

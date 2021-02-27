@@ -1,0 +1,11 @@
+Package: demangle-mode
+Fetcher: github
+Source:  https://github.com/liblit/demangle-mode.git
+
+Updating /home/kimr/repos/my/melpa/working/demangle-mode/
+Built demangle-mode in 1.087s, finished at Sat Feb 27 07:42:54 2021
+ ✓ Success:
+ 16K -rw-rw-r-- 1 kimr kimr  13K Feb 27 07:42 packages/demangle-mode-20200926.2014.el
+4.0K -rw-rw-r-- 1 kimr kimr  376 Feb 27 07:42 packages/demangle-mode-20200926.2014.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Feb 27 07:42 packages/demangle-mode-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr  794 Feb 27 07:42 packages/demangle-mode-readme.txt

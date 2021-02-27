@@ -1,0 +1,11 @@
+Package: evil-easymotion
+Fetcher: github
+Source:  https://github.com/PythonNut/evil-easymotion.git
+
+Updating /home/kimr/repos/my/melpa/working/evil-easymotion/
+Built evil-easymotion in 1.370s, finished at Sat Feb 27 07:43:50 2021
+ ✓ Success:
+ 24K -rw-rw-r-- 1 kimr kimr  22K Feb 27 07:43 packages/evil-easymotion-20200424.135.el
+4.0K -rw-rw-r-- 1 kimr kimr  448 Feb 27 07:43 packages/evil-easymotion-20200424.135.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Feb 27 07:43 packages/evil-easymotion-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Feb 27 07:43 packages/evil-easymotion-readme.txt

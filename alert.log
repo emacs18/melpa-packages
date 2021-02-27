@@ -1,0 +1,11 @@
+Package: alert
+Fetcher: github
+Source:  https://github.com/jwiegley/alert.git
+
+Updating /home/kimr/repos/my/melpa/working/alert/
+Built alert in 1.632s, finished at Sat Feb 27 07:41:15 2021
+ ✓ Success:
+ 48K -rw-rw-r-- 1 kimr kimr  47K Feb 27 07:41 packages/alert-20200303.2118.el
+4.0K -rw-rw-r-- 1 kimr kimr  409 Feb 27 07:41 packages/alert-20200303.2118.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Feb 27 07:41 packages/alert-badge.svg
+8.0K -rw-rw-r-- 1 kimr kimr 6.6K Feb 27 07:41 packages/alert-readme.txt

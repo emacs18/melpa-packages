@@ -1,0 +1,11 @@
+Package: helm-dash
+Fetcher: github
+Source:  https://github.com/dash-docs-el/helm-dash.git
+
+Updating /home/kimr/repos/my/melpa/working/helm-dash/
+Built helm-dash in 1.372s, finished at Sat Feb 27 07:46:12 2021
+ ✓ Success:
+8.0K -rw-rw-r-- 1 kimr kimr 5.2K Feb 27 07:46 packages/helm-dash-20190527.1118.el
+4.0K -rw-rw-r-- 1 kimr kimr  591 Feb 27 07:46 packages/helm-dash-20190527.1118.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Feb 27 07:46 packages/helm-dash-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr  201 Feb 27 07:46 packages/helm-dash-readme.txt

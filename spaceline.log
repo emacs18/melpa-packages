@@ -1,0 +1,26 @@
+Package: spaceline
+Fetcher: github
+Source:  https://github.com/TheBB/spaceline.git
+
+Updating /home/kimr/repos/my/melpa/working/spaceline/
+Copying files (->) and directories (=>)
+  from /home/kimr/repos/my/melpa/working/spaceline/
+  to /tmp/spacelineF3QLWc/spaceline-20201016.1043
+    spaceline-config.el -> spaceline-config.el
+    spaceline-segments.el -> spaceline-segments.el
+    spaceline.el -> spaceline.el
+Created spaceline-20201016.1043.tar containing:
+  spaceline-20201016.1043/
+  spaceline-20201016.1043/spaceline-config.el
+  spaceline-20201016.1043/spaceline-pkg.el
+  spaceline-20201016.1043/spaceline-segments.el
+  spaceline-20201016.1043/spaceline.el
+Built spaceline in 1.026s, finished at Sat Feb 27 07:50:49 2021
+ ✓ Success:
+4.0K -rw-rw-r-- 1 kimr kimr  519 Feb 27 07:50 packages/spaceline-20201016.1043.entry
+ 80K -rw-rw-r-- 1 kimr kimr  80K Feb 27 07:50 packages/spaceline-20201016.1043.tar
+4.0K -rw-rw-r-- 1 kimr kimr  449 Dec  6 19:56 packages/spaceline-all-the-icons-20190325.1602.entry
+100K -rw-rw-r-- 1 kimr kimr 100K Dec  6 19:56 packages/spaceline-all-the-icons-20190325.1602.tar
+4.0K -rw-rw-r-- 1 kimr kimr 3.0K Dec  6 19:56 packages/spaceline-all-the-icons-readme.txt
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Feb 27 07:50 packages/spaceline-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr  239 Feb 27 07:50 packages/spaceline-readme.txt

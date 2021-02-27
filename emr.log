@@ -1,0 +1,39 @@
+Package: emr
+Fetcher: github
+Source:  https://github.com/Wilfred/emacs-refactor.git
+
+Updating /home/kimr/repos/my/melpa/working/emr/
+Copying files (->) and directories (=>)
+  from /home/kimr/repos/my/melpa/working/emr/
+  to /tmp/emrDf3hXS/emr-20210110.1928
+    emr-c.el -> emr-c.el
+    emr-css.el -> emr-css.el
+    emr-elisp.el -> emr-elisp.el
+    emr-iedit.el -> emr-iedit.el
+    emr-js.el -> emr-js.el
+    emr-lisp.el -> emr-lisp.el
+    emr-prog.el -> emr-prog.el
+    emr-ruby.el -> emr-ruby.el
+    emr-scheme.el -> emr-scheme.el
+    emr.el -> emr.el
+Created emr-20210110.1928.tar containing:
+  emr-20210110.1928/
+  emr-20210110.1928/emr-c.el
+  emr-20210110.1928/emr-css.el
+  emr-20210110.1928/emr-elisp.el
+  emr-20210110.1928/emr-iedit.el
+  emr-20210110.1928/emr-js.el
+  emr-20210110.1928/emr-lisp.el
+  emr-20210110.1928/emr-pkg.el
+  emr-20210110.1928/emr-prog.el
+  emr-20210110.1928/emr-ruby.el
+  emr-20210110.1928/emr-scheme.el
+  emr-20210110.1928/emr.el
+Built emr in 1.129s, finished at Sat Feb 27 07:43:26 2021
+ ✓ Success:
+4.0K -rw-rw-r-- 1 kimr kimr  503 Dec  6 19:52 packages/emr-20200420.721.entry
+112K -rw-rw-r-- 1 kimr kimr 110K Dec  6 19:52 packages/emr-20200420.721.tar
+4.0K -rw-rw-r-- 1 kimr kimr  628 Feb 27 07:43 packages/emr-20210110.1928.entry
+112K -rw-rw-r-- 1 kimr kimr 110K Feb 27 07:43 packages/emr-20210110.1928.tar
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Feb 27 07:43 packages/emr-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr  338 Feb 27 07:43 packages/emr-readme.txt

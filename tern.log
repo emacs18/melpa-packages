@@ -1,0 +1,10 @@
+Package: tern
+Fetcher: github
+Source:  https://github.com/ternjs/tern.git
+
+Updating /home/kimr/repos/my/melpa/working/tern/
+Built tern in 1.096s, finished at Sat Feb 27 07:51:03 2021
+ ✓ Success:
+ 28K -rw-rw-r-- 1 kimr kimr  27K Feb 27 07:51 packages/tern-20181108.722.el
+4.0K -rw-rw-r-- 1 kimr kimr  306 Feb 27 07:51 packages/tern-20181108.722.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Feb 27 07:51 packages/tern-badge.svg

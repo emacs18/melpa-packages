@@ -1,0 +1,11 @@
+Package: helm-css-scss
+Fetcher: github
+Source:  https://github.com/emacsorphanage/helm-css-scss.git
+
+Updating /home/kimr/repos/my/melpa/working/helm-css-scss/
+Built helm-css-scss in 1.404s, finished at Sat Feb 27 07:46:10 2021
+ ✓ Success:
+ 36K -rw-rw-r-- 1 kimr kimr  34K Feb 27 07:46 packages/helm-css-scss-20191230.1549.el
+4.0K -rw-rw-r-- 1 kimr kimr  445 Feb 27 07:46 packages/helm-css-scss-20191230.1549.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Feb 27 07:46 packages/helm-css-scss-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr 1.4K Feb 27 07:46 packages/helm-css-scss-readme.txt

@@ -1,0 +1,13 @@
+Package: ivy-hydra
+Fetcher: github
+Source:  https://github.com/abo-abo/swiper.git
+
+Updating /home/kimr/repos/my/melpa/working/ivy-hydra/
+Built ivy-hydra in 0.805s, finished at Sat Feb 27 07:47:12 2021
+ ✓ Success:
+8.0K -rw-rw-r-- 1 kimr kimr 5.8K Dec 19 20:46 packages/ivy-hydra-20200608.1010.el
+4.0K -rw-rw-r-- 1 kimr kimr  354 Dec 19 20:46 packages/ivy-hydra-20200608.1010.entry
+8.0K -rw-rw-r-- 1 kimr kimr 5.8K Feb 27 07:47 packages/ivy-hydra-20210225.1251.el
+4.0K -rw-rw-r-- 1 kimr kimr  436 Feb 27 07:47 packages/ivy-hydra-20210225.1251.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Feb 27 07:47 packages/ivy-hydra-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr  178 Feb 27 07:47 packages/ivy-hydra-readme.txt

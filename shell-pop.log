@@ -1,0 +1,11 @@
+Package: shell-pop
+Fetcher: github
+Source:  https://github.com/kyagi/shell-pop-el.git
+
+Updating /home/kimr/repos/my/melpa/working/shell-pop/
+Built shell-pop in 1.307s, finished at Sat Feb 27 07:50:37 2021
+ ✓ Success:
+ 16K -rw-rw-r-- 1 kimr kimr  13K Feb 27 07:50 packages/shell-pop-20200315.1139.el
+4.0K -rw-rw-r-- 1 kimr kimr  457 Feb 27 07:50 packages/shell-pop-20200315.1139.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Feb 27 07:50 packages/shell-pop-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr  753 Feb 27 07:50 packages/shell-pop-readme.txt

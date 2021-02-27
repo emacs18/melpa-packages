@@ -1,0 +1,27 @@
+Package: rklisp
+Fetcher: git
+Source:  /u/kimr/repos/my/rklisp
+
+Updating /home/kimr/repos/my/melpa/working/rklisp/
+Copying files (->) and directories (=>)
+  from /home/kimr/repos/my/melpa/working/rklisp/
+  to /tmp/rklispnuFIWW/rklisp-20210216.704
+    kimr-edit-utils.el -> kimr-edit-utils.el
+    kimr-frames.el -> kimr-frames.el
+    kimr-gnus.el -> kimr-gnus.el
+    kimr-gud.el -> kimr-gud.el
+    kimr-info.el -> kimr-info.el
+    kimr-layout.el -> kimr-layout.el
+    kimr-mail.el -> kimr-mail.el
+    kimr-package.el -> kimr-package.el
+    kimr-picture.el -> kimr-picture.el
+    kimr-python.el -> kimr-python.el
+    kimr-tempo-c.el -> kimr-tempo-c.el
+    kimr-tempo-elisp.el -> kimr-tempo-elisp.el
+    kimr-tempo-python.el -> kimr-tempo-python.el
+    kimr-tempo-texinfo.el -> kimr-tempo-texinfo.el
+    kimr-texinfo.el -> kimr-texinfo.el
+    kimr-utils.el -> kimr-utils.el
+    org-db.el -> org-db.el
+    my-init.org -> my-init.org
+Wrong type argument: package-desc, nil

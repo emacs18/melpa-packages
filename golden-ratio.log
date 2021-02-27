@@ -1,0 +1,10 @@
+Package: golden-ratio
+Fetcher: github
+Source:  https://github.com/roman/golden-ratio.el.git
+
+Updating /home/kimr/repos/my/melpa/working/golden-ratio/
+Built golden-ratio in 1.419s, finished at Sat Feb 27 07:45:50 2021
+ ✓ Success:
+8.0K -rw-rw-r-- 1 kimr kimr 7.8K Feb 27 07:45 packages/golden-ratio-20191028.1732.el
+4.0K -rw-rw-r-- 1 kimr kimr  338 Feb 27 07:45 packages/golden-ratio-20191028.1732.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Feb 27 07:45 packages/golden-ratio-badge.svg

@@ -1,0 +1,12 @@
+Package: tagedit
+Fetcher: github
+Source:  https://github.com/magnars/tagedit.git
+
+Updating /home/kimr/repos/my/melpa/working/tagedit/
+Note: tagedit :files spec is equivalent to the default.
+Built tagedit in 1.361s, finished at Sat Feb 27 07:51:00 2021
+ ✓ Success:
+ 36K -rw-rw-r-- 1 kimr kimr  36K Feb 27 07:50 packages/tagedit-20161121.855.el
+4.0K -rw-rw-r-- 1 kimr kimr  334 Feb 27 07:50 packages/tagedit-20161121.855.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Feb 27 07:51 packages/tagedit-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr 2.5K Feb 27 07:50 packages/tagedit-readme.txt

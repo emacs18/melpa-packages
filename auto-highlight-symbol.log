@@ -1,0 +1,13 @@
+Package: auto-highlight-symbol
+Fetcher: github
+Source:  https://github.com/jcs-elpa/auto-highlight-symbol.git
+
+Updating /home/kimr/repos/my/melpa/working/auto-highlight-symbol/
+Built auto-highlight-symbol in 1.498s, finished at Sat Feb 27 07:41:31 2021
+ ✓ Success:
+ 56K -rw-rw-r-- 1 kimr kimr  53K Dec  6 19:51 packages/auto-highlight-symbol-20201018.1340.el
+4.0K -rw-rw-r-- 1 kimr kimr  390 Dec  6 19:51 packages/auto-highlight-symbol-20201018.1340.entry
+ 56K -rw-rw-r-- 1 kimr kimr  53K Feb 27 07:41 packages/auto-highlight-symbol-20210108.1841.el
+4.0K -rw-rw-r-- 1 kimr kimr  425 Feb 27 07:41 packages/auto-highlight-symbol-20210108.1841.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Feb 27 07:41 packages/auto-highlight-symbol-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr 2.1K Feb 27 07:41 packages/auto-highlight-symbol-readme.txt

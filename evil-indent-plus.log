@@ -1,0 +1,11 @@
+Package: evil-indent-plus
+Fetcher: github
+Source:  https://github.com/TheBB/evil-indent-plus.git
+
+Updating /home/kimr/repos/my/melpa/working/evil-indent-plus/
+Built evil-indent-plus in 1.259s, finished at Sat Feb 27 07:44:01 2021
+ ✓ Success:
+ 12K -rw-rw-r-- 1 kimr kimr 8.4K Feb 27 07:44 packages/evil-indent-plus-20151109.1906.el
+4.0K -rw-rw-r-- 1 kimr kimr  423 Feb 27 07:44 packages/evil-indent-plus-20151109.1906.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Feb 27 07:44 packages/evil-indent-plus-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr  327 Feb 27 07:44 packages/evil-indent-plus-readme.txt

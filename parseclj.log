@@ -1,0 +1,25 @@
+Package: parseclj
+Fetcher: github
+Source:  https://github.com/clojure-emacs/parseclj.git
+
+Updating /home/kimr/repos/my/melpa/working/parseclj/
+Copying files (->) and directories (=>)
+  from /home/kimr/repos/my/melpa/working/parseclj/
+  to /tmp/parsecljxgnY4a/parseclj-20201012.712
+    parseclj-ast.el -> parseclj-ast.el
+    parseclj-lex.el -> parseclj-lex.el
+    parseclj-parser.el -> parseclj-parser.el
+    parseclj.el -> parseclj.el
+Created parseclj-20201012.712.tar containing:
+  parseclj-20201012.712/
+  parseclj-20201012.712/parseclj-ast.el
+  parseclj-20201012.712/parseclj-lex.el
+  parseclj-20201012.712/parseclj-parser.el
+  parseclj-20201012.712/parseclj-pkg.el
+  parseclj-20201012.712/parseclj.el
+Built parseclj in 1.701s, finished at Sat Feb 27 07:49:31 2021
+ ✓ Success:
+4.0K -rw-rw-r-- 1 kimr kimr  352 Feb 27 07:49 packages/parseclj-20201012.712.entry
+ 52K -rw-rw-r-- 1 kimr kimr  50K Feb 27 07:49 packages/parseclj-20201012.712.tar
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Feb 27 07:49 packages/parseclj-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr   38 Feb 27 07:49 packages/parseclj-readme.txt

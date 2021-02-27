@@ -1,0 +1,11 @@
+Package: clean-aindent-mode
+Fetcher: github
+Source:  https://github.com/pmarinov/clean-aindent-mode.git
+
+Updating /home/kimr/repos/my/melpa/working/clean-aindent-mode/
+Built clean-aindent-mode in 1.045s, finished at Sat Feb 27 07:42:01 2021
+ ✓ Success:
+ 12K -rw-rw-r-- 1 kimr kimr  11K Feb 27 07:42 packages/clean-aindent-mode-20171017.2043.el
+4.0K -rw-rw-r-- 1 kimr kimr  437 Feb 27 07:42 packages/clean-aindent-mode-20171017.2043.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Feb 27 07:42 packages/clean-aindent-mode-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr 1.5K Feb 27 07:42 packages/clean-aindent-mode-readme.txt

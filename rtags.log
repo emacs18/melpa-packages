@@ -1,0 +1,11 @@
+Package: rtags
+Fetcher: github
+Source:  https://github.com/Andersbakken/rtags.git
+
+Updating /home/kimr/repos/my/melpa/working/rtags/
+Built rtags in 1.300s, finished at Sat Feb 27 07:50:30 2021
+ ✓ Success:
+244K -rw-rw-r-- 1 kimr kimr 241K Feb 27 07:50 packages/rtags-20201218.1821.el
+4.0K -rw-rw-r-- 1 kimr kimr  359 Feb 27 07:50 packages/rtags-20201218.1821.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Feb 27 07:50 packages/rtags-badge.svg
+   0 -rw-rw-r-- 1 kimr kimr    0 Feb 27 07:50 packages/rtags-readme.txt

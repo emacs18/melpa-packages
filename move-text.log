@@ -1,0 +1,11 @@
+Package: move-text
+Fetcher: github
+Source:  https://github.com/emacsfodder/move-text.git
+
+Updating /home/kimr/repos/my/melpa/working/move-text/
+Built move-text in 1.028s, finished at Sat Feb 27 07:48:25 2021
+ ✓ Success:
+8.0K -rw-rw-r-- 1 kimr kimr 6.2K Feb 27 07:48 packages/move-text-20170909.330.el
+4.0K -rw-rw-r-- 1 kimr kimr  371 Feb 27 07:48 packages/move-text-20170909.330.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Feb 27 07:48 packages/move-text-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr  705 Feb 27 07:48 packages/move-text-readme.txt

@@ -1,0 +1,11 @@
+Package: go-fill-struct
+Fetcher: github
+Source:  https://github.com/s-kostyaev/go-fill-struct.git
+
+Updating /home/kimr/repos/my/melpa/working/go-fill-struct/
+Built go-fill-struct in 1.088s, finished at Sat Feb 27 07:45:44 2021
+ ✓ Success:
+4.0K -rw-rw-r-- 1 kimr kimr 2.9K Feb 27 07:45 packages/go-fill-struct-20171225.331.el
+4.0K -rw-rw-r-- 1 kimr kimr  351 Feb 27 07:45 packages/go-fill-struct-20171225.331.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Feb 27 07:45 packages/go-fill-struct-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr  120 Feb 27 07:45 packages/go-fill-struct-readme.txt

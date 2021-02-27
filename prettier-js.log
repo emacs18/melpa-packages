@@ -1,0 +1,11 @@
+Package: prettier-js
+Fetcher: github
+Source:  https://github.com/prettier/prettier-emacs.git
+
+Updating /home/kimr/repos/my/melpa/working/prettier-js/
+Built prettier-js in 1.118s, finished at Sat Feb 27 07:50:03 2021
+ ✓ Success:
+ 12K -rw-rw-r-- 1 kimr kimr 8.7K Feb 27 07:50 packages/prettier-js-20180109.726.el
+4.0K -rw-rw-r-- 1 kimr kimr  383 Feb 27 07:50 packages/prettier-js-20180109.726.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Feb 27 07:50 packages/prettier-js-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr   60 Feb 27 07:50 packages/prettier-js-readme.txt

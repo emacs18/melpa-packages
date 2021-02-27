@@ -1,0 +1,11 @@
+Package: volatile-highlights
+Fetcher: github
+Source:  https://github.com/k-talo/volatile-highlights.el.git
+
+Updating /home/kimr/repos/my/melpa/working/volatile-highlights/
+Built volatile-highlights in 0.882s, finished at Sat Feb 27 07:51:26 2021
+ ✓ Success:
+ 32K -rw-rw-r-- 1 kimr kimr  32K Feb 27 07:51 packages/volatile-highlights-20160612.155.el
+4.0K -rw-rw-r-- 1 kimr kimr  485 Feb 27 07:51 packages/volatile-highlights-20160612.155.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Feb 27 07:51 packages/volatile-highlights-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr 2.7K Feb 27 07:51 packages/volatile-highlights-readme.txt

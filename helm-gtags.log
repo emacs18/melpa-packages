@@ -1,0 +1,11 @@
+Package: helm-gtags
+Fetcher: github
+Source:  https://github.com/emacsorphanage/helm-gtags.git
+
+Updating /home/kimr/repos/my/melpa/working/helm-gtags/
+Built helm-gtags in 1.250s, finished at Sat Feb 27 07:46:22 2021
+ ✓ Success:
+ 60K -rw-rw-r-- 1 kimr kimr  58K Feb 27 07:46 packages/helm-gtags-20200602.1610.el
+4.0K -rw-rw-r-- 1 kimr kimr  387 Feb 27 07:46 packages/helm-gtags-20200602.1610.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Feb 27 07:46 packages/helm-gtags-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr 1.1K Feb 27 07:46 packages/helm-gtags-readme.txt

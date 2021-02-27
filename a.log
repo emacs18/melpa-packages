@@ -1,0 +1,11 @@
+Package: a
+Fetcher: github
+Source:  https://github.com/plexus/a.el.git
+
+Updating /home/kimr/repos/my/melpa/working/a/
+Built a in 1.467s, finished at Sat Feb 27 07:40:59 2021
+ ✓ Success:
+ 12K -rw-rw-r-- 1 kimr kimr  12K Feb 27 07:40 packages/a-20201203.1927.el
+4.0K -rw-rw-r-- 1 kimr kimr  361 Feb 27 07:40 packages/a-20201203.1927.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Feb 27 07:40 packages/a-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr  426 Feb 27 07:40 packages/a-readme.txt

@@ -1,0 +1,11 @@
+Package: fill-column-indicator
+Fetcher: github
+Source:  https://github.com/alpaker/fill-column-indicator.git
+
+Updating /home/kimr/repos/my/melpa/working/fill-column-indicator/
+Built fill-column-indicator in 1.289s, finished at Sat Feb 27 07:44:26 2021
+ ✓ Success:
+ 40K -rw-rw-r-- 1 kimr kimr  37K Feb 27 07:44 packages/fill-column-indicator-20200806.2239.el
+4.0K -rw-rw-r-- 1 kimr kimr  316 Feb 27 07:44 packages/fill-column-indicator-20200806.2239.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Feb 27 07:44 packages/fill-column-indicator-badge.svg
+8.0K -rw-rw-r-- 1 kimr kimr 6.5K Feb 27 07:44 packages/fill-column-indicator-readme.txt

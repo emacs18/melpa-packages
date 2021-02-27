@@ -1,0 +1,11 @@
+Package: lv
+Fetcher: github
+Source:  https://github.com/abo-abo/hydra.git
+
+Updating /home/kimr/repos/my/melpa/working/lv/
+Built lv in 1.546s, finished at Sat Feb 27 07:48:03 2021
+ ✓ Success:
+8.0K -rw-rw-r-- 1 kimr kimr 5.0K Feb 27 07:48 packages/lv-20200507.1518.el
+4.0K -rw-rw-r-- 1 kimr kimr  199 Feb 27 07:48 packages/lv-20200507.1518.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Feb 27 07:48 packages/lv-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr  411 Feb 27 07:48 packages/lv-readme.txt

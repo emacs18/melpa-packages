@@ -1,0 +1,11 @@
+Package: xah-lookup
+Fetcher: github
+Source:  https://github.com/xahlee/lookup-word-on-internet.git
+
+Updating /home/kimr/repos/my/melpa/working/xah-lookup/
+Built xah-lookup in 1.073s, finished at Sat Feb 27 07:51:49 2021
+ ✓ Success:
+ 12K -rwxrwxr-x 1 kimr kimr  12K Feb 27 07:51 packages/xah-lookup-20200420.1528.el
+4.0K -rw-rw-r-- 1 kimr kimr  398 Feb 27 07:51 packages/xah-lookup-20200420.1528.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Feb 27 07:51 packages/xah-lookup-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr  369 Feb 27 07:51 packages/xah-lookup-readme.txt

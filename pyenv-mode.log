@@ -1,0 +1,11 @@
+Package: pyenv-mode
+Fetcher: github
+Source:  https://github.com/pythonic-emacs/pyenv-mode.git
+
+Updating /home/kimr/repos/my/melpa/working/pyenv-mode/
+Built pyenv-mode in 1.067s, finished at Sat Feb 27 07:50:10 2021
+ ✓ Success:
+4.0K -rw-rw-r-- 1 kimr kimr 3.2K Feb 27 07:50 packages/pyenv-mode-20200518.1521.el
+4.0K -rw-rw-r-- 1 kimr kimr  376 Feb 27 07:50 packages/pyenv-mode-20200518.1521.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Feb 27 07:50 packages/pyenv-mode-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr   33 Feb 27 07:50 packages/pyenv-mode-readme.txt

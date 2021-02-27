@@ -1,0 +1,11 @@
+Package: git-messenger
+Fetcher: github
+Source:  https://github.com/emacsorphanage/git-messenger.git
+
+Updating /home/kimr/repos/my/melpa/working/git-messenger/
+Built git-messenger in 1.290s, finished at Sat Feb 27 07:45:31 2021
+ ✓ Success:
+ 20K -rw-rw-r-- 1 kimr kimr  17K Feb 27 07:45 packages/git-messenger-20201202.1637.el
+4.0K -rw-rw-r-- 1 kimr kimr  346 Feb 27 07:45 packages/git-messenger-20201202.1637.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Feb 27 07:45 packages/git-messenger-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr  296 Feb 27 07:45 packages/git-messenger-readme.txt

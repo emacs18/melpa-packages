@@ -1,0 +1,11 @@
+Package: org-bullets
+Fetcher: github
+Source:  https://github.com/integral-dw/org-bullets.git
+
+Updating /home/kimr/repos/my/melpa/working/org-bullets/
+Built org-bullets in 1.281s, finished at Sat Feb 27 07:48:42 2021
+ ✓ Success:
+8.0K -rw-rw-r-- 1 kimr kimr 4.7K Feb 27 07:48 packages/org-bullets-20200317.1740.el
+4.0K -rw-rw-r-- 1 kimr kimr  324 Feb 27 07:48 packages/org-bullets-20200317.1740.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Feb 27 07:48 packages/org-bullets-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr  409 Feb 27 07:48 packages/org-bullets-readme.txt

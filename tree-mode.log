@@ -1,0 +1,10 @@
+Package: tree-mode
+Fetcher: github
+Source:  https://github.com/emacsorphanage/tree-mode.git
+
+Updating /home/kimr/repos/my/melpa/working/tree-mode/
+Built tree-mode in 1.046s, finished at Sat Feb 27 07:51:16 2021
+ ✓ Success:
+ 20K -rw-rw-r-- 1 kimr kimr  19K Feb 27 07:51 packages/tree-mode-20151104.1331.el
+4.0K -rw-rw-r-- 1 kimr kimr  290 Feb 27 07:51 packages/tree-mode-20151104.1331.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Feb 27 07:51 packages/tree-mode-badge.svg

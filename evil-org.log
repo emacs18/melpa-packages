@@ -1,0 +1,23 @@
+Package: evil-org
+Fetcher: github
+Source:  https://github.com/Somelauw/evil-org-mode.git
+
+Updating /home/kimr/repos/my/melpa/working/evil-org/
+Copying files (->) and directories (=>)
+  from /home/kimr/repos/my/melpa/working/evil-org/
+  to /tmp/evil-orghZ3KQ0/evil-org-20201222.2023
+    evil-org-agenda.el -> evil-org-agenda.el
+    evil-org.el -> evil-org.el
+Created evil-org-20201222.2023.tar containing:
+  evil-org-20201222.2023/
+  evil-org-20201222.2023/evil-org-agenda.el
+  evil-org-20201222.2023/evil-org-pkg.el
+  evil-org-20201222.2023/evil-org.el
+Built evil-org in 1.291s, finished at Sat Feb 27 07:44:11 2021
+ ✓ Success:
+4.0K -rw-rw-r-- 1 kimr kimr  308 Dec  6 19:53 packages/evil-org-20200922.1933.entry
+ 52K -rw-rw-r-- 1 kimr kimr  50K Dec  6 19:53 packages/evil-org-20200922.1933.tar
+4.0K -rw-rw-r-- 1 kimr kimr  354 Feb 27 07:44 packages/evil-org-20201222.2023.entry
+ 52K -rw-rw-r-- 1 kimr kimr  50K Feb 27 07:44 packages/evil-org-20201222.2023.tar
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Feb 27 07:44 packages/evil-org-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr   67 Feb 27 07:44 packages/evil-org-readme.txt

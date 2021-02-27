@@ -1,0 +1,11 @@
+Package: cpp-auto-include
+Fetcher: github
+Source:  https://github.com/syohex/emacs-cpp-auto-include.git
+
+Updating /home/kimr/repos/my/melpa/working/cpp-auto-include/
+Built cpp-auto-include in 1.924s, finished at Sat Feb 27 07:42:37 2021
+ ✓ Success:
+ 12K -rw-rw-r-- 1 kimr kimr 9.3K Feb 27 07:42 packages/cpp-auto-include-20191221.2319.el
+4.0K -rw-rw-r-- 1 kimr kimr  387 Feb 27 07:42 packages/cpp-auto-include-20191221.2319.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Feb 27 07:42 packages/cpp-auto-include-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr  155 Feb 27 07:42 packages/cpp-auto-include-readme.txt

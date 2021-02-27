@@ -1,0 +1,11 @@
+Package: pfuture
+Fetcher: github
+Source:  https://github.com/Alexander-Miller/pfuture.git
+
+Updating /home/kimr/repos/my/melpa/working/pfuture/
+Built pfuture in 1.254s, finished at Sat Feb 27 07:49:49 2021
+ ✓ Success:
+ 16K -rw-rw-r-- 1 kimr kimr  13K Feb 27 07:49 packages/pfuture-20200425.1357.el
+4.0K -rw-rw-r-- 1 kimr kimr  357 Feb 27 07:49 packages/pfuture-20200425.1357.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Feb 27 07:49 packages/pfuture-badge.svg
+   0 -rw-rw-r-- 1 kimr kimr    0 Feb 27 07:49 packages/pfuture-readme.txt

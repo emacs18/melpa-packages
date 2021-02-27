@@ -1,0 +1,14 @@
+Package: ht
+Fetcher: github
+Source:  https://github.com/Wilfred/ht.el.git
+
+Updating /home/kimr/repos/my/melpa/working/ht/
+Note: ht :files spec is equivalent to the default.
+Built ht in 1.384s, finished at Sat Feb 27 07:46:55 2021
+ ✓ Success:
+ 12K -rw-rw-r-- 1 kimr kimr  11K Dec 19 20:46 packages/ht-20201119.518.el
+4.0K -rw-rw-r-- 1 kimr kimr  296 Dec 19 20:46 packages/ht-20201119.518.entry
+ 12K -rw-rw-r-- 1 kimr kimr  11K Feb 27 07:46 packages/ht-20210119.741.el
+4.0K -rw-rw-r-- 1 kimr kimr  346 Feb 27 07:46 packages/ht-20210119.741.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Feb 27 07:46 packages/ht-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr   97 Feb 27 07:46 packages/ht-readme.txt

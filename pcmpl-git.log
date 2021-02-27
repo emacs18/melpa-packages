@@ -1,0 +1,23 @@
+Package: pcmpl-git
+Fetcher: github
+Source:  https://github.com/leoliu/pcmpl-git-el.git
+
+Updating /home/kimr/repos/my/melpa/working/pcmpl-git/
+Copying files (->) and directories (=>)
+  from /home/kimr/repos/my/melpa/working/pcmpl-git/
+  to /tmp/pcmpl-gitbT8w7s/pcmpl-git-20170121.59
+    pcmpl-git-parse.el -> pcmpl-git-parse.el
+    pcmpl-git.el -> pcmpl-git.el
+    git-options -> git-options
+Created pcmpl-git-20170121.59.tar containing:
+  pcmpl-git-20170121.59/
+  pcmpl-git-20170121.59/git-options
+  pcmpl-git-20170121.59/pcmpl-git-parse.el
+  pcmpl-git-20170121.59/pcmpl-git-pkg.el
+  pcmpl-git-20170121.59/pcmpl-git.el
+Built pcmpl-git in 1.296s, finished at Sat Feb 27 07:49:44 2021
+ ✓ Success:
+4.0K -rw-rw-r-- 1 kimr kimr  265 Feb 27 07:49 packages/pcmpl-git-20170121.59.entry
+ 72K -rw-rw-r-- 1 kimr kimr  70K Feb 27 07:49 packages/pcmpl-git-20170121.59.tar
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Feb 27 07:49 packages/pcmpl-git-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr  267 Feb 27 07:49 packages/pcmpl-git-readme.txt

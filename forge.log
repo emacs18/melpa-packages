@@ -1,0 +1,59 @@
+Package: forge
+Fetcher: github
+Source:  https://github.com/magit/forge.git
+
+Updating /home/kimr/repos/my/melpa/working/forge/
+Copying files (->) and directories (=>)
+  from /home/kimr/repos/my/melpa/working/forge/
+  to /tmp/forgeBLUCO7/forge-20210215.2351
+  ! lisp/forge-bitbucket.el -> forge-bitbucket.el
+  ! lisp/forge-commands.el -> forge-commands.el
+  ! lisp/forge-core.el -> forge-core.el
+  ! lisp/forge-db.el -> forge-db.el
+  ! lisp/forge-gitea.el -> forge-gitea.el
+  ! lisp/forge-github.el -> forge-github.el
+  ! lisp/forge-gitlab.el -> forge-gitlab.el
+  ! lisp/forge-gogs.el -> forge-gogs.el
+  ! lisp/forge-issue.el -> forge-issue.el
+  ! lisp/forge-list.el -> forge-list.el
+  ! lisp/forge-notify.el -> forge-notify.el
+  ! lisp/forge-post.el -> forge-post.el
+  ! lisp/forge-pullreq.el -> forge-pullreq.el
+  ! lisp/forge-repo.el -> forge-repo.el
+  ! lisp/forge-revnote.el -> forge-revnote.el
+  ! lisp/forge-semi.el -> forge-semi.el
+  ! lisp/forge-topic.el -> forge-topic.el
+  ! lisp/forge.el -> forge.el
+  ! docs/forge.texi -> forge.texi
+Created /tmp/forgeBLUCO7/forge-20210215.2351/forge.info
+Created forge-20210215.2351.tar containing:
+  forge-20210215.2351/
+  forge-20210215.2351/dir
+  forge-20210215.2351/forge-bitbucket.el
+  forge-20210215.2351/forge-commands.el
+  forge-20210215.2351/forge-core.el
+  forge-20210215.2351/forge-db.el
+  forge-20210215.2351/forge-gitea.el
+  forge-20210215.2351/forge-github.el
+  forge-20210215.2351/forge-gitlab.el
+  forge-20210215.2351/forge-gogs.el
+  forge-20210215.2351/forge-issue.el
+  forge-20210215.2351/forge-list.el
+  forge-20210215.2351/forge-notify.el
+  forge-20210215.2351/forge-pkg.el
+  forge-20210215.2351/forge-post.el
+  forge-20210215.2351/forge-pullreq.el
+  forge-20210215.2351/forge-repo.el
+  forge-20210215.2351/forge-revnote.el
+  forge-20210215.2351/forge-semi.el
+  forge-20210215.2351/forge-topic.el
+  forge-20210215.2351/forge.el
+  forge-20210215.2351/forge.info
+Built forge in 1.454s, finished at Sat Feb 27 07:44:49 2021
+ ✓ Success:
+4.0K -rw-rw-r-- 1 kimr kimr  337 Dec 19 20:46 packages/forge-20201212.905.entry
+312K -rw-rw-r-- 1 kimr kimr 310K Dec 19 20:46 packages/forge-20201212.905.tar
+4.0K -rw-rw-r-- 1 kimr kimr  540 Feb 27 07:44 packages/forge-20210215.2351.entry
+312K -rw-rw-r-- 1 kimr kimr 310K Feb 27 07:44 packages/forge-20210215.2351.tar
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Feb 27 07:44 packages/forge-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr  314 Feb 27 07:44 packages/forge-readme.txt

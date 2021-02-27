@@ -1,0 +1,11 @@
+Package: ivy-xref
+Fetcher: github
+Source:  https://github.com/alexmurray/ivy-xref.git
+
+Updating /home/kimr/repos/my/melpa/working/ivy-xref/
+Built ivy-xref in 1.587s, finished at Sat Feb 27 07:47:16 2021
+ ✓ Success:
+8.0K -rw-rw-r-- 1 kimr kimr 5.3K Feb 27 07:47 packages/ivy-xref-20191126.401.el
+4.0K -rw-rw-r-- 1 kimr kimr  369 Feb 27 07:47 packages/ivy-xref-20191126.401.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Feb 27 07:47 packages/ivy-xref-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr  195 Feb 27 07:47 packages/ivy-xref-readme.txt

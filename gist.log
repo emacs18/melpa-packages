@@ -1,0 +1,11 @@
+Package: gist
+Fetcher: github
+Source:  https://github.com/defunkt/gist.el.git
+
+Updating /home/kimr/repos/my/melpa/working/gist/
+Built gist in 1.194s, finished at Sat Feb 27 07:45:12 2021
+ ✓ Success:
+ 32K -rw-rw-r-- 1 kimr kimr  30K Feb 27 07:45 packages/gist-20171128.406.el
+4.0K -rw-rw-r-- 1 kimr kimr  376 Feb 27 07:45 packages/gist-20171128.406.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Feb 27 07:45 packages/gist-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr   64 Feb 27 07:45 packages/gist-readme.txt

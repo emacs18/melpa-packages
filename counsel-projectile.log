@@ -1,0 +1,11 @@
+Package: counsel-projectile
+Fetcher: github
+Source:  https://github.com/ericdanan/counsel-projectile.git
+
+Updating /home/kimr/repos/my/melpa/working/counsel-projectile/
+Built counsel-projectile in 1.284s, finished at Sat Feb 27 07:42:35 2021
+ ✓ Success:
+ 76K -rw-rw-r-- 1 kimr kimr  73K Feb 27 07:42 packages/counsel-projectile-20201015.1109.el
+4.0K -rw-rw-r-- 1 kimr kimr  422 Feb 27 07:42 packages/counsel-projectile-20201015.1109.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Feb 27 07:42 packages/counsel-projectile-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr  538 Feb 27 07:42 packages/counsel-projectile-readme.txt

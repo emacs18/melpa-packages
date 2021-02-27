@@ -1,0 +1,11 @@
+Package: gitignore-mode
+Fetcher: github
+Source:  https://github.com/magit/git-modes.git
+
+Updating /home/kimr/repos/my/melpa/working/gitignore-mode/
+Built gitignore-mode in 1.096s, finished at Sat Feb 27 07:45:27 2021
+ ✓ Success:
+4.0K -rw-rw-r-- 1 kimr kimr 2.3K Feb 27 07:45 packages/gitignore-mode-20180318.1956.el
+4.0K -rw-rw-r-- 1 kimr kimr  369 Feb 27 07:45 packages/gitignore-mode-20180318.1956.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Feb 27 07:45 packages/gitignore-mode-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr   43 Feb 27 07:45 packages/gitignore-mode-readme.txt

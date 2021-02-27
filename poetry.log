@@ -1,0 +1,11 @@
+Package: poetry
+Fetcher: github
+Source:  https://github.com/galaunay/poetry.el.git
+
+Cloning https://github.com/galaunay/poetry.el.git to /home/kimr/repos/my/melpa/working/poetry/
+Built poetry in 2.618s, finished at Sat Feb 27 08:09:33 2021
+ ✓ Success:
+ 36K -rw-rw-r-- 1 kimr kimr  35K Feb 27 08:09 packages/poetry-20201114.1723.el
+4.0K -rw-rw-r-- 1 kimr kimr  403 Feb 27 08:09 packages/poetry-20201114.1723.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Feb 27 08:09 packages/poetry-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr  425 Feb 27 08:09 packages/poetry-readme.txt

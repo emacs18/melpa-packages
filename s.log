@@ -1,0 +1,12 @@
+Package: s
+Fetcher: github
+Source:  https://github.com/magnars/s.el.git
+
+Updating /home/kimr/repos/my/melpa/working/s/
+Note: s :files spec is equivalent to the default.
+Built s in 1.298s, finished at Sat Feb 27 07:50:31 2021
+ ✓ Success:
+ 28K -rw-rw-r-- 1 kimr kimr  25K Feb 27 07:50 packages/s-20180406.808.el
+4.0K -rw-rw-r-- 1 kimr kimr  297 Feb 27 07:50 packages/s-20180406.808.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Feb 27 07:50 packages/s-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr  113 Feb 27 07:50 packages/s-readme.txt

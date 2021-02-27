@@ -1,0 +1,101 @@
+Package: company
+Fetcher: github
+Source:  https://github.com/company-mode/company-mode.git
+
+Updating /home/kimr/repos/my/melpa/working/company/
+Copying files (->) and directories (=>)
+  from /home/kimr/repos/my/melpa/working/company/
+  to /tmp/companyO89yaO/company-20210224.2244
+    company-abbrev.el -> company-abbrev.el
+    company-bbdb.el -> company-bbdb.el
+    company-capf.el -> company-capf.el
+    company-clang.el -> company-clang.el
+    company-cmake.el -> company-cmake.el
+    company-css.el -> company-css.el
+    company-dabbrev-code.el -> company-dabbrev-code.el
+    company-dabbrev.el -> company-dabbrev.el
+    company-elisp.el -> company-elisp.el
+    company-etags.el -> company-etags.el
+    company-files.el -> company-files.el
+    company-gtags.el -> company-gtags.el
+    company-ispell.el -> company-ispell.el
+    company-keywords.el -> company-keywords.el
+    company-nxml.el -> company-nxml.el
+    company-oddmuse.el -> company-oddmuse.el
+    company-semantic.el -> company-semantic.el
+    company-template.el -> company-template.el
+    company-tempo.el -> company-tempo.el
+    company-tng.el -> company-tng.el
+    company-yasnippet.el -> company-yasnippet.el
+    company.el -> company.el
+Created company-20210224.2244.tar containing:
+  company-20210224.2244/
+  company-20210224.2244/company-abbrev.el
+  company-20210224.2244/company-bbdb.el
+  company-20210224.2244/company-capf.el
+  company-20210224.2244/company-clang.el
+  company-20210224.2244/company-cmake.el
+  company-20210224.2244/company-css.el
+  company-20210224.2244/company-dabbrev-code.el
+  company-20210224.2244/company-dabbrev.el
+  company-20210224.2244/company-elisp.el
+  company-20210224.2244/company-etags.el
+  company-20210224.2244/company-files.el
+  company-20210224.2244/company-gtags.el
+  company-20210224.2244/company-ispell.el
+  company-20210224.2244/company-keywords.el
+  company-20210224.2244/company-nxml.el
+  company-20210224.2244/company-oddmuse.el
+  company-20210224.2244/company-pkg.el
+  company-20210224.2244/company-semantic.el
+  company-20210224.2244/company-template.el
+  company-20210224.2244/company-tempo.el
+  company-20210224.2244/company-tng.el
+  company-20210224.2244/company-yasnippet.el
+  company-20210224.2244/company.el
+Built company in 1.091s, finished at Sat Feb 27 07:42:12 2021
+ ✓ Success:
+4.0K -rw-rw-r-- 1 kimr kimr  317 Dec 19 20:45 packages/company-20201214.1620.entry
+312K -rw-rw-r-- 1 kimr kimr 310K Dec 19 20:45 packages/company-20201214.1620.tar
+4.0K -rw-rw-r-- 1 kimr kimr  353 Feb 27 07:42 packages/company-20210224.2244.entry
+312K -rw-rw-r-- 1 kimr kimr 310K Feb 27 07:42 packages/company-20210224.2244.tar
+8.0K -rw-rw-r-- 1 kimr kimr 5.9K Dec  6 19:52 packages/company-anaconda-20200404.1859.el
+4.0K -rw-rw-r-- 1 kimr kimr  392 Dec  6 19:52 packages/company-anaconda-20200404.1859.entry
+4.0K -rw-rw-r-- 1 kimr kimr   33 Dec  6 19:52 packages/company-anaconda-readme.txt
+ 12K -rw-rw-r-- 1 kimr kimr  12K Dec  6 19:52 packages/company-auctex-20200529.1835.el
+4.0K -rw-rw-r-- 1 kimr kimr  458 Dec  6 19:52 packages/company-auctex-20200529.1835.entry
+4.0K -rw-rw-r-- 1 kimr kimr  102 Dec  6 19:52 packages/company-auctex-readme.txt
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Feb 27 07:42 packages/company-badge.svg
+8.0K -rw-rw-r-- 1 kimr kimr 7.5K Dec  6 19:52 packages/company-c-headers-20190825.1631.el
+4.0K -rw-rw-r-- 1 kimr kimr  333 Dec  6 19:52 packages/company-c-headers-20190825.1631.entry
+4.0K -rw-rw-r-- 1 kimr kimr  620 Dec  6 19:52 packages/company-c-headers-readme.txt
+ 12K -rw-rw-r-- 1 kimr kimr 9.3K Dec  6 19:52 packages/company-go-20190203.19.el
+4.0K -rw-rw-r-- 1 kimr kimr  298 Dec  6 19:52 packages/company-go-20190203.19.entry
+ 36K -rw-rw-r-- 1 kimr kimr  34K Dec  6 19:52 packages/company-lsp-20190612.1553.el
+4.0K -rw-rw-r-- 1 kimr kimr  277 Dec  6 19:52 packages/company-lsp-20190612.1553.entry
+4.0K -rw-rw-r-- 1 kimr kimr  185 Dec  6 19:52 packages/company-lsp-readme.txt
+8.0K -rw-rw-r-- 1 kimr kimr 5.7K Dec  6 19:52 packages/company-org-roam-20200711.355.el
+4.0K -rw-rw-r-- 1 kimr kimr  413 Dec  6 19:52 packages/company-org-roam-20200711.355.entry
+4.0K -rw-rw-r-- 1 kimr kimr  185 Dec  6 19:52 packages/company-org-roam-readme.txt
+ 12K -rw-rw-r-- 1 kimr kimr  11K Dec 19 20:45 packages/company-quickhelp-20201208.2308.el
+4.0K -rw-rw-r-- 1 kimr kimr  421 Dec 19 20:45 packages/company-quickhelp-20201208.2308.entry
+4.0K -rw-rw-r-- 1 kimr kimr  127 Dec 19 20:45 packages/company-quickhelp-readme.txt
+4.0K -rw-rw-r-- 1 kimr kimr 1.3K Feb 27 07:42 packages/company-readme.txt
+ 12K -rw-rw-r-- 1 kimr kimr 8.1K Dec 19 20:45 packages/company-reftex-20201116.1605.el
+4.0K -rw-rw-r-- 1 kimr kimr  414 Dec 19 20:45 packages/company-reftex-20201116.1605.entry
+4.0K -rw-rw-r-- 1 kimr kimr  596 Dec 19 20:45 packages/company-reftex-readme.txt
+ 16K -rw-rw-r-- 1 kimr kimr  13K Dec 19 20:45 packages/company-rtags-20191222.920.el
+4.0K -rw-rw-r-- 1 kimr kimr  380 Dec 19 20:45 packages/company-rtags-20191222.920.entry
+   0 -rw-rw-r-- 1 kimr kimr    0 Dec 19 20:45 packages/company-rtags-readme.txt
+ 12K -rw-rw-r-- 1 kimr kimr  11K Dec  6 19:52 packages/company-shell-20170518.541.el
+4.0K -rw-rw-r-- 1 kimr kimr  428 Dec  6 19:52 packages/company-shell-20170518.541.entry
+4.0K -rw-rw-r-- 1 kimr kimr  115 Dec  6 19:52 packages/company-shell-readme.txt
+ 16K -rw-rw-r-- 1 kimr kimr  16K Dec  6 19:52 packages/company-statistics-20170210.1933.el
+4.0K -rw-rw-r-- 1 kimr kimr  393 Dec  6 19:52 packages/company-statistics-20170210.1933.entry
+4.0K -rw-rw-r-- 1 kimr kimr  886 Dec  6 19:52 packages/company-statistics-readme.txt
+4.0K -rw-rw-r-- 1 kimr kimr  450 Dec  6 19:52 packages/company-web-20180402.1155.entry
+ 52K -rw-rw-r-- 1 kimr kimr  50K Dec  6 19:52 packages/company-web-20180402.1155.tar
+4.0K -rw-rw-r-- 1 kimr kimr  904 Dec  6 19:52 packages/company-web-readme.txt
+ 28K -rw-rw-r-- 1 kimr kimr  27K Dec  6 19:52 packages/company-ycmd-20180520.1053.el
+4.0K -rw-rw-r-- 1 kimr kimr  296 Dec  6 19:52 packages/company-ycmd-20180520.1053.entry
+4.0K -rw-rw-r-- 1 kimr kimr  490 Dec  6 19:52 packages/company-ycmd-readme.txt

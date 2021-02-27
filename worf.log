@@ -1,0 +1,23 @@
+Package: worf
+Fetcher: github
+Source:  https://github.com/abo-abo/worf.git
+
+Updating /home/kimr/repos/my/melpa/working/worf/
+Copying files (->) and directories (=>)
+  from /home/kimr/repos/my/melpa/working/worf/
+  to /tmp/worfKIEkT3/worf-20210224.1905
+    elpa.el -> elpa.el
+    worf.el -> worf.el
+Created worf-20210224.1905.tar containing:
+  worf-20210224.1905/
+  worf-20210224.1905/elpa.el
+  worf-20210224.1905/worf-pkg.el
+  worf-20210224.1905/worf.el
+Built worf in 1.479s, finished at Sat Feb 27 07:51:45 2021
+ ✓ Success:
+4.0K -rw-rw-r-- 1 kimr kimr  384 Dec 19 20:47 packages/worf-20201216.1958.entry
+ 80K -rw-rw-r-- 1 kimr kimr  80K Dec 19 20:47 packages/worf-20201216.1958.tar
+4.0K -rw-rw-r-- 1 kimr kimr  427 Feb 27 07:51 packages/worf-20210224.1905.entry
+ 80K -rw-rw-r-- 1 kimr kimr  80K Feb 27 07:51 packages/worf-20210224.1905.tar
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Feb 27 07:51 packages/worf-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr 3.9K Feb 27 07:51 packages/worf-readme.txt

@@ -1,0 +1,23 @@
+Package: org-re-reveal
+Fetcher: gitlab
+Source:  https://gitlab.com/oer/org-re-reveal.git
+
+Updating /home/kimr/repos/my/melpa/working/org-re-reveal/
+Copying files (->) and directories (=>)
+  from /home/kimr/repos/my/melpa/working/org-re-reveal/
+  to /tmp/org-re-revealMQfiiG/org-re-reveal-20210121.1011
+    org-re-reveal.el -> org-re-reveal.el
+    ox-re-reveal.el -> ox-re-reveal.el
+Created org-re-reveal-20210121.1011.tar containing:
+  org-re-reveal-20210121.1011/
+  org-re-reveal-20210121.1011/org-re-reveal-pkg.el
+  org-re-reveal-20210121.1011/org-re-reveal.el
+  org-re-reveal-20210121.1011/ox-re-reveal.el
+Built org-re-reveal in 0.863s, finished at Sat Feb 27 07:48:58 2021
+ ✓ Success:
+4.0K -rw-rw-r-- 1 kimr kimr  308 Dec 19 20:46 packages/org-re-reveal-20201114.622.entry
+120K -rw-rw-r-- 1 kimr kimr 120K Dec 19 20:46 packages/org-re-reveal-20201114.622.tar
+4.0K -rw-rw-r-- 1 kimr kimr  346 Feb 27 07:48 packages/org-re-reveal-20210121.1011.entry
+120K -rw-rw-r-- 1 kimr kimr 120K Feb 27 07:48 packages/org-re-reveal-20210121.1011.tar
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Feb 27 07:48 packages/org-re-reveal-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr 1.7K Feb 27 07:48 packages/org-re-reveal-readme.txt

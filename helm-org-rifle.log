@@ -1,0 +1,11 @@
+Package: helm-org-rifle
+Fetcher: github
+Source:  https://github.com/alphapapa/org-rifle.git
+
+Updating /home/kimr/repos/my/melpa/working/helm-org-rifle/
+Built helm-org-rifle in 1.302s, finished at Sat Feb 27 07:46:29 2021
+ ✓ Success:
+ 84K -rw-rw-r-- 1 kimr kimr  82K Feb 27 07:46 packages/helm-org-rifle-20200512.1943.el
+4.0K -rw-rw-r-- 1 kimr kimr  468 Feb 27 07:46 packages/helm-org-rifle-20200512.1943.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Feb 27 07:46 packages/helm-org-rifle-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr 1.1K Feb 27 07:46 packages/helm-org-rifle-readme.txt

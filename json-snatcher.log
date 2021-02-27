@@ -1,0 +1,11 @@
+Package: json-snatcher
+Fetcher: github
+Source:  https://github.com/Sterlingg/json-snatcher.git
+
+Updating /home/kimr/repos/my/melpa/working/json-snatcher/
+Built json-snatcher in 1.912s, finished at Sat Feb 27 07:47:30 2021
+ ✓ Success:
+ 16K -rw-rw-r-- 1 kimr kimr  15K Feb 27 07:47 packages/json-snatcher-20200916.1717.el
+4.0K -rw-rw-r-- 1 kimr kimr  369 Feb 27 07:47 packages/json-snatcher-20200916.1717.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Feb 27 07:47 packages/json-snatcher-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr 1.9K Feb 27 07:47 packages/json-snatcher-readme.txt

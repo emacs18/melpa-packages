@@ -1,0 +1,11 @@
+Package: gntp
+Fetcher: github
+Source:  https://github.com/tekai/gntp.el.git
+
+Updating /home/kimr/repos/my/melpa/working/gntp/
+Built gntp in 5.183s, finished at Sat Feb 27 07:45:39 2021
+ ✓ Success:
+ 12K -rw-rw-r-- 1 kimr kimr 8.7K Feb 27 07:45 packages/gntp-20141025.250.el
+4.0K -rw-rw-r-- 1 kimr kimr  255 Feb 27 07:45 packages/gntp-20141025.250.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Feb 27 07:45 packages/gntp-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr  197 Feb 27 07:45 packages/gntp-readme.txt

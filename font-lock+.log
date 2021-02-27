@@ -1,0 +1,11 @@
+Package: font-lock+
+Fetcher: github
+Source:  https://github.com/emacsmirror/font-lock-plus.git
+
+Updating /home/kimr/repos/my/melpa/working/font-lock+/
+Built font-lock+ in 1.119s, finished at Sat Feb 27 07:44:47 2021
+ ✓ Success:
+ 20K -rw-rw-r-- 1 kimr kimr  19K Feb 27 07:44 packages/font-lock+-20180101.1939.el
+4.0K -rw-rw-r-- 1 kimr kimr  429 Feb 27 07:44 packages/font-lock+-20180101.1939.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Feb 27 07:44 packages/font-lock+-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr 1.1K Feb 27 07:44 packages/font-lock+-readme.txt

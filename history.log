@@ -1,0 +1,36 @@
+Package: history
+Fetcher: github
+Source:  https://github.com/tcw165/history.git
+
+Cloning https://github.com/tcw165/history.git to /home/kimr/repos/my/melpa/working/history/
+Copying files (->) and directories (=>)
+  from /home/kimr/repos/my/melpa/working/history/
+  to /tmp/history7knfVa/history-20160821.1602
+    history.el -> history.el
+    images/add-history.xpm -> images/add-history.xpm
+    images/goto-history.xpm -> images/goto-history.xpm
+    images/next-history.xpm -> images/next-history.xpm
+    images/prev-history.xpm -> images/prev-history.xpm
+    images/add-history.png -> images/add-history.png
+    images/goto-history.png -> images/goto-history.png
+    images/next-history.png -> images/next-history.png
+    images/prev-history.png -> images/prev-history.png
+Created history-20160821.1602.tar containing:
+  history-20160821.1602/
+  history-20160821.1602/history-pkg.el
+  history-20160821.1602/history.el
+  history-20160821.1602/images/
+  history-20160821.1602/images/add-history.png
+  history-20160821.1602/images/add-history.xpm
+  history-20160821.1602/images/goto-history.png
+  history-20160821.1602/images/goto-history.xpm
+  history-20160821.1602/images/next-history.png
+  history-20160821.1602/images/next-history.xpm
+  history-20160821.1602/images/prev-history.png
+  history-20160821.1602/images/prev-history.xpm
+Built history in 3.286s, finished at Sat Feb 27 07:46:52 2021
+ ✓ Success:
+4.0K -rw-rw-r-- 1 kimr kimr  279 Feb 27 07:46 packages/history-20160821.1602.entry
+ 60K -rw-rw-r-- 1 kimr kimr  60K Feb 27 07:46 packages/history-20160821.1602.tar
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Feb 27 07:46 packages/history-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr 2.1K Feb 27 07:46 packages/history-readme.txt

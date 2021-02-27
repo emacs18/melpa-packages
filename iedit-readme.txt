@@ -56,7 +56,7 @@ lighter weight and uses iedit mechanisms.
 There are also some other facilities you may never think about.  Refer to the
 document of function `iedit-mode' (C-h f iedit-mode RET) for more details.
 
-Contributors
+; Contributors
 Adam Lindberg <eproxus@gmail.com> added a case sensitivity option that can be toggled.
 
 Tassilo Horn <tassilo@member.fsf.org> added an option to match only complete

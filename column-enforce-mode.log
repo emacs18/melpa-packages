@@ -1,0 +1,11 @@
+Package: column-enforce-mode
+Fetcher: github
+Source:  https://github.com/jordonbiondo/column-enforce-mode.git
+
+Updating /home/kimr/repos/my/melpa/working/column-enforce-mode/
+Built column-enforce-mode in 1.282s, finished at Sat Feb 27 07:42:10 2021
+ ✓ Success:
+ 12K -rw-rw-r-- 1 kimr kimr 8.8K Feb 27 07:42 packages/column-enforce-mode-20200605.1933.el
+4.0K -rw-rw-r-- 1 kimr kimr  328 Feb 27 07:42 packages/column-enforce-mode-20200605.1933.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Feb 27 07:42 packages/column-enforce-mode-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr 1.1K Feb 27 07:42 packages/column-enforce-mode-readme.txt

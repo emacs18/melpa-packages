@@ -1,0 +1,11 @@
+Package: eyebrowse
+Fetcher: git
+Source:  https://depp.brause.cc/eyebrowse.git
+
+Updating /home/kimr/repos/my/melpa/working/eyebrowse/
+Built eyebrowse in 1.648s, finished at Sat Feb 27 07:44:22 2021
+ ✓ Success:
+ 28K -rw-rw-r-- 1 kimr kimr  27K Feb 27 07:44 packages/eyebrowse-20201107.955.el
+4.0K -rw-rw-r-- 1 kimr kimr  415 Feb 27 07:44 packages/eyebrowse-20201107.955.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Feb 27 07:44 packages/eyebrowse-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr  221 Feb 27 07:44 packages/eyebrowse-readme.txt

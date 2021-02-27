@@ -1,0 +1,35 @@
+Package: diff-hl
+Fetcher: github
+Source:  https://github.com/dgutov/diff-hl.git
+
+Updating /home/kimr/repos/my/melpa/working/diff-hl/
+Copying files (->) and directories (=>)
+  from /home/kimr/repos/my/melpa/working/diff-hl/
+  to /tmp/diff-hlntXaXD/diff-hl-20210223.2303
+    diff-hl-amend.el -> diff-hl-amend.el
+    diff-hl-dired.el -> diff-hl-dired.el
+    diff-hl-flydiff.el -> diff-hl-flydiff.el
+    diff-hl-inline-popup.el -> diff-hl-inline-popup.el
+    diff-hl-margin.el -> diff-hl-margin.el
+    diff-hl-show-hunk-posframe.el -> diff-hl-show-hunk-posframe.el
+    diff-hl-show-hunk.el -> diff-hl-show-hunk.el
+    diff-hl.el -> diff-hl.el
+Created diff-hl-20210223.2303.tar containing:
+  diff-hl-20210223.2303/
+  diff-hl-20210223.2303/diff-hl-amend.el
+  diff-hl-20210223.2303/diff-hl-dired.el
+  diff-hl-20210223.2303/diff-hl-flydiff.el
+  diff-hl-20210223.2303/diff-hl-inline-popup.el
+  diff-hl-20210223.2303/diff-hl-margin.el
+  diff-hl-20210223.2303/diff-hl-pkg.el
+  diff-hl-20210223.2303/diff-hl-show-hunk-posframe.el
+  diff-hl-20210223.2303/diff-hl-show-hunk.el
+  diff-hl-20210223.2303/diff-hl.el
+Built diff-hl in 1.047s, finished at Sat Feb 27 07:42:56 2021
+ ✓ Success:
+4.0K -rw-rw-r-- 1 kimr kimr  331 Dec 19 20:46 packages/diff-hl-20201220.38.entry
+ 64K -rw-rw-r-- 1 kimr kimr  60K Dec 19 20:46 packages/diff-hl-20201220.38.tar
+4.0K -rw-rw-r-- 1 kimr kimr  378 Feb 27 07:42 packages/diff-hl-20210223.2303.entry
+100K -rw-rw-r-- 1 kimr kimr 100K Feb 27 07:42 packages/diff-hl-20210223.2303.tar
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Feb 27 07:42 packages/diff-hl-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr  735 Feb 27 07:42 packages/diff-hl-readme.txt

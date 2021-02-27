@@ -1,0 +1,11 @@
+Package: eval-sexp-fu
+Fetcher: github
+Source:  https://github.com/hchbaw/eval-sexp-fu.el.git
+
+Updating /home/kimr/repos/my/melpa/working/eval-sexp-fu/
+Built eval-sexp-fu in 1.692s, finished at Sat Feb 27 07:43:39 2021
+ ✓ Success:
+ 28K -rw-rw-r-- 1 kimr kimr  26K Feb 27 07:43 packages/eval-sexp-fu-20191128.825.el
+4.0K -rw-rw-r-- 1 kimr kimr  358 Feb 27 07:43 packages/eval-sexp-fu-20191128.825.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Feb 27 07:43 packages/eval-sexp-fu-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr  244 Feb 27 07:43 packages/eval-sexp-fu-readme.txt

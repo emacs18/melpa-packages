@@ -1,0 +1,11 @@
+Package: auto-compile
+Fetcher: github
+Source:  https://github.com/emacscollective/auto-compile.git
+
+Updating /home/kimr/repos/my/melpa/working/auto-compile/
+Built auto-compile in 1.049s, finished at Sat Feb 27 07:41:27 2021
+ ✓ Success:
+ 32K -rw-rw-r-- 1 kimr kimr  31K Feb 27 07:41 packages/auto-compile-20201122.1157.el
+4.0K -rw-rw-r-- 1 kimr kimr  435 Feb 27 07:41 packages/auto-compile-20201122.1157.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Feb 27 07:41 packages/auto-compile-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr 3.9K Feb 27 07:41 packages/auto-compile-readme.txt

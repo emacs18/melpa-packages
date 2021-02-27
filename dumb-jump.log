@@ -1,0 +1,13 @@
+Package: dumb-jump
+Fetcher: github
+Source:  https://github.com/jacktasia/dumb-jump.git
+
+Updating /home/kimr/repos/my/melpa/working/dumb-jump/
+Built dumb-jump in 1.511s, finished at Sat Feb 27 07:43:04 2021
+ ✓ Success:
+144K -rw-rw-r-- 1 kimr kimr 142K Dec 19 20:46 packages/dumb-jump-20201205.1625.el
+4.0K -rw-rw-r-- 1 kimr kimr  384 Dec 19 20:46 packages/dumb-jump-20201205.1625.entry
+144K -rw-rw-r-- 1 kimr kimr 143K Feb 27 07:43 packages/dumb-jump-20210225.1727.el
+4.0K -rw-rw-r-- 1 kimr kimr  479 Feb 27 07:43 packages/dumb-jump-20210225.1727.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Feb 27 07:43 packages/dumb-jump-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr  878 Feb 27 07:43 packages/dumb-jump-readme.txt

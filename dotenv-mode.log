@@ -1,0 +1,11 @@
+Package: dotenv-mode
+Fetcher: github
+Source:  https://github.com/preetpalS/emacs-dotenv-mode.git
+
+Updating /home/kimr/repos/my/melpa/working/dotenv-mode/
+Built dotenv-mode in 1.079s, finished at Sat Feb 27 07:43:02 2021
+ ✓ Success:
+8.0K -rw-rw-r-- 1 kimr kimr 4.8K Feb 27 07:43 packages/dotenv-mode-20191027.2129.el
+4.0K -rw-rw-r-- 1 kimr kimr  323 Feb 27 07:43 packages/dotenv-mode-20191027.2129.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Feb 27 07:43 packages/dotenv-mode-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr  315 Feb 27 07:43 packages/dotenv-mode-readme.txt

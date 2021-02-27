@@ -1,0 +1,29 @@
+Package: paradox
+Fetcher: github
+Source:  https://github.com/Malabarba/paradox.git
+
+Updating /home/kimr/repos/my/melpa/working/paradox/
+Copying files (->) and directories (=>)
+  from /home/kimr/repos/my/melpa/working/paradox/
+  to /tmp/paradox9y1Gno/paradox-20191011.1111
+    paradox-commit-list.el -> paradox-commit-list.el
+    paradox-core.el -> paradox-core.el
+    paradox-execute.el -> paradox-execute.el
+    paradox-github.el -> paradox-github.el
+    paradox-menu.el -> paradox-menu.el
+    paradox.el -> paradox.el
+Created paradox-20191011.1111.tar containing:
+  paradox-20191011.1111/
+  paradox-20191011.1111/paradox-commit-list.el
+  paradox-20191011.1111/paradox-core.el
+  paradox-20191011.1111/paradox-execute.el
+  paradox-20191011.1111/paradox-github.el
+  paradox-20191011.1111/paradox-menu.el
+  paradox-20191011.1111/paradox-pkg.el
+  paradox-20191011.1111/paradox.el
+Built paradox in 1.274s, finished at Sat Feb 27 07:49:25 2021
+ ✓ Success:
+4.0K -rw-rw-r-- 1 kimr kimr  536 Feb 27 07:49 packages/paradox-20191011.1111.entry
+100K -rw-rw-r-- 1 kimr kimr 100K Feb 27 07:49 packages/paradox-20191011.1111.tar
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Feb 27 07:49 packages/paradox-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr 2.9K Feb 27 07:49 packages/paradox-readme.txt

@@ -1,0 +1,11 @@
+Package: helm-c-yasnippet
+Fetcher: github
+Source:  https://github.com/emacs-jp/helm-c-yasnippet.git
+
+Updating /home/kimr/repos/my/melpa/working/helm-c-yasnippet/
+Built helm-c-yasnippet in 1.006s, finished at Sat Feb 27 07:46:11 2021
+ ✓ Success:
+ 24K -rw-rw-r-- 1 kimr kimr  21K Feb 27 07:46 packages/helm-c-yasnippet-20201118.1009.el
+4.0K -rw-rw-r-- 1 kimr kimr  434 Feb 27 07:46 packages/helm-c-yasnippet-20201118.1009.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Feb 27 07:46 packages/helm-c-yasnippet-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr  106 Feb 27 07:46 packages/helm-c-yasnippet-readme.txt

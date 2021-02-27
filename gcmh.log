@@ -1,0 +1,11 @@
+Package: gcmh
+Fetcher: gitlab
+Source:  https://gitlab.com/koral/gcmh.git
+
+Updating /home/kimr/repos/my/melpa/working/gcmh/
+Built gcmh in 1.695s, finished at Sat Feb 27 07:44:56 2021
+ ✓ Success:
+8.0K -rw-rw-r-- 1 kimr kimr 4.4K Feb 27 07:44 packages/gcmh-20201116.2251.el
+4.0K -rw-rw-r-- 1 kimr kimr  322 Feb 27 07:44 packages/gcmh-20201116.2251.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Feb 27 07:44 packages/gcmh-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr  288 Feb 27 07:44 packages/gcmh-readme.txt

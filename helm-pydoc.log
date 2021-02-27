@@ -1,0 +1,21 @@
+Package: helm-pydoc
+Fetcher: github
+Source:  https://github.com/emacsorphanage/helm-pydoc.git
+
+Updating /home/kimr/repos/my/melpa/working/helm-pydoc/
+Copying files (->) and directories (=>)
+  from /home/kimr/repos/my/melpa/working/helm-pydoc/
+  to /tmp/helm-pydoczEHVBq/helm-pydoc-20160918.542
+    helm-pydoc.el -> helm-pydoc.el
+    helm-pydoc.py -> helm-pydoc.py
+Created helm-pydoc-20160918.542.tar containing:
+  helm-pydoc-20160918.542/
+  helm-pydoc-20160918.542/helm-pydoc-pkg.el
+  helm-pydoc-20160918.542/helm-pydoc.el
+  helm-pydoc-20160918.542/helm-pydoc.py
+Built helm-pydoc in 1.225s, finished at Sat Feb 27 07:46:33 2021
+ ✓ Success:
+4.0K -rw-rw-r-- 1 kimr kimr  388 Feb 27 07:46 packages/helm-pydoc-20160918.542.entry
+ 20K -rw-rw-r-- 1 kimr kimr  20K Feb 27 07:46 packages/helm-pydoc-20160918.542.tar
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Feb 27 07:46 packages/helm-pydoc-badge.svg
+   0 -rw-rw-r-- 1 kimr kimr    0 Feb 27 07:46 packages/helm-pydoc-readme.txt

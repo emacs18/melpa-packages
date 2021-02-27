@@ -1,0 +1,12 @@
+Package: git-gutter+
+Fetcher: github
+Source:  https://github.com/nonsequitur/git-gutter-plus.git
+
+Updating /home/kimr/repos/my/melpa/working/git-gutter+/
+Note: git-gutter+ :files spec is equivalent to the default.
+Built git-gutter+ in 1.692s, finished at Sat Feb 27 07:45:19 2021
+ ✓ Success:
+ 48K -rw-rw-r-- 1 kimr kimr  47K Feb 27 07:45 packages/git-gutter+-20151204.1723.el
+4.0K -rw-rw-r-- 1 kimr kimr  429 Feb 27 07:45 packages/git-gutter+-20151204.1723.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Feb 27 07:45 packages/git-gutter+-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr   62 Feb 27 07:45 packages/git-gutter+-readme.txt

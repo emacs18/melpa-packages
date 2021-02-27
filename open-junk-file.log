@@ -1,0 +1,11 @@
+Package: open-junk-file
+Fetcher: github
+Source:  https://github.com/rubikitch/open-junk-file.git
+
+Updating /home/kimr/repos/my/melpa/working/open-junk-file/
+Built open-junk-file in 1.260s, finished at Sat Feb 27 07:48:40 2021
+ ✓ Success:
+8.0K -rw-rw-r-- 1 kimr kimr 6.3K Feb 27 07:48 packages/open-junk-file-20161210.1114.el
+4.0K -rw-rw-r-- 1 kimr kimr  394 Feb 27 07:48 packages/open-junk-file-20161210.1114.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Feb 27 07:48 packages/open-junk-file-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr  519 Feb 27 07:48 packages/open-junk-file-readme.txt

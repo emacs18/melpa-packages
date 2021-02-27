@@ -1,0 +1,11 @@
+Package: evil-exchange
+Fetcher: github
+Source:  https://github.com/Dewdrops/evil-exchange.git
+
+Updating /home/kimr/repos/my/melpa/working/evil-exchange/
+Built evil-exchange in 1.491s, finished at Sat Feb 27 07:43:55 2021
+ ✓ Success:
+8.0K -rw-rw-r-- 1 kimr kimr 8.0K Feb 27 07:43 packages/evil-exchange-20200118.252.el
+4.0K -rw-rw-r-- 1 kimr kimr  383 Feb 27 07:43 packages/evil-exchange-20200118.252.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Feb 27 07:43 packages/evil-exchange-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr  319 Feb 27 07:43 packages/evil-exchange-readme.txt

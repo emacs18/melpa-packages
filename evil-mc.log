@@ -1,0 +1,43 @@
+Package: evil-mc
+Fetcher: github
+Source:  https://github.com/gabesoft/evil-mc.git
+
+Updating /home/kimr/repos/my/melpa/working/evil-mc/
+Copying files (->) and directories (=>)
+  from /home/kimr/repos/my/melpa/working/evil-mc/
+  to /tmp/evil-mcJ08HyB/evil-mc-20210206.1941
+    evil-mc-command-execute.el -> evil-mc-command-execute.el
+    evil-mc-command-record.el -> evil-mc-command-record.el
+    evil-mc-common.el -> evil-mc-common.el
+    evil-mc-cursor-make.el -> evil-mc-cursor-make.el
+    evil-mc-cursor-state.el -> evil-mc-cursor-state.el
+    evil-mc-known-commands.el -> evil-mc-known-commands.el
+    evil-mc-region.el -> evil-mc-region.el
+    evil-mc-scratch.el -> evil-mc-scratch.el
+    evil-mc-setup.el -> evil-mc-setup.el
+    evil-mc-undo.el -> evil-mc-undo.el
+    evil-mc-vars.el -> evil-mc-vars.el
+    evil-mc.el -> evil-mc.el
+Created evil-mc-20210206.1941.tar containing:
+  evil-mc-20210206.1941/
+  evil-mc-20210206.1941/evil-mc-command-execute.el
+  evil-mc-20210206.1941/evil-mc-command-record.el
+  evil-mc-20210206.1941/evil-mc-common.el
+  evil-mc-20210206.1941/evil-mc-cursor-make.el
+  evil-mc-20210206.1941/evil-mc-cursor-state.el
+  evil-mc-20210206.1941/evil-mc-known-commands.el
+  evil-mc-20210206.1941/evil-mc-pkg.el
+  evil-mc-20210206.1941/evil-mc-region.el
+  evil-mc-20210206.1941/evil-mc-scratch.el
+  evil-mc-20210206.1941/evil-mc-setup.el
+  evil-mc-20210206.1941/evil-mc-undo.el
+  evil-mc-20210206.1941/evil-mc-vars.el
+  evil-mc-20210206.1941/evil-mc.el
+Built evil-mc in 1.496s, finished at Sat Feb 27 07:44:07 2021
+ ✓ Success:
+4.0K -rw-rw-r-- 1 kimr kimr  431 Dec  6 19:53 packages/evil-mc-20200228.1535.entry
+140K -rw-rw-r-- 1 kimr kimr 140K Dec  6 19:53 packages/evil-mc-20200228.1535.tar
+4.0K -rw-rw-r-- 1 kimr kimr  485 Feb 27 07:44 packages/evil-mc-20210206.1941.entry
+140K -rw-rw-r-- 1 kimr kimr 140K Feb 27 07:44 packages/evil-mc-20210206.1941.tar
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Feb 27 07:44 packages/evil-mc-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr  244 Feb 27 07:44 packages/evil-mc-readme.txt

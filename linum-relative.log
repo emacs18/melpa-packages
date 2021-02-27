@@ -1,0 +1,11 @@
+Package: linum-relative
+Fetcher: github
+Source:  https://github.com/coldnew/linum-relative.git
+
+Updating /home/kimr/repos/my/melpa/working/linum-relative/
+Built linum-relative in 1.248s, finished at Sat Feb 27 07:47:40 2021
+ ✓ Success:
+ 12K -rw-rw-r-- 1 kimr kimr  11K Feb 27 07:47 packages/linum-relative-20180124.1047.el
+4.0K -rw-rw-r-- 1 kimr kimr  350 Feb 27 07:47 packages/linum-relative-20180124.1047.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Feb 27 07:47 packages/linum-relative-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr 1.8K Feb 27 07:47 packages/linum-relative-readme.txt

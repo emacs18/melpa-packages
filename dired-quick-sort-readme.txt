@@ -1,3 +1,4 @@
+
 This package provides ways to quickly sort dired buffers in various ways.
 With `savehist-mode' enabled (strongly recommended), the last used sorting
 criteria are automatically used when sorting, even after restarting Emacs.  A

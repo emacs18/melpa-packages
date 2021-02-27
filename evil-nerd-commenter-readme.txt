@@ -1,3 +1,4 @@
+
 This program emulates nerd-commenter.vim by Marty Grenfell.
 
 It helps you comment/uncomment multiple lines without selecting them.
@@ -76,5 +77,18 @@ keybindings,
 (defun matlab-mode-hook-config ()
   (local-set-key (kbd "M-;") 'evilnc-comment-or-uncomment-lines))
 (add-hook 'matlab-mode-hook 'matlab-mode-hook-config)
+
+Most commands call `evilnc-comment-or-uncomment-region-function'.
+You can modify this variable to customize the comment style,
+
+  (with-eval-after-load 'evil-nerd-commenter
+    (defun my-comment-or-uncomment-region (beg end)
+      (let* ((comment-start "aaa")
+             (comment-end "bbb"))
+        (evilnc-comment-or-uncomment-region-internal beg end)))
+    (setq evilnc-comment-or-uncomment-region-function
+          'my-comment-or-uncomment-region))
+
+See "Options Controlling Comments" in Emacs manual for comment options.
 
 See https://github.com/redguardtoo/evil-nerd-commenter for detail.

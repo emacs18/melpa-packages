@@ -1,0 +1,11 @@
+Package: evil-visualstar
+Fetcher: github
+Source:  https://github.com/bling/evil-visualstar.git
+
+Updating /home/kimr/repos/my/melpa/working/evil-visualstar/
+Built evil-visualstar in 1.256s, finished at Sat Feb 27 07:44:19 2021
+ ✓ Success:
+8.0K -rw-rw-r-- 1 kimr kimr 4.4K Feb 27 07:44 packages/evil-visualstar-20160223.48.el
+4.0K -rw-rw-r-- 1 kimr kimr  356 Feb 27 07:44 packages/evil-visualstar-20160223.48.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Feb 27 07:44 packages/evil-visualstar-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr  330 Feb 27 07:44 packages/evil-visualstar-readme.txt

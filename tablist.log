@@ -1,0 +1,21 @@
+Package: tablist
+Fetcher: github
+Source:  https://github.com/politza/tablist.git
+
+Updating /home/kimr/repos/my/melpa/working/tablist/
+Copying files (->) and directories (=>)
+  from /home/kimr/repos/my/melpa/working/tablist/
+  to /tmp/tablistgvSiDF/tablist-20200427.2205
+    tablist-filter.el -> tablist-filter.el
+    tablist.el -> tablist.el
+Created tablist-20200427.2205.tar containing:
+  tablist-20200427.2205/
+  tablist-20200427.2205/tablist-filter.el
+  tablist-20200427.2205/tablist-pkg.el
+  tablist-20200427.2205/tablist.el
+Built tablist in 1.017s, finished at Sat Feb 27 07:50:58 2021
+ ✓ Success:
+4.0K -rw-rw-r-- 1 kimr kimr  313 Feb 27 07:50 packages/tablist-20200427.2205.entry
+ 92K -rw-rw-r-- 1 kimr kimr  90K Feb 27 07:50 packages/tablist-20200427.2205.tar
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Feb 27 07:50 packages/tablist-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr  252 Feb 27 07:50 packages/tablist-readme.txt

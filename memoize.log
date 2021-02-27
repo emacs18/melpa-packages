@@ -1,0 +1,11 @@
+Package: memoize
+Fetcher: github
+Source:  https://github.com/skeeto/emacs-memoize.git
+
+Updating /home/kimr/repos/my/melpa/working/memoize/
+Built memoize in 1.065s, finished at Sat Feb 27 07:48:24 2021
+ ✓ Success:
+8.0K -rw-rw-r-- 1 kimr kimr 7.9K Feb 27 07:48 packages/memoize-20200103.2036.el
+4.0K -rw-rw-r-- 1 kimr kimr  321 Feb 27 07:48 packages/memoize-20200103.2036.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Feb 27 07:48 packages/memoize-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr 1.6K Feb 27 07:48 packages/memoize-readme.txt

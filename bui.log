@@ -1,0 +1,35 @@
+Package: bui
+Fetcher: github
+Source:  https://github.com/alezost/bui.el.git
+
+Updating /home/kimr/repos/my/melpa/working/bui/
+Copying files (->) and directories (=>)
+  from /home/kimr/repos/my/melpa/working/bui/
+  to /tmp/buiRBaHzq/bui-20210108.1141
+    bui-button.el -> bui-button.el
+    bui-core.el -> bui-core.el
+    bui-entry.el -> bui-entry.el
+    bui-history.el -> bui-history.el
+    bui-info.el -> bui-info.el
+    bui-list.el -> bui-list.el
+    bui-utils.el -> bui-utils.el
+    bui.el -> bui.el
+Created bui-20210108.1141.tar containing:
+  bui-20210108.1141/
+  bui-20210108.1141/bui-button.el
+  bui-20210108.1141/bui-core.el
+  bui-20210108.1141/bui-entry.el
+  bui-20210108.1141/bui-history.el
+  bui-20210108.1141/bui-info.el
+  bui-20210108.1141/bui-list.el
+  bui-20210108.1141/bui-pkg.el
+  bui-20210108.1141/bui-utils.el
+  bui-20210108.1141/bui.el
+Built bui in 1.289s, finished at Sat Feb 27 07:41:51 2021
+ ✓ Success:
+4.0K -rw-rw-r-- 1 kimr kimr  308 Dec  6 19:51 packages/bui-20200426.2219.entry
+100K -rw-rw-r-- 1 kimr kimr 100K Dec  6 19:51 packages/bui-20200426.2219.tar
+4.0K -rw-rw-r-- 1 kimr kimr  368 Feb 27 07:41 packages/bui-20210108.1141.entry
+112K -rw-rw-r-- 1 kimr kimr 110K Feb 27 07:41 packages/bui-20210108.1141.tar
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Feb 27 07:41 packages/bui-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr  584 Feb 27 07:41 packages/bui-readme.txt

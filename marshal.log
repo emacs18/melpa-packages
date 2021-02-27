@@ -1,0 +1,13 @@
+Package: marshal
+Fetcher: github
+Source:  https://github.com/sigma/marshal.el.git
+
+Updating /home/kimr/repos/my/melpa/working/marshal/
+Built marshal in 1.088s, finished at Sat Feb 27 07:48:23 2021
+ ✓ Success:
+ 20K -rw-rw-r-- 1 kimr kimr  19K Dec  6 19:54 packages/marshal-20180124.1239.el
+4.0K -rw-rw-r-- 1 kimr kimr  355 Dec  6 19:54 packages/marshal-20180124.1239.entry
+ 20K -rw-rw-r-- 1 kimr kimr  18K Feb 27 07:48 packages/marshal-20201223.1853.el
+4.0K -rw-rw-r-- 1 kimr kimr  399 Feb 27 07:48 packages/marshal-20201223.1853.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Feb 27 07:48 packages/marshal-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr 2.7K Feb 27 07:48 packages/marshal-readme.txt

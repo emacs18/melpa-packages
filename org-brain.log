@@ -1,0 +1,13 @@
+Package: org-brain
+Fetcher: github
+Source:  https://github.com/Kungsgeten/org-brain.git
+
+Updating /home/kimr/repos/my/melpa/working/org-brain/
+Built org-brain in 1.286s, finished at Sat Feb 27 07:48:41 2021
+ ✓ Success:
+152K -rw-rw-r-- 1 kimr kimr 150K Dec 19 20:46 packages/org-brain-20201214.822.el
+4.0K -rw-rw-r-- 1 kimr kimr  359 Dec 19 20:46 packages/org-brain-20201214.822.entry
+152K -rw-rw-r-- 1 kimr kimr 150K Feb 27 07:48 packages/org-brain-20210108.1512.el
+4.0K -rw-rw-r-- 1 kimr kimr  429 Feb 27 07:48 packages/org-brain-20210108.1512.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Feb 27 07:48 packages/org-brain-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr  803 Feb 27 07:48 packages/org-brain-readme.txt

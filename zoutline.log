@@ -1,0 +1,10 @@
+Package: zoutline
+Fetcher: github
+Source:  https://github.com/abo-abo/zoutline.git
+
+Updating /home/kimr/repos/my/melpa/working/zoutline/
+Built zoutline in 1.179s, finished at Sat Feb 27 07:52:02 2021
+ ✓ Success:
+8.0K -rw-rw-r-- 1 kimr kimr 4.9K Feb 27 07:52 packages/zoutline-20190520.1819.el
+4.0K -rw-rw-r-- 1 kimr kimr  334 Feb 27 07:52 packages/zoutline-20190520.1819.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Feb 27 07:52 packages/zoutline-badge.svg

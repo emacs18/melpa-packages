@@ -1,0 +1,11 @@
+Package: highlight-thing
+Fetcher: github
+Source:  https://github.com/fgeller/highlight-thing.el.git
+
+Updating /home/kimr/repos/my/melpa/working/highlight-thing/
+Built highlight-thing in 1.284s, finished at Sat Feb 27 07:46:49 2021
+ ✓ Success:
+ 12K -rw-rw-r-- 1 kimr kimr  11K Feb 27 07:46 packages/highlight-thing-20181229.1301.el
+4.0K -rw-rw-r-- 1 kimr kimr  408 Feb 27 07:46 packages/highlight-thing-20181229.1301.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Feb 27 07:46 packages/highlight-thing-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr  305 Feb 27 07:46 packages/highlight-thing-readme.txt

@@ -1,0 +1,11 @@
+Package: evil-lisp-state
+Fetcher: github
+Source:  https://github.com/syl20bnr/evil-lisp-state.git
+
+Updating /home/kimr/repos/my/melpa/working/evil-lisp-state/
+Built evil-lisp-state in 1.068s, finished at Sat Feb 27 07:44:03 2021
+ ✓ Success:
+ 12K -rw-rw-r-- 1 kimr kimr  12K Feb 27 07:44 packages/evil-lisp-state-20160404.248.el
+4.0K -rw-rw-r-- 1 kimr kimr  507 Feb 27 07:44 packages/evil-lisp-state-20160404.248.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Feb 27 07:44 packages/evil-lisp-state-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr 3.3K Feb 27 07:44 packages/evil-lisp-state-readme.txt
