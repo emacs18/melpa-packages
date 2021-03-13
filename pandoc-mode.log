@@ -1,0 +1,24 @@
+Package: pandoc-mode
+Fetcher: github
+Source:  https://github.com/joostkremers/pandoc-mode.git
+
+Cloning https://github.com/joostkremers/pandoc-mode.git to /home/kimr/repos/my/melpa/working/pandoc-mode/
+Copying files (->) and directories (=>)
+  from /home/kimr/repos/my/melpa/working/pandoc-mode/
+  to /tmp/pandoc-modexupjWn/pandoc-mode-20210308.2211
+    pandoc-mode-utils.el -> pandoc-mode-utils.el
+    pandoc-mode.el -> pandoc-mode.el
+    pandoc-mode.info -> pandoc-mode.info
+Created pandoc-mode-20210308.2211.tar containing:
+  pandoc-mode-20210308.2211/
+  pandoc-mode-20210308.2211/dir
+  pandoc-mode-20210308.2211/pandoc-mode-pkg.el
+  pandoc-mode-20210308.2211/pandoc-mode-utils.el
+  pandoc-mode-20210308.2211/pandoc-mode.el
+  pandoc-mode-20210308.2211/pandoc-mode.info
+Built pandoc-mode in 3.022s, finished at Sat Mar 13 07:33:42 2021
+ ✓ Success:
+4.0K -rw-rw-r-- 1 kimr kimr  443 Mar 13 07:33 packages/pandoc-mode-20210308.2211.entry
+192K -rw-rw-r-- 1 kimr kimr 190K Mar 13 07:33 packages/pandoc-mode-20210308.2211.tar
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Mar 13 07:33 packages/pandoc-mode-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr  197 Mar 13 07:33 packages/pandoc-mode-readme.txt

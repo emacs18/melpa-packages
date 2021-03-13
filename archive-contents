@@ -4020,6 +4020,25 @@
 	    (:maintainer "Stig Brautaset" . "stig@brautaset.org")
 	    (:keywords "outlines" "hypermedia" "wp")
 	    (:url . "https://github.com/stig/ox-jira.el"))])
+ (ox-pandoc .
+	    [(20180510 1338)
+	     ((org
+	       (8 2))
+	      (emacs
+	       (24))
+	      (dash
+	       (2 8))
+	      (ht
+	       (2 0))
+	      (cl-lib
+	       (0 5)))
+	     "org exporter for pandoc." single
+	     ((:commit . "aa37dc7e94213d4ebedb85c384c1ba35007da18e")
+	      (:authors
+	       ("KAWABATA, Taichi" . "kawabata.taichi@gmail.com"))
+	      (:maintainer "KAWABATA, Taichi" . "kawabata.taichi@gmail.com")
+	      (:keywords "tools")
+	      (:url . "https://github.com/kawabata/ox-pandoc"))])
  (ox-reveal .
 	    [(20210215 1605)
 	     ((org
@@ -4078,6 +4097,19 @@
 	   (:maintainer "Jonas Bernoulli" . "jonas@bernoul.li")
 	   (:keywords "compile" "convenience" "lisp" "package" "library")
 	   (:url . "https://github.com/emacscollective/packed"))])
+ (pandoc-mode .
+	      [(20210308 2211)
+	       ((hydra
+		 (0 10 0))
+		(dash
+		 (2 10 0)))
+	       "Minor mode for interacting with Pandoc" tar
+	       ((:commit . "500e80666fb779457be8771c5613c177187ba0cc")
+		(:authors
+		 ("Joost Kremers" . "joostkremers@fastmail.fm"))
+		(:maintainer "Joost Kremers" . "joostkremers@fastmail.fm")
+		(:keywords "text" "pandoc")
+		(:url . "http://joostkremers.github.io/pandoc-mode/"))])
  (paradox .
 	  [(20191011 1111)
 	   ((emacs
