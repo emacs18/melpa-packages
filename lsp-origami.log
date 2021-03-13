@@ -3,11 +3,9 @@ Fetcher: github
 Source:  https://github.com/emacs-lsp/lsp-origami.git
 
 Updating /home/kimr/repos/my/melpa/working/lsp-origami/
-Built lsp-origami in 1.093s, finished at Sat Feb 27 07:47:55 2021
+Built lsp-origami in 1.507s, finished at Fri Mar 12 19:32:55 2021
  ✓ Success:
-4.0K -rw-rw-r-- 1 kimr kimr 3.3K Dec  6 19:54 packages/lsp-origami-20200914.1846.el
-4.0K -rw-rw-r-- 1 kimr kimr  310 Dec  6 19:54 packages/lsp-origami-20200914.1846.entry
-4.0K -rw-rw-r-- 1 kimr kimr 3.4K Feb 27 07:47 packages/lsp-origami-20210126.843.el
-4.0K -rw-rw-r-- 1 kimr kimr  381 Feb 27 07:47 packages/lsp-origami-20210126.843.entry
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K Feb 27 07:47 packages/lsp-origami-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr  224 Feb 27 07:47 packages/lsp-origami-readme.txt
+4.0K -rw-rw-r-- 1 kimr kimr 3.4K Mar 12 19:32 packages/lsp-origami-20210126.843.el
+4.0K -rw-rw-r-- 1 kimr kimr  381 Mar 12 19:32 packages/lsp-origami-20210126.843.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Mar 12 19:32 packages/lsp-origami-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr  224 Mar 12 19:32 packages/lsp-origami-readme.txt

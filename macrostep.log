@@ -5,7 +5,7 @@ Source:  https://github.com/joddie/macrostep.git
 Updating /home/kimr/repos/my/melpa/working/macrostep/
 Copying files (->) and directories (=>)
   from /home/kimr/repos/my/melpa/working/macrostep/
-  to /tmp/macrosteptHIcrk/macrostep-20161120.2106
+  to /tmp/macrostepDsehUD/macrostep-20161120.2106
     macrostep-c.el -> macrostep-c.el
     macrostep.el -> macrostep.el
 Created macrostep-20161120.2106.tar containing:
@@ -13,9 +13,9 @@ Created macrostep-20161120.2106.tar containing:
   macrostep-20161120.2106/macrostep-c.el
   macrostep-20161120.2106/macrostep-pkg.el
   macrostep-20161120.2106/macrostep.el
-Built macrostep in 1.937s, finished at Sat Feb 27 07:48:05 2021
+Built macrostep in 1.202s, finished at Fri Mar 12 19:33:05 2021
  ✓ Success:
-4.0K -rw-rw-r-- 1 kimr kimr  387 Feb 27 07:48 packages/macrostep-20161120.2106.entry
- 60K -rw-rw-r-- 1 kimr kimr  60K Feb 27 07:48 packages/macrostep-20161120.2106.tar
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K Feb 27 07:48 packages/macrostep-badge.svg
- 12K -rw-rw-r-- 1 kimr kimr 9.2K Feb 27 07:48 packages/macrostep-readme.txt
+4.0K -rw-rw-r-- 1 kimr kimr  387 Mar 12 19:33 packages/macrostep-20161120.2106.entry
+ 60K -rw-rw-r-- 1 kimr kimr  60K Mar 12 19:33 packages/macrostep-20161120.2106.tar
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Mar 12 19:33 packages/macrostep-badge.svg
+ 12K -rw-rw-r-- 1 kimr kimr 9.2K Mar 12 19:33 packages/macrostep-readme.txt

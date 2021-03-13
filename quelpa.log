@@ -5,7 +5,7 @@ Source:  https://github.com/quelpa/quelpa.git
 Updating /home/kimr/repos/my/melpa/working/quelpa/
 Copying files (->) and directories (=>)
   from /home/kimr/repos/my/melpa/working/quelpa/
-  to /tmp/quelpafZqqVj/quelpa-20210208.716
+  to /tmp/quelpaPEkVKt/quelpa-20210208.716
     bootstrap.el -> bootstrap.el
     quelpa.el -> quelpa.el
 Created quelpa-20210208.716.tar containing:
@@ -13,11 +13,9 @@ Created quelpa-20210208.716.tar containing:
   quelpa-20210208.716/bootstrap.el
   quelpa-20210208.716/quelpa-pkg.el
   quelpa-20210208.716/quelpa.el
-Built quelpa in 1.705s, finished at Sat Feb 27 07:50:19 2021
+Built quelpa in 0.917s, finished at Fri Mar 12 19:35:22 2021
  ✓ Success:
-4.0K -rw-rw-r-- 1 kimr kimr  326 Dec 19 20:46 packages/quelpa-20201022.638.entry
- 92K -rw-rw-r-- 1 kimr kimr  90K Dec 19 20:46 packages/quelpa-20201022.638.tar
-4.0K -rw-rw-r-- 1 kimr kimr  352 Feb 27 07:50 packages/quelpa-20210208.716.entry
- 92K -rw-rw-r-- 1 kimr kimr  90K Feb 27 07:50 packages/quelpa-20210208.716.tar
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K Feb 27 07:50 packages/quelpa-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr  223 Feb 27 07:50 packages/quelpa-readme.txt
+4.0K -rw-rw-r-- 1 kimr kimr  352 Mar 12 19:35 packages/quelpa-20210208.716.entry
+ 92K -rw-rw-r-- 1 kimr kimr  90K Mar 12 19:35 packages/quelpa-20210208.716.tar
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Mar 12 19:35 packages/quelpa-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr  223 Mar 12 19:35 packages/quelpa-readme.txt

@@ -3,9 +3,9 @@ Fetcher: github
 Source:  https://github.com/xuchunyang/gitignore-templates.el.git
 
 Updating /home/kimr/repos/my/melpa/working/gitignore-templates/
-Built gitignore-templates in 1.282s, finished at Sat Feb 27 07:45:29 2021
+Built gitignore-templates in 1.121s, finished at Fri Mar 12 19:30:58 2021
  ✓ Success:
-8.0K -rw-rw-r-- 1 kimr kimr 5.3K Feb 27 07:45 packages/gitignore-templates-20200228.1419.el
-4.0K -rw-rw-r-- 1 kimr kimr  388 Feb 27 07:45 packages/gitignore-templates-20200228.1419.entry
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K Feb 27 07:45 packages/gitignore-templates-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr  121 Feb 27 07:45 packages/gitignore-templates-readme.txt
+8.0K -rw-rw-r-- 1 kimr kimr 5.3K Mar 12 19:30 packages/gitignore-templates-20200228.1419.el
+4.0K -rw-rw-r-- 1 kimr kimr  388 Mar 12 19:30 packages/gitignore-templates-20200228.1419.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Mar 12 19:30 packages/gitignore-templates-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr  121 Mar 12 19:30 packages/gitignore-templates-readme.txt

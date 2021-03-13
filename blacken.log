@@ -3,9 +3,9 @@ Fetcher: github
 Source:  https://github.com/pythonic-emacs/blacken.git
 
 Updating /home/kimr/repos/my/melpa/working/blacken/
-Built blacken in 1.295s, finished at Sat Feb 27 07:41:48 2021
+Built blacken in 0.896s, finished at Fri Mar 12 19:27:48 2021
  ✓ Success:
-8.0K -rw-rw-r-- 1 kimr kimr 6.3K Feb 27 07:41 packages/blacken-20200626.2018.el
-4.0K -rw-rw-r-- 1 kimr kimr  360 Feb 27 07:41 packages/blacken-20200626.2018.entry
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K Feb 27 07:41 packages/blacken-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr  433 Feb 27 07:41 packages/blacken-readme.txt
+8.0K -rw-rw-r-- 1 kimr kimr 6.3K Mar 12 19:27 packages/blacken-20200626.2018.el
+4.0K -rw-rw-r-- 1 kimr kimr  360 Mar 12 19:27 packages/blacken-20200626.2018.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Mar 12 19:27 packages/blacken-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr  433 Mar 12 19:27 packages/blacken-readme.txt

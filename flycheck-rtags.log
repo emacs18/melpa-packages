@@ -3,9 +3,9 @@ Fetcher: github
 Source:  https://github.com/Andersbakken/rtags.git
 
 Updating /home/kimr/repos/my/melpa/working/flycheck-rtags/
-Built flycheck-rtags in 0.751s, finished at Sat Feb 27 07:44:42 2021
+Built flycheck-rtags in 0.917s, finished at Fri Mar 12 19:30:21 2021
  ✓ Success:
-8.0K -rw-rw-r-- 1 kimr kimr 4.9K Feb 27 07:44 packages/flycheck-rtags-20191222.920.el
-4.0K -rw-rw-r-- 1 kimr kimr  422 Feb 27 07:44 packages/flycheck-rtags-20191222.920.entry
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K Feb 27 07:44 packages/flycheck-rtags-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr  683 Feb 27 07:44 packages/flycheck-rtags-readme.txt
+8.0K -rw-rw-r-- 1 kimr kimr 4.9K Mar 12 19:30 packages/flycheck-rtags-20191222.920.el
+4.0K -rw-rw-r-- 1 kimr kimr  422 Mar 12 19:30 packages/flycheck-rtags-20191222.920.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Mar 12 19:30 packages/flycheck-rtags-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr  683 Mar 12 19:30 packages/flycheck-rtags-readme.txt

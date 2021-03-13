@@ -3,9 +3,9 @@ Fetcher: github
 Source:  https://github.com/DamienCassou/json-navigator.git
 
 Updating /home/kimr/repos/my/melpa/working/json-navigator/
-Built json-navigator in 1.418s, finished at Sat Feb 27 07:47:26 2021
+Built json-navigator in 1.446s, finished at Fri Mar 12 19:32:31 2021
  ✓ Success:
-8.0K -rw-rw-r-- 1 kimr kimr 6.5K Feb 27 07:47 packages/json-navigator-20191213.755.el
-4.0K -rw-rw-r-- 1 kimr kimr  374 Feb 27 07:47 packages/json-navigator-20191213.755.entry
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K Feb 27 07:47 packages/json-navigator-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr   34 Feb 27 07:47 packages/json-navigator-readme.txt
+8.0K -rw-rw-r-- 1 kimr kimr 6.5K Mar 12 19:32 packages/json-navigator-20191213.755.el
+4.0K -rw-rw-r-- 1 kimr kimr  374 Mar 12 19:32 packages/json-navigator-20191213.755.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Mar 12 19:32 packages/json-navigator-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr   34 Mar 12 19:32 packages/json-navigator-readme.txt

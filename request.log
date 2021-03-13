@@ -3,14 +3,14 @@ Fetcher: github
 Source:  https://github.com/tkf/emacs-request.git
 
 Updating /home/kimr/repos/my/melpa/working/request/
-Built request in 1.291s, finished at Sat Feb 27 07:50:22 2021
+Built request in 1.088s, finished at Fri Mar 12 19:35:25 2021
  ✓ Success:
- 56K -rw-rw-r-- 1 kimr kimr  53K Dec  6 19:55 packages/request-20201026.2324.el
-4.0K -rw-rw-r-- 1 kimr kimr  315 Dec  6 19:55 packages/request-20201026.2324.entry
- 52K -rw-rw-r-- 1 kimr kimr  52K Feb 27 07:50 packages/request-20210214.37.el
-4.0K -rw-rw-r-- 1 kimr kimr  336 Feb 27 07:50 packages/request-20210214.37.entry
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K Feb 27 07:50 packages/request-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr 2.4K Dec  6 19:55 packages/request-deferred-20181129.317.el
-4.0K -rw-rw-r-- 1 kimr kimr  331 Dec  6 19:55 packages/request-deferred-20181129.317.entry
-   0 -rw-rw-r-- 1 kimr kimr    0 Dec  6 19:55 packages/request-deferred-readme.txt
-4.0K -rw-rw-r-- 1 kimr kimr  207 Feb 27 07:50 packages/request-readme.txt
+ 52K -rw-rw-r-- 1 kimr kimr  52K Mar 12 19:35 packages/request-20210214.37.el
+4.0K -rw-rw-r-- 1 kimr kimr  336 Mar 12 19:35 packages/request-20210214.37.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Mar 12 19:35 packages/request-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr 2.5K Feb 27 07:50 packages/request-deferred-20210214.37.el
+4.0K -rw-rw-r-- 1 kimr kimr  420 Feb 27 07:50 packages/request-deferred-20210214.37.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Feb 27 07:50 packages/request-deferred-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr  760 Feb 27 07:50 packages/request-deferred.log
+4.0K -rw-rw-r-- 1 kimr kimr   70 Feb 27 07:50 packages/request-deferred-readme.txt
+4.0K -rw-rw-r-- 1 kimr kimr  207 Mar 12 19:35 packages/request-readme.txt

@@ -3,11 +3,9 @@ Fetcher: github
 Source:  https://github.com/abo-abo/avy.git
 
 Updating /home/kimr/repos/my/melpa/working/avy/
-Built avy in 1.926s, finished at Sat Feb 27 07:41:34 2021
+Built avy in 1.100s, finished at Fri Mar 12 19:27:39 2021
  ✓ Success:
- 84K -rw-rw-r-- 1 kimr kimr  82K Dec  6 19:51 packages/avy-20200624.1148.el
-4.0K -rw-rw-r-- 1 kimr kimr  370 Dec  6 19:51 packages/avy-20200624.1148.entry
- 84K -rw-rw-r-- 1 kimr kimr  83K Feb 27 07:41 packages/avy-20201226.1734.el
-4.0K -rw-rw-r-- 1 kimr kimr  430 Feb 27 07:41 packages/avy-20201226.1734.entry
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K Feb 27 07:41 packages/avy-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K Feb 27 07:41 packages/avy-readme.txt
+ 84K -rw-rw-r-- 1 kimr kimr  83K Mar 12 19:27 packages/avy-20201226.1734.el
+4.0K -rw-rw-r-- 1 kimr kimr  430 Mar 12 19:27 packages/avy-20201226.1734.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Mar 12 19:27 packages/avy-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Mar 12 19:27 packages/avy-readme.txt

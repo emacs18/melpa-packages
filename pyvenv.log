@@ -3,11 +3,9 @@ Fetcher: github
 Source:  https://github.com/jorgenschaefer/pyvenv.git
 
 Updating /home/kimr/repos/my/melpa/working/pyvenv/
-Built pyvenv in 1.905s, finished at Sat Feb 27 07:50:17 2021
+Built pyvenv in 1.298s, finished at Fri Mar 12 19:35:21 2021
  ✓ Success:
- 28K -rw-rw-r-- 1 kimr kimr  25K Dec 19 20:46 packages/pyvenv-20201210.1509.el
-4.0K -rw-rw-r-- 1 kimr kimr  353 Dec 19 20:46 packages/pyvenv-20201210.1509.entry
- 28K -rw-rw-r-- 1 kimr kimr  25K Feb 27 07:50 packages/pyvenv-20201227.1623.el
-4.0K -rw-rw-r-- 1 kimr kimr  373 Feb 27 07:50 packages/pyvenv-20201227.1623.entry
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K Feb 27 07:50 packages/pyvenv-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr  513 Feb 27 07:50 packages/pyvenv-readme.txt
+ 28K -rw-rw-r-- 1 kimr kimr  25K Mar 12 19:35 packages/pyvenv-20201227.1623.el
+4.0K -rw-rw-r-- 1 kimr kimr  373 Mar 12 19:35 packages/pyvenv-20201227.1623.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Mar 12 19:35 packages/pyvenv-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr  513 Mar 12 19:35 packages/pyvenv-readme.txt

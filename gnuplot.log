@@ -5,7 +5,7 @@ Source:  https://github.com/emacsorphanage/gnuplot.git
 Updating /home/kimr/repos/my/melpa/working/gnuplot/
 Copying files (->) and directories (=>)
   from /home/kimr/repos/my/melpa/working/gnuplot/
-  to /tmp/gnuplotsENIze/gnuplot-20210104.1052
+  to /tmp/gnuplotvQ2EXf/gnuplot-20210104.1052
     gnuplot.el -> gnuplot.el
     gnuplot-gui.el -> gnuplot-gui.el
     gnuplot-context.el -> gnuplot-context.el
@@ -15,11 +15,9 @@ Created gnuplot-20210104.1052.tar containing:
   gnuplot-20210104.1052/gnuplot-gui.el
   gnuplot-20210104.1052/gnuplot-pkg.el
   gnuplot-20210104.1052/gnuplot.el
-Built gnuplot in 1.183s, finished at Sat Feb 27 07:45:40 2021
+Built gnuplot in 1.267s, finished at Fri Mar 12 19:31:05 2021
  ✓ Success:
-4.0K -rw-rw-r-- 1 kimr kimr  361 Dec 19 20:46 packages/gnuplot-20201219.1320.entry
-280K -rw-rw-r-- 1 kimr kimr 280K Dec 19 20:46 packages/gnuplot-20201219.1320.tar
-4.0K -rw-rw-r-- 1 kimr kimr  407 Feb 27 07:45 packages/gnuplot-20210104.1052.entry
-260K -rw-rw-r-- 1 kimr kimr 260K Feb 27 07:45 packages/gnuplot-20210104.1052.tar
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K Feb 27 07:45 packages/gnuplot-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr 2.3K Feb 27 07:45 packages/gnuplot-readme.txt
+4.0K -rw-rw-r-- 1 kimr kimr  407 Mar 12 19:31 packages/gnuplot-20210104.1052.entry
+260K -rw-rw-r-- 1 kimr kimr 260K Mar 12 19:31 packages/gnuplot-20210104.1052.tar
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Mar 12 19:31 packages/gnuplot-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr 2.3K Mar 12 19:31 packages/gnuplot-readme.txt

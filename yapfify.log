@@ -3,9 +3,9 @@ Fetcher: github
 Source:  https://github.com/JorisE/yapfify.git
 
 Updating /home/kimr/repos/my/melpa/working/yapfify/
-Built yapfify in 1.291s, finished at Sat Feb 27 07:51:53 2021
+Built yapfify in 0.965s, finished at Fri Mar 12 19:36:49 2021
  ✓ Success:
-8.0K -rw-rw-r-- 1 kimr kimr 4.4K Feb 27 07:51 packages/yapfify-20200406.830.el
-4.0K -rw-rw-r-- 1 kimr kimr  328 Feb 27 07:51 packages/yapfify-20200406.830.entry
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K Feb 27 07:51 packages/yapfify-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr  421 Feb 27 07:51 packages/yapfify-readme.txt
+8.0K -rw-rw-r-- 1 kimr kimr 4.4K Mar 12 19:36 packages/yapfify-20200406.830.el
+4.0K -rw-rw-r-- 1 kimr kimr  328 Mar 12 19:36 packages/yapfify-20200406.830.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Mar 12 19:36 packages/yapfify-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr  421 Mar 12 19:36 packages/yapfify-readme.txt

@@ -5,7 +5,7 @@ Source:  https://github.com/melpa/package-build.git
 Updating /home/kimr/repos/my/melpa/working/package-build/
 Copying files (->) and directories (=>)
   from /home/kimr/repos/my/melpa/working/package-build/
-  to /tmp/package-buildqG3fOG/package-build-20210209.1639
+  to /tmp/package-buildgTxpdi/package-build-20210209.1639
     package-build-badges.el -> package-build-badges.el
     package-build.el -> package-build.el
     package-recipe-mode.el -> package-recipe-mode.el
@@ -17,11 +17,9 @@ Created package-build-20210209.1639.tar containing:
   package-build-20210209.1639/package-build.el
   package-build-20210209.1639/package-recipe-mode.el
   package-build-20210209.1639/package-recipe.el
-Built package-build in 1.091s, finished at Sat Feb 27 07:49:21 2021
+Built package-build in 3.346s, finished at Fri Mar 12 19:34:10 2021
  ✓ Success:
-4.0K -rw-rw-r-- 1 kimr kimr  364 Dec 19 20:46 packages/package-build-20201206.2137.entry
- 60K -rw-rw-r-- 1 kimr kimr  60K Dec 19 20:46 packages/package-build-20201206.2137.tar
-4.0K -rw-rw-r-- 1 kimr kimr  404 Feb 27 07:49 packages/package-build-20210209.1639.entry
- 60K -rw-rw-r-- 1 kimr kimr  60K Feb 27 07:49 packages/package-build-20210209.1639.tar
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K Feb 27 07:49 packages/package-build-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr  308 Feb 27 07:49 packages/package-build-readme.txt
+4.0K -rw-rw-r-- 1 kimr kimr  404 Mar 12 19:34 packages/package-build-20210209.1639.entry
+ 60K -rw-rw-r-- 1 kimr kimr  60K Mar 12 19:34 packages/package-build-20210209.1639.tar
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Mar 12 19:34 packages/package-build-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr  308 Mar 12 19:34 packages/package-build-readme.txt

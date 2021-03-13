@@ -5,7 +5,7 @@ Source:  https://github.com/domtronn/spaceline-all-the-icons.el.git
 Updating /home/kimr/repos/my/melpa/working/spaceline-all-the-icons/
 Copying files (->) and directories (=>)
   from /home/kimr/repos/my/melpa/working/spaceline-all-the-icons/
-  to /tmp/spaceline-all-the-icons9Qt3nt/spaceline-all-the-icons-20190325.1602
+  to /tmp/spaceline-all-the-iconshH6xrY/spaceline-all-the-icons-20190325.1602
     spaceline-all-the-icons-segments.el -> spaceline-all-the-icons-segments.el
     spaceline-all-the-icons-separators.el -> spaceline-all-the-icons-separators.el
     spaceline-all-the-icons.el -> spaceline-all-the-icons.el
@@ -15,9 +15,9 @@ Created spaceline-all-the-icons-20190325.1602.tar containing:
   spaceline-all-the-icons-20190325.1602/spaceline-all-the-icons-segments.el
   spaceline-all-the-icons-20190325.1602/spaceline-all-the-icons-separators.el
   spaceline-all-the-icons-20190325.1602/spaceline-all-the-icons.el
-Built spaceline-all-the-icons in 1.490s, finished at Sat Feb 27 07:50:51 2021
+Built spaceline-all-the-icons in 1.061s, finished at Fri Mar 12 19:35:48 2021
  ✓ Success:
-4.0K -rw-rw-r-- 1 kimr kimr  544 Feb 27 07:50 packages/spaceline-all-the-icons-20190325.1602.entry
-100K -rw-rw-r-- 1 kimr kimr 100K Feb 27 07:50 packages/spaceline-all-the-icons-20190325.1602.tar
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K Feb 27 07:50 packages/spaceline-all-the-icons-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr 3.0K Feb 27 07:50 packages/spaceline-all-the-icons-readme.txt
+4.0K -rw-rw-r-- 1 kimr kimr  544 Mar 12 19:35 packages/spaceline-all-the-icons-20190325.1602.entry
+100K -rw-rw-r-- 1 kimr kimr 100K Mar 12 19:35 packages/spaceline-all-the-icons-20190325.1602.tar
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Mar 12 19:35 packages/spaceline-all-the-icons-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr 3.0K Mar 12 19:35 packages/spaceline-all-the-icons-readme.txt

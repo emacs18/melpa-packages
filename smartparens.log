@@ -5,7 +5,7 @@ Source:  https://github.com/Fuco1/smartparens.git
 Updating /home/kimr/repos/my/melpa/working/smartparens/
 Copying files (->) and directories (=>)
   from /home/kimr/repos/my/melpa/working/smartparens/
-  to /tmp/smartparenshwIsF9/smartparens-20210213.1851
+  to /tmp/smartparenskfIyLg/smartparens-20210213.1851
     smartparens-c.el -> smartparens-c.el
     smartparens-clojure.el -> smartparens-clojure.el
     smartparens-config.el -> smartparens-config.el
@@ -56,11 +56,9 @@ Created smartparens-20210213.1851.tar containing:
   smartparens-20210213.1851/smartparens-text.el
   smartparens-20210213.1851/smartparens.el
   smartparens-20210213.1851/sp-sublimetext-like.el
-Built smartparens in 1.286s, finished at Sat Feb 27 07:50:45 2021
+Built smartparens in 1.113s, finished at Fri Mar 12 19:35:43 2021
  ✓ Success:
-4.0K -rw-rw-r-- 1 kimr kimr  214 Dec 19 20:46 packages/smartparens-20201217.1033.entry
-500K -rw-rw-r-- 1 kimr kimr 500K Dec 19 20:46 packages/smartparens-20201217.1033.tar
-4.0K -rw-rw-r-- 1 kimr kimr  490 Feb 27 07:50 packages/smartparens-20210213.1851.entry
-500K -rw-rw-r-- 1 kimr kimr 500K Feb 27 07:50 packages/smartparens-20210213.1851.tar
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K Feb 27 07:50 packages/smartparens-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr  836 Feb 27 07:50 packages/smartparens-readme.txt
+4.0K -rw-rw-r-- 1 kimr kimr  490 Mar 12 19:35 packages/smartparens-20210213.1851.entry
+500K -rw-rw-r-- 1 kimr kimr 500K Mar 12 19:35 packages/smartparens-20210213.1851.tar
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Mar 12 19:35 packages/smartparens-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr  836 Mar 12 19:35 packages/smartparens-readme.txt

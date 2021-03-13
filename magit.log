@@ -5,7 +5,7 @@ Source:  https://github.com/magit/magit.git
 Updating /home/kimr/repos/my/melpa/working/magit/
 Copying files (->) and directories (=>)
   from /home/kimr/repos/my/melpa/working/magit/
-  to /tmp/magitbJS69J/magit-20210227.1342
+  to /tmp/magitbUMW0r/magit-20210312.1012
   ! lisp/magit-apply.el -> magit-apply.el
   ! lisp/magit-autorevert.el -> magit-autorevert.el
   ! lisp/magit-bisect.el -> magit-bisect.el
@@ -55,78 +55,86 @@ Copying files (->) and directories (=>)
   ! Documentation/magit.texi -> magit.texi
   ! Documentation/AUTHORS.md -> AUTHORS.md
     LICENSE -> LICENSE
-Created /tmp/magitbJS69J/magit-20210227.1342/magit.info
-Created magit-20210227.1342.tar containing:
-  magit-20210227.1342/
-  magit-20210227.1342/AUTHORS.md
-  magit-20210227.1342/LICENSE
-  magit-20210227.1342/dir
-  magit-20210227.1342/git-rebase.el
-  magit-20210227.1342/magit-apply.el
-  magit-20210227.1342/magit-autorevert.el
-  magit-20210227.1342/magit-bisect.el
-  magit-20210227.1342/magit-blame.el
-  magit-20210227.1342/magit-bookmark.el
-  magit-20210227.1342/magit-branch.el
-  magit-20210227.1342/magit-clone.el
-  magit-20210227.1342/magit-commit.el
-  magit-20210227.1342/magit-core.el
-  magit-20210227.1342/magit-diff.el
-  magit-20210227.1342/magit-ediff.el
-  magit-20210227.1342/magit-extras.el
-  magit-20210227.1342/magit-fetch.el
-  magit-20210227.1342/magit-files.el
-  magit-20210227.1342/magit-git.el
-  magit-20210227.1342/magit-gitignore.el
-  magit-20210227.1342/magit-imenu.el
-  magit-20210227.1342/magit-log.el
-  magit-20210227.1342/magit-margin.el
-  magit-20210227.1342/magit-merge.el
-  magit-20210227.1342/magit-mode.el
-  magit-20210227.1342/magit-notes.el
-  magit-20210227.1342/magit-obsolete.el
-  magit-20210227.1342/magit-patch.el
-  magit-20210227.1342/magit-pkg.el
-  magit-20210227.1342/magit-process.el
-  magit-20210227.1342/magit-pull.el
-  magit-20210227.1342/magit-push.el
-  magit-20210227.1342/magit-reflog.el
-  magit-20210227.1342/magit-refs.el
-  magit-20210227.1342/magit-remote.el
-  magit-20210227.1342/magit-repos.el
-  magit-20210227.1342/magit-reset.el
-  magit-20210227.1342/magit-section.el
-  magit-20210227.1342/magit-sequence.el
-  magit-20210227.1342/magit-stash.el
-  magit-20210227.1342/magit-status.el
-  magit-20210227.1342/magit-submodule.el
-  magit-20210227.1342/magit-subtree.el
-  magit-20210227.1342/magit-tag.el
-  magit-20210227.1342/magit-transient.el
-  magit-20210227.1342/magit-utils.el
-  magit-20210227.1342/magit-wip.el
-  magit-20210227.1342/magit-worktree.el
-  magit-20210227.1342/magit.el
-  magit-20210227.1342/magit.info
-  magit-20210227.1342/magit.info-1
-  magit-20210227.1342/magit.info-2
-Built magit in 3.472s, finished at Sat Feb 27 07:48:09 2021
+Created /tmp/magitbUMW0r/magit-20210312.1012/magit.info
+Created magit-20210312.1012.tar containing:
+  magit-20210312.1012/
+  magit-20210312.1012/AUTHORS.md
+  magit-20210312.1012/LICENSE
+  magit-20210312.1012/dir
+  magit-20210312.1012/git-rebase.el
+  magit-20210312.1012/magit-apply.el
+  magit-20210312.1012/magit-autorevert.el
+  magit-20210312.1012/magit-bisect.el
+  magit-20210312.1012/magit-blame.el
+  magit-20210312.1012/magit-bookmark.el
+  magit-20210312.1012/magit-branch.el
+  magit-20210312.1012/magit-clone.el
+  magit-20210312.1012/magit-commit.el
+  magit-20210312.1012/magit-core.el
+  magit-20210312.1012/magit-diff.el
+  magit-20210312.1012/magit-ediff.el
+  magit-20210312.1012/magit-extras.el
+  magit-20210312.1012/magit-fetch.el
+  magit-20210312.1012/magit-files.el
+  magit-20210312.1012/magit-git.el
+  magit-20210312.1012/magit-gitignore.el
+  magit-20210312.1012/magit-imenu.el
+  magit-20210312.1012/magit-log.el
+  magit-20210312.1012/magit-margin.el
+  magit-20210312.1012/magit-merge.el
+  magit-20210312.1012/magit-mode.el
+  magit-20210312.1012/magit-notes.el
+  magit-20210312.1012/magit-obsolete.el
+  magit-20210312.1012/magit-patch.el
+  magit-20210312.1012/magit-pkg.el
+  magit-20210312.1012/magit-process.el
+  magit-20210312.1012/magit-pull.el
+  magit-20210312.1012/magit-push.el
+  magit-20210312.1012/magit-reflog.el
+  magit-20210312.1012/magit-refs.el
+  magit-20210312.1012/magit-remote.el
+  magit-20210312.1012/magit-repos.el
+  magit-20210312.1012/magit-reset.el
+  magit-20210312.1012/magit-section.el
+  magit-20210312.1012/magit-sequence.el
+  magit-20210312.1012/magit-stash.el
+  magit-20210312.1012/magit-status.el
+  magit-20210312.1012/magit-submodule.el
+  magit-20210312.1012/magit-subtree.el
+  magit-20210312.1012/magit-tag.el
+  magit-20210312.1012/magit-transient.el
+  magit-20210312.1012/magit-utils.el
+  magit-20210312.1012/magit-wip.el
+  magit-20210312.1012/magit-worktree.el
+  magit-20210312.1012/magit.el
+  magit-20210312.1012/magit.info
+  magit-20210312.1012/magit.info-1
+  magit-20210312.1012/magit.info-2
+Built magit in 2.407s, finished at Fri Mar 12 19:33:08 2021
  ✓ Success:
-4.0K -rw-rw-r-- 1 kimr kimr  312 Dec 19 20:46 packages/magit-20201218.1819.entry
-1.7M -rw-rw-r-- 1 kimr kimr 1.7M Dec 19 20:46 packages/magit-20201218.1819.tar
 4.0K -rw-rw-r-- 1 kimr kimr  457 Feb 27 07:48 packages/magit-20210227.1342.entry
 1.8M -rw-rw-r-- 1 kimr kimr 1.8M Feb 27 07:48 packages/magit-20210227.1342.tar
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K Feb 27 07:48 packages/magit-badge.svg
- 24K -rw-rw-r-- 1 kimr kimr  21K Dec  6 19:54 packages/magit-gitflow-20170929.824.el
-4.0K -rw-rw-r-- 1 kimr kimr  355 Dec  6 19:54 packages/magit-gitflow-20170929.824.entry
-4.0K -rw-rw-r-- 1 kimr kimr  162 Dec  6 19:54 packages/magit-gitflow-readme.txt
-4.0K -rw-rw-r-- 1 kimr kimr  349 Dec  6 19:54 packages/magit-popup-20200719.1015.entry
- 92K -rw-rw-r-- 1 kimr kimr  90K Dec  6 19:54 packages/magit-popup-20200719.1015.tar
-4.0K -rw-rw-r-- 1 kimr kimr  343 Dec  6 19:54 packages/magit-popup-readme.txt
-4.0K -rw-rw-r-- 1 kimr kimr  470 Feb 27 07:48 packages/magit-readme.txt
-4.0K -rw-rw-r-- 1 kimr kimr  333 Dec 19 20:46 packages/magit-section-20201201.1702.entry
- 92K -rw-rw-r-- 1 kimr kimr  90K Dec 19 20:46 packages/magit-section-20201201.1702.tar
-4.0K -rw-rw-r-- 1 kimr kimr  255 Dec 19 20:46 packages/magit-section-readme.txt
- 16K -rw-rw-r-- 1 kimr kimr  13K Dec  6 19:54 packages/magit-svn-20190821.1455.el
-4.0K -rw-rw-r-- 1 kimr kimr  298 Dec  6 19:54 packages/magit-svn-20190821.1455.entry
-4.0K -rw-rw-r-- 1 kimr kimr 1.1K Dec  6 19:54 packages/magit-svn-readme.txt
+4.0K -rw-rw-r-- 1 kimr kimr  457 Mar 12 19:33 packages/magit-20210312.1012.entry
+1.8M -rw-rw-r-- 1 kimr kimr 1.8M Mar 12 19:33 packages/magit-20210312.1012.tar
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Mar 12 19:33 packages/magit-badge.svg
+ 24K -rw-rw-r-- 1 kimr kimr  21K Feb 27 07:48 packages/magit-gitflow-20170929.824.el
+4.0K -rw-rw-r-- 1 kimr kimr  395 Feb 27 07:48 packages/magit-gitflow-20170929.824.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Feb 27 07:48 packages/magit-gitflow-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr  567 Feb 27 07:48 packages/magit-gitflow.log
+4.0K -rw-rw-r-- 1 kimr kimr  163 Feb 27 07:48 packages/magit-gitflow-readme.txt
+4.0K -rw-rw-r-- 1 kimr kimr  421 Feb 27 07:48 packages/magit-popup-20200719.1015.entry
+ 92K -rw-rw-r-- 1 kimr kimr  90K Feb 27 07:48 packages/magit-popup-20200719.1015.tar
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Feb 27 07:48 packages/magit-popup-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr 1.1K Feb 27 07:48 packages/magit-popup.log
+4.0K -rw-rw-r-- 1 kimr kimr  343 Feb 27 07:48 packages/magit-popup-readme.txt
+4.0K -rw-rw-r-- 1 kimr kimr  470 Mar 12 19:33 packages/magit-readme.txt
+4.0K -rw-rw-r-- 1 kimr kimr  373 Feb 27 07:48 packages/magit-section-20210224.1417.entry
+100K -rw-rw-r-- 1 kimr kimr 100K Feb 27 07:48 packages/magit-section-20210224.1417.tar
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Feb 27 07:48 packages/magit-section-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr 1.4K Feb 27 07:48 packages/magit-section.log
+4.0K -rw-rw-r-- 1 kimr kimr  255 Feb 27 07:48 packages/magit-section-readme.txt
+ 16K -rw-rw-r-- 1 kimr kimr  13K Feb 27 07:48 packages/magit-svn-20190821.1455.el
+4.0K -rw-rw-r-- 1 kimr kimr  361 Feb 27 07:48 packages/magit-svn-20190821.1455.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Feb 27 07:48 packages/magit-svn-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr  543 Feb 27 07:48 packages/magit-svn.log
+4.0K -rw-rw-r-- 1 kimr kimr 1.1K Feb 27 07:48 packages/magit-svn-readme.txt

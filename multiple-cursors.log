@@ -5,7 +5,7 @@ Source:  https://github.com/magnars/multiple-cursors.el.git
 Updating /home/kimr/repos/my/melpa/working/multiple-cursors/
 Copying files (->) and directories (=>)
   from /home/kimr/repos/my/melpa/working/multiple-cursors/
-  to /tmp/multiple-cursors0TbfzX/multiple-cursors-20201215.1559
+  to /tmp/multiple-cursorsrxLDdT/multiple-cursors-20201215.1559
     mc-cycle-cursors.el -> mc-cycle-cursors.el
     mc-edit-lines.el -> mc-edit-lines.el
     mc-hide-unmatched-lines-mode.el -> mc-hide-unmatched-lines-mode.el
@@ -28,9 +28,9 @@ Created multiple-cursors-20201215.1559.tar containing:
   multiple-cursors-20201215.1559/multiple-cursors-pkg.el
   multiple-cursors-20201215.1559/multiple-cursors.el
   multiple-cursors-20201215.1559/rectangular-region-mode.el
-Built multiple-cursors in 1.100s, finished at Sat Feb 27 07:48:28 2021
+Built multiple-cursors in 1.090s, finished at Fri Mar 12 19:33:23 2021
  ✓ Success:
-4.0K -rw-rw-r-- 1 kimr kimr  331 Feb 27 07:48 packages/multiple-cursors-20201215.1559.entry
-112K -rw-rw-r-- 1 kimr kimr 110K Feb 27 07:48 packages/multiple-cursors-20201215.1559.tar
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K Feb 27 07:48 packages/multiple-cursors-badge.svg
-8.0K -rw-rw-r-- 1 kimr kimr 7.3K Feb 27 07:48 packages/multiple-cursors-readme.txt
+4.0K -rw-rw-r-- 1 kimr kimr  331 Mar 12 19:33 packages/multiple-cursors-20201215.1559.entry
+112K -rw-rw-r-- 1 kimr kimr 110K Mar 12 19:33 packages/multiple-cursors-20201215.1559.tar
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Mar 12 19:33 packages/multiple-cursors-badge.svg
+8.0K -rw-rw-r-- 1 kimr kimr 7.3K Mar 12 19:33 packages/multiple-cursors-readme.txt

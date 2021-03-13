@@ -3,11 +3,9 @@ Fetcher: github
 Source:  https://github.com/jerrypnz/major-mode-hydra.el.git
 
 Updating /home/kimr/repos/my/melpa/working/pretty-hydra/
-Built pretty-hydra in 1.643s, finished at Sat Feb 27 07:50:04 2021
+Built pretty-hydra in 0.911s, finished at Fri Mar 12 19:34:58 2021
  ✓ Success:
- 20K -rw-rw-r-- 1 kimr kimr  18K Dec  6 19:55 packages/pretty-hydra-20190930.2106.el
-4.0K -rw-rw-r-- 1 kimr kimr  388 Dec  6 19:55 packages/pretty-hydra-20190930.2106.entry
- 20K -rw-rw-r-- 1 kimr kimr  18K Feb 27 07:50 packages/pretty-hydra-20210221.834.el
-4.0K -rw-rw-r-- 1 kimr kimr  418 Feb 27 07:50 packages/pretty-hydra-20210221.834.entry
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K Feb 27 07:50 packages/pretty-hydra-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr  100 Feb 27 07:50 packages/pretty-hydra-readme.txt
+ 20K -rw-rw-r-- 1 kimr kimr  18K Mar 12 19:34 packages/pretty-hydra-20210221.834.el
+4.0K -rw-rw-r-- 1 kimr kimr  418 Mar 12 19:34 packages/pretty-hydra-20210221.834.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Mar 12 19:34 packages/pretty-hydra-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr  100 Mar 12 19:34 packages/pretty-hydra-readme.txt

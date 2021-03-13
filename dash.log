@@ -5,30 +5,36 @@ Source:  https://github.com/magnars/dash.el.git
 Updating /home/kimr/repos/my/melpa/working/dash/
 Copying files (->) and directories (=>)
   from /home/kimr/repos/my/melpa/working/dash/
-  to /tmp/dash1YXuYn/dash-20210210.1449
+  to /tmp/dashE8y2dd/dash-20210308.2109
     dash.el -> dash.el
     dash.texi -> dash.texi
-Created /tmp/dash1YXuYn/dash-20210210.1449/dash.info
-Created dash-20210210.1449.tar containing:
-  dash-20210210.1449/
-  dash-20210210.1449/dash-pkg.el
-  dash-20210210.1449/dash.el
-  dash-20210210.1449/dash.info
-  dash-20210210.1449/dir
-Built dash in 1.901s, finished at Sat Feb 27 07:42:46 2021
+Created /tmp/dashE8y2dd/dash-20210308.2109/dash.info
+Created dash-20210308.2109.tar containing:
+  dash-20210308.2109/
+  dash-20210308.2109/dash-pkg.el
+  dash-20210308.2109/dash.el
+  dash-20210308.2109/dash.info
+  dash-20210308.2109/dir
+Built dash in 1.873s, finished at Fri Mar 12 19:28:44 2021
  ✓ Success:
-4.0K -rw-rw-r-- 1 kimr kimr  258 Dec 19 20:46 packages/dash-20201215.59.entry
-232K -rw-rw-r-- 1 kimr kimr 230K Dec 19 20:46 packages/dash-20201215.59.tar
 4.0K -rw-rw-r-- 1 kimr kimr  351 Feb 27 07:42 packages/dash-20210210.1449.entry
 312K -rw-rw-r-- 1 kimr kimr 310K Feb 27 07:42 packages/dash-20210210.1449.tar
- 12K -rw-rw-r-- 1 kimr kimr 9.9K Dec  6 19:52 packages/dash-at-point-20180710.1356.el
-4.0K -rw-rw-r-- 1 kimr kimr  309 Dec  6 19:52 packages/dash-at-point-20180710.1356.entry
-4.0K -rw-rw-r-- 1 kimr kimr 1.1K Dec  6 19:52 packages/dash-at-point-readme.txt
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K Feb 27 07:42 packages/dash-badge.svg
- 28K -rw-rw-r-- 1 kimr kimr  26K Dec  6 19:52 packages/dash-docs-20200516.1943.el
-4.0K -rw-rw-r-- 1 kimr kimr  442 Dec  6 19:52 packages/dash-docs-20200516.1943.entry
-4.0K -rw-rw-r-- 1 kimr kimr  142 Dec  6 19:52 packages/dash-docs-readme.txt
-8.0K -rw-rw-r-- 1 kimr kimr 7.8K Dec 19 20:46 packages/dash-functional-20201215.40.el
-4.0K -rw-rw-r-- 1 kimr kimr  213 Dec 19 20:46 packages/dash-functional-20201215.40.entry
-4.0K -rw-rw-r-- 1 kimr kimr  115 Dec 19 20:46 packages/dash-functional-readme.txt
-4.0K -rw-rw-r-- 1 kimr kimr   96 Feb 27 07:42 packages/dash-readme.txt
+4.0K -rw-rw-r-- 1 kimr kimr  351 Mar 12 19:28 packages/dash-20210308.2109.entry
+312K -rw-rw-r-- 1 kimr kimr 310K Mar 12 19:28 packages/dash-20210308.2109.tar
+ 12K -rw-rw-r-- 1 kimr kimr 9.9K Feb 27 07:42 packages/dash-at-point-20180710.1356.el
+4.0K -rw-rw-r-- 1 kimr kimr  333 Feb 27 07:42 packages/dash-at-point-20180710.1356.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Feb 27 07:42 packages/dash-at-point-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr  568 Feb 27 07:42 packages/dash-at-point.log
+4.0K -rw-rw-r-- 1 kimr kimr 1.1K Feb 27 07:42 packages/dash-at-point-readme.txt
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Mar 12 19:28 packages/dash-badge.svg
+ 28K -rw-rw-r-- 1 kimr kimr  26K Feb 27 07:42 packages/dash-docs-20200516.1943.el
+4.0K -rw-rw-r-- 1 kimr kimr  538 Feb 27 07:42 packages/dash-docs-20200516.1943.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Feb 27 07:42 packages/dash-docs-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr  541 Feb 27 07:42 packages/dash-docs.log
+4.0K -rw-rw-r-- 1 kimr kimr  143 Feb 27 07:42 packages/dash-docs-readme.txt
+4.0K -rw-rw-r-- 1 kimr kimr 2.1K Feb 27 07:42 packages/dash-functional-20210210.1449.el
+4.0K -rw-rw-r-- 1 kimr kimr  451 Feb 27 07:42 packages/dash-functional-20210210.1449.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Feb 27 07:42 packages/dash-functional-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr  751 Feb 27 07:42 packages/dash-functional.log
+4.0K -rw-rw-r-- 1 kimr kimr  614 Feb 27 07:42 packages/dash-functional-readme.txt
+4.0K -rw-rw-r-- 1 kimr kimr   96 Mar 12 19:28 packages/dash-readme.txt

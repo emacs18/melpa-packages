@@ -3,11 +3,9 @@ Fetcher: gitlab
 Source:  https://gitlab.com/xuhdev/dired-quick-sort.git
 
 Updating /home/kimr/repos/my/melpa/working/dired-quick-sort/
-Built dired-quick-sort in 1.162s, finished at Sat Feb 27 07:42:59 2021
+Built dired-quick-sort in 1.114s, finished at Fri Mar 12 19:29:00 2021
  ✓ Success:
- 12K -rw-rw-r-- 1 kimr kimr 9.7K Dec  6 19:52 packages/dired-quick-sort-20201128.116.el
-4.0K -rw-rw-r-- 1 kimr kimr  388 Dec  6 19:52 packages/dired-quick-sort-20201128.116.entry
- 12K -rw-rw-r-- 1 kimr kimr  11K Feb 27 07:42 packages/dired-quick-sort-20201221.403.el
-4.0K -rw-rw-r-- 1 kimr kimr  457 Feb 27 07:42 packages/dired-quick-sort-20201221.403.entry
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K Feb 27 07:42 packages/dired-quick-sort-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr 1.3K Feb 27 07:42 packages/dired-quick-sort-readme.txt
+ 12K -rw-rw-r-- 1 kimr kimr  11K Mar 12 19:29 packages/dired-quick-sort-20201221.403.el
+4.0K -rw-rw-r-- 1 kimr kimr  457 Mar 12 19:29 packages/dired-quick-sort-20201221.403.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Mar 12 19:29 packages/dired-quick-sort-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr 1.3K Mar 12 19:29 packages/dired-quick-sort-readme.txt

@@ -5,7 +5,7 @@ Source:  https://github.com/AndreaCrotti/yasnippet-snippets.git
 Updating /home/kimr/repos/my/melpa/working/yasnippet-snippets/
 Copying files (->) and directories (=>)
   from /home/kimr/repos/my/melpa/working/yasnippet-snippets/
-  to /tmp/yasnippet-snippetsyrIxd6/yasnippet-snippets-20210105.1346
+  to /tmp/yasnippet-snippetskM0885/yasnippet-snippets-20210105.1346
     yasnippet-snippets.el -> yasnippet-snippets.el
     snippets => snippets
 Created yasnippet-snippets-20210105.1346.tar containing:
@@ -2146,11 +2146,9 @@ Created yasnippet-snippets-20210105.1346.tar containing:
   yasnippet-snippets-20210105.1346/snippets/yaml-mode/section
   yasnippet-snippets-20210105.1346/yasnippet-snippets-pkg.el
   yasnippet-snippets-20210105.1346/yasnippet-snippets.el
-Built yasnippet-snippets in 2.929s, finished at Sat Feb 27 07:51:58 2021
+Built yasnippet-snippets in 2.114s, finished at Fri Mar 12 19:36:53 2021
  ✓ Success:
-4.0K -rw-rw-r-- 1 kimr kimr  364 Dec 19 20:47 packages/yasnippet-snippets-20201214.1054.entry
-2.3M -rw-rw-r-- 1 kimr kimr 2.3M Dec 19 20:47 packages/yasnippet-snippets-20201214.1054.tar
-4.0K -rw-rw-r-- 1 kimr kimr  440 Feb 27 07:51 packages/yasnippet-snippets-20210105.1346.entry
-2.3M -rw-rw-r-- 1 kimr kimr 2.3M Feb 27 07:51 packages/yasnippet-snippets-20210105.1346.tar
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K Feb 27 07:51 packages/yasnippet-snippets-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr   55 Feb 27 07:51 packages/yasnippet-snippets-readme.txt
+4.0K -rw-rw-r-- 1 kimr kimr  440 Mar 12 19:36 packages/yasnippet-snippets-20210105.1346.entry
+2.3M -rw-rw-r-- 1 kimr kimr 2.3M Mar 12 19:36 packages/yasnippet-snippets-20210105.1346.tar
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Mar 12 19:36 packages/yasnippet-snippets-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr   55 Mar 12 19:36 packages/yasnippet-snippets-readme.txt

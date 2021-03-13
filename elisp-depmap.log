@@ -5,7 +5,7 @@ Source:  https://gitlab.com/mtekman/elisp-depmap.el.git
 Updating /home/kimr/repos/my/melpa/working/elisp-depmap/
 Copying files (->) and directories (=>)
   from /home/kimr/repos/my/melpa/working/elisp-depmap/
-  to /tmp/elisp-depmapLHkgs2/elisp-depmap-20200714.1630
+  to /tmp/elisp-depmapDhX08U/elisp-depmap-20200714.1630
     elisp-depmap-exec.el -> elisp-depmap-exec.el
     elisp-depmap-graph.el -> elisp-depmap-graph.el
     elisp-depmap-parse.el -> elisp-depmap-parse.el
@@ -19,9 +19,9 @@ Created elisp-depmap-20200714.1630.tar containing:
   elisp-depmap-20200714.1630/elisp-depmap-pkg.el
   elisp-depmap-20200714.1630/elisp-depmap-secondhelp.el
   elisp-depmap-20200714.1630/elisp-depmap.el
-Built elisp-depmap in 1.460s, finished at Sat Feb 27 07:43:13 2021
+Built elisp-depmap in 1.064s, finished at Fri Mar 12 19:29:10 2021
  ✓ Success:
-4.0K -rw-rw-r-- 1 kimr kimr  362 Feb 27 07:43 packages/elisp-depmap-20200714.1630.entry
- 40K -rw-rw-r-- 1 kimr kimr  40K Feb 27 07:43 packages/elisp-depmap-20200714.1630.tar
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K Feb 27 07:43 packages/elisp-depmap-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr  194 Feb 27 07:43 packages/elisp-depmap-readme.txt
+4.0K -rw-rw-r-- 1 kimr kimr  362 Mar 12 19:29 packages/elisp-depmap-20200714.1630.entry
+ 40K -rw-rw-r-- 1 kimr kimr  40K Mar 12 19:29 packages/elisp-depmap-20200714.1630.tar
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Mar 12 19:29 packages/elisp-depmap-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr  194 Mar 12 19:29 packages/elisp-depmap-readme.txt

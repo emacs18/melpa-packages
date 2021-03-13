@@ -3,9 +3,9 @@ Fetcher: github
 Source:  https://github.com/SavchenkoValeriy/emacs-clang-format-plus.git
 
 Updating /home/kimr/repos/my/melpa/working/clang-format+/
-Built clang-format+ in 1.299s, finished at Sat Feb 27 07:42:00 2021
+Built clang-format+ in 1.090s, finished at Fri Mar 12 19:28:00 2021
  ✓ Success:
- 12K -rw-rw-r-- 1 kimr kimr  11K Feb 27 07:41 packages/clang-format+-20190824.2216.el
-4.0K -rw-rw-r-- 1 kimr kimr  339 Feb 27 07:41 packages/clang-format+-20190824.2216.entry
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K Feb 27 07:42 packages/clang-format+-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr  162 Feb 27 07:41 packages/clang-format+-readme.txt
+ 12K -rw-rw-r-- 1 kimr kimr  11K Mar 12 19:27 packages/clang-format+-20190824.2216.el
+4.0K -rw-rw-r-- 1 kimr kimr  339 Mar 12 19:27 packages/clang-format+-20190824.2216.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Mar 12 19:28 packages/clang-format+-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr  162 Mar 12 19:27 packages/clang-format+-readme.txt

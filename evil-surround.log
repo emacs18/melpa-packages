@@ -3,9 +3,9 @@ Fetcher: github
 Source:  https://github.com/emacs-evil/evil-surround.git
 
 Updating /home/kimr/repos/my/melpa/working/evil-surround/
-Built evil-surround in 1.073s, finished at Sat Feb 27 07:44:14 2021
+Built evil-surround in 1.092s, finished at Fri Mar 12 19:29:54 2021
  ✓ Success:
- 20K -rw-rw-r-- 1 kimr kimr  18K Feb 27 07:44 packages/evil-surround-20200603.2216.el
-4.0K -rw-rw-r-- 1 kimr kimr  382 Feb 27 07:44 packages/evil-surround-20200603.2216.entry
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K Feb 27 07:44 packages/evil-surround-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr  449 Feb 27 07:44 packages/evil-surround-readme.txt
+ 20K -rw-rw-r-- 1 kimr kimr  18K Mar 12 19:29 packages/evil-surround-20200603.2216.el
+4.0K -rw-rw-r-- 1 kimr kimr  382 Mar 12 19:29 packages/evil-surround-20200603.2216.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Mar 12 19:29 packages/evil-surround-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr  449 Mar 12 19:29 packages/evil-surround-readme.txt

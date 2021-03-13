@@ -5,16 +5,16 @@ Source:  https://github.com/ardumont/markdown-toc.git
 Updating /home/kimr/repos/my/melpa/working/markdown-toc/
 Copying files (->) and directories (=>)
   from /home/kimr/repos/my/melpa/working/markdown-toc/
-  to /tmp/markdown-tocjiBD7B/markdown-toc-20200517.1233
+  to /tmp/markdown-tocFYEpld/markdown-toc-20200517.1233
     markdown-toc-pkg.el -> markdown-toc-pkg.el
     markdown-toc.el -> markdown-toc.el
 Created markdown-toc-20200517.1233.tar containing:
   markdown-toc-20200517.1233/
   markdown-toc-20200517.1233/markdown-toc-pkg.el
   markdown-toc-20200517.1233/markdown-toc.el
-Built markdown-toc in 1.085s, finished at Sat Feb 27 07:48:21 2021
+Built markdown-toc in 0.916s, finished at Fri Mar 12 19:33:17 2021
  ✓ Success:
-4.0K -rw-rw-r-- 1 kimr kimr  437 Feb 27 07:48 packages/markdown-toc-20200517.1233.entry
- 20K -rw-rw-r-- 1 kimr kimr  20K Feb 27 07:48 packages/markdown-toc-20200517.1233.tar
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K Feb 27 07:48 packages/markdown-toc-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr  904 Feb 27 07:48 packages/markdown-toc-readme.txt
+4.0K -rw-rw-r-- 1 kimr kimr  437 Mar 12 19:33 packages/markdown-toc-20200517.1233.entry
+ 20K -rw-rw-r-- 1 kimr kimr  20K Mar 12 19:33 packages/markdown-toc-20200517.1233.tar
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Mar 12 19:33 packages/markdown-toc-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr  904 Mar 12 19:33 packages/markdown-toc-readme.txt

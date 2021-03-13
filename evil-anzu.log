@@ -3,9 +3,9 @@ Fetcher: github
 Source:  https://github.com/emacsorphanage/evil-anzu.git
 
 Updating /home/kimr/repos/my/melpa/working/evil-anzu/
-Built evil-anzu in 2.470s, finished at Sat Feb 27 07:43:43 2021
+Built evil-anzu in 0.876s, finished at Fri Mar 12 19:29:30 2021
  ✓ Success:
-4.0K -rw-rw-r-- 1 kimr kimr 2.8K Feb 27 07:43 packages/evil-anzu-20200514.1902.el
-4.0K -rw-rw-r-- 1 kimr kimr  420 Feb 27 07:43 packages/evil-anzu-20200514.1902.entry
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K Feb 27 07:43 packages/evil-anzu-badge.svg
-   0 -rw-rw-r-- 1 kimr kimr    0 Feb 27 07:43 packages/evil-anzu-readme.txt
+4.0K -rw-rw-r-- 1 kimr kimr 2.8K Mar 12 19:29 packages/evil-anzu-20200514.1902.el
+4.0K -rw-rw-r-- 1 kimr kimr  420 Mar 12 19:29 packages/evil-anzu-20200514.1902.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Mar 12 19:29 packages/evil-anzu-badge.svg
+   0 -rw-rw-r-- 1 kimr kimr    0 Mar 12 19:29 packages/evil-anzu-readme.txt

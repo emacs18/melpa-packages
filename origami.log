@@ -5,7 +5,7 @@ Source:  https://github.com/gregsexton/origami.el.git
 Updating /home/kimr/repos/my/melpa/working/origami/
 Copying files (->) and directories (=>)
   from /home/kimr/repos/my/melpa/working/origami/
-  to /tmp/origamiULMtki/origami-20200331.1019
+  to /tmp/origami9oSdqM/origami-20200331.1019
     origami-parsers.el -> origami-parsers.el
     origami.el -> origami.el
 Created origami-20200331.1019.tar containing:
@@ -13,9 +13,9 @@ Created origami-20200331.1019.tar containing:
   origami-20200331.1019/origami-parsers.el
   origami-20200331.1019/origami-pkg.el
   origami-20200331.1019/origami.el
-Built origami in 1.699s, finished at Sat Feb 27 07:49:08 2021
+Built origami in 0.464s, finished at Fri Mar 12 19:33:55 2021
  ✓ Success:
-4.0K -rw-rw-r-- 1 kimr kimr  415 Feb 27 07:49 packages/origami-20200331.1019.entry
- 60K -rw-rw-r-- 1 kimr kimr  60K Feb 27 07:49 packages/origami-20200331.1019.tar
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K Feb 27 07:49 packages/origami-badge.svg
-   0 -rw-rw-r-- 1 kimr kimr    0 Feb 27 07:49 packages/origami-readme.txt
+4.0K -rw-rw-r-- 1 kimr kimr  415 Mar 12 19:33 packages/origami-20200331.1019.entry
+ 60K -rw-rw-r-- 1 kimr kimr  60K Mar 12 19:33 packages/origami-20200331.1019.tar
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Mar 12 19:33 packages/origami-badge.svg
+   0 -rw-rw-r-- 1 kimr kimr    0 Mar 12 19:33 packages/origami-readme.txt

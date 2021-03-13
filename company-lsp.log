@@ -1,11 +1,1 @@
-Package: company-lsp
-Fetcher: github
-Source:  https://github.com/tigersoldier/company-lsp.git
-
-Updating /home/kimr/repos/my/melpa/working/company-lsp/
-Built company-lsp in 1.294s, finished at Sat Feb 27 07:42:18 2021
- ✓ Success:
- 36K -rw-rw-r-- 1 kimr kimr  34K Feb 27 07:42 packages/company-lsp-20190612.1553.el
-4.0K -rw-rw-r-- 1 kimr kimr  353 Feb 27 07:42 packages/company-lsp-20190612.1553.entry
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K Feb 27 07:42 packages/company-lsp-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr  185 Feb 27 07:42 packages/company-lsp-readme.txt
+No such recipe: company-lsp

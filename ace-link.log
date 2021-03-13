@@ -3,11 +3,9 @@ Fetcher: github
 Source:  https://github.com/abo-abo/ace-link.git
 
 Updating /home/kimr/repos/my/melpa/working/ace-link/
-Built ace-link in 1.898s, finished at Sat Feb 27 07:41:04 2021
+Built ace-link in 0.584s, finished at Fri Mar 12 19:27:15 2021
  ✓ Success:
- 36K -rw-rw-r-- 1 kimr kimr  35K Dec  6 19:51 packages/ace-link-20200518.957.el
-4.0K -rw-rw-r-- 1 kimr kimr  324 Dec  6 19:51 packages/ace-link-20200518.957.entry
- 36K -rw-rw-r-- 1 kimr kimr  36K Feb 27 07:41 packages/ace-link-20210121.923.el
-4.0K -rw-rw-r-- 1 kimr kimr  370 Feb 27 07:41 packages/ace-link-20210121.923.entry
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K Feb 27 07:41 packages/ace-link-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr  511 Feb 27 07:41 packages/ace-link-readme.txt
+ 36K -rw-rw-r-- 1 kimr kimr  36K Mar 12 19:27 packages/ace-link-20210121.923.el
+4.0K -rw-rw-r-- 1 kimr kimr  370 Mar 12 19:27 packages/ace-link-20210121.923.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Mar 12 19:27 packages/ace-link-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr  511 Mar 12 19:27 packages/ace-link-readme.txt

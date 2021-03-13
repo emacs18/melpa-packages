@@ -5,23 +5,23 @@ Source:  https://github.com/seagle0128/doom-modeline.git
 Updating /home/kimr/repos/my/melpa/working/doom-modeline/
 Copying files (->) and directories (=>)
   from /home/kimr/repos/my/melpa/working/doom-modeline/
-  to /tmp/doom-modelinekLIAml/doom-modeline-20210223.941
+  to /tmp/doom-modelineH9Swzz/doom-modeline-20210308.1212
     doom-modeline-core.el -> doom-modeline-core.el
     doom-modeline-env.el -> doom-modeline-env.el
     doom-modeline-segments.el -> doom-modeline-segments.el
     doom-modeline.el -> doom-modeline.el
-Created doom-modeline-20210223.941.tar containing:
-  doom-modeline-20210223.941/
-  doom-modeline-20210223.941/doom-modeline-core.el
-  doom-modeline-20210223.941/doom-modeline-env.el
-  doom-modeline-20210223.941/doom-modeline-pkg.el
-  doom-modeline-20210223.941/doom-modeline-segments.el
-  doom-modeline-20210223.941/doom-modeline.el
-Built doom-modeline in 1.147s, finished at Sat Feb 27 07:43:01 2021
+Created doom-modeline-20210308.1212.tar containing:
+  doom-modeline-20210308.1212/
+  doom-modeline-20210308.1212/doom-modeline-core.el
+  doom-modeline-20210308.1212/doom-modeline-env.el
+  doom-modeline-20210308.1212/doom-modeline-pkg.el
+  doom-modeline-20210308.1212/doom-modeline-segments.el
+  doom-modeline-20210308.1212/doom-modeline.el
+Built doom-modeline in 0.777s, finished at Fri Mar 12 19:29:02 2021
  ✓ Success:
-4.0K -rw-rw-r-- 1 kimr kimr  406 Dec 19 20:46 packages/doom-modeline-20201212.1823.entry
-200K -rw-rw-r-- 1 kimr kimr 200K Dec 19 20:46 packages/doom-modeline-20201212.1823.tar
 4.0K -rw-rw-r-- 1 kimr kimr  459 Feb 27 07:43 packages/doom-modeline-20210223.941.entry
 200K -rw-rw-r-- 1 kimr kimr 200K Feb 27 07:43 packages/doom-modeline-20210223.941.tar
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K Feb 27 07:43 packages/doom-modeline-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr 2.0K Feb 27 07:43 packages/doom-modeline-readme.txt
+4.0K -rw-rw-r-- 1 kimr kimr  460 Mar 12 19:29 packages/doom-modeline-20210308.1212.entry
+200K -rw-rw-r-- 1 kimr kimr 200K Mar 12 19:29 packages/doom-modeline-20210308.1212.tar
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Mar 12 19:29 packages/doom-modeline-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr 2.0K Mar 12 19:29 packages/doom-modeline-readme.txt

@@ -3,9 +3,9 @@ Fetcher: github
 Source:  https://github.com/abo-abo/ace-window.git
 
 Updating /home/kimr/repos/my/melpa/working/ace-window/
-Built ace-window in 1.713s, finished at Sat Feb 27 07:41:06 2021
+Built ace-window in 0.607s, finished at Fri Mar 12 19:27:16 2021
  ✓ Success:
- 36K -rw-rw-r-- 1 kimr kimr  35K Feb 27 07:41 packages/ace-window-20200606.1259.el
-4.0K -rw-rw-r-- 1 kimr kimr  390 Feb 27 07:41 packages/ace-window-20200606.1259.entry
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K Feb 27 07:41 packages/ace-window-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr 1.3K Feb 27 07:41 packages/ace-window-readme.txt
+ 36K -rw-rw-r-- 1 kimr kimr  35K Mar 12 19:27 packages/ace-window-20200606.1259.el
+4.0K -rw-rw-r-- 1 kimr kimr  390 Mar 12 19:27 packages/ace-window-20200606.1259.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Mar 12 19:27 packages/ace-window-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr 1.3K Mar 12 19:27 packages/ace-window-readme.txt

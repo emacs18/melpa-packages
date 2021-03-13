@@ -5,7 +5,7 @@ Source:  /u/kimr/repos/my/rklisp
 Updating /home/kimr/repos/my/melpa/working/rklisp/
 Copying files (->) and directories (=>)
   from /home/kimr/repos/my/melpa/working/rklisp/
-  to /tmp/rklispnuFIWW/rklisp-20210216.704
+  to /tmp/rklispzxPrAt/rklisp-20210216.704
     kimr-edit-utils.el -> kimr-edit-utils.el
     kimr-frames.el -> kimr-frames.el
     kimr-gnus.el -> kimr-gnus.el

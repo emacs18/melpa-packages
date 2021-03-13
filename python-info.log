@@ -5,7 +5,7 @@ Source:  https://github.com/Wilfred/python-info.git
 Updating /home/kimr/repos/my/melpa/working/python-info/
 Copying files (->) and directories (=>)
   from /home/kimr/repos/my/melpa/working/python-info/
-  to /tmp/python-info8GibVg/python-info-20151228.1852
+  to /tmp/python-infoo78deh/python-info-20151228.1852
     python-info.el -> python-info.el
     python.info -> python.info
     python.texi -> python.texi
@@ -15,9 +15,9 @@ Created python-info-20151228.1852.tar containing:
   python-info-20151228.1852/python-info-pkg.el
   python-info-20151228.1852/python-info.el
   python-info-20151228.1852/python.info
-Built python-info in 1.428s, finished at Sat Feb 27 07:50:15 2021
+Built python-info in 3.336s, finished at Fri Mar 12 19:35:20 2021
  ✓ Success:
-4.0K -rw-rw-r-- 1 kimr kimr  150 Feb 27 07:50 packages/python-info-20151228.1852.entry
- 11M -rw-rw-r-- 1 kimr kimr  11M Feb 27 07:50 packages/python-info-20151228.1852.tar
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K Feb 27 07:50 packages/python-info-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr  160 Feb 27 07:50 packages/python-info-readme.txt
+4.0K -rw-rw-r-- 1 kimr kimr  150 Mar 12 19:35 packages/python-info-20151228.1852.entry
+ 11M -rw-rw-r-- 1 kimr kimr  11M Mar 12 19:35 packages/python-info-20151228.1852.tar
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Mar 12 19:35 packages/python-info-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr  160 Mar 12 19:35 packages/python-info-readme.txt
