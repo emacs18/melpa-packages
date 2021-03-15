@@ -3945,6 +3945,24 @@
 	   ("Jonas Bernoulli" . "jonas@bernoul.li"))
 	  (:maintainer "Jonas Bernoulli" . "jonas@bernoul.li")
 	  (:url . "https://github.com/magit/orgit"))])
+ (orgit-forge .
+	      [(20200621 2144)
+	       ((emacs
+		 (25 1))
+		(forge
+		 (0 2 0))
+		(magit
+		 (2 90 1))
+		(org
+		 (9 3))
+		(orgit
+		 (1 6 2)))
+	       "Org links to Forge issue buffers" single
+	       ((:commit . "051d92661ef12b67ffadb231324806d87d1e6a54")
+		(:authors
+		 ("Jonas Bernoulli" . "jonas@bernoul.li"))
+		(:maintainer "Jonas Bernoulli" . "jonas@bernoul.li")
+		(:url . "https://github.com/magit/orgit-forge"))])
  (origami .
 	  [(20200331 1019)
 	   ((s
@@ -4249,6 +4267,19 @@
 	       ("Andreas Politz" . "politza@fh-trier.de"))
 	      (:maintainer "Andreas Politz" . "politza@fh-trier.de")
 	      (:keywords "files" "multimedia"))])
+ (pdf-view-restore .
+		   [(20190904 1708)
+		    ((pdf-tools
+		      (0 90))
+		     (emacs
+		      (26 0)))
+		    "Support for opening last known pdf position in pdfview mode" single
+		    ((:commit . "5a1947c01a3edecc9e0fe7629041a2f53e0610c9")
+		     (:authors
+		      ("Kevin Kim" . "kevinkim1991@gmail.com"))
+		     (:maintainer "Kevin Kim" . "kevinkim1991@gmail.com")
+		     (:keywords "files" "convenience")
+		     (:url . "https://github.com/007kevin/pdf-view-restore"))])
  (persp-mode .
 	     [(20201128 2015)
 	      ((emacs

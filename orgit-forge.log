@@ -1,0 +1,11 @@
+Package: orgit-forge
+Fetcher: github
+Source:  https://github.com/magit/orgit-forge.git
+
+Cloning https://github.com/magit/orgit-forge.git to /home/kimr/repos/my/melpa/working/orgit-forge/
+Built orgit-forge in 1.528s, finished at Mon Mar 15 09:35:52 2021
+ ✓ Success:
+4.0K -rw-rw-r-- 1 kimr kimr 3.7K Mar 15 09:35 packages/orgit-forge-20200621.2144.el
+4.0K -rw-rw-r-- 1 kimr kimr  459 Mar 15 09:35 packages/orgit-forge-20200621.2144.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Mar 15 09:35 packages/orgit-forge-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr  103 Mar 15 09:35 packages/orgit-forge-readme.txt
