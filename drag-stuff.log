@@ -1,0 +1,20 @@
+Package: drag-stuff
+Fetcher: github
+Source:  https://github.com/rejeep/drag-stuff.el.git
+
+Cloning https://github.com/rejeep/drag-stuff.el.git to /home/kimr/repos/my/melpa/working/drag-stuff/
+Copying files (->) and directories (=>)
+  from /home/kimr/repos/my/melpa/working/drag-stuff/
+  to /tmp/drag-stuffJyTsnU/drag-stuff-20161108.749
+    drag-stuff-pkg.el -> drag-stuff-pkg.el
+    drag-stuff.el -> drag-stuff.el
+Created drag-stuff-20161108.749.tar containing:
+  drag-stuff-20161108.749/
+  drag-stuff-20161108.749/drag-stuff-pkg.el
+  drag-stuff-20161108.749/drag-stuff.el
+Built drag-stuff in 1.292s, finished at Mon Mar 15 09:34:37 2021
+ ✓ Success:
+4.0K -rw-rw-r-- 1 kimr kimr  399 Mar 15 09:34 packages/drag-stuff-20161108.749.entry
+ 20K -rw-rw-r-- 1 kimr kimr  20K Mar 15 09:34 packages/drag-stuff-20161108.749.tar
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Mar 15 09:34 packages/drag-stuff-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr 1.1K Mar 15 09:34 packages/drag-stuff-readme.txt
