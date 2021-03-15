@@ -5,7 +5,7 @@ Source:  https://github.com/clojure-emacs/clj-refactor.el.git
 Updating /home/kimr/repos/my/melpa/working/clj-refactor/
 Copying files (->) and directories (=>)
   from /home/kimr/repos/my/melpa/working/clj-refactor/
-  to /tmp/clj-refactorlg0tXe/clj-refactor-20210311.1802
+  to /tmp/clj-refactorfAjm1N/clj-refactor-20210311.1802
     clj-refactor-compat.el -> clj-refactor-compat.el
     clj-refactor.el -> clj-refactor.el
     CHANGELOG.md -> CHANGELOG.md
@@ -15,11 +15,9 @@ Created clj-refactor-20210311.1802.tar containing:
   clj-refactor-20210311.1802/clj-refactor-compat.el
   clj-refactor-20210311.1802/clj-refactor-pkg.el
   clj-refactor-20210311.1802/clj-refactor.el
-Built clj-refactor in 0.768s, finished at Fri Mar 12 19:28:02 2021
+Built clj-refactor in 1.313s, finished at Mon Mar 15 09:59:04 2021
  ✓ Success:
-4.0K -rw-rw-r-- 1 kimr kimr  709 Feb 27 07:42 packages/clj-refactor-20210216.928.entry
-192K -rw-rw-r-- 1 kimr kimr 190K Feb 27 07:42 packages/clj-refactor-20210216.928.tar
-4.0K -rw-rw-r-- 1 kimr kimr  707 Mar 12 19:28 packages/clj-refactor-20210311.1802.entry
-192K -rw-rw-r-- 1 kimr kimr 190K Mar 12 19:28 packages/clj-refactor-20210311.1802.tar
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K Mar 12 19:28 packages/clj-refactor-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr   66 Mar 12 19:28 packages/clj-refactor-readme.txt
+4.0K -rw-rw-r-- 1 kimr kimr  707 Mar 15 09:59 packages/clj-refactor-20210311.1802.entry
+192K -rw-rw-r-- 1 kimr kimr 190K Mar 15 09:59 packages/clj-refactor-20210311.1802.tar
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Mar 15 09:59 packages/clj-refactor-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr   66 Mar 15 09:59 packages/clj-refactor-readme.txt

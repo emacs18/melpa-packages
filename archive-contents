@@ -128,11 +128,11 @@
 	  (:keywords "notification" "emacs" "message")
 	  (:url . "https://github.com/jwiegley/alert"))])
  (all-the-icons .
-		[(20210307 1457)
+		[(20210313 2205)
 		 ((emacs
 		   (24 3)))
 		 "A library for inserting Developer icons" tar
-		 ((:commit . "96772f87b0bd22573b9d6433e4c5e9f082616600")
+		 ((:commit . "a8c84176af7f3b97019423ebf3e02f983f4ebdf9")
 		  (:authors
 		   ("Dominic Charlesworth" . "dgc336@gmail.com"))
 		  (:maintainer "Dominic Charlesworth" . "dgc336@gmail.com")
@@ -370,7 +370,7 @@
 	(:keywords "tools")
 	(:url . "https://github.com/alezost/bui.el"))])
  (cask .
-       [(20210309 2113)
+       [(20210313 1606)
 	((emacs
 	  (24 1))
 	 (s
@@ -388,7 +388,7 @@
 	 (ansi
 	  (0 4 1)))
 	"Cask: Project management for package development" tar
-	((:commit . "afa7fd8a885ee76c9cc0dcf1425f01b98e4b2e48")
+	((:commit . "4b253d7f679027607d2b72292219638e5df048b4")
 	 (:authors
 	  ("Johan Andersson" . "johan.rejeep@gmail.com"))
 	 (:maintainer "Johan Andersson" . "johan.rejeep@gmail.com")
@@ -774,7 +774,7 @@
 	       (:keywords "deferred" "async" "concurrent")
 	       (:url . "https://github.com/kiwanami/emacs-deferred/blob/master/README-concurrent.markdown"))])
  (counsel .
-	  [(20210310 1746)
+	  [(20210313 1108)
 	   ((emacs
 	     (24 5))
 	    (ivy
@@ -782,7 +782,7 @@
 	    (swiper
 	     (0 13 4)))
 	   "Various completion functions using Ivy" single
-	   ((:commit . "8866138333f92c3d82062c5fa613beba38901504")
+	   ((:commit . "75002963859101003436c84d1d3a85f9ea5f89fc")
 	    (:authors
 	     ("Oleh Krehel" . "ohwoeowho@gmail.com"))
 	    (:maintainer "Oleh Krehel" . "ohwoeowho@gmail.com")
@@ -1013,13 +1013,13 @@
 	    (:maintainer "Chunyang Xu" . "xuchunyang.me@gmail.com")
 	    (:url . "https://github.com/xuchunyang/DevDocs.el"))])
  (diff-hl .
-	  [(20210313 235)
+	  [(20210314 2246)
 	   ((cl-lib
 	     (0 2))
 	    (emacs
 	     (25 1)))
 	   "Highlight uncommitted changes using VC" tar
-	   ((:commit . "6b145cee7cad4f295923d3f96fa49664cd6045cc")
+	   ((:commit . "9cadf39f3dba3779d58f73a0d970d26c7a8aa57d")
 	    (:authors
 	     ("Dmitry Gutov" . "dgutov@yandex.ru"))
 	    (:maintainer "Dmitry Gutov" . "dgutov@yandex.ru")
@@ -1788,7 +1788,7 @@
 	    (:maintainer "Le Wang")
 	    (:url . "https://github.com/lewang/flx"))])
  (flycheck .
-	   [(20201228 2104)
+	   [(20210314 2015)
 	    ((dash
 	      (2 12 1))
 	     (pkg-info
@@ -1800,7 +1800,7 @@
 	     (emacs
 	      (24 3)))
 	    "On-the-fly syntax checking" tar
-	    ((:commit . "01396a5eff9fa494285e0d3139838231c05e3948")
+	    ((:commit . "6e6ac0c50f85170ed47bf1711bc761941b69b325")
 	     (:authors
 	      ("Sebastian Wiesner" . "swiesner@lunaryorn.com"))
 	     (:maintainer "Clément Pit-Claudel" . "clement.pitclaudel@live.com")
@@ -1963,7 +1963,7 @@
 	       (:keywords "languages" "faces" "highlighting")
 	       (:url . "https://www.emacswiki.org/emacs/download/font-lock%2b.el"))])
  (forge .
-	[(20210303 2046)
+	[(20210314 2238)
 	 ((emacs
 	   (25 1))
 	  (closql
@@ -1983,7 +1983,7 @@
 	  (transient
 	   (0 1 0)))
 	 "Access Git forges from Magit." tar
-	 ((:commit . "8382fd3d43855de779c46da338dd59b1cb1d333e")
+	 ((:commit . "f4c95dd0e633b3dd332d6f91122c864ab3640912")
 	  (:authors
 	   ("Jonas Bernoulli" . "jonas@bernoul.li"))
 	  (:maintainer "Jonas Bernoulli" . "jonas@bernoul.li")
@@ -2439,7 +2439,7 @@
 	      (:keywords "markup" "languages" "html")
 	      (:url . "https://github.com/nex3/haml-mode"))])
  (helm .
-       [(20210223 2045)
+       [(20210314 1923)
 	((emacs
 	  (25 1))
 	 (async
@@ -2449,7 +2449,7 @@
 	 (helm-core
 	  (3 7 1)))
 	"Helm is an Emacs incremental and narrowing framework" tar
-	((:commit . "dbdec633c2816981d7127fe00bcd9778b2c31c51")
+	((:commit . "b50d6de3fe319ba7d3530384f703802941b754a1")
 	 (:authors
 	  ("Thierry Volpiatto" . "thierry.volpiatto@gmail.com"))
 	 (:maintainer "Thierry Volpiatto" . "thierry.volpiatto@gmail.com")
@@ -2493,13 +2493,13 @@
 		 (:maintainer "Daniel Ralston" . "Sodel-the-Vociferous@users.noreply.github.com")
 		 (:url . "https://github.com/Sodel-the-Vociferous/helm-company"))])
  (helm-core .
-	    [(20210211 1417)
+	    [(20210315 1547)
 	     ((emacs
 	       (25 1))
 	      (async
 	       (1 9 4)))
 	     "Development files for Helm" tar
-	     ((:commit . "dbdec633c2816981d7127fe00bcd9778b2c31c51"))])
+	     ((:commit . "b50d6de3fe319ba7d3530384f703802941b754a1"))])
  (helm-css-scss .
 		[(20191230 1549)
 		 ((emacs
@@ -2809,7 +2809,7 @@
 			  (cl-lib
 			   (0 6 1)))
 			 "Highlight surrounding parentheses" single
-			 ((:commit . "013ac29970d5209c14da0af6c5bb9bbbcca40c02")
+			 ((:commit . "23fe07f588ff1e835fb9db12f1073b22d8d7ba68")
 			  (:authors
 			   ("Nikolaj Schumacher <bugs * nschum de>"))
 			  (:maintainer "Tassilo Horn" . "tsdh@gnu.org")
@@ -2968,7 +2968,7 @@
        ((emacs
 	 (24 5)))
        "Incremental Vertical completYon" tar
-       ((:commit . "8866138333f92c3d82062c5fa613beba38901504")
+       ((:commit . "75002963859101003436c84d1d3a85f9ea5f89fc")
 	(:authors
 	 ("Oleh Krehel" . "ohwoeowho@gmail.com"))
 	(:maintainer "Oleh Krehel" . "ohwoeowho@gmail.com")
@@ -2983,7 +2983,7 @@
 	      (hydra
 	       (0 14 0)))
 	     "Additional key bindings for Ivy" single
-	     ((:commit . "8866138333f92c3d82062c5fa613beba38901504")
+	     ((:commit . "75002963859101003436c84d1d3a85f9ea5f89fc")
 	      (:authors
 	       ("Oleh Krehel" . "ohwoeowho@gmail.com"))
 	      (:maintainer "Oleh Krehel" . "ohwoeowho@gmail.com")
@@ -3288,7 +3288,7 @@
 	    (:keywords "languages" "debug")
 	    (:url . "https://github.com/emacs-lsp/lsp-ivy"))])
  (lsp-mode .
-	   [(20210312 1745)
+	   [(20210314 1828)
 	    ((emacs
 	      (26 1))
 	     (dash
@@ -3304,7 +3304,7 @@
 	     (lv
 	      (0)))
 	    "LSP mode" tar
-	    ((:commit . "63fac21fa222403972cf16734bd4f2d8b0297b7c")
+	    ((:commit . "d2b90afdc947e411b8ce971bf0f6a01e2283d5d4")
 	     (:authors
 	      ("Vibhav Pant, Fangrui Song, Ivan Yonchovski"))
 	     (:maintainer "Vibhav Pant, Fangrui Song, Ivan Yonchovski")
@@ -4394,11 +4394,11 @@
 	    (:maintainer "S. Irie")
 	    (:keywords "tooltip"))])
  (powerline .
-	    [(20201129 2306)
+	    [(20210313 1621)
 	     ((cl-lib
 	       (0 2)))
 	     "Rewrite of Powerline" tar
-	     ((:commit . "b293abf83c0a2b2988af19dd0ef0426c3b1d1501")
+	     ((:commit . "92525ddf9acb6518f33b4503237bc4cf9721969f")
 	      (:authors
 	       ("Donald Ephraim Curtis" . "dcurtis@milkbox.net"))
 	      (:maintainer "Donald Ephraim Curtis" . "dcurtis@milkbox.net")
@@ -4523,11 +4523,11 @@
 	   (:keywords "python" "virtualenv" "tools")
 	   (:url . "http://github.com/jorgenschaefer/pyvenv"))])
  (quelpa .
-	 [(20210208 716)
+	 [(20210313 1219)
 	  ((emacs
 	    (25 1)))
 	  "Emacs Lisp packages built directly from source" tar
-	  ((:commit . "8c25a40d07c08a6a9754b3ae12174664e8ed7871")
+	  ((:commit . "35f6012c86d3622be67a6b91eb954f211b935da3")
 	   (:authors
 	    ("steckerhalter"))
 	   (:maintainer "steckerhalter")
@@ -4824,7 +4824,7 @@
 	   (ivy
 	    (0 13 4)))
 	  "Isearch with an overview. Oh, man!" single
-	  ((:commit . "8866138333f92c3d82062c5fa613beba38901504")
+	  ((:commit . "75002963859101003436c84d1d3a85f9ea5f89fc")
 	   (:authors
 	    ("Oleh Krehel" . "ohwoeowho@gmail.com"))
 	   (:maintainer "Oleh Krehel" . "ohwoeowho@gmail.com")
@@ -5115,11 +5115,11 @@
 			(:keywords "emulations" "convenience" "wp")
 			(:url . "http://www.emacswiki.org/emacs/download/volatile-highlights.el"))])
  (vterm .
-	[(20210308 1505)
+	[(20210313 1359)
 	 ((emacs
 	   (25 1)))
 	 "Fully-featured terminal emulator" tar
-	 ((:commit . "21c0c0fe8baddf69043d3173f9fdcf790187f570")
+	 ((:commit . "98179e129544bdee7d78fc095098971eeb72428d")
 	  (:authors
 	   ("Lukas Fürmetz" . "fuermetz@mailbox.org"))
 	  (:maintainer "Lukas Fürmetz" . "fuermetz@mailbox.org")
@@ -5192,7 +5192,7 @@
 		   (imenu-list
 		    (0 1)))
 		  "Purpose-based window management for Emacs" tar
-		  ((:commit . "655df549deb1a5895851c2b989a27bb281db00f4")
+		  ((:commit . "58abbfc3a4ce637a5d3cc6ded0918b804905c80f")
 		   (:authors
 		    ("Bar Magal"))
 		   (:maintainer "Bar Magal")

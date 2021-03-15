@@ -5,7 +5,7 @@ Source:  https://github.com/Wilfred/emacs-refactor.git
 Updating /home/kimr/repos/my/melpa/working/emr/
 Copying files (->) and directories (=>)
   from /home/kimr/repos/my/melpa/working/emr/
-  to /tmp/emrBVJGA0/emr-20210301.213
+  to /tmp/emr1Bkdvw/emr-20210301.213
     emr-c.el -> emr-c.el
     emr-css.el -> emr-css.el
     emr-elisp.el -> emr-elisp.el
@@ -29,11 +29,9 @@ Created emr-20210301.213.tar containing:
   emr-20210301.213/emr-ruby.el
   emr-20210301.213/emr-scheme.el
   emr-20210301.213/emr.el
-Built emr in 1.248s, finished at Fri Mar 12 19:29:17 2021
+Built emr in 0.612s, finished at Mon Mar 15 09:59:15 2021
  ✓ Success:
-4.0K -rw-rw-r-- 1 kimr kimr  628 Feb 27 07:43 packages/emr-20210110.1928.entry
-112K -rw-rw-r-- 1 kimr kimr 110K Feb 27 07:43 packages/emr-20210110.1928.tar
-4.0K -rw-rw-r-- 1 kimr kimr  627 Mar 12 19:29 packages/emr-20210301.213.entry
-112K -rw-rw-r-- 1 kimr kimr 110K Mar 12 19:29 packages/emr-20210301.213.tar
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K Mar 12 19:29 packages/emr-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr  338 Mar 12 19:29 packages/emr-readme.txt
+4.0K -rw-rw-r-- 1 kimr kimr  627 Mar 15 09:59 packages/emr-20210301.213.entry
+112K -rw-rw-r-- 1 kimr kimr 110K Mar 15 09:59 packages/emr-20210301.213.tar
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Mar 15 09:59 packages/emr-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr  338 Mar 15 09:59 packages/emr-readme.txt

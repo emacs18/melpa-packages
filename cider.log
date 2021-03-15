@@ -5,7 +5,7 @@ Source:  https://github.com/clojure-emacs/cider.git
 Updating /home/kimr/repos/my/melpa/working/cider/
 Copying files (->) and directories (=>)
   from /home/kimr/repos/my/melpa/working/cider/
-  to /tmp/ciderXJslPd/cider-20210302.849
+  to /tmp/ciderXMdiVW/cider-20210302.849
     cider-apropos.el -> cider-apropos.el
     cider-browse-ns.el -> cider-browse-ns.el
     cider-browse-spec.el -> cider-browse-spec.el
@@ -83,16 +83,14 @@ Created cider-20210302.849.tar containing:
   cider-20210302.849/cider.el
   cider-20210302.849/nrepl-client.el
   cider-20210302.849/nrepl-dict.el
-Built cider in 1.292s, finished at Fri Mar 12 19:27:56 2021
+Built cider in 0.602s, finished at Mon Mar 15 09:59:02 2021
  ✓ Success:
-4.0K -rw-rw-r-- 1 kimr kimr  768 Feb 27 07:41 packages/cider-20210227.546.entry
-840K -rw-rw-r-- 1 kimr kimr 840K Feb 27 07:41 packages/cider-20210227.546.tar
-4.0K -rw-rw-r-- 1 kimr kimr  768 Mar 12 19:27 packages/cider-20210302.849.entry
-840K -rw-rw-r-- 1 kimr kimr 840K Mar 12 19:27 packages/cider-20210302.849.tar
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K Mar 12 19:27 packages/cider-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr 2.6K Feb 27 07:41 packages/cider-eval-sexp-fu-20190311.2152.el
-4.0K -rw-rw-r-- 1 kimr kimr  430 Feb 27 07:41 packages/cider-eval-sexp-fu-20190311.2152.entry
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K Feb 27 07:41 packages/cider-eval-sexp-fu-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr  614 Feb 27 07:41 packages/cider-eval-sexp-fu.log
-4.0K -rw-rw-r-- 1 kimr kimr  132 Feb 27 07:41 packages/cider-eval-sexp-fu-readme.txt
-4.0K -rw-rw-r-- 1 kimr kimr  568 Mar 12 19:27 packages/cider-readme.txt
+4.0K -rw-rw-r-- 1 kimr kimr  768 Mar 15 09:59 packages/cider-20210302.849.entry
+840K -rw-rw-r-- 1 kimr kimr 840K Mar 15 09:59 packages/cider-20210302.849.tar
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Mar 15 09:59 packages/cider-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr 2.6K Mar 12 19:27 packages/cider-eval-sexp-fu-20190311.2152.el
+4.0K -rw-rw-r-- 1 kimr kimr  430 Mar 12 19:27 packages/cider-eval-sexp-fu-20190311.2152.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Mar 12 19:27 packages/cider-eval-sexp-fu-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr  614 Mar 12 19:27 packages/cider-eval-sexp-fu.log
+4.0K -rw-rw-r-- 1 kimr kimr  132 Mar 12 19:27 packages/cider-eval-sexp-fu-readme.txt
+4.0K -rw-rw-r-- 1 kimr kimr  568 Mar 15 09:59 packages/cider-readme.txt

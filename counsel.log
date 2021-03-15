@@ -3,26 +3,26 @@ Fetcher: github
 Source:  https://github.com/abo-abo/swiper.git
 
 Updating /home/kimr/repos/my/melpa/working/counsel/
-Built counsel in 1.123s, finished at Fri Mar 12 19:28:30 2021
+Built counsel in 0.582s, finished at Mon Mar 15 09:59:09 2021
  ✓ Success:
-268K -rw-rw-r-- 1 kimr kimr 265K Feb 27 07:42 packages/counsel-20210226.1256.el
-4.0K -rw-rw-r-- 1 kimr kimr  433 Feb 27 07:42 packages/counsel-20210226.1256.entry
 268K -rw-rw-r-- 1 kimr kimr 266K Mar 12 19:28 packages/counsel-20210310.1746.el
 4.0K -rw-rw-r-- 1 kimr kimr  433 Mar 12 19:28 packages/counsel-20210310.1746.entry
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K Mar 12 19:28 packages/counsel-badge.svg
- 12K -rw-rw-r-- 1 kimr kimr 8.5K Feb 27 07:42 packages/counsel-css-20200331.632.el
-4.0K -rw-rw-r-- 1 kimr kimr  515 Feb 27 07:42 packages/counsel-css-20200331.632.entry
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K Feb 27 07:42 packages/counsel-css-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr  557 Feb 27 07:42 packages/counsel-css.log
-4.0K -rw-rw-r-- 1 kimr kimr  142 Feb 27 07:42 packages/counsel-css-readme.txt
-4.0K -rw-rw-r-- 1 kimr kimr 3.8K Feb 27 07:42 packages/counsel-dash-20200103.1411.el
-4.0K -rw-rw-r-- 1 kimr kimr  444 Feb 27 07:42 packages/counsel-dash-20200103.1411.entry
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K Feb 27 07:42 packages/counsel-dash-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr  565 Feb 27 07:42 packages/counsel-dash.log
-4.0K -rw-rw-r-- 1 kimr kimr  126 Feb 27 07:42 packages/counsel-dash-readme.txt
- 76K -rw-rw-r-- 1 kimr kimr  73K Feb 27 07:42 packages/counsel-projectile-20201015.1109.el
-4.0K -rw-rw-r-- 1 kimr kimr  422 Feb 27 07:42 packages/counsel-projectile-20201015.1109.entry
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K Feb 27 07:42 packages/counsel-projectile-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr  610 Feb 27 07:42 packages/counsel-projectile.log
-4.0K -rw-rw-r-- 1 kimr kimr  538 Feb 27 07:42 packages/counsel-projectile-readme.txt
-4.0K -rw-rw-r-- 1 kimr kimr  535 Mar 12 19:28 packages/counsel-readme.txt
+268K -rw-rw-r-- 1 kimr kimr 266K Mar 15 09:59 packages/counsel-20210313.1108.el
+4.0K -rw-rw-r-- 1 kimr kimr  433 Mar 15 09:59 packages/counsel-20210313.1108.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Mar 15 09:59 packages/counsel-badge.svg
+ 12K -rw-rw-r-- 1 kimr kimr 8.5K Mar 15 09:52 packages/counsel-css-20210310.452.el
+4.0K -rw-rw-r-- 1 kimr kimr  515 Mar 15 09:52 packages/counsel-css-20210310.452.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Mar 15 09:52 packages/counsel-css-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr  557 Mar 15 09:52 packages/counsel-css.log
+4.0K -rw-rw-r-- 1 kimr kimr  142 Mar 15 09:52 packages/counsel-css-readme.txt
+4.0K -rw-rw-r-- 1 kimr kimr 3.8K Mar 12 19:28 packages/counsel-dash-20200103.1411.el
+4.0K -rw-rw-r-- 1 kimr kimr  444 Mar 12 19:28 packages/counsel-dash-20200103.1411.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Mar 12 19:28 packages/counsel-dash-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr  565 Mar 12 19:28 packages/counsel-dash.log
+4.0K -rw-rw-r-- 1 kimr kimr  126 Mar 12 19:28 packages/counsel-dash-readme.txt
+ 76K -rw-rw-r-- 1 kimr kimr  73K Mar 15 09:52 packages/counsel-projectile-20201015.1109.el
+4.0K -rw-rw-r-- 1 kimr kimr  422 Mar 15 09:52 packages/counsel-projectile-20201015.1109.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Mar 15 09:52 packages/counsel-projectile-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr  610 Mar 15 09:52 packages/counsel-projectile.log
+4.0K -rw-rw-r-- 1 kimr kimr  538 Mar 15 09:52 packages/counsel-projectile-readme.txt
+4.0K -rw-rw-r-- 1 kimr kimr  535 Mar 15 09:59 packages/counsel-readme.txt

@@ -5,7 +5,7 @@ Source:  https://gitlab.com/jaor/geiser.git
 Updating /home/kimr/repos/my/melpa/working/geiser/
 Copying files (->) and directories (=>)
   from /home/kimr/repos/my/melpa/working/geiser/
-  to /tmp/geiser7zxgBx/geiser-20210303.1351
+  to /tmp/geiseriXADjl/geiser-20210303.1351
   ! elisp/geiser-autodoc.el -> geiser-autodoc.el
   ! elisp/geiser-base.el -> geiser-base.el
   ! elisp/geiser-chez.el -> geiser-chez.el
@@ -56,45 +56,45 @@ Copying files (->) and directories (=>)
     scheme/guile => scheme/guile
     scheme/mit => scheme/mit
     scheme/racket => scheme/racket
-Error: (error "Command ’(env LC_ALL=C makeinfo /home/kimr/repos/my/melpa/working/geiser/doc/cheat.texi -o /tmp/geiser7zxgBx/geiser-20210303.1351/cheat.info)’ exited with non-zero status 1: HEAD is now at 8e61c27 geiser-messages-mode: Don't quote lambda expressions
+Error: (error "Command ’(env LC_ALL=C makeinfo /home/kimr/repos/my/melpa/working/geiser/doc/cheat.texi -o /tmp/geiseriXADjl/geiser-20210303.1351/cheat.info)’ exited with non-zero status 1: HEAD is now at 8e61c27 geiser-messages-mode: Don't quote lambda expressions
 /home/kimr/repos/my/melpa/working/geiser/doc/cheat.texi:1: Next reference to nonexistent `No hacker is an island'
 /home/kimr/repos/my/melpa/working/geiser/doc/cheat.texi:1: Prev reference to nonexistent `Between the parens'
 /home/kimr/repos/my/melpa/working/geiser/doc/cheat.texi:1: Up reference to nonexistent `Top'
 ")
-Created /tmp/geiser7zxgBx/geiser-20210303.1351/cheat.info
-Error: (error "Command ’(env LC_ALL=C install-info --dir=dir /tmp/geiser7zxgBx/geiser-20210303.1351/cheat.info)’ exited with non-zero status 1: HEAD is now at 8e61c27 geiser-messages-mode: Don't quote lambda expressions
+Created /tmp/geiseriXADjl/geiser-20210303.1351/cheat.info
+Error: (error "Command ’(env LC_ALL=C install-info --dir=dir /tmp/geiseriXADjl/geiser-20210303.1351/cheat.info)’ exited with non-zero status 1: HEAD is now at 8e61c27 geiser-messages-mode: Don't quote lambda expressions
 /home/kimr/repos/my/melpa/working/geiser/doc/cheat.texi:1: Next reference to nonexistent `No hacker is an island'
 /home/kimr/repos/my/melpa/working/geiser/doc/cheat.texi:1: Prev reference to nonexistent `Between the parens'
 /home/kimr/repos/my/melpa/working/geiser/doc/cheat.texi:1: Up reference to nonexistent `Top'
-install-info: No such file or directory for /tmp/geiser7zxgBx/geiser-20210303.1351/cheat.info
+install-info: No such file or directory for /tmp/geiseriXADjl/geiser-20210303.1351/cheat.info
 ")
-Created /tmp/geiser7zxgBx/geiser-20210303.1351/geiser.info
-Error: (error "Command ’(env LC_ALL=C makeinfo /home/kimr/repos/my/melpa/working/geiser/doc/index.texi -o /tmp/geiser7zxgBx/geiser-20210303.1351/index.info)’ exited with non-zero status 1: HEAD is now at 8e61c27 geiser-messages-mode: Don't quote lambda expressions
+Created /tmp/geiseriXADjl/geiser-20210303.1351/geiser.info
+Error: (error "Command ’(env LC_ALL=C makeinfo /home/kimr/repos/my/melpa/working/geiser/doc/index.texi -o /tmp/geiseriXADjl/geiser-20210303.1351/index.info)’ exited with non-zero status 1: HEAD is now at 8e61c27 geiser-messages-mode: Don't quote lambda expressions
 /home/kimr/repos/my/melpa/working/geiser/doc/cheat.texi:1: Next reference to nonexistent `No hacker is an island'
 /home/kimr/repos/my/melpa/working/geiser/doc/cheat.texi:1: Prev reference to nonexistent `Between the parens'
 /home/kimr/repos/my/melpa/working/geiser/doc/cheat.texi:1: Up reference to nonexistent `Top'
-install-info: No such file or directory for /tmp/geiser7zxgBx/geiser-20210303.1351/cheat.info
+install-info: No such file or directory for /tmp/geiseriXADjl/geiser-20210303.1351/cheat.info
 /home/kimr/repos/my/melpa/working/geiser/doc/index.texi:5: Prev reference to nonexistent `No hacker is an island'
 /home/kimr/repos/my/melpa/working/geiser/doc/index.texi:5: Up reference to nonexistent `Top'
 ")
-Created /tmp/geiser7zxgBx/geiser-20210303.1351/index.info
-Error: (error "Command ’(env LC_ALL=C install-info --dir=dir /tmp/geiser7zxgBx/geiser-20210303.1351/index.info)’ exited with non-zero status 1: HEAD is now at 8e61c27 geiser-messages-mode: Don't quote lambda expressions
+Created /tmp/geiseriXADjl/geiser-20210303.1351/index.info
+Error: (error "Command ’(env LC_ALL=C install-info --dir=dir /tmp/geiseriXADjl/geiser-20210303.1351/index.info)’ exited with non-zero status 1: HEAD is now at 8e61c27 geiser-messages-mode: Don't quote lambda expressions
 /home/kimr/repos/my/melpa/working/geiser/doc/cheat.texi:1: Next reference to nonexistent `No hacker is an island'
 /home/kimr/repos/my/melpa/working/geiser/doc/cheat.texi:1: Prev reference to nonexistent `Between the parens'
 /home/kimr/repos/my/melpa/working/geiser/doc/cheat.texi:1: Up reference to nonexistent `Top'
-install-info: No such file or directory for /tmp/geiser7zxgBx/geiser-20210303.1351/cheat.info
+install-info: No such file or directory for /tmp/geiseriXADjl/geiser-20210303.1351/cheat.info
 /home/kimr/repos/my/melpa/working/geiser/doc/index.texi:5: Prev reference to nonexistent `No hacker is an island'
 /home/kimr/repos/my/melpa/working/geiser/doc/index.texi:5: Up reference to nonexistent `Top'
-install-info: No such file or directory for /tmp/geiser7zxgBx/geiser-20210303.1351/index.info
+install-info: No such file or directory for /tmp/geiseriXADjl/geiser-20210303.1351/index.info
 ")
-Error: (error "Command ’(env LC_ALL=C makeinfo /home/kimr/repos/my/melpa/working/geiser/doc/install.texi -o /tmp/geiser7zxgBx/geiser-20210303.1351/install.info)’ exited with non-zero status 1: HEAD is now at 8e61c27 geiser-messages-mode: Don't quote lambda expressions
+Error: (error "Command ’(env LC_ALL=C makeinfo /home/kimr/repos/my/melpa/working/geiser/doc/install.texi -o /tmp/geiseriXADjl/geiser-20210303.1351/install.info)’ exited with non-zero status 1: HEAD is now at 8e61c27 geiser-messages-mode: Don't quote lambda expressions
 /home/kimr/repos/my/melpa/working/geiser/doc/cheat.texi:1: Next reference to nonexistent `No hacker is an island'
 /home/kimr/repos/my/melpa/working/geiser/doc/cheat.texi:1: Prev reference to nonexistent `Between the parens'
 /home/kimr/repos/my/melpa/working/geiser/doc/cheat.texi:1: Up reference to nonexistent `Top'
-install-info: No such file or directory for /tmp/geiser7zxgBx/geiser-20210303.1351/cheat.info
+install-info: No such file or directory for /tmp/geiseriXADjl/geiser-20210303.1351/cheat.info
 /home/kimr/repos/my/melpa/working/geiser/doc/index.texi:5: Prev reference to nonexistent `No hacker is an island'
 /home/kimr/repos/my/melpa/working/geiser/doc/index.texi:5: Up reference to nonexistent `Top'
-install-info: No such file or directory for /tmp/geiser7zxgBx/geiser-20210303.1351/index.info
+install-info: No such file or directory for /tmp/geiseriXADjl/geiser-20210303.1351/index.info
 /home/kimr/repos/my/melpa/working/geiser/doc/install.texi:19: warning: undefined flag: EMACS_VERSION
 /home/kimr/repos/my/melpa/working/geiser/doc/install.texi:25: warning: undefined flag: GUILE_VERSION
 /home/kimr/repos/my/melpa/working/geiser/doc/install.texi:28: warning: undefined flag: CHICKEN_VERSION
@@ -109,15 +109,15 @@ install-info: No such file or directory for /tmp/geiser7zxgBx/geiser-20210303.13
 /home/kimr/repos/my/melpa/working/geiser/doc/install.texi:90: @ref reference to nonexistent node `The REPL'
 /home/kimr/repos/my/melpa/working/geiser/doc/install.texi:237: @pxref reference to nonexistent node `The REPL'
 ")
-Created /tmp/geiser7zxgBx/geiser-20210303.1351/install.info
-Error: (error "Command ’(env LC_ALL=C install-info --dir=dir /tmp/geiser7zxgBx/geiser-20210303.1351/install.info)’ exited with non-zero status 1: HEAD is now at 8e61c27 geiser-messages-mode: Don't quote lambda expressions
+Created /tmp/geiseriXADjl/geiser-20210303.1351/install.info
+Error: (error "Command ’(env LC_ALL=C install-info --dir=dir /tmp/geiseriXADjl/geiser-20210303.1351/install.info)’ exited with non-zero status 1: HEAD is now at 8e61c27 geiser-messages-mode: Don't quote lambda expressions
 /home/kimr/repos/my/melpa/working/geiser/doc/cheat.texi:1: Next reference to nonexistent `No hacker is an island'
 /home/kimr/repos/my/melpa/working/geiser/doc/cheat.texi:1: Prev reference to nonexistent `Between the parens'
 /home/kimr/repos/my/melpa/working/geiser/doc/cheat.texi:1: Up reference to nonexistent `Top'
-install-info: No such file or directory for /tmp/geiser7zxgBx/geiser-20210303.1351/cheat.info
+install-info: No such file or directory for /tmp/geiseriXADjl/geiser-20210303.1351/cheat.info
 /home/kimr/repos/my/melpa/working/geiser/doc/index.texi:5: Prev reference to nonexistent `No hacker is an island'
 /home/kimr/repos/my/melpa/working/geiser/doc/index.texi:5: Up reference to nonexistent `Top'
-install-info: No such file or directory for /tmp/geiser7zxgBx/geiser-20210303.1351/index.info
+install-info: No such file or directory for /tmp/geiseriXADjl/geiser-20210303.1351/index.info
 /home/kimr/repos/my/melpa/working/geiser/doc/install.texi:19: warning: undefined flag: EMACS_VERSION
 /home/kimr/repos/my/melpa/working/geiser/doc/install.texi:25: warning: undefined flag: GUILE_VERSION
 /home/kimr/repos/my/melpa/working/geiser/doc/install.texi:28: warning: undefined flag: CHICKEN_VERSION
@@ -131,16 +131,16 @@ install-info: No such file or directory for /tmp/geiser7zxgBx/geiser-20210303.13
 /home/kimr/repos/my/melpa/working/geiser/doc/install.texi:192: misplaced }
 /home/kimr/repos/my/melpa/working/geiser/doc/install.texi:90: @ref reference to nonexistent node `The REPL'
 /home/kimr/repos/my/melpa/working/geiser/doc/install.texi:237: @pxref reference to nonexistent node `The REPL'
-install-info: No such file or directory for /tmp/geiser7zxgBx/geiser-20210303.1351/install.info
+install-info: No such file or directory for /tmp/geiseriXADjl/geiser-20210303.1351/install.info
 ")
-Error: (error "Command ’(env LC_ALL=C makeinfo /home/kimr/repos/my/melpa/working/geiser/doc/intro.texi -o /tmp/geiser7zxgBx/geiser-20210303.1351/intro.info)’ exited with non-zero status 1: HEAD is now at 8e61c27 geiser-messages-mode: Don't quote lambda expressions
+Error: (error "Command ’(env LC_ALL=C makeinfo /home/kimr/repos/my/melpa/working/geiser/doc/intro.texi -o /tmp/geiseriXADjl/geiser-20210303.1351/intro.info)’ exited with non-zero status 1: HEAD is now at 8e61c27 geiser-messages-mode: Don't quote lambda expressions
 /home/kimr/repos/my/melpa/working/geiser/doc/cheat.texi:1: Next reference to nonexistent `No hacker is an island'
 /home/kimr/repos/my/melpa/working/geiser/doc/cheat.texi:1: Prev reference to nonexistent `Between the parens'
 /home/kimr/repos/my/melpa/working/geiser/doc/cheat.texi:1: Up reference to nonexistent `Top'
-install-info: No such file or directory for /tmp/geiser7zxgBx/geiser-20210303.1351/cheat.info
+install-info: No such file or directory for /tmp/geiseriXADjl/geiser-20210303.1351/cheat.info
 /home/kimr/repos/my/melpa/working/geiser/doc/index.texi:5: Prev reference to nonexistent `No hacker is an island'
 /home/kimr/repos/my/melpa/working/geiser/doc/index.texi:5: Up reference to nonexistent `Top'
-install-info: No such file or directory for /tmp/geiser7zxgBx/geiser-20210303.1351/index.info
+install-info: No such file or directory for /tmp/geiseriXADjl/geiser-20210303.1351/index.info
 /home/kimr/repos/my/melpa/working/geiser/doc/install.texi:19: warning: undefined flag: EMACS_VERSION
 /home/kimr/repos/my/melpa/working/geiser/doc/install.texi:25: warning: undefined flag: GUILE_VERSION
 /home/kimr/repos/my/melpa/working/geiser/doc/install.texi:28: warning: undefined flag: CHICKEN_VERSION
@@ -154,22 +154,22 @@ install-info: No such file or directory for /tmp/geiser7zxgBx/geiser-20210303.13
 /home/kimr/repos/my/melpa/working/geiser/doc/install.texi:192: misplaced }
 /home/kimr/repos/my/melpa/working/geiser/doc/install.texi:90: @ref reference to nonexistent node `The REPL'
 /home/kimr/repos/my/melpa/working/geiser/doc/install.texi:237: @pxref reference to nonexistent node `The REPL'
-install-info: No such file or directory for /tmp/geiser7zxgBx/geiser-20210303.1351/install.info
+install-info: No such file or directory for /tmp/geiseriXADjl/geiser-20210303.1351/install.info
 /home/kimr/repos/my/melpa/working/geiser/doc/intro.texi:5: @ref reference to nonexistent node `Installation'
 /home/kimr/repos/my/melpa/working/geiser/doc/intro.texi:6: @ref reference to nonexistent node `The REPL'
 /home/kimr/repos/my/melpa/working/geiser/doc/intro.texi:1: Next reference to nonexistent `Installation'
 /home/kimr/repos/my/melpa/working/geiser/doc/intro.texi:1: Prev reference to nonexistent `Top'
 /home/kimr/repos/my/melpa/working/geiser/doc/intro.texi:1: Up reference to nonexistent `Top'
 ")
-Created /tmp/geiser7zxgBx/geiser-20210303.1351/intro.info
-Error: (error "Command ’(env LC_ALL=C install-info --dir=dir /tmp/geiser7zxgBx/geiser-20210303.1351/intro.info)’ exited with non-zero status 1: HEAD is now at 8e61c27 geiser-messages-mode: Don't quote lambda expressions
+Created /tmp/geiseriXADjl/geiser-20210303.1351/intro.info
+Error: (error "Command ’(env LC_ALL=C install-info --dir=dir /tmp/geiseriXADjl/geiser-20210303.1351/intro.info)’ exited with non-zero status 1: HEAD is now at 8e61c27 geiser-messages-mode: Don't quote lambda expressions
 /home/kimr/repos/my/melpa/working/geiser/doc/cheat.texi:1: Next reference to nonexistent `No hacker is an island'
 /home/kimr/repos/my/melpa/working/geiser/doc/cheat.texi:1: Prev reference to nonexistent `Between the parens'
 /home/kimr/repos/my/melpa/working/geiser/doc/cheat.texi:1: Up reference to nonexistent `Top'
-install-info: No such file or directory for /tmp/geiser7zxgBx/geiser-20210303.1351/cheat.info
+install-info: No such file or directory for /tmp/geiseriXADjl/geiser-20210303.1351/cheat.info
 /home/kimr/repos/my/melpa/working/geiser/doc/index.texi:5: Prev reference to nonexistent `No hacker is an island'
 /home/kimr/repos/my/melpa/working/geiser/doc/index.texi:5: Up reference to nonexistent `Top'
-install-info: No such file or directory for /tmp/geiser7zxgBx/geiser-20210303.1351/index.info
+install-info: No such file or directory for /tmp/geiseriXADjl/geiser-20210303.1351/index.info
 /home/kimr/repos/my/melpa/working/geiser/doc/install.texi:19: warning: undefined flag: EMACS_VERSION
 /home/kimr/repos/my/melpa/working/geiser/doc/install.texi:25: warning: undefined flag: GUILE_VERSION
 /home/kimr/repos/my/melpa/working/geiser/doc/install.texi:28: warning: undefined flag: CHICKEN_VERSION
@@ -183,23 +183,23 @@ install-info: No such file or directory for /tmp/geiser7zxgBx/geiser-20210303.13
 /home/kimr/repos/my/melpa/working/geiser/doc/install.texi:192: misplaced }
 /home/kimr/repos/my/melpa/working/geiser/doc/install.texi:90: @ref reference to nonexistent node `The REPL'
 /home/kimr/repos/my/melpa/working/geiser/doc/install.texi:237: @pxref reference to nonexistent node `The REPL'
-install-info: No such file or directory for /tmp/geiser7zxgBx/geiser-20210303.1351/install.info
+install-info: No such file or directory for /tmp/geiseriXADjl/geiser-20210303.1351/install.info
 /home/kimr/repos/my/melpa/working/geiser/doc/intro.texi:5: @ref reference to nonexistent node `Installation'
 /home/kimr/repos/my/melpa/working/geiser/doc/intro.texi:6: @ref reference to nonexistent node `The REPL'
 /home/kimr/repos/my/melpa/working/geiser/doc/intro.texi:1: Next reference to nonexistent `Installation'
 /home/kimr/repos/my/melpa/working/geiser/doc/intro.texi:1: Prev reference to nonexistent `Top'
 /home/kimr/repos/my/melpa/working/geiser/doc/intro.texi:1: Up reference to nonexistent `Top'
-install-info: No such file or directory for /tmp/geiser7zxgBx/geiser-20210303.1351/intro.info
+install-info: No such file or directory for /tmp/geiseriXADjl/geiser-20210303.1351/intro.info
 ")
-Created /tmp/geiser7zxgBx/geiser-20210303.1351/macros.info
-Error: (error "Command ’(env LC_ALL=C makeinfo /home/kimr/repos/my/melpa/working/geiser/doc/parens.texi -o /tmp/geiser7zxgBx/geiser-20210303.1351/parens.info)’ exited with non-zero status 1: HEAD is now at 8e61c27 geiser-messages-mode: Don't quote lambda expressions
+Created /tmp/geiseriXADjl/geiser-20210303.1351/macros.info
+Error: (error "Command ’(env LC_ALL=C makeinfo /home/kimr/repos/my/melpa/working/geiser/doc/parens.texi -o /tmp/geiseriXADjl/geiser-20210303.1351/parens.info)’ exited with non-zero status 1: HEAD is now at 8e61c27 geiser-messages-mode: Don't quote lambda expressions
 /home/kimr/repos/my/melpa/working/geiser/doc/cheat.texi:1: Next reference to nonexistent `No hacker is an island'
 /home/kimr/repos/my/melpa/working/geiser/doc/cheat.texi:1: Prev reference to nonexistent `Between the parens'
 /home/kimr/repos/my/melpa/working/geiser/doc/cheat.texi:1: Up reference to nonexistent `Top'
-install-info: No such file or directory for /tmp/geiser7zxgBx/geiser-20210303.1351/cheat.info
+install-info: No such file or directory for /tmp/geiseriXADjl/geiser-20210303.1351/cheat.info
 /home/kimr/repos/my/melpa/working/geiser/doc/index.texi:5: Prev reference to nonexistent `No hacker is an island'
 /home/kimr/repos/my/melpa/working/geiser/doc/index.texi:5: Up reference to nonexistent `Top'
-install-info: No such file or directory for /tmp/geiser7zxgBx/geiser-20210303.1351/index.info
+install-info: No such file or directory for /tmp/geiseriXADjl/geiser-20210303.1351/index.info
 /home/kimr/repos/my/melpa/working/geiser/doc/install.texi:19: warning: undefined flag: EMACS_VERSION
 /home/kimr/repos/my/melpa/working/geiser/doc/install.texi:25: warning: undefined flag: GUILE_VERSION
 /home/kimr/repos/my/melpa/working/geiser/doc/install.texi:28: warning: undefined flag: CHICKEN_VERSION
@@ -213,15 +213,15 @@ install-info: No such file or directory for /tmp/geiser7zxgBx/geiser-20210303.13
 /home/kimr/repos/my/melpa/working/geiser/doc/install.texi:192: misplaced }
 /home/kimr/repos/my/melpa/working/geiser/doc/install.texi:90: @ref reference to nonexistent node `The REPL'
 /home/kimr/repos/my/melpa/working/geiser/doc/install.texi:237: @pxref reference to nonexistent node `The REPL'
-install-info: No such file or directory for /tmp/geiser7zxgBx/geiser-20210303.1351/install.info
+install-info: No such file or directory for /tmp/geiseriXADjl/geiser-20210303.1351/install.info
 /home/kimr/repos/my/melpa/working/geiser/doc/intro.texi:5: @ref reference to nonexistent node `Installation'
 /home/kimr/repos/my/melpa/working/geiser/doc/intro.texi:6: @ref reference to nonexistent node `The REPL'
 /home/kimr/repos/my/melpa/working/geiser/doc/intro.texi:1: Next reference to nonexistent `Installation'
 /home/kimr/repos/my/melpa/working/geiser/doc/intro.texi:1: Prev reference to nonexistent `Top'
 /home/kimr/repos/my/melpa/working/geiser/doc/intro.texi:1: Up reference to nonexistent `Top'
-install-info: No such file or directory for /tmp/geiser7zxgBx/geiser-20210303.1351/intro.info
+install-info: No such file or directory for /tmp/geiseriXADjl/geiser-20210303.1351/intro.info
 /home/kimr/repos/my/melpa/working/geiser/doc/macros.texi: warning: document without nodes
-install-info: warning: no info dir entry in `/tmp/geiser7zxgBx/geiser-20210303.1351/macros.info'
+install-info: warning: no info dir entry in `/tmp/geiseriXADjl/geiser-20210303.1351/macros.info'
 /home/kimr/repos/my/melpa/working/geiser/doc/parens.texi:36: unknown command `img'
 /home/kimr/repos/my/melpa/working/geiser/doc/parens.texi:36: misplaced {
 /home/kimr/repos/my/melpa/working/geiser/doc/parens.texi:36: misplaced }
@@ -266,15 +266,15 @@ source's mouth'
 /home/kimr/repos/my/melpa/working/geiser/doc/parens.texi:1: Prev reference to nonexistent `The REPL'
 /home/kimr/repos/my/melpa/working/geiser/doc/parens.texi:1: Up reference to nonexistent `Top'
 ")
-Created /tmp/geiser7zxgBx/geiser-20210303.1351/parens.info
-Error: (error "Command ’(env LC_ALL=C install-info --dir=dir /tmp/geiser7zxgBx/geiser-20210303.1351/parens.info)’ exited with non-zero status 1: HEAD is now at 8e61c27 geiser-messages-mode: Don't quote lambda expressions
+Created /tmp/geiseriXADjl/geiser-20210303.1351/parens.info
+Error: (error "Command ’(env LC_ALL=C install-info --dir=dir /tmp/geiseriXADjl/geiser-20210303.1351/parens.info)’ exited with non-zero status 1: HEAD is now at 8e61c27 geiser-messages-mode: Don't quote lambda expressions
 /home/kimr/repos/my/melpa/working/geiser/doc/cheat.texi:1: Next reference to nonexistent `No hacker is an island'
 /home/kimr/repos/my/melpa/working/geiser/doc/cheat.texi:1: Prev reference to nonexistent `Between the parens'
 /home/kimr/repos/my/melpa/working/geiser/doc/cheat.texi:1: Up reference to nonexistent `Top'
-install-info: No such file or directory for /tmp/geiser7zxgBx/geiser-20210303.1351/cheat.info
+install-info: No such file or directory for /tmp/geiseriXADjl/geiser-20210303.1351/cheat.info
 /home/kimr/repos/my/melpa/working/geiser/doc/index.texi:5: Prev reference to nonexistent `No hacker is an island'
 /home/kimr/repos/my/melpa/working/geiser/doc/index.texi:5: Up reference to nonexistent `Top'
-install-info: No such file or directory for /tmp/geiser7zxgBx/geiser-20210303.1351/index.info
+install-info: No such file or directory for /tmp/geiseriXADjl/geiser-20210303.1351/index.info
 /home/kimr/repos/my/melpa/working/geiser/doc/install.texi:19: warning: undefined flag: EMACS_VERSION
 /home/kimr/repos/my/melpa/working/geiser/doc/install.texi:25: warning: undefined flag: GUILE_VERSION
 /home/kimr/repos/my/melpa/working/geiser/doc/install.texi:28: warning: undefined flag: CHICKEN_VERSION
@@ -288,15 +288,15 @@ install-info: No such file or directory for /tmp/geiser7zxgBx/geiser-20210303.13
 /home/kimr/repos/my/melpa/working/geiser/doc/install.texi:192: misplaced }
 /home/kimr/repos/my/melpa/working/geiser/doc/install.texi:90: @ref reference to nonexistent node `The REPL'
 /home/kimr/repos/my/melpa/working/geiser/doc/install.texi:237: @pxref reference to nonexistent node `The REPL'
-install-info: No such file or directory for /tmp/geiser7zxgBx/geiser-20210303.1351/install.info
+install-info: No such file or directory for /tmp/geiseriXADjl/geiser-20210303.1351/install.info
 /home/kimr/repos/my/melpa/working/geiser/doc/intro.texi:5: @ref reference to nonexistent node `Installation'
 /home/kimr/repos/my/melpa/working/geiser/doc/intro.texi:6: @ref reference to nonexistent node `The REPL'
 /home/kimr/repos/my/melpa/working/geiser/doc/intro.texi:1: Next reference to nonexistent `Installation'
 /home/kimr/repos/my/melpa/working/geiser/doc/intro.texi:1: Prev reference to nonexistent `Top'
 /home/kimr/repos/my/melpa/working/geiser/doc/intro.texi:1: Up reference to nonexistent `Top'
-install-info: No such file or directory for /tmp/geiser7zxgBx/geiser-20210303.1351/intro.info
+install-info: No such file or directory for /tmp/geiseriXADjl/geiser-20210303.1351/intro.info
 /home/kimr/repos/my/melpa/working/geiser/doc/macros.texi: warning: document without nodes
-install-info: warning: no info dir entry in `/tmp/geiser7zxgBx/geiser-20210303.1351/macros.info'
+install-info: warning: no info dir entry in `/tmp/geiseriXADjl/geiser-20210303.1351/macros.info'
 /home/kimr/repos/my/melpa/working/geiser/doc/parens.texi:36: unknown command `img'
 /home/kimr/repos/my/melpa/working/geiser/doc/parens.texi:36: misplaced {
 /home/kimr/repos/my/melpa/working/geiser/doc/parens.texi:36: misplaced }
@@ -340,16 +340,16 @@ source's mouth'
 /home/kimr/repos/my/melpa/working/geiser/doc/parens.texi:1: Next reference to nonexistent `Cheat sheet'
 /home/kimr/repos/my/melpa/working/geiser/doc/parens.texi:1: Prev reference to nonexistent `The REPL'
 /home/kimr/repos/my/melpa/working/geiser/doc/parens.texi:1: Up reference to nonexistent `Top'
-install-info: No such file or directory for /tmp/geiser7zxgBx/geiser-20210303.1351/parens.info
+install-info: No such file or directory for /tmp/geiseriXADjl/geiser-20210303.1351/parens.info
 ")
-Error: (error "Command ’(env LC_ALL=C makeinfo /home/kimr/repos/my/melpa/working/geiser/doc/repl.texi -o /tmp/geiser7zxgBx/geiser-20210303.1351/repl.info)’ exited with non-zero status 1: HEAD is now at 8e61c27 geiser-messages-mode: Don't quote lambda expressions
+Error: (error "Command ’(env LC_ALL=C makeinfo /home/kimr/repos/my/melpa/working/geiser/doc/repl.texi -o /tmp/geiseriXADjl/geiser-20210303.1351/repl.info)’ exited with non-zero status 1: HEAD is now at 8e61c27 geiser-messages-mode: Don't quote lambda expressions
 /home/kimr/repos/my/melpa/working/geiser/doc/cheat.texi:1: Next reference to nonexistent `No hacker is an island'
 /home/kimr/repos/my/melpa/working/geiser/doc/cheat.texi:1: Prev reference to nonexistent `Between the parens'
 /home/kimr/repos/my/melpa/working/geiser/doc/cheat.texi:1: Up reference to nonexistent `Top'
-install-info: No such file or directory for /tmp/geiser7zxgBx/geiser-20210303.1351/cheat.info
+install-info: No such file or directory for /tmp/geiseriXADjl/geiser-20210303.1351/cheat.info
 /home/kimr/repos/my/melpa/working/geiser/doc/index.texi:5: Prev reference to nonexistent `No hacker is an island'
 /home/kimr/repos/my/melpa/working/geiser/doc/index.texi:5: Up reference to nonexistent `Top'
-install-info: No such file or directory for /tmp/geiser7zxgBx/geiser-20210303.1351/index.info
+install-info: No such file or directory for /tmp/geiseriXADjl/geiser-20210303.1351/index.info
 /home/kimr/repos/my/melpa/working/geiser/doc/install.texi:19: warning: undefined flag: EMACS_VERSION
 /home/kimr/repos/my/melpa/working/geiser/doc/install.texi:25: warning: undefined flag: GUILE_VERSION
 /home/kimr/repos/my/melpa/working/geiser/doc/install.texi:28: warning: undefined flag: CHICKEN_VERSION
@@ -363,15 +363,15 @@ install-info: No such file or directory for /tmp/geiser7zxgBx/geiser-20210303.13
 /home/kimr/repos/my/melpa/working/geiser/doc/install.texi:192: misplaced }
 /home/kimr/repos/my/melpa/working/geiser/doc/install.texi:90: @ref reference to nonexistent node `The REPL'
 /home/kimr/repos/my/melpa/working/geiser/doc/install.texi:237: @pxref reference to nonexistent node `The REPL'
-install-info: No such file or directory for /tmp/geiser7zxgBx/geiser-20210303.1351/install.info
+install-info: No such file or directory for /tmp/geiseriXADjl/geiser-20210303.1351/install.info
 /home/kimr/repos/my/melpa/working/geiser/doc/intro.texi:5: @ref reference to nonexistent node `Installation'
 /home/kimr/repos/my/melpa/working/geiser/doc/intro.texi:6: @ref reference to nonexistent node `The REPL'
 /home/kimr/repos/my/melpa/working/geiser/doc/intro.texi:1: Next reference to nonexistent `Installation'
 /home/kimr/repos/my/melpa/working/geiser/doc/intro.texi:1: Prev reference to nonexistent `Top'
 /home/kimr/repos/my/melpa/working/geiser/doc/intro.texi:1: Up reference to nonexistent `Top'
-install-info: No such file or directory for /tmp/geiser7zxgBx/geiser-20210303.1351/intro.info
+install-info: No such file or directory for /tmp/geiseriXADjl/geiser-20210303.1351/intro.info
 /home/kimr/repos/my/melpa/working/geiser/doc/macros.texi: warning: document without nodes
-install-info: warning: no info dir entry in `/tmp/geiser7zxgBx/geiser-20210303.1351/macros.info'
+install-info: warning: no info dir entry in `/tmp/geiseriXADjl/geiser-20210303.1351/macros.info'
 /home/kimr/repos/my/melpa/working/geiser/doc/parens.texi:36: unknown command `img'
 /home/kimr/repos/my/melpa/working/geiser/doc/parens.texi:36: misplaced {
 /home/kimr/repos/my/melpa/working/geiser/doc/parens.texi:36: misplaced }
@@ -415,7 +415,7 @@ source's mouth'
 /home/kimr/repos/my/melpa/working/geiser/doc/parens.texi:1: Next reference to nonexistent `Cheat sheet'
 /home/kimr/repos/my/melpa/working/geiser/doc/parens.texi:1: Prev reference to nonexistent `The REPL'
 /home/kimr/repos/my/melpa/working/geiser/doc/parens.texi:1: Up reference to nonexistent `Top'
-install-info: No such file or directory for /tmp/geiser7zxgBx/geiser-20210303.1351/parens.info
+install-info: No such file or directory for /tmp/geiseriXADjl/geiser-20210303.1351/parens.info
 /home/kimr/repos/my/melpa/working/geiser/doc/repl.texi:28: unknown command `altr'
 /home/kimr/repos/my/melpa/working/geiser/doc/repl.texi:28: misplaced {
 /home/kimr/repos/my/melpa/working/geiser/doc/repl.texi:28: misplaced }
@@ -454,15 +454,15 @@ install-info: No such file or directory for /tmp/geiser7zxgBx/geiser-20210303.13
 /home/kimr/repos/my/melpa/working/geiser/doc/repl.texi:346: misplaced }
 /home/kimr/repos/my/melpa/working/geiser/doc/repl.texi:4: @ref reference to nonexistent node `Installation'
 ")
-Created /tmp/geiser7zxgBx/geiser-20210303.1351/repl.info
-Error: (error "Command ’(env LC_ALL=C install-info --dir=dir /tmp/geiser7zxgBx/geiser-20210303.1351/repl.info)’ exited with non-zero status 1: HEAD is now at 8e61c27 geiser-messages-mode: Don't quote lambda expressions
+Created /tmp/geiseriXADjl/geiser-20210303.1351/repl.info
+Error: (error "Command ’(env LC_ALL=C install-info --dir=dir /tmp/geiseriXADjl/geiser-20210303.1351/repl.info)’ exited with non-zero status 1: HEAD is now at 8e61c27 geiser-messages-mode: Don't quote lambda expressions
 /home/kimr/repos/my/melpa/working/geiser/doc/cheat.texi:1: Next reference to nonexistent `No hacker is an island'
 /home/kimr/repos/my/melpa/working/geiser/doc/cheat.texi:1: Prev reference to nonexistent `Between the parens'
 /home/kimr/repos/my/melpa/working/geiser/doc/cheat.texi:1: Up reference to nonexistent `Top'
-install-info: No such file or directory for /tmp/geiser7zxgBx/geiser-20210303.1351/cheat.info
+install-info: No such file or directory for /tmp/geiseriXADjl/geiser-20210303.1351/cheat.info
 /home/kimr/repos/my/melpa/working/geiser/doc/index.texi:5: Prev reference to nonexistent `No hacker is an island'
 /home/kimr/repos/my/melpa/working/geiser/doc/index.texi:5: Up reference to nonexistent `Top'
-install-info: No such file or directory for /tmp/geiser7zxgBx/geiser-20210303.1351/index.info
+install-info: No such file or directory for /tmp/geiseriXADjl/geiser-20210303.1351/index.info
 /home/kimr/repos/my/melpa/working/geiser/doc/install.texi:19: warning: undefined flag: EMACS_VERSION
 /home/kimr/repos/my/melpa/working/geiser/doc/install.texi:25: warning: undefined flag: GUILE_VERSION
 /home/kimr/repos/my/melpa/working/geiser/doc/install.texi:28: warning: undefined flag: CHICKEN_VERSION
@@ -476,15 +476,15 @@ install-info: No such file or directory for /tmp/geiser7zxgBx/geiser-20210303.13
 /home/kimr/repos/my/melpa/working/geiser/doc/install.texi:192: misplaced }
 /home/kimr/repos/my/melpa/working/geiser/doc/install.texi:90: @ref reference to nonexistent node `The REPL'
 /home/kimr/repos/my/melpa/working/geiser/doc/install.texi:237: @pxref reference to nonexistent node `The REPL'
-install-info: No such file or directory for /tmp/geiser7zxgBx/geiser-20210303.1351/install.info
+install-info: No such file or directory for /tmp/geiseriXADjl/geiser-20210303.1351/install.info
 /home/kimr/repos/my/melpa/working/geiser/doc/intro.texi:5: @ref reference to nonexistent node `Installation'
 /home/kimr/repos/my/melpa/working/geiser/doc/intro.texi:6: @ref reference to nonexistent node `The REPL'
 /home/kimr/repos/my/melpa/working/geiser/doc/intro.texi:1: Next reference to nonexistent `Installation'
 /home/kimr/repos/my/melpa/working/geiser/doc/intro.texi:1: Prev reference to nonexistent `Top'
 /home/kimr/repos/my/melpa/working/geiser/doc/intro.texi:1: Up reference to nonexistent `Top'
-install-info: No such file or directory for /tmp/geiser7zxgBx/geiser-20210303.1351/intro.info
+install-info: No such file or directory for /tmp/geiseriXADjl/geiser-20210303.1351/intro.info
 /home/kimr/repos/my/melpa/working/geiser/doc/macros.texi: warning: document without nodes
-install-info: warning: no info dir entry in `/tmp/geiser7zxgBx/geiser-20210303.1351/macros.info'
+install-info: warning: no info dir entry in `/tmp/geiseriXADjl/geiser-20210303.1351/macros.info'
 /home/kimr/repos/my/melpa/working/geiser/doc/parens.texi:36: unknown command `img'
 /home/kimr/repos/my/melpa/working/geiser/doc/parens.texi:36: misplaced {
 /home/kimr/repos/my/melpa/working/geiser/doc/parens.texi:36: misplaced }
@@ -528,7 +528,7 @@ source's mouth'
 /home/kimr/repos/my/melpa/working/geiser/doc/parens.texi:1: Next reference to nonexistent `Cheat sheet'
 /home/kimr/repos/my/melpa/working/geiser/doc/parens.texi:1: Prev reference to nonexistent `The REPL'
 /home/kimr/repos/my/melpa/working/geiser/doc/parens.texi:1: Up reference to nonexistent `Top'
-install-info: No such file or directory for /tmp/geiser7zxgBx/geiser-20210303.1351/parens.info
+install-info: No such file or directory for /tmp/geiseriXADjl/geiser-20210303.1351/parens.info
 /home/kimr/repos/my/melpa/working/geiser/doc/repl.texi:28: unknown command `altr'
 /home/kimr/repos/my/melpa/working/geiser/doc/repl.texi:28: misplaced {
 /home/kimr/repos/my/melpa/working/geiser/doc/repl.texi:28: misplaced }
@@ -566,16 +566,16 @@ install-info: No such file or directory for /tmp/geiser7zxgBx/geiser-20210303.13
 /home/kimr/repos/my/melpa/working/geiser/doc/repl.texi:346: misplaced {
 /home/kimr/repos/my/melpa/working/geiser/doc/repl.texi:346: misplaced }
 /home/kimr/repos/my/melpa/working/geiser/doc/repl.texi:4: @ref reference to nonexistent node `Installation'
-install-info: No such file or directory for /tmp/geiser7zxgBx/geiser-20210303.1351/repl.info
+install-info: No such file or directory for /tmp/geiseriXADjl/geiser-20210303.1351/repl.info
 ")
-Error: (error "Command ’(env LC_ALL=C makeinfo /home/kimr/repos/my/melpa/working/geiser/doc/thanks.texi -o /tmp/geiser7zxgBx/geiser-20210303.1351/thanks.info)’ exited with non-zero status 1: HEAD is now at 8e61c27 geiser-messages-mode: Don't quote lambda expressions
+Error: (error "Command ’(env LC_ALL=C makeinfo /home/kimr/repos/my/melpa/working/geiser/doc/thanks.texi -o /tmp/geiseriXADjl/geiser-20210303.1351/thanks.info)’ exited with non-zero status 1: HEAD is now at 8e61c27 geiser-messages-mode: Don't quote lambda expressions
 /home/kimr/repos/my/melpa/working/geiser/doc/cheat.texi:1: Next reference to nonexistent `No hacker is an island'
 /home/kimr/repos/my/melpa/working/geiser/doc/cheat.texi:1: Prev reference to nonexistent `Between the parens'
 /home/kimr/repos/my/melpa/working/geiser/doc/cheat.texi:1: Up reference to nonexistent `Top'
-install-info: No such file or directory for /tmp/geiser7zxgBx/geiser-20210303.1351/cheat.info
+install-info: No such file or directory for /tmp/geiseriXADjl/geiser-20210303.1351/cheat.info
 /home/kimr/repos/my/melpa/working/geiser/doc/index.texi:5: Prev reference to nonexistent `No hacker is an island'
 /home/kimr/repos/my/melpa/working/geiser/doc/index.texi:5: Up reference to nonexistent `Top'
-install-info: No such file or directory for /tmp/geiser7zxgBx/geiser-20210303.1351/index.info
+install-info: No such file or directory for /tmp/geiseriXADjl/geiser-20210303.1351/index.info
 /home/kimr/repos/my/melpa/working/geiser/doc/install.texi:19: warning: undefined flag: EMACS_VERSION
 /home/kimr/repos/my/melpa/working/geiser/doc/install.texi:25: warning: undefined flag: GUILE_VERSION
 /home/kimr/repos/my/melpa/working/geiser/doc/install.texi:28: warning: undefined flag: CHICKEN_VERSION
@@ -589,15 +589,15 @@ install-info: No such file or directory for /tmp/geiser7zxgBx/geiser-20210303.13
 /home/kimr/repos/my/melpa/working/geiser/doc/install.texi:192: misplaced }
 /home/kimr/repos/my/melpa/working/geiser/doc/install.texi:90: @ref reference to nonexistent node `The REPL'
 /home/kimr/repos/my/melpa/working/geiser/doc/install.texi:237: @pxref reference to nonexistent node `The REPL'
-install-info: No such file or directory for /tmp/geiser7zxgBx/geiser-20210303.1351/install.info
+install-info: No such file or directory for /tmp/geiseriXADjl/geiser-20210303.1351/install.info
 /home/kimr/repos/my/melpa/working/geiser/doc/intro.texi:5: @ref reference to nonexistent node `Installation'
 /home/kimr/repos/my/melpa/working/geiser/doc/intro.texi:6: @ref reference to nonexistent node `The REPL'
 /home/kimr/repos/my/melpa/working/geiser/doc/intro.texi:1: Next reference to nonexistent `Installation'
 /home/kimr/repos/my/melpa/working/geiser/doc/intro.texi:1: Prev reference to nonexistent `Top'
 /home/kimr/repos/my/melpa/working/geiser/doc/intro.texi:1: Up reference to nonexistent `Top'
-install-info: No such file or directory for /tmp/geiser7zxgBx/geiser-20210303.1351/intro.info
+install-info: No such file or directory for /tmp/geiseriXADjl/geiser-20210303.1351/intro.info
 /home/kimr/repos/my/melpa/working/geiser/doc/macros.texi: warning: document without nodes
-install-info: warning: no info dir entry in `/tmp/geiser7zxgBx/geiser-20210303.1351/macros.info'
+install-info: warning: no info dir entry in `/tmp/geiseriXADjl/geiser-20210303.1351/macros.info'
 /home/kimr/repos/my/melpa/working/geiser/doc/parens.texi:36: unknown command `img'
 /home/kimr/repos/my/melpa/working/geiser/doc/parens.texi:36: misplaced {
 /home/kimr/repos/my/melpa/working/geiser/doc/parens.texi:36: misplaced }
@@ -641,7 +641,7 @@ source's mouth'
 /home/kimr/repos/my/melpa/working/geiser/doc/parens.texi:1: Next reference to nonexistent `Cheat sheet'
 /home/kimr/repos/my/melpa/working/geiser/doc/parens.texi:1: Prev reference to nonexistent `The REPL'
 /home/kimr/repos/my/melpa/working/geiser/doc/parens.texi:1: Up reference to nonexistent `Top'
-install-info: No such file or directory for /tmp/geiser7zxgBx/geiser-20210303.1351/parens.info
+install-info: No such file or directory for /tmp/geiseriXADjl/geiser-20210303.1351/parens.info
 /home/kimr/repos/my/melpa/working/geiser/doc/repl.texi:28: unknown command `altr'
 /home/kimr/repos/my/melpa/working/geiser/doc/repl.texi:28: misplaced {
 /home/kimr/repos/my/melpa/working/geiser/doc/repl.texi:28: misplaced }
@@ -679,20 +679,20 @@ install-info: No such file or directory for /tmp/geiser7zxgBx/geiser-20210303.13
 /home/kimr/repos/my/melpa/working/geiser/doc/repl.texi:346: misplaced {
 /home/kimr/repos/my/melpa/working/geiser/doc/repl.texi:346: misplaced }
 /home/kimr/repos/my/melpa/working/geiser/doc/repl.texi:4: @ref reference to nonexistent node `Installation'
-install-info: No such file or directory for /tmp/geiser7zxgBx/geiser-20210303.1351/repl.info
+install-info: No such file or directory for /tmp/geiseriXADjl/geiser-20210303.1351/repl.info
 /home/kimr/repos/my/melpa/working/geiser/doc/thanks.texi:1: Next reference to nonexistent `Index'
 /home/kimr/repos/my/melpa/working/geiser/doc/thanks.texi:1: Prev reference to nonexistent `Cheat sheet'
 /home/kimr/repos/my/melpa/working/geiser/doc/thanks.texi:1: Up reference to nonexistent `Top'
 ")
-Created /tmp/geiser7zxgBx/geiser-20210303.1351/thanks.info
-Error: (error "Command ’(env LC_ALL=C install-info --dir=dir /tmp/geiser7zxgBx/geiser-20210303.1351/thanks.info)’ exited with non-zero status 1: HEAD is now at 8e61c27 geiser-messages-mode: Don't quote lambda expressions
+Created /tmp/geiseriXADjl/geiser-20210303.1351/thanks.info
+Error: (error "Command ’(env LC_ALL=C install-info --dir=dir /tmp/geiseriXADjl/geiser-20210303.1351/thanks.info)’ exited with non-zero status 1: HEAD is now at 8e61c27 geiser-messages-mode: Don't quote lambda expressions
 /home/kimr/repos/my/melpa/working/geiser/doc/cheat.texi:1: Next reference to nonexistent `No hacker is an island'
 /home/kimr/repos/my/melpa/working/geiser/doc/cheat.texi:1: Prev reference to nonexistent `Between the parens'
 /home/kimr/repos/my/melpa/working/geiser/doc/cheat.texi:1: Up reference to nonexistent `Top'
-install-info: No such file or directory for /tmp/geiser7zxgBx/geiser-20210303.1351/cheat.info
+install-info: No such file or directory for /tmp/geiseriXADjl/geiser-20210303.1351/cheat.info
 /home/kimr/repos/my/melpa/working/geiser/doc/index.texi:5: Prev reference to nonexistent `No hacker is an island'
 /home/kimr/repos/my/melpa/working/geiser/doc/index.texi:5: Up reference to nonexistent `Top'
-install-info: No such file or directory for /tmp/geiser7zxgBx/geiser-20210303.1351/index.info
+install-info: No such file or directory for /tmp/geiseriXADjl/geiser-20210303.1351/index.info
 /home/kimr/repos/my/melpa/working/geiser/doc/install.texi:19: warning: undefined flag: EMACS_VERSION
 /home/kimr/repos/my/melpa/working/geiser/doc/install.texi:25: warning: undefined flag: GUILE_VERSION
 /home/kimr/repos/my/melpa/working/geiser/doc/install.texi:28: warning: undefined flag: CHICKEN_VERSION
@@ -706,15 +706,15 @@ install-info: No such file or directory for /tmp/geiser7zxgBx/geiser-20210303.13
 /home/kimr/repos/my/melpa/working/geiser/doc/install.texi:192: misplaced }
 /home/kimr/repos/my/melpa/working/geiser/doc/install.texi:90: @ref reference to nonexistent node `The REPL'
 /home/kimr/repos/my/melpa/working/geiser/doc/install.texi:237: @pxref reference to nonexistent node `The REPL'
-install-info: No such file or directory for /tmp/geiser7zxgBx/geiser-20210303.1351/install.info
+install-info: No such file or directory for /tmp/geiseriXADjl/geiser-20210303.1351/install.info
 /home/kimr/repos/my/melpa/working/geiser/doc/intro.texi:5: @ref reference to nonexistent node `Installation'
 /home/kimr/repos/my/melpa/working/geiser/doc/intro.texi:6: @ref reference to nonexistent node `The REPL'
 /home/kimr/repos/my/melpa/working/geiser/doc/intro.texi:1: Next reference to nonexistent `Installation'
 /home/kimr/repos/my/melpa/working/geiser/doc/intro.texi:1: Prev reference to nonexistent `Top'
 /home/kimr/repos/my/melpa/working/geiser/doc/intro.texi:1: Up reference to nonexistent `Top'
-install-info: No such file or directory for /tmp/geiser7zxgBx/geiser-20210303.1351/intro.info
+install-info: No such file or directory for /tmp/geiseriXADjl/geiser-20210303.1351/intro.info
 /home/kimr/repos/my/melpa/working/geiser/doc/macros.texi: warning: document without nodes
-install-info: warning: no info dir entry in `/tmp/geiser7zxgBx/geiser-20210303.1351/macros.info'
+install-info: warning: no info dir entry in `/tmp/geiseriXADjl/geiser-20210303.1351/macros.info'
 /home/kimr/repos/my/melpa/working/geiser/doc/parens.texi:36: unknown command `img'
 /home/kimr/repos/my/melpa/working/geiser/doc/parens.texi:36: misplaced {
 /home/kimr/repos/my/melpa/working/geiser/doc/parens.texi:36: misplaced }
@@ -758,7 +758,7 @@ source's mouth'
 /home/kimr/repos/my/melpa/working/geiser/doc/parens.texi:1: Next reference to nonexistent `Cheat sheet'
 /home/kimr/repos/my/melpa/working/geiser/doc/parens.texi:1: Prev reference to nonexistent `The REPL'
 /home/kimr/repos/my/melpa/working/geiser/doc/parens.texi:1: Up reference to nonexistent `Top'
-install-info: No such file or directory for /tmp/geiser7zxgBx/geiser-20210303.1351/parens.info
+install-info: No such file or directory for /tmp/geiseriXADjl/geiser-20210303.1351/parens.info
 /home/kimr/repos/my/melpa/working/geiser/doc/repl.texi:28: unknown command `altr'
 /home/kimr/repos/my/melpa/working/geiser/doc/repl.texi:28: misplaced {
 /home/kimr/repos/my/melpa/working/geiser/doc/repl.texi:28: misplaced }
@@ -796,14 +796,14 @@ install-info: No such file or directory for /tmp/geiser7zxgBx/geiser-20210303.13
 /home/kimr/repos/my/melpa/working/geiser/doc/repl.texi:346: misplaced {
 /home/kimr/repos/my/melpa/working/geiser/doc/repl.texi:346: misplaced }
 /home/kimr/repos/my/melpa/working/geiser/doc/repl.texi:4: @ref reference to nonexistent node `Installation'
-install-info: No such file or directory for /tmp/geiser7zxgBx/geiser-20210303.1351/repl.info
+install-info: No such file or directory for /tmp/geiseriXADjl/geiser-20210303.1351/repl.info
 /home/kimr/repos/my/melpa/working/geiser/doc/thanks.texi:1: Next reference to nonexistent `Index'
 /home/kimr/repos/my/melpa/working/geiser/doc/thanks.texi:1: Prev reference to nonexistent `Cheat sheet'
 /home/kimr/repos/my/melpa/working/geiser/doc/thanks.texi:1: Up reference to nonexistent `Top'
-install-info: No such file or directory for /tmp/geiser7zxgBx/geiser-20210303.1351/thanks.info
+install-info: No such file or directory for /tmp/geiseriXADjl/geiser-20210303.1351/thanks.info
 ")
-Created /tmp/geiser7zxgBx/geiser-20210303.1351/top.info
-Created /tmp/geiser7zxgBx/geiser-20210303.1351/web.info
+Created /tmp/geiseriXADjl/geiser-20210303.1351/top.info
+Created /tmp/geiseriXADjl/geiser-20210303.1351/web.info
 Created geiser-20210303.1351.tar containing:
   geiser-20210303.1351/
   geiser-20210303.1351/bin/
@@ -891,11 +891,9 @@ Created geiser-20210303.1351.tar containing:
   geiser-20210303.1351/scheme/racket/geiser/utils.rkt
   geiser-20210303.1351/top.info
   geiser-20210303.1351/web.info
-Built geiser in 3.121s, finished at Fri Mar 12 19:30:35 2021
+Built geiser in 2.684s, finished at Mon Mar 15 09:59:26 2021
  ✓ Success:
-4.0K -rw-rw-r-- 1 kimr kimr  185 Feb 27 07:44 packages/geiser-20210221.2032.entry
-760K -rw-rw-r-- 1 kimr kimr 760K Feb 27 07:44 packages/geiser-20210221.2032.tar
-4.0K -rw-rw-r-- 1 kimr kimr  185 Mar 12 19:30 packages/geiser-20210303.1351.entry
-760K -rw-rw-r-- 1 kimr kimr 760K Mar 12 19:30 packages/geiser-20210303.1351.tar
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K Mar 12 19:30 packages/geiser-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr   38 Mar 12 19:30 packages/geiser-readme.txt
+4.0K -rw-rw-r-- 1 kimr kimr  185 Mar 15 09:59 packages/geiser-20210303.1351.entry
+760K -rw-rw-r-- 1 kimr kimr 760K Mar 15 09:59 packages/geiser-20210303.1351.tar
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Mar 15 09:59 packages/geiser-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr   38 Mar 15 09:59 packages/geiser-readme.txt

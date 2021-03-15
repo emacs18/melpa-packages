@@ -5,7 +5,7 @@
 			 (cl-lib
 			  (0 6 1)))
 			"Highlight surrounding parentheses" single
-			((:commit . "013ac29970d5209c14da0af6c5bb9bbbcca40c02")
+			((:commit . "23fe07f588ff1e835fb9db12f1073b22d8d7ba68")
 			 (:authors
 			  ("Nikolaj Schumacher <bugs * nschum de>"))
 			 (:maintainer "Tassilo Horn" . "tsdh@gnu.org")

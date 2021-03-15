@@ -3,9 +3,9 @@ Fetcher: github
 Source:  https://github.com/borkdude/flycheck-clj-kondo.git
 
 Updating /home/kimr/repos/my/melpa/working/flycheck-clj-kondo/
-Built flycheck-clj-kondo in 0.885s, finished at Fri Mar 12 19:30:15 2021
+Built flycheck-clj-kondo in 1.006s, finished at Mon Mar 15 09:59:20 2021
  ✓ Success:
-8.0K -rw-rw-r-- 1 kimr kimr 4.4K Mar 12 19:30 packages/flycheck-clj-kondo-20201102.1128.el
-4.0K -rw-rw-r-- 1 kimr kimr  408 Mar 12 19:30 packages/flycheck-clj-kondo-20201102.1128.entry
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K Mar 12 19:30 packages/flycheck-clj-kondo-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr  247 Mar 12 19:30 packages/flycheck-clj-kondo-readme.txt
+8.0K -rw-rw-r-- 1 kimr kimr 4.4K Mar 15 09:59 packages/flycheck-clj-kondo-20201102.1128.el
+4.0K -rw-rw-r-- 1 kimr kimr  408 Mar 15 09:59 packages/flycheck-clj-kondo-20201102.1128.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Mar 15 09:59 packages/flycheck-clj-kondo-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr  247 Mar 15 09:59 packages/flycheck-clj-kondo-readme.txt
