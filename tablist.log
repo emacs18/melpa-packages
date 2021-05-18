@@ -5,7 +5,7 @@ Source:  https://github.com/politza/tablist.git
 Updating /home/kimr/repos/my/melpa/working/tablist/
 Copying files (->) and directories (=>)
   from /home/kimr/repos/my/melpa/working/tablist/
-  to /tmp/tablistHDeErk/tablist-20200427.2205
+  to /tmp/tablistgCfI0g/tablist-20200427.2205
     tablist-filter.el -> tablist-filter.el
     tablist.el -> tablist.el
 Created tablist-20200427.2205.tar containing:
@@ -13,9 +13,9 @@ Created tablist-20200427.2205.tar containing:
   tablist-20200427.2205/tablist-filter.el
   tablist-20200427.2205/tablist-pkg.el
   tablist-20200427.2205/tablist.el
-Built tablist in 1.728s, finished at Fri Mar 12 19:35:57 2021
+Built tablist in 1.087s, finished at Mon May 17 20:50:31 2021
  ✓ Success:
-4.0K -rw-rw-r-- 1 kimr kimr  313 Mar 12 19:35 packages/tablist-20200427.2205.entry
- 92K -rw-rw-r-- 1 kimr kimr  90K Mar 12 19:35 packages/tablist-20200427.2205.tar
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K Mar 12 19:35 packages/tablist-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr  252 Mar 12 19:35 packages/tablist-readme.txt
+4.0K -rw-rw-r-- 1 kimr kimr  313 May 17 20:50 packages/tablist-20200427.2205.entry
+ 92K -rw-rw-r-- 1 kimr kimr  90K May 17 20:50 packages/tablist-20200427.2205.tar
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K May 17 20:50 packages/tablist-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr  252 May 17 20:50 packages/tablist-readme.txt

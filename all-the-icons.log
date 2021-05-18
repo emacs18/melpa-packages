@@ -5,27 +5,27 @@ Source:  https://github.com/domtronn/all-the-icons.el.git
 Updating /home/kimr/repos/my/melpa/working/all-the-icons/
 Copying files (->) and directories (=>)
   from /home/kimr/repos/my/melpa/working/all-the-icons/
-  to /tmp/all-the-iconsgGW9CQ/all-the-icons-20210313.2205
+  to /tmp/all-the-iconsK3V5kH/all-the-icons-20210513.1918
     all-the-icons-faces.el -> all-the-icons-faces.el
     all-the-icons.el -> all-the-icons.el
     data => data
-Created all-the-icons-20210313.2205.tar containing:
-  all-the-icons-20210313.2205/
-  all-the-icons-20210313.2205/all-the-icons-faces.el
-  all-the-icons-20210313.2205/all-the-icons-pkg.el
-  all-the-icons-20210313.2205/all-the-icons.el
-  all-the-icons-20210313.2205/data/
-  all-the-icons-20210313.2205/data/data-alltheicons.el
-  all-the-icons-20210313.2205/data/data-faicons.el
-  all-the-icons-20210313.2205/data/data-fileicons.el
-  all-the-icons-20210313.2205/data/data-material.el
-  all-the-icons-20210313.2205/data/data-octicons.el
-  all-the-icons-20210313.2205/data/data-weathericons.el
-Built all-the-icons in 1.021s, finished at Mon Mar 15 09:58:58 2021
+Created all-the-icons-20210513.1918.tar containing:
+  all-the-icons-20210513.1918/
+  all-the-icons-20210513.1918/all-the-icons-faces.el
+  all-the-icons-20210513.1918/all-the-icons-pkg.el
+  all-the-icons-20210513.1918/all-the-icons.el
+  all-the-icons-20210513.1918/data/
+  all-the-icons-20210513.1918/data/data-alltheicons.el
+  all-the-icons-20210513.1918/data/data-faicons.el
+  all-the-icons-20210513.1918/data/data-fileicons.el
+  all-the-icons-20210513.1918/data/data-material.el
+  all-the-icons-20210513.1918/data/data-octicons.el
+  all-the-icons-20210513.1918/data/data-weathericons.el
+Built all-the-icons in 0.881s, finished at Mon May 17 20:42:14 2021
  ✓ Success:
-4.0K -rw-rw-r-- 1 kimr kimr  393 Mar 12 19:27 packages/all-the-icons-20210307.1457.entry
-192K -rw-rw-r-- 1 kimr kimr 190K Mar 12 19:27 packages/all-the-icons-20210307.1457.tar
 4.0K -rw-rw-r-- 1 kimr kimr  393 Mar 15 09:58 packages/all-the-icons-20210313.2205.entry
 192K -rw-rw-r-- 1 kimr kimr 190K Mar 15 09:58 packages/all-the-icons-20210313.2205.tar
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K Mar 15 09:58 packages/all-the-icons-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr 1010 Mar 15 09:58 packages/all-the-icons-readme.txt
+4.0K -rw-rw-r-- 1 kimr kimr  393 May 17 20:42 packages/all-the-icons-20210513.1918.entry
+192K -rw-rw-r-- 1 kimr kimr 190K May 17 20:42 packages/all-the-icons-20210513.1918.tar
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K May 17 20:42 packages/all-the-icons-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr 1010 May 17 20:42 packages/all-the-icons-readme.txt

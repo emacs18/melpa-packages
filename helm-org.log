@@ -4,14 +4,16 @@ Source:  https://github.com/emacs-helm/helm-org.git
 
 Updating /home/kimr/repos/my/melpa/working/helm-org/
 Note: helm-org :files spec is equivalent to the default.
-Built helm-org in 0.605s, finished at Fri Mar 12 19:31:43 2021
+Built helm-org in 1.077s, finished at Mon May 17 20:46:35 2021
  ✓ Success:
  24K -rw-rw-r-- 1 kimr kimr  22K Mar 12 19:31 packages/helm-org-20200311.633.el
 4.0K -rw-rw-r-- 1 kimr kimr  407 Mar 12 19:31 packages/helm-org-20200311.633.entry
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K Mar 12 19:31 packages/helm-org-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr   48 Mar 12 19:31 packages/helm-org-readme.txt
- 84K -rw-rw-r-- 1 kimr kimr  82K Feb 27 07:46 packages/helm-org-rifle-20200512.1943.el
-4.0K -rw-rw-r-- 1 kimr kimr  468 Feb 27 07:46 packages/helm-org-rifle-20200512.1943.entry
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K Feb 27 07:46 packages/helm-org-rifle-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr  573 Feb 27 07:46 packages/helm-org-rifle.log
-4.0K -rw-rw-r-- 1 kimr kimr 1.1K Feb 27 07:46 packages/helm-org-rifle-readme.txt
+ 24K -rw-rw-r-- 1 kimr kimr  22K May 17 20:46 packages/helm-org-20210324.1927.el
+4.0K -rw-rw-r-- 1 kimr kimr  408 May 17 20:46 packages/helm-org-20210324.1927.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K May 17 20:46 packages/helm-org-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr   48 May 17 20:46 packages/helm-org-readme.txt
+ 84K -rw-rw-r-- 1 kimr kimr  82K Mar 12 19:31 packages/helm-org-rifle-20200512.1943.el
+4.0K -rw-rw-r-- 1 kimr kimr  468 Mar 12 19:31 packages/helm-org-rifle-20200512.1943.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Mar 12 19:31 packages/helm-org-rifle-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr  573 Mar 12 19:31 packages/helm-org-rifle.log
+4.0K -rw-rw-r-- 1 kimr kimr 1.1K Mar 12 19:31 packages/helm-org-rifle-readme.txt

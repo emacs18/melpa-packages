@@ -2,10 +2,10 @@ Package: pdf-view-restore
 Fetcher: github
 Source:  https://github.com/007kevin/pdf-view-restore.git
 
-Cloning https://github.com/007kevin/pdf-view-restore.git to /home/kimr/repos/my/melpa/working/pdf-view-restore/
-Built pdf-view-restore in 1.265s, finished at Mon Mar 15 09:36:07 2021
+Updating /home/kimr/repos/my/melpa/working/pdf-view-restore/
+Built pdf-view-restore in 1.481s, finished at Mon May 17 20:49:21 2021
  ✓ Success:
-8.0K -rw-rw-r-- 1 kimr kimr 4.4K Mar 15 09:36 packages/pdf-view-restore-20190904.1708.el
-4.0K -rw-rw-r-- 1 kimr kimr  466 Mar 15 09:36 packages/pdf-view-restore-20190904.1708.entry
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K Mar 15 09:36 packages/pdf-view-restore-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr  302 Mar 15 09:36 packages/pdf-view-restore-readme.txt
+8.0K -rw-rw-r-- 1 kimr kimr 4.4K May 17 20:49 packages/pdf-view-restore-20190904.1708.el
+4.0K -rw-rw-r-- 1 kimr kimr  466 May 17 20:49 packages/pdf-view-restore-20190904.1708.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K May 17 20:49 packages/pdf-view-restore-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr  302 May 17 20:49 packages/pdf-view-restore-readme.txt

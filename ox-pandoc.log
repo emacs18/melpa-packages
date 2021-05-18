@@ -2,10 +2,10 @@ Package: ox-pandoc
 Fetcher: github
 Source:  https://github.com/kawabata/ox-pandoc.git
 
-Cloning https://github.com/kawabata/ox-pandoc.git to /home/kimr/repos/my/melpa/working/ox-pandoc/
-Built ox-pandoc in 2.166s, finished at Sat Mar 13 07:33:20 2021
+Updating /home/kimr/repos/my/melpa/working/ox-pandoc/
+Built ox-pandoc in 1.249s, finished at Mon May 17 20:48:57 2021
  ✓ Success:
- 68K -rw-rw-r-- 1 kimr kimr  68K Mar 13 07:33 packages/ox-pandoc-20180510.1338.el
-4.0K -rw-rw-r-- 1 kimr kimr  492 Mar 13 07:33 packages/ox-pandoc-20180510.1338.entry
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K Mar 13 07:33 packages/ox-pandoc-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr  258 Mar 13 07:33 packages/ox-pandoc-readme.txt
+ 68K -rw-rw-r-- 1 kimr kimr  68K May 17 20:48 packages/ox-pandoc-20180510.1338.el
+4.0K -rw-rw-r-- 1 kimr kimr  492 May 17 20:48 packages/ox-pandoc-20180510.1338.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K May 17 20:48 packages/ox-pandoc-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr  258 May 17 20:48 packages/ox-pandoc-readme.txt

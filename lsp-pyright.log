@@ -3,9 +3,11 @@ Fetcher: github
 Source:  https://github.com/emacs-lsp/lsp-pyright.git
 
 Updating /home/kimr/repos/my/melpa/working/lsp-pyright/
-Built lsp-pyright in 0.549s, finished at Mon Mar 15 09:59:49 2021
+Built lsp-pyright in 1.453s, finished at Mon May 17 20:47:44 2021
  ✓ Success:
  12K -rw-rw-r-- 1 kimr kimr 9.2K Mar 15 09:59 packages/lsp-pyright-20210220.1714.el
 4.0K -rw-rw-r-- 1 kimr kimr  501 Mar 15 09:59 packages/lsp-pyright-20210220.1714.entry
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K Mar 15 09:59 packages/lsp-pyright-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr   27 Mar 15 09:59 packages/lsp-pyright-readme.txt
+ 12K -rw-rw-r-- 1 kimr kimr 9.7K May 17 20:47 packages/lsp-pyright-20210513.1022.el
+4.0K -rw-rw-r-- 1 kimr kimr  501 May 17 20:47 packages/lsp-pyright-20210513.1022.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K May 17 20:47 packages/lsp-pyright-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr   27 May 17 20:47 packages/lsp-pyright-readme.txt

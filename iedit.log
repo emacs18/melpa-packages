@@ -5,19 +5,21 @@ Source:  https://github.com/victorhge/iedit.git
 Updating /home/kimr/repos/my/melpa/working/iedit/
 Copying files (->) and directories (=>)
   from /home/kimr/repos/my/melpa/working/iedit/
-  to /tmp/ieditR5jgUV/iedit-20210203.23
+  to /tmp/ieditQsuil1/iedit-20210402.854
     iedit-lib.el -> iedit-lib.el
     iedit-rect.el -> iedit-rect.el
     iedit.el -> iedit.el
-Created iedit-20210203.23.tar containing:
-  iedit-20210203.23/
-  iedit-20210203.23/iedit-lib.el
-  iedit-20210203.23/iedit-pkg.el
-  iedit-20210203.23/iedit-rect.el
-  iedit-20210203.23/iedit.el
-Built iedit in 1.098s, finished at Fri Mar 12 19:32:07 2021
+Created iedit-20210402.854.tar containing:
+  iedit-20210402.854/
+  iedit-20210402.854/iedit-lib.el
+  iedit-20210402.854/iedit-pkg.el
+  iedit-20210402.854/iedit-rect.el
+  iedit-20210402.854/iedit.el
+Built iedit in 0.972s, finished at Mon May 17 20:46:59 2021
  ✓ Success:
 4.0K -rw-rw-r-- 1 kimr kimr  377 Mar 12 19:32 packages/iedit-20210203.23.entry
 100K -rw-rw-r-- 1 kimr kimr 100K Mar 12 19:32 packages/iedit-20210203.23.tar
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K Mar 12 19:32 packages/iedit-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr 2.8K Mar 12 19:32 packages/iedit-readme.txt
+4.0K -rw-rw-r-- 1 kimr kimr  378 May 17 20:46 packages/iedit-20210402.854.entry
+100K -rw-rw-r-- 1 kimr kimr 100K May 17 20:46 packages/iedit-20210402.854.tar
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K May 17 20:46 packages/iedit-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr 2.8K May 17 20:46 packages/iedit-readme.txt

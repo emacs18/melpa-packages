@@ -5,7 +5,7 @@
 		 (dash
 		  (20200524)))
 		"Sections for read-only buffers" tar
-		((:commit . "cb9bb20cfe8e3a50df8669a43611ebc9a516358a")
+		((:commit . "fcd50dd8ae7cb33332eb7c6d90932be41b869cae")
 		 (:authors
 		  ("Jonas Bernoulli" . "jonas@bernoul.li"))
 		 (:maintainer "Jonas Bernoulli" . "jonas@bernoul.li")

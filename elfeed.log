@@ -5,7 +5,7 @@ Source:  https://github.com/skeeto/elfeed.git
 Updating /home/kimr/repos/my/melpa/working/elfeed/
 Copying files (->) and directories (=>)
   from /home/kimr/repos/my/melpa/working/elfeed/
-  to /tmp/elfeedzx5NdT/elfeed-20210309.2323
+  to /tmp/elfeeds2OK8d/elfeed-20210309.2323
     elfeed-csv.el -> elfeed-csv.el
     elfeed-curl.el -> elfeed-curl.el
     elfeed-db.el -> elfeed-db.el
@@ -30,11 +30,11 @@ Created elfeed-20210309.2323.tar containing:
   elfeed-20210309.2323/elfeed-show.el
   elfeed-20210309.2323/elfeed.el
   elfeed-20210309.2323/xml-query.el
-Built elfeed in 0.537s, finished at Mon Mar 15 09:59:13 2021
+Built elfeed in 1.090s, finished at Mon May 17 20:43:55 2021
  ✓ Success:
-4.0K -rw-rw-r-- 1 kimr kimr  334 Mar 15 09:59 packages/elfeed-20210309.2323.entry
-180K -rw-rw-r-- 1 kimr kimr 180K Mar 15 09:59 packages/elfeed-20210309.2323.tar
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K Mar 15 09:59 packages/elfeed-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr  334 May 17 20:43 packages/elfeed-20210309.2323.entry
+180K -rw-rw-r-- 1 kimr kimr 180K May 17 20:43 packages/elfeed-20210309.2323.tar
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K May 17 20:43 packages/elfeed-badge.svg
 4.0K -rw-rw-r-- 1 kimr kimr  413 Mar 12 19:29 packages/elfeed-goodies-20190128.1631.entry
  32K -rw-rw-r-- 1 kimr kimr  30K Mar 12 19:29 packages/elfeed-goodies-20190128.1631.tar
 4.0K -rw-rw-r-- 1 kimr kimr 1.2K Mar 12 19:29 packages/elfeed-goodies-badge.svg
@@ -45,4 +45,4 @@ Built elfeed in 0.537s, finished at Mon Mar 15 09:59:13 2021
 4.0K -rw-rw-r-- 1 kimr kimr 1.2K Mar 12 19:29 packages/elfeed-org-badge.svg
 4.0K -rw-rw-r-- 1 kimr kimr  546 Mar 12 19:29 packages/elfeed-org.log
 4.0K -rw-rw-r-- 1 kimr kimr  466 Mar 12 19:29 packages/elfeed-org-readme.txt
-4.0K -rw-rw-r-- 1 kimr kimr   99 Mar 15 09:59 packages/elfeed-readme.txt
+4.0K -rw-rw-r-- 1 kimr kimr   99 May 17 20:43 packages/elfeed-readme.txt

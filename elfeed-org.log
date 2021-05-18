@@ -3,9 +3,11 @@ Fetcher: github
 Source:  https://github.com/remyhonig/elfeed-org.git
 
 Updating /home/kimr/repos/my/melpa/working/elfeed-org/
-Built elfeed-org in 1.098s, finished at Fri Mar 12 19:29:08 2021
+Built elfeed-org in 1.063s, finished at Mon May 17 20:43:58 2021
  ✓ Success:
  20K -rw-rw-r-- 1 kimr kimr  17K Mar 12 19:29 packages/elfeed-org-20181015.1100.el
 4.0K -rw-rw-r-- 1 kimr kimr  522 Mar 12 19:29 packages/elfeed-org-20181015.1100.entry
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K Mar 12 19:29 packages/elfeed-org-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr  466 Mar 12 19:29 packages/elfeed-org-readme.txt
+ 20K -rw-rw-r-- 1 kimr kimr  17K May 17 20:43 packages/elfeed-org-20210510.1219.el
+4.0K -rw-rw-r-- 1 kimr kimr  522 May 17 20:43 packages/elfeed-org-20210510.1219.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K May 17 20:43 packages/elfeed-org-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr  466 May 17 20:43 packages/elfeed-org-readme.txt

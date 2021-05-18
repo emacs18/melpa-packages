@@ -5,23 +5,23 @@ Source:  https://github.com/emacs-helm/helm.git
 Updating /home/kimr/repos/my/melpa/working/helm-core/
 Copying files (->) and directories (=>)
   from /home/kimr/repos/my/melpa/working/helm-core/
-  to /tmp/helm-corerMWgyP/helm-core-20210315.1547
+  to /tmp/helm-coreWeLJmT/helm-core-20210504.1723
     helm-core-pkg.el -> helm-core-pkg.el
     helm.el -> helm.el
     helm-lib.el -> helm-lib.el
     helm-source.el -> helm-source.el
     helm-multi-match.el -> helm-multi-match.el
-Created helm-core-20210315.1547.tar containing:
-  helm-core-20210315.1547/
-  helm-core-20210315.1547/helm-core-pkg.el
-  helm-core-20210315.1547/helm-lib.el
-  helm-core-20210315.1547/helm-multi-match.el
-  helm-core-20210315.1547/helm-source.el
-  helm-core-20210315.1547/helm.el
-Built helm-core in 0.587s, finished at Mon Mar 15 09:59:36 2021
+Created helm-core-20210504.1723.tar containing:
+  helm-core-20210504.1723/
+  helm-core-20210504.1723/helm-core-pkg.el
+  helm-core-20210504.1723/helm-lib.el
+  helm-core-20210504.1723/helm-multi-match.el
+  helm-core-20210504.1723/helm-source.el
+  helm-core-20210504.1723/helm.el
+Built helm-core in 0.946s, finished at Mon May 17 20:46:18 2021
  ✓ Success:
-4.0K -rw-rw-r-- 1 kimr kimr  194 Mar 12 19:31 packages/helm-core-20210211.1417.entry
-452K -rw-rw-r-- 1 kimr kimr 450K Mar 12 19:31 packages/helm-core-20210211.1417.tar
 4.0K -rw-rw-r-- 1 kimr kimr  194 Mar 15 09:59 packages/helm-core-20210315.1547.entry
 452K -rw-rw-r-- 1 kimr kimr 450K Mar 15 09:59 packages/helm-core-20210315.1547.tar
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K Mar 15 09:59 packages/helm-core-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr  194 May 17 20:46 packages/helm-core-20210504.1723.entry
+452K -rw-rw-r-- 1 kimr kimr 450K May 17 20:46 packages/helm-core-20210504.1723.tar
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K May 17 20:46 packages/helm-core-badge.svg

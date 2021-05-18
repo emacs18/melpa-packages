@@ -3,9 +3,9 @@ Fetcher: github
 Source:  https://github.com/mhayashi1120/Emacs-wgrep.git
 
 Updating /home/kimr/repos/my/melpa/working/wgrep-ag/
-Built wgrep-ag in 0.575s, finished at Fri Mar 12 19:36:33 2021
+Built wgrep-ag in 1.047s, finished at Mon May 17 20:51:03 2021
  ✓ Success:
-8.0K -rw-rw-r-- 1 kimr kimr 7.8K Mar 12 19:36 packages/wgrep-ag-20200217.1028.el
-4.0K -rw-rw-r-- 1 kimr kimr  447 Mar 12 19:36 packages/wgrep-ag-20200217.1028.entry
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K Mar 12 19:36 packages/wgrep-ag-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr   84 Mar 12 19:36 packages/wgrep-ag-readme.txt
+8.0K -rw-rw-r-- 1 kimr kimr 7.8K May 17 20:51 packages/wgrep-ag-20200217.1028.el
+4.0K -rw-rw-r-- 1 kimr kimr  447 May 17 20:51 packages/wgrep-ag-20200217.1028.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K May 17 20:51 packages/wgrep-ag-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr   84 May 17 20:51 packages/wgrep-ag-readme.txt

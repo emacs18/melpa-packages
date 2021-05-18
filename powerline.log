@@ -5,21 +5,21 @@ Source:  https://github.com/milkypostman/powerline.git
 Updating /home/kimr/repos/my/melpa/working/powerline/
 Copying files (->) and directories (=>)
   from /home/kimr/repos/my/melpa/working/powerline/
-  to /tmp/powerlinexHRk9T/powerline-20210313.1621
+  to /tmp/powerline8YQJW7/powerline-20210428.1229
     powerline-separators.el -> powerline-separators.el
     powerline-themes.el -> powerline-themes.el
     powerline.el -> powerline.el
-Created powerline-20210313.1621.tar containing:
-  powerline-20210313.1621/
-  powerline-20210313.1621/powerline-pkg.el
-  powerline-20210313.1621/powerline-separators.el
-  powerline-20210313.1621/powerline-themes.el
-  powerline-20210313.1621/powerline.el
-Built powerline in 0.471s, finished at Mon Mar 15 09:59:55 2021
+Created powerline-20210428.1229.tar containing:
+  powerline-20210428.1229/
+  powerline-20210428.1229/powerline-pkg.el
+  powerline-20210428.1229/powerline-separators.el
+  powerline-20210428.1229/powerline-themes.el
+  powerline-20210428.1229/powerline.el
+Built powerline in 0.897s, finished at Mon May 17 20:49:36 2021
  ✓ Success:
-4.0K -rw-rw-r-- 1 kimr kimr  390 Mar 12 19:34 packages/powerline-20201129.2306.entry
- 80K -rw-rw-r-- 1 kimr kimr  80K Mar 12 19:34 packages/powerline-20201129.2306.tar
 4.0K -rw-rw-r-- 1 kimr kimr  390 Mar 15 09:59 packages/powerline-20210313.1621.entry
  80K -rw-rw-r-- 1 kimr kimr  80K Mar 15 09:59 packages/powerline-20210313.1621.tar
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K Mar 15 09:59 packages/powerline-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr  148 Mar 15 09:59 packages/powerline-readme.txt
+4.0K -rw-rw-r-- 1 kimr kimr  390 May 17 20:49 packages/powerline-20210428.1229.entry
+ 80K -rw-rw-r-- 1 kimr kimr  80K May 17 20:49 packages/powerline-20210428.1229.tar
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K May 17 20:49 packages/powerline-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr  148 May 17 20:49 packages/powerline-readme.txt

@@ -3,9 +3,11 @@ Fetcher: github
 Source:  https://github.com/cask/shut-up.git
 
 Updating /home/kimr/repos/my/melpa/working/shut-up/
-Built shut-up in 1.635s, finished at Fri Mar 12 19:35:38 2021
+Built shut-up in 1.032s, finished at Mon May 17 20:50:12 2021
  ✓ Success:
 8.0K -rw-rw-r-- 1 kimr kimr 5.4K Mar 12 19:35 packages/shut-up-20180628.1830.el
 4.0K -rw-rw-r-- 1 kimr kimr  351 Mar 12 19:35 packages/shut-up-20180628.1830.entry
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K Mar 12 19:35 packages/shut-up-badge.svg
-   0 -rw-rw-r-- 1 kimr kimr    0 Mar 12 19:35 packages/shut-up-readme.txt
+8.0K -rw-rw-r-- 1 kimr kimr 5.4K May 17 20:50 packages/shut-up-20210403.1249.el
+4.0K -rw-rw-r-- 1 kimr kimr  351 May 17 20:50 packages/shut-up-20210403.1249.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K May 17 20:50 packages/shut-up-badge.svg
+   0 -rw-rw-r-- 1 kimr kimr    0 May 17 20:50 packages/shut-up-readme.txt

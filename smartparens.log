@@ -5,7 +5,7 @@ Source:  https://github.com/Fuco1/smartparens.git
 Updating /home/kimr/repos/my/melpa/working/smartparens/
 Copying files (->) and directories (=>)
   from /home/kimr/repos/my/melpa/working/smartparens/
-  to /tmp/smartparenskfIyLg/smartparens-20210213.1851
+  to /tmp/smartparenssqJ1Vn/smartparens-20210330.850
     smartparens-c.el -> smartparens-c.el
     smartparens-clojure.el -> smartparens-clojure.el
     smartparens-config.el -> smartparens-config.el
@@ -30,35 +30,37 @@ Copying files (->) and directories (=>)
     smartparens-text.el -> smartparens-text.el
     smartparens.el -> smartparens.el
     sp-sublimetext-like.el -> sp-sublimetext-like.el
-Created smartparens-20210213.1851.tar containing:
-  smartparens-20210213.1851/
-  smartparens-20210213.1851/smartparens-c.el
-  smartparens-20210213.1851/smartparens-clojure.el
-  smartparens-20210213.1851/smartparens-config.el
-  smartparens-20210213.1851/smartparens-crystal.el
-  smartparens-20210213.1851/smartparens-elixir.el
-  smartparens-20210213.1851/smartparens-ess.el
-  smartparens-20210213.1851/smartparens-haskell.el
-  smartparens-20210213.1851/smartparens-html.el
-  smartparens-20210213.1851/smartparens-javascript.el
-  smartparens-20210213.1851/smartparens-latex.el
-  smartparens-20210213.1851/smartparens-lua.el
-  smartparens-20210213.1851/smartparens-markdown.el
-  smartparens-20210213.1851/smartparens-ml.el
-  smartparens-20210213.1851/smartparens-org.el
-  smartparens-20210213.1851/smartparens-pkg.el
-  smartparens-20210213.1851/smartparens-python.el
-  smartparens-20210213.1851/smartparens-racket.el
-  smartparens-20210213.1851/smartparens-rst.el
-  smartparens-20210213.1851/smartparens-ruby.el
-  smartparens-20210213.1851/smartparens-rust.el
-  smartparens-20210213.1851/smartparens-scala.el
-  smartparens-20210213.1851/smartparens-text.el
-  smartparens-20210213.1851/smartparens.el
-  smartparens-20210213.1851/sp-sublimetext-like.el
-Built smartparens in 1.113s, finished at Fri Mar 12 19:35:43 2021
+Created smartparens-20210330.850.tar containing:
+  smartparens-20210330.850/
+  smartparens-20210330.850/smartparens-c.el
+  smartparens-20210330.850/smartparens-clojure.el
+  smartparens-20210330.850/smartparens-config.el
+  smartparens-20210330.850/smartparens-crystal.el
+  smartparens-20210330.850/smartparens-elixir.el
+  smartparens-20210330.850/smartparens-ess.el
+  smartparens-20210330.850/smartparens-haskell.el
+  smartparens-20210330.850/smartparens-html.el
+  smartparens-20210330.850/smartparens-javascript.el
+  smartparens-20210330.850/smartparens-latex.el
+  smartparens-20210330.850/smartparens-lua.el
+  smartparens-20210330.850/smartparens-markdown.el
+  smartparens-20210330.850/smartparens-ml.el
+  smartparens-20210330.850/smartparens-org.el
+  smartparens-20210330.850/smartparens-pkg.el
+  smartparens-20210330.850/smartparens-python.el
+  smartparens-20210330.850/smartparens-racket.el
+  smartparens-20210330.850/smartparens-rst.el
+  smartparens-20210330.850/smartparens-ruby.el
+  smartparens-20210330.850/smartparens-rust.el
+  smartparens-20210330.850/smartparens-scala.el
+  smartparens-20210330.850/smartparens-text.el
+  smartparens-20210330.850/smartparens.el
+  smartparens-20210330.850/sp-sublimetext-like.el
+Built smartparens in 1.020s, finished at Mon May 17 20:50:16 2021
  ✓ Success:
 4.0K -rw-rw-r-- 1 kimr kimr  490 Mar 12 19:35 packages/smartparens-20210213.1851.entry
 500K -rw-rw-r-- 1 kimr kimr 500K Mar 12 19:35 packages/smartparens-20210213.1851.tar
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K Mar 12 19:35 packages/smartparens-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr  836 Mar 12 19:35 packages/smartparens-readme.txt
+4.0K -rw-rw-r-- 1 kimr kimr  489 May 17 20:50 packages/smartparens-20210330.850.entry
+512K -rw-rw-r-- 1 kimr kimr 510K May 17 20:50 packages/smartparens-20210330.850.tar
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K May 17 20:50 packages/smartparens-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr  836 May 17 20:50 packages/smartparens-readme.txt

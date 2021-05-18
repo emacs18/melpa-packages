@@ -5,7 +5,7 @@ Source:  https://github.com/auto-complete/auto-complete.git
 Updating /home/kimr/repos/my/melpa/working/auto-complete/
 Copying files (->) and directories (=>)
   from /home/kimr/repos/my/melpa/working/auto-complete/
-  to /tmp/auto-completeZpOCg4/auto-complete-20201213.1255
+  to /tmp/auto-completeHPW9yE/auto-complete-20201213.1255
     auto-complete-config.el -> auto-complete-config.el
     auto-complete-pkg.el -> auto-complete-pkg.el
     auto-complete.el -> auto-complete.el
@@ -48,9 +48,9 @@ Created auto-complete-20201213.1255.tar containing:
   auto-complete-20201213.1255/dict/ts-mode
   auto-complete-20201213.1255/dict/tuareg-mode
   auto-complete-20201213.1255/dict/verilog-mode
-Built auto-complete in 1.051s, finished at Fri Mar 12 19:27:35 2021
+Built auto-complete in 1.041s, finished at Mon May 17 20:42:24 2021
  ✓ Success:
-4.0K -rw-rw-r-- 1 kimr kimr  415 Mar 12 19:27 packages/auto-complete-20201213.1255.entry
-332K -rw-rw-r-- 1 kimr kimr 330K Mar 12 19:27 packages/auto-complete-20201213.1255.tar
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K Mar 12 19:27 packages/auto-complete-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr  355 Mar 12 19:27 packages/auto-complete-readme.txt
+4.0K -rw-rw-r-- 1 kimr kimr  415 May 17 20:42 packages/auto-complete-20201213.1255.entry
+332K -rw-rw-r-- 1 kimr kimr 330K May 17 20:42 packages/auto-complete-20201213.1255.tar
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K May 17 20:42 packages/auto-complete-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr  355 May 17 20:42 packages/auto-complete-readme.txt

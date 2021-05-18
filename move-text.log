@@ -3,9 +3,9 @@ Fetcher: github
 Source:  https://github.com/emacsfodder/move-text.git
 
 Updating /home/kimr/repos/my/melpa/working/move-text/
-Built move-text in 1.167s, finished at Fri Mar 12 19:33:21 2021
+Built move-text in 1.026s, finished at Mon May 17 20:48:08 2021
  ✓ Success:
-8.0K -rw-rw-r-- 1 kimr kimr 6.2K Mar 12 19:33 packages/move-text-20170909.330.el
-4.0K -rw-rw-r-- 1 kimr kimr  371 Mar 12 19:33 packages/move-text-20170909.330.entry
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K Mar 12 19:33 packages/move-text-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr  705 Mar 12 19:33 packages/move-text-readme.txt
+8.0K -rw-rw-r-- 1 kimr kimr 6.2K May 17 20:48 packages/move-text-20170909.330.el
+4.0K -rw-rw-r-- 1 kimr kimr  371 May 17 20:48 packages/move-text-20170909.330.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K May 17 20:48 packages/move-text-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr  705 May 17 20:48 packages/move-text-readme.txt

@@ -5,17 +5,19 @@ Source:  https://github.com/tali713/esxml.git
 Updating /home/kimr/repos/my/melpa/working/esxml/
 Copying files (->) and directories (=>)
   from /home/kimr/repos/my/melpa/working/esxml/
-  to /tmp/esxmlWybS4W/esxml-20201226.2146
+  to /tmp/esxmlILxFdP/esxml-20210323.1102
     esxml.el -> esxml.el
     esxml-query.el -> esxml-query.el
-Created esxml-20201226.2146.tar containing:
-  esxml-20201226.2146/
-  esxml-20201226.2146/esxml-pkg.el
-  esxml-20201226.2146/esxml-query.el
-  esxml-20201226.2146/esxml.el
-Built esxml in 0.607s, finished at Mon Mar 15 09:59:17 2021
+Created esxml-20210323.1102.tar containing:
+  esxml-20210323.1102/
+  esxml-20210323.1102/esxml-pkg.el
+  esxml-20210323.1102/esxml-query.el
+  esxml-20210323.1102/esxml.el
+Built esxml in 1.023s, finished at Mon May 17 20:44:18 2021
  ✓ Success:
 4.0K -rw-rw-r-- 1 kimr kimr  294 Mar 15 09:59 packages/esxml-20201226.2146.entry
  52K -rw-rw-r-- 1 kimr kimr  50K Mar 15 09:59 packages/esxml-20201226.2146.tar
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K Mar 15 09:59 packages/esxml-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr  882 Mar 15 09:59 packages/esxml-readme.txt
+4.0K -rw-rw-r-- 1 kimr kimr  329 May 17 20:44 packages/esxml-20210323.1102.entry
+ 52K -rw-rw-r-- 1 kimr kimr  50K May 17 20:44 packages/esxml-20210323.1102.tar
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K May 17 20:44 packages/esxml-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr  882 May 17 20:44 packages/esxml-readme.txt

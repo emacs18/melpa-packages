@@ -5,7 +5,7 @@ Source:  https://github.com/emacs-elsa/flycheck-elsa.git
 Updating /home/kimr/repos/my/melpa/working/flycheck-elsa/
 Copying files (->) and directories (=>)
   from /home/kimr/repos/my/melpa/working/flycheck-elsa/
-  to /tmp/flycheck-elsawqkK8c/flycheck-elsa-20200203.1758
+  to /tmp/flycheck-elsan3Uj9h/flycheck-elsa-20200203.1758
     Elsafile.el -> Elsafile.el
     flycheck-elsa.el -> flycheck-elsa.el
 Created flycheck-elsa-20200203.1758.tar containing:
@@ -13,9 +13,9 @@ Created flycheck-elsa-20200203.1758.tar containing:
   flycheck-elsa-20200203.1758/Elsafile.el
   flycheck-elsa-20200203.1758/flycheck-elsa-pkg.el
   flycheck-elsa-20200203.1758/flycheck-elsa.el
-Built flycheck-elsa in 1.154s, finished at Fri Mar 12 19:30:17 2021
+Built flycheck-elsa in 1.179s, finished at Mon May 17 20:45:08 2021
  ✓ Success:
-4.0K -rw-rw-r-- 1 kimr kimr  382 Mar 12 19:30 packages/flycheck-elsa-20200203.1758.entry
- 12K -rw-rw-r-- 1 kimr kimr  10K Mar 12 19:30 packages/flycheck-elsa-20200203.1758.tar
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K Mar 12 19:30 packages/flycheck-elsa-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr   46 Mar 12 19:30 packages/flycheck-elsa-readme.txt
+4.0K -rw-rw-r-- 1 kimr kimr  382 May 17 20:45 packages/flycheck-elsa-20200203.1758.entry
+ 12K -rw-rw-r-- 1 kimr kimr  10K May 17 20:45 packages/flycheck-elsa-20200203.1758.tar
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K May 17 20:45 packages/flycheck-elsa-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr   46 May 17 20:45 packages/flycheck-elsa-readme.txt

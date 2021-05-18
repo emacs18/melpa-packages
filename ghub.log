@@ -5,7 +5,7 @@ Source:  https://github.com/magit/ghub.git
 Updating /home/kimr/repos/my/melpa/working/ghub/
 Copying files (->) and directories (=>)
   from /home/kimr/repos/my/melpa/working/ghub/
-  to /tmp/ghubZdUio9/ghub-20210227.1925
+  to /tmp/ghubonZChh/ghub-20210427.1239
     buck.el -> buck.el
     ghub-graphql.el -> ghub-graphql.el
     ghub-pkg.el -> ghub-pkg.el
@@ -15,22 +15,24 @@ Copying files (->) and directories (=>)
     gsexp.el -> gsexp.el
     gtea.el -> gtea.el
     ghub.texi -> ghub.texi
-Created /tmp/ghubZdUio9/ghub-20210227.1925/ghub.info
-Created ghub-20210227.1925.tar containing:
-  ghub-20210227.1925/
-  ghub-20210227.1925/buck.el
-  ghub-20210227.1925/dir
-  ghub-20210227.1925/ghub-graphql.el
-  ghub-20210227.1925/ghub-pkg.el
-  ghub-20210227.1925/ghub.el
-  ghub-20210227.1925/ghub.info
-  ghub-20210227.1925/glab.el
-  ghub-20210227.1925/gogs.el
-  ghub-20210227.1925/gsexp.el
-  ghub-20210227.1925/gtea.el
-Built ghub in 0.863s, finished at Mon Mar 15 09:59:28 2021
+Created /tmp/ghubonZChh/ghub-20210427.1239/ghub.info
+Created ghub-20210427.1239.tar containing:
+  ghub-20210427.1239/
+  ghub-20210427.1239/buck.el
+  ghub-20210427.1239/dir
+  ghub-20210427.1239/ghub-graphql.el
+  ghub-20210427.1239/ghub-pkg.el
+  ghub-20210427.1239/ghub.el
+  ghub-20210427.1239/ghub.info
+  ghub-20210427.1239/glab.el
+  ghub-20210427.1239/gogs.el
+  ghub-20210427.1239/gsexp.el
+  ghub-20210427.1239/gtea.el
+Built ghub in 1.278s, finished at Mon May 17 20:45:34 2021
  ✓ Success:
 4.0K -rw-rw-r-- 1 kimr kimr  401 Mar 15 09:59 packages/ghub-20210227.1925.entry
 152K -rw-rw-r-- 1 kimr kimr 150K Mar 15 09:59 packages/ghub-20210227.1925.tar
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K Mar 15 09:59 packages/ghub-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr 1.3K Mar 15 09:59 packages/ghub-readme.txt
+4.0K -rw-rw-r-- 1 kimr kimr  401 May 17 20:45 packages/ghub-20210427.1239.entry
+152K -rw-rw-r-- 1 kimr kimr 150K May 17 20:45 packages/ghub-20210427.1239.tar
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K May 17 20:45 packages/ghub-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr 1.3K May 17 20:45 packages/ghub-readme.txt

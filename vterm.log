@@ -5,7 +5,7 @@ Source:  https://github.com/akermu/emacs-libvterm.git
 Updating /home/kimr/repos/my/melpa/working/vterm/
 Copying files (->) and directories (=>)
   from /home/kimr/repos/my/melpa/working/vterm/
-  to /tmp/vtermxDk5e3/vterm-20210313.1359
+  to /tmp/vtermCBiwkV/vterm-20210409.1558
     .git => .git
     .gitmodules -> .gitmodules
     CMakeLists.txt -> CMakeLists.txt
@@ -20,30 +20,30 @@ Copying files (->) and directories (=>)
     vterm-module.c -> vterm-module.c
     vterm-module.h -> vterm-module.h
     vterm.el -> vterm.el
-Created vterm-20210313.1359.tar containing:
-  vterm-20210313.1359/
-  vterm-20210313.1359/.gitmodules
-  vterm-20210313.1359/CMakeLists.txt
-  vterm-20210313.1359/LICENSE
-  vterm-20210313.1359/README.md
-  vterm-20210313.1359/elisp.c
-  vterm-20210313.1359/elisp.h
-  vterm-20210313.1359/emacs-module.h
-  vterm-20210313.1359/etc/
-  vterm-20210313.1359/etc/emacs-vterm-bash.sh
-  vterm-20210313.1359/etc/emacs-vterm-zsh.sh
-  vterm-20210313.1359/etc/emacs-vterm.fish
-  vterm-20210313.1359/utf8.c
-  vterm-20210313.1359/utf8.h
-  vterm-20210313.1359/vterm-module.c
-  vterm-20210313.1359/vterm-module.h
-  vterm-20210313.1359/vterm-pkg.el
-  vterm-20210313.1359/vterm.el
-Built vterm in 0.801s, finished at Mon Mar 15 10:00:00 2021
+Created vterm-20210409.1558.tar containing:
+  vterm-20210409.1558/
+  vterm-20210409.1558/.gitmodules
+  vterm-20210409.1558/CMakeLists.txt
+  vterm-20210409.1558/LICENSE
+  vterm-20210409.1558/README.md
+  vterm-20210409.1558/elisp.c
+  vterm-20210409.1558/elisp.h
+  vterm-20210409.1558/emacs-module.h
+  vterm-20210409.1558/etc/
+  vterm-20210409.1558/etc/emacs-vterm-bash.sh
+  vterm-20210409.1558/etc/emacs-vterm-zsh.sh
+  vterm-20210409.1558/etc/emacs-vterm.fish
+  vterm-20210409.1558/utf8.c
+  vterm-20210409.1558/utf8.h
+  vterm-20210409.1558/vterm-module.c
+  vterm-20210409.1558/vterm-module.h
+  vterm-20210409.1558/vterm-pkg.el
+  vterm-20210409.1558/vterm.el
+Built vterm in 1.280s, finished at Mon May 17 20:50:57 2021
  ✓ Success:
-4.0K -rw-rw-r-- 1 kimr kimr  352 Mar 12 19:36 packages/vterm-20210308.1505.entry
-232K -rw-rw-r-- 1 kimr kimr 230K Mar 12 19:36 packages/vterm-20210308.1505.tar
 4.0K -rw-rw-r-- 1 kimr kimr  352 Mar 15 09:59 packages/vterm-20210313.1359.entry
 232K -rw-rw-r-- 1 kimr kimr 230K Mar 15 09:59 packages/vterm-20210313.1359.tar
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K Mar 15 10:00 packages/vterm-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr  977 Mar 15 09:59 packages/vterm-readme.txt
+4.0K -rw-rw-r-- 1 kimr kimr  352 May 17 20:50 packages/vterm-20210409.1558.entry
+232K -rw-rw-r-- 1 kimr kimr 230K May 17 20:50 packages/vterm-20210409.1558.tar
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K May 17 20:50 packages/vterm-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr  977 May 17 20:50 packages/vterm-readme.txt

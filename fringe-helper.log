@@ -3,9 +3,9 @@ Fetcher: github
 Source:  https://github.com/nschum/fringe-helper.el.git
 
 Updating /home/kimr/repos/my/melpa/working/fringe-helper/
-Built fringe-helper in 0.965s, finished at Fri Mar 12 19:30:29 2021
+Built fringe-helper in 1.275s, finished at Mon May 17 20:45:20 2021
  ✓ Success:
- 16K -rw-rw-r-- 1 kimr kimr  16K Mar 12 19:30 packages/fringe-helper-20140620.2109.el
-4.0K -rw-rw-r-- 1 kimr kimr  349 Mar 12 19:30 packages/fringe-helper-20140620.2109.entry
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K Mar 12 19:30 packages/fringe-helper-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr 1.6K Mar 12 19:30 packages/fringe-helper-readme.txt
+ 16K -rw-rw-r-- 1 kimr kimr  16K May 17 20:45 packages/fringe-helper-20140620.2109.el
+4.0K -rw-rw-r-- 1 kimr kimr  349 May 17 20:45 packages/fringe-helper-20140620.2109.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K May 17 20:45 packages/fringe-helper-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr 1.6K May 17 20:45 packages/fringe-helper-readme.txt

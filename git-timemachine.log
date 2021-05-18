@@ -3,9 +3,9 @@ Fetcher: gitlab
 Source:  https://gitlab.com/pidu/git-timemachine.git
 
 Updating /home/kimr/repos/my/melpa/working/git-timemachine/
-Built git-timemachine in 1.061s, finished at Fri Mar 12 19:31:03 2021
+Built git-timemachine in 1.073s, finished at Mon May 17 20:45:54 2021
  ✓ Success:
- 20K -rwxrwxr-x 1 kimr kimr  18K Mar 12 19:31 packages/git-timemachine-20200603.701.el
-4.0K -rw-rw-r-- 1 kimr kimr  422 Mar 12 19:31 packages/git-timemachine-20200603.701.entry
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K Mar 12 19:31 packages/git-timemachine-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr   94 Mar 12 19:31 packages/git-timemachine-readme.txt
+ 20K -rwxrwxr-x 1 kimr kimr  18K May 17 20:45 packages/git-timemachine-20200603.701.el
+4.0K -rw-rw-r-- 1 kimr kimr  422 May 17 20:45 packages/git-timemachine-20200603.701.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K May 17 20:45 packages/git-timemachine-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr   94 May 17 20:45 packages/git-timemachine-readme.txt

@@ -5,7 +5,7 @@ Source:  https://github.com/company-mode/company-mode.git
 Updating /home/kimr/repos/my/melpa/working/company/
 Copying files (->) and directories (=>)
   from /home/kimr/repos/my/melpa/working/company/
-  to /tmp/companynOnkYV/company-20210224.2244
+  to /tmp/companyVWpDrz/company-20210516.211
     company-abbrev.el -> company-abbrev.el
     company-bbdb.el -> company-bbdb.el
     company-capf.el -> company-capf.el
@@ -28,93 +28,153 @@ Copying files (->) and directories (=>)
     company-tng.el -> company-tng.el
     company-yasnippet.el -> company-yasnippet.el
     company.el -> company.el
-Created company-20210224.2244.tar containing:
-  company-20210224.2244/
-  company-20210224.2244/company-abbrev.el
-  company-20210224.2244/company-bbdb.el
-  company-20210224.2244/company-capf.el
-  company-20210224.2244/company-clang.el
-  company-20210224.2244/company-cmake.el
-  company-20210224.2244/company-css.el
-  company-20210224.2244/company-dabbrev-code.el
-  company-20210224.2244/company-dabbrev.el
-  company-20210224.2244/company-elisp.el
-  company-20210224.2244/company-etags.el
-  company-20210224.2244/company-files.el
-  company-20210224.2244/company-gtags.el
-  company-20210224.2244/company-ispell.el
-  company-20210224.2244/company-keywords.el
-  company-20210224.2244/company-nxml.el
-  company-20210224.2244/company-oddmuse.el
-  company-20210224.2244/company-pkg.el
-  company-20210224.2244/company-semantic.el
-  company-20210224.2244/company-template.el
-  company-20210224.2244/company-tempo.el
-  company-20210224.2244/company-tng.el
-  company-20210224.2244/company-yasnippet.el
-  company-20210224.2244/company.el
-Built company in 1.556s, finished at Fri Mar 12 19:28:09 2021
+    icons => icons
+Created company-20210516.211.tar containing:
+  company-20210516.211/
+  company-20210516.211/company-abbrev.el
+  company-20210516.211/company-bbdb.el
+  company-20210516.211/company-capf.el
+  company-20210516.211/company-clang.el
+  company-20210516.211/company-cmake.el
+  company-20210516.211/company-css.el
+  company-20210516.211/company-dabbrev-code.el
+  company-20210516.211/company-dabbrev.el
+  company-20210516.211/company-elisp.el
+  company-20210516.211/company-etags.el
+  company-20210516.211/company-files.el
+  company-20210516.211/company-gtags.el
+  company-20210516.211/company-ispell.el
+  company-20210516.211/company-keywords.el
+  company-20210516.211/company-nxml.el
+  company-20210516.211/company-oddmuse.el
+  company-20210516.211/company-pkg.el
+  company-20210516.211/company-semantic.el
+  company-20210516.211/company-template.el
+  company-20210516.211/company-tempo.el
+  company-20210516.211/company-tng.el
+  company-20210516.211/company-yasnippet.el
+  company-20210516.211/company.el
+  company-20210516.211/icons/
+  company-20210516.211/icons/LICENSE
+  company-20210516.211/icons/attribution.md
+  company-20210516.211/icons/vscode-dark/
+  company-20210516.211/icons/vscode-dark/folder.svg
+  company-20210516.211/icons/vscode-dark/symbol-array.svg
+  company-20210516.211/icons/vscode-dark/symbol-boolean.svg
+  company-20210516.211/icons/vscode-dark/symbol-class.svg
+  company-20210516.211/icons/vscode-dark/symbol-color.svg
+  company-20210516.211/icons/vscode-dark/symbol-constant.svg
+  company-20210516.211/icons/vscode-dark/symbol-enumerator-member.svg
+  company-20210516.211/icons/vscode-dark/symbol-enumerator.svg
+  company-20210516.211/icons/vscode-dark/symbol-event.svg
+  company-20210516.211/icons/vscode-dark/symbol-field.svg
+  company-20210516.211/icons/vscode-dark/symbol-file.svg
+  company-20210516.211/icons/vscode-dark/symbol-interface.svg
+  company-20210516.211/icons/vscode-dark/symbol-key.svg
+  company-20210516.211/icons/vscode-dark/symbol-keyword.svg
+  company-20210516.211/icons/vscode-dark/symbol-method.svg
+  company-20210516.211/icons/vscode-dark/symbol-misc.svg
+  company-20210516.211/icons/vscode-dark/symbol-namespace.svg
+  company-20210516.211/icons/vscode-dark/symbol-numeric.svg
+  company-20210516.211/icons/vscode-dark/symbol-operator.svg
+  company-20210516.211/icons/vscode-dark/symbol-parameter.svg
+  company-20210516.211/icons/vscode-dark/symbol-property.svg
+  company-20210516.211/icons/vscode-dark/symbol-ruler.svg
+  company-20210516.211/icons/vscode-dark/symbol-snippet.svg
+  company-20210516.211/icons/vscode-dark/symbol-string.svg
+  company-20210516.211/icons/vscode-dark/symbol-structure.svg
+  company-20210516.211/icons/vscode-dark/symbol-variable.svg
+  company-20210516.211/icons/vscode-light/
+  company-20210516.211/icons/vscode-light/folder.svg
+  company-20210516.211/icons/vscode-light/symbol-array.svg
+  company-20210516.211/icons/vscode-light/symbol-boolean.svg
+  company-20210516.211/icons/vscode-light/symbol-class.svg
+  company-20210516.211/icons/vscode-light/symbol-color.svg
+  company-20210516.211/icons/vscode-light/symbol-constant.svg
+  company-20210516.211/icons/vscode-light/symbol-enumerator-member.svg
+  company-20210516.211/icons/vscode-light/symbol-enumerator.svg
+  company-20210516.211/icons/vscode-light/symbol-event.svg
+  company-20210516.211/icons/vscode-light/symbol-field.svg
+  company-20210516.211/icons/vscode-light/symbol-file.svg
+  company-20210516.211/icons/vscode-light/symbol-interface.svg
+  company-20210516.211/icons/vscode-light/symbol-key.svg
+  company-20210516.211/icons/vscode-light/symbol-keyword.svg
+  company-20210516.211/icons/vscode-light/symbol-method.svg
+  company-20210516.211/icons/vscode-light/symbol-misc.svg
+  company-20210516.211/icons/vscode-light/symbol-namespace.svg
+  company-20210516.211/icons/vscode-light/symbol-numeric.svg
+  company-20210516.211/icons/vscode-light/symbol-operator.svg
+  company-20210516.211/icons/vscode-light/symbol-parameter.svg
+  company-20210516.211/icons/vscode-light/symbol-property.svg
+  company-20210516.211/icons/vscode-light/symbol-ruler.svg
+  company-20210516.211/icons/vscode-light/symbol-snippet.svg
+  company-20210516.211/icons/vscode-light/symbol-string.svg
+  company-20210516.211/icons/vscode-light/symbol-structure.svg
+  company-20210516.211/icons/vscode-light/symbol-variable.svg
+Built company in 1.059s, finished at Mon May 17 20:43:01 2021
  ✓ Success:
 4.0K -rw-rw-r-- 1 kimr kimr  353 Mar 12 19:28 packages/company-20210224.2244.entry
 312K -rw-rw-r-- 1 kimr kimr 310K Mar 12 19:28 packages/company-20210224.2244.tar
-8.0K -rw-rw-r-- 1 kimr kimr 5.9K Feb 27 07:42 packages/company-anaconda-20200404.1859.el
-4.0K -rw-rw-r-- 1 kimr kimr  494 Feb 27 07:42 packages/company-anaconda-20200404.1859.entry
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K Feb 27 07:42 packages/company-anaconda-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr  599 Feb 27 07:42 packages/company-anaconda.log
-4.0K -rw-rw-r-- 1 kimr kimr   33 Feb 27 07:42 packages/company-anaconda-readme.txt
- 12K -rw-rw-r-- 1 kimr kimr  12K Feb 27 07:42 packages/company-auctex-20200529.1835.el
-4.0K -rw-rw-r-- 1 kimr kimr  508 Feb 27 07:42 packages/company-auctex-20200529.1835.entry
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K Feb 27 07:42 packages/company-auctex-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr  576 Feb 27 07:42 packages/company-auctex.log
-4.0K -rw-rw-r-- 1 kimr kimr  102 Feb 27 07:42 packages/company-auctex-readme.txt
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K Mar 12 19:28 packages/company-badge.svg
-8.0K -rw-rw-r-- 1 kimr kimr 7.5K Feb 27 07:42 packages/company-c-headers-20190825.1631.el
-4.0K -rw-rw-r-- 1 kimr kimr  407 Feb 27 07:42 packages/company-c-headers-20190825.1631.entry
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K Feb 27 07:42 packages/company-c-headers-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr  605 Feb 27 07:42 packages/company-c-headers.log
-4.0K -rw-rw-r-- 1 kimr kimr  620 Feb 27 07:42 packages/company-c-headers-readme.txt
- 12K -rw-rw-r-- 1 kimr kimr 9.3K Feb 27 07:42 packages/company-go-20190203.19.el
-4.0K -rw-rw-r-- 1 kimr kimr  372 Feb 27 07:42 packages/company-go-20190203.19.entry
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K Feb 27 07:42 packages/company-go-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr  460 Feb 27 07:42 packages/company-go.log
+4.0K -rw-rw-r-- 1 kimr kimr  352 May 17 20:43 packages/company-20210516.211.entry
+440K -rw-rw-r-- 1 kimr kimr 440K May 17 20:43 packages/company-20210516.211.tar
+8.0K -rw-rw-r-- 1 kimr kimr 5.9K Mar 12 19:28 packages/company-anaconda-20200404.1859.el
+4.0K -rw-rw-r-- 1 kimr kimr  494 Mar 12 19:28 packages/company-anaconda-20200404.1859.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Mar 12 19:28 packages/company-anaconda-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr  599 Mar 12 19:28 packages/company-anaconda.log
+4.0K -rw-rw-r-- 1 kimr kimr   33 Mar 12 19:28 packages/company-anaconda-readme.txt
+ 12K -rw-rw-r-- 1 kimr kimr  12K Mar 12 19:28 packages/company-auctex-20200529.1835.el
+4.0K -rw-rw-r-- 1 kimr kimr  508 Mar 12 19:28 packages/company-auctex-20200529.1835.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Mar 12 19:28 packages/company-auctex-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr  576 Mar 12 19:28 packages/company-auctex.log
+4.0K -rw-rw-r-- 1 kimr kimr  102 Mar 12 19:28 packages/company-auctex-readme.txt
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K May 17 20:43 packages/company-badge.svg
+8.0K -rw-rw-r-- 1 kimr kimr 7.5K Mar 12 19:28 packages/company-c-headers-20190825.1631.el
+4.0K -rw-rw-r-- 1 kimr kimr  407 Mar 12 19:28 packages/company-c-headers-20190825.1631.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Mar 12 19:28 packages/company-c-headers-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr  605 Mar 12 19:28 packages/company-c-headers.log
+4.0K -rw-rw-r-- 1 kimr kimr  620 Mar 12 19:28 packages/company-c-headers-readme.txt
+ 12K -rw-rw-r-- 1 kimr kimr 9.3K Mar 12 19:28 packages/company-go-20190203.19.el
+4.0K -rw-rw-r-- 1 kimr kimr  372 Mar 12 19:28 packages/company-go-20190203.19.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Mar 12 19:28 packages/company-go-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr  460 Mar 12 19:28 packages/company-go.log
 4.0K -rw-rw-r-- 1 kimr kimr 1.2K Feb 27 07:42 packages/company-lsp-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr  557 Feb 27 07:42 packages/company-lsp.log
+4.0K -rw-rw-r-- 1 kimr kimr   28 Mar 12 19:28 packages/company-lsp.log
 4.0K -rw-rw-r-- 1 kimr kimr  185 Feb 27 07:42 packages/company-lsp-readme.txt
-4.0K -rw-rw-r-- 1 kimr kimr   33 Feb 27 07:42 packages/company-org-roam.log
+4.0K -rw-rw-r-- 1 kimr kimr   33 Mar 15 09:59 packages/company-org-roam.log
 4.0K -rw-rw-r-- 1 kimr kimr  185 Dec  6 19:52 packages/company-org-roam-readme.txt
- 12K -rw-rw-r-- 1 kimr kimr  11K Feb 27 07:42 packages/company-quickhelp-20201208.2308.el
-4.0K -rw-rw-r-- 1 kimr kimr  517 Feb 27 07:42 packages/company-quickhelp-20201208.2308.entry
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K Feb 27 07:42 packages/company-quickhelp-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr  605 Feb 27 07:42 packages/company-quickhelp.log
-4.0K -rw-rw-r-- 1 kimr kimr  127 Feb 27 07:42 packages/company-quickhelp-readme.txt
-4.0K -rw-rw-r-- 1 kimr kimr 1.3K Mar 12 19:28 packages/company-readme.txt
- 12K -rw-rw-r-- 1 kimr kimr 8.1K Feb 27 07:42 packages/company-reftex-20201116.1605.el
-4.0K -rw-rw-r-- 1 kimr kimr  468 Feb 27 07:42 packages/company-reftex-20201116.1605.entry
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K Feb 27 07:42 packages/company-reftex-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr  574 Feb 27 07:42 packages/company-reftex.log
-4.0K -rw-rw-r-- 1 kimr kimr  596 Feb 27 07:42 packages/company-reftex-readme.txt
- 16K -rw-rw-r-- 1 kimr kimr  13K Feb 27 07:42 packages/company-rtags-20191222.920.el
-4.0K -rw-rw-r-- 1 kimr kimr  428 Feb 27 07:42 packages/company-rtags-20191222.920.entry
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K Feb 27 07:42 packages/company-rtags-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr  563 Feb 27 07:42 packages/company-rtags.log
-   0 -rw-rw-r-- 1 kimr kimr    0 Feb 27 07:42 packages/company-rtags-readme.txt
- 12K -rw-rw-r-- 1 kimr kimr  11K Feb 27 07:42 packages/company-shell-20170518.541.el
-4.0K -rw-rw-r-- 1 kimr kimr  482 Feb 27 07:42 packages/company-shell-20170518.541.entry
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K Feb 27 07:42 packages/company-shell-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr  637 Feb 27 07:42 packages/company-shell.log
-4.0K -rw-rw-r-- 1 kimr kimr  115 Feb 27 07:42 packages/company-shell-readme.txt
- 16K -rw-rw-r-- 1 kimr kimr  16K Feb 27 07:42 packages/company-statistics-20170210.1933.el
-4.0K -rw-rw-r-- 1 kimr kimr  486 Feb 27 07:42 packages/company-statistics-20170210.1933.entry
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K Feb 27 07:42 packages/company-statistics-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr  613 Feb 27 07:42 packages/company-statistics.log
-4.0K -rw-rw-r-- 1 kimr kimr  887 Feb 27 07:42 packages/company-statistics-readme.txt
-4.0K -rw-rw-r-- 1 kimr kimr  542 Feb 27 07:42 packages/company-web-20180402.1155.entry
- 52K -rw-rw-r-- 1 kimr kimr  50K Feb 27 07:42 packages/company-web-20180402.1155.tar
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K Feb 27 07:42 packages/company-web-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K Feb 27 07:42 packages/company-web.log
-4.0K -rw-rw-r-- 1 kimr kimr  904 Feb 27 07:42 packages/company-web-readme.txt
- 28K -rw-rw-r-- 1 kimr kimr  27K Feb 27 07:42 packages/company-ycmd-20180520.1053.el
-4.0K -rw-rw-r-- 1 kimr kimr  365 Feb 27 07:42 packages/company-ycmd-20180520.1053.entry
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K Feb 27 07:42 packages/company-ycmd-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr  559 Feb 27 07:42 packages/company-ycmd.log
-4.0K -rw-rw-r-- 1 kimr kimr  491 Feb 27 07:42 packages/company-ycmd-readme.txt
+ 12K -rw-rw-r-- 1 kimr kimr  11K Mar 12 19:28 packages/company-quickhelp-20201208.2308.el
+4.0K -rw-rw-r-- 1 kimr kimr  517 Mar 12 19:28 packages/company-quickhelp-20201208.2308.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Mar 12 19:28 packages/company-quickhelp-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr  605 Mar 12 19:28 packages/company-quickhelp.log
+4.0K -rw-rw-r-- 1 kimr kimr  127 Mar 12 19:28 packages/company-quickhelp-readme.txt
+4.0K -rw-rw-r-- 1 kimr kimr 1.3K May 17 20:43 packages/company-readme.txt
+ 12K -rw-rw-r-- 1 kimr kimr 8.1K Mar 15 09:59 packages/company-reftex-20201116.1605.el
+4.0K -rw-rw-r-- 1 kimr kimr  468 Mar 15 09:59 packages/company-reftex-20201116.1605.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Mar 15 09:59 packages/company-reftex-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr  574 Mar 15 09:59 packages/company-reftex.log
+4.0K -rw-rw-r-- 1 kimr kimr  596 Mar 15 09:59 packages/company-reftex-readme.txt
+ 16K -rw-rw-r-- 1 kimr kimr  13K Mar 15 09:59 packages/company-rtags-20191222.920.el
+4.0K -rw-rw-r-- 1 kimr kimr  428 Mar 15 09:59 packages/company-rtags-20191222.920.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Mar 15 09:59 packages/company-rtags-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr  563 Mar 15 09:59 packages/company-rtags.log
+   0 -rw-rw-r-- 1 kimr kimr    0 Mar 15 09:59 packages/company-rtags-readme.txt
+ 12K -rw-rw-r-- 1 kimr kimr  11K Mar 12 19:28 packages/company-shell-20170518.541.el
+4.0K -rw-rw-r-- 1 kimr kimr  482 Mar 12 19:28 packages/company-shell-20170518.541.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Mar 12 19:28 packages/company-shell-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr  637 Mar 12 19:28 packages/company-shell.log
+4.0K -rw-rw-r-- 1 kimr kimr  115 Mar 12 19:28 packages/company-shell-readme.txt
+ 16K -rw-rw-r-- 1 kimr kimr  16K Mar 12 19:28 packages/company-statistics-20170210.1933.el
+4.0K -rw-rw-r-- 1 kimr kimr  486 Mar 12 19:28 packages/company-statistics-20170210.1933.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Mar 12 19:28 packages/company-statistics-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr  613 Mar 12 19:28 packages/company-statistics.log
+4.0K -rw-rw-r-- 1 kimr kimr  887 Mar 12 19:28 packages/company-statistics-readme.txt
+4.0K -rw-rw-r-- 1 kimr kimr  542 Mar 12 19:28 packages/company-web-20180402.1155.entry
+ 52K -rw-rw-r-- 1 kimr kimr  50K Mar 12 19:28 packages/company-web-20180402.1155.tar
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Mar 12 19:28 packages/company-web-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Mar 12 19:28 packages/company-web.log
+4.0K -rw-rw-r-- 1 kimr kimr  904 Mar 12 19:28 packages/company-web-readme.txt
+ 28K -rw-rw-r-- 1 kimr kimr  27K Mar 12 19:28 packages/company-ycmd-20180520.1053.el
+4.0K -rw-rw-r-- 1 kimr kimr  365 Mar 12 19:28 packages/company-ycmd-20180520.1053.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Mar 12 19:28 packages/company-ycmd-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr  559 Mar 12 19:28 packages/company-ycmd.log
+4.0K -rw-rw-r-- 1 kimr kimr  491 Mar 12 19:28 packages/company-ycmd-readme.txt

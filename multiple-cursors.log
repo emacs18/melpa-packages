@@ -5,7 +5,7 @@ Source:  https://github.com/magnars/multiple-cursors.el.git
 Updating /home/kimr/repos/my/melpa/working/multiple-cursors/
 Copying files (->) and directories (=>)
   from /home/kimr/repos/my/melpa/working/multiple-cursors/
-  to /tmp/multiple-cursorsa1xGYX/multiple-cursors-20201215.1559
+  to /tmp/multiple-cursorsS6Vm8F/multiple-cursors-20210323.1128
     mc-cycle-cursors.el -> mc-cycle-cursors.el
     mc-edit-lines.el -> mc-edit-lines.el
     mc-hide-unmatched-lines-mode.el -> mc-hide-unmatched-lines-mode.el
@@ -16,21 +16,23 @@ Copying files (->) and directories (=>)
     multiple-cursors-pkg.el -> multiple-cursors-pkg.el
     multiple-cursors.el -> multiple-cursors.el
     rectangular-region-mode.el -> rectangular-region-mode.el
-Created multiple-cursors-20201215.1559.tar containing:
-  multiple-cursors-20201215.1559/
-  multiple-cursors-20201215.1559/mc-cycle-cursors.el
-  multiple-cursors-20201215.1559/mc-edit-lines.el
-  multiple-cursors-20201215.1559/mc-hide-unmatched-lines-mode.el
-  multiple-cursors-20201215.1559/mc-mark-more.el
-  multiple-cursors-20201215.1559/mc-mark-pop.el
-  multiple-cursors-20201215.1559/mc-separate-operations.el
-  multiple-cursors-20201215.1559/multiple-cursors-core.el
-  multiple-cursors-20201215.1559/multiple-cursors-pkg.el
-  multiple-cursors-20201215.1559/multiple-cursors.el
-  multiple-cursors-20201215.1559/rectangular-region-mode.el
-Built multiple-cursors in 0.561s, finished at Mon Mar 15 09:59:50 2021
+Created multiple-cursors-20210323.1128.tar containing:
+  multiple-cursors-20210323.1128/
+  multiple-cursors-20210323.1128/mc-cycle-cursors.el
+  multiple-cursors-20210323.1128/mc-edit-lines.el
+  multiple-cursors-20210323.1128/mc-hide-unmatched-lines-mode.el
+  multiple-cursors-20210323.1128/mc-mark-more.el
+  multiple-cursors-20210323.1128/mc-mark-pop.el
+  multiple-cursors-20210323.1128/mc-separate-operations.el
+  multiple-cursors-20210323.1128/multiple-cursors-core.el
+  multiple-cursors-20210323.1128/multiple-cursors-pkg.el
+  multiple-cursors-20210323.1128/multiple-cursors.el
+  multiple-cursors-20210323.1128/rectangular-region-mode.el
+Built multiple-cursors in 1.086s, finished at Mon May 17 20:48:12 2021
  ✓ Success:
 4.0K -rw-rw-r-- 1 kimr kimr  331 Mar 15 09:59 packages/multiple-cursors-20201215.1559.entry
 112K -rw-rw-r-- 1 kimr kimr 110K Mar 15 09:59 packages/multiple-cursors-20201215.1559.tar
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K Mar 15 09:59 packages/multiple-cursors-badge.svg
-8.0K -rw-rw-r-- 1 kimr kimr 7.3K Mar 15 09:59 packages/multiple-cursors-readme.txt
+4.0K -rw-rw-r-- 1 kimr kimr  395 May 17 20:48 packages/multiple-cursors-20210323.1128.entry
+112K -rw-rw-r-- 1 kimr kimr 110K May 17 20:48 packages/multiple-cursors-20210323.1128.tar
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K May 17 20:48 packages/multiple-cursors-badge.svg
+8.0K -rw-rw-r-- 1 kimr kimr 7.3K May 17 20:48 packages/multiple-cursors-readme.txt
