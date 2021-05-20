@@ -859,6 +859,18 @@
 	   (:maintainer "Tobias Pisani")
 	   (:keywords "languages" "lsp" "c++")
 	   (:url . "https://github.com/jacobdufault/cquery"))])
+ (creole .
+	 [(20140924 1500)
+	  ((noflet
+	    (0 0 3))
+	   (kv
+	    (0 0 17)))
+	  "A parser for the Creole Wiki language" single
+	  ((:commit . "7d5cffe93857f6c75ca09ac79c0e47b8d4410e53")
+	   (:authors
+	    ("Nic Ferrier" . "nferrier@ferrier.me.uk"))
+	   (:maintainer "Nic Ferrier" . "nferrier@ferrier.me.uk")
+	   (:keywords "lisp" "creole" "wiki"))])
  (csv .
       [(20161113 1510)
        nil "Functions for reading and parsing CSV files." single
@@ -959,6 +971,16 @@
 		    (:maintainer "Matus Goljer" . "matus.goljer@gmail.com")
 		    (:keywords "extensions" "lisp")
 		    (:url . "https://github.com/magnars/dash.el"))])
+ (db .
+     [(20140421 2111)
+      ((kv
+	(0 0 11)))
+      "A database for EmacsLisp" single
+      ((:commit . "b3a423fb8e72f9013009cbe033d654df2ce31438")
+       (:authors
+	("Nic Ferrier" . "nferrier@ferrier.me.uk"))
+       (:maintainer "Nic Ferrier" . "nferrier@ferrier.me.uk")
+       (:keywords "data" "lisp"))])
  (default-text-scale .
    [(20191226 2234)
     ((emacs
@@ -1126,6 +1148,15 @@
 		  ("EditorConfig Team" . "editorconfig@googlegroups.com"))
 		 (:maintainer "EditorConfig Team" . "editorconfig@googlegroups.com")
 		 (:url . "https://github.com/editorconfig/editorconfig-emacs#readme"))])
+ (el-mock .
+	  [(20170824 1954)
+	   nil "Tiny Mock and Stub framework in Emacs Lisp" single
+	   ((:commit . "5df1d3a956544f1d3ad0bcd81daf47fff33ab8cc")
+	    (:authors
+	     ("rubikitch" . "rubikitch@ruby-lang.org"))
+	    (:maintainer "Johan Andersson" . "johan.rejeep@gmail.com")
+	    (:keywords "lisp" "testing" "unittest")
+	    (:url . "http://github.com/rejeep/el-mock.el"))])
  (elfeed .
 	 [(20210309 2323)
 	  ((emacs
@@ -1211,6 +1242,30 @@
 	       ((:commit . "6bbc1e5ac46064613c982cedc60566ed077e7a58")
 		(:keywords "languages" "elixir")
 		(:url . "https://github.com/elixir-editors/emacs-elixir"))])
+ (elnode .
+	 [(20190702 1509)
+	  ((web
+	    (0 1 4))
+	   (dash
+	    (1 1 0))
+	   (noflet
+	    (0 0 7))
+	   (s
+	    (1 5 0))
+	   (creole
+	    (0 8 14))
+	   (fakir
+	    (0 1 6))
+	   (db
+	    (0 0 5))
+	   (kv
+	    (0 0 17)))
+	  "The Emacs webserver." tar
+	  ((:commit . "29ef0f51a65a24fca7fdcdb4140d2e4556e4bb29")
+	   (:authors
+	    ("Nic Ferrier" . "nferrier@ferrier.me.uk"))
+	   (:maintainer "GitHub user \"Jcaw\"")
+	   (:keywords "lisp" "http" "hypermedia"))])
  (emacsql .
 	  [(20200714 28)
 	   ((emacs
@@ -1743,6 +1798,21 @@
       (:maintainer "Johan Andersson" . "johan.rejeep@gmail.com")
       (:keywords "files" "directories")
       (:url . "http://github.com/rejeep/f.el"))])
+ (fakir .
+	[(20140729 1652)
+	 ((noflet
+	   (0 0 8))
+	  (dash
+	   (1 3 2))
+	  (kv
+	   (0 0 19)))
+	 "fakeing bits of Emacs" single
+	 ((:commit . "1fca406ad7de80fece6319ff75d4230b648534b0")
+	  (:authors
+	   ("Nic Ferrier" . "nferrier@ferrier.me.uk"))
+	  (:maintainer "Nic Ferrier" . "nferrier@ferrier.me.uk")
+	  (:keywords "lisp" "tools")
+	  (:url . "http://github.com/nicferrier/emacs-fakir"))])
  (fancy-battery .
 		[(20150101 1204)
 		 ((emacs
@@ -3194,6 +3264,14 @@
 		(:maintainer "chuntaro" . "chuntaro@sakura-games.jp")
 		(:keywords "key" "screencast" "tools")
 		(:url . "https://github.com/chuntaro/emacs-keypression"))])
+ (kv .
+     [(20140108 1534)
+      nil "key/value data structure functions" single
+      ((:commit . "721148475bce38a70e0b678ba8aa923652e8900e")
+       (:authors
+	("Nic Ferrier" . "nferrier@ferrier.me.uk"))
+       (:maintainer "Nic Ferrier" . "nferrier@ferrier.me.uk")
+       (:keywords "lisp"))])
  (launchctl .
 	    [(20210309 1113)
 	     ((emacs
@@ -5164,6 +5242,19 @@
 	  (:maintainer "Lukas Fürmetz" . "fuermetz@mailbox.org")
 	  (:keywords "terminals")
 	  (:url . "https://github.com/akermu/emacs-libvterm"))])
+ (web .
+      [(20141231 2001)
+       ((dash
+	 (2 9 0))
+	(s
+	 (1 5 0)))
+       "useful HTTP client" single
+       ((:commit . "483188dac4bc6b409b985c9dae45f3324a425efd")
+	(:authors
+	 ("Nic Ferrier" . "nferrier@ferrier.me.uk"))
+	(:maintainer "Nic Ferrier" . "nferrier@ferrier.me.uk")
+	(:keywords "lisp" "http" "hypermedia")
+	(:url . "http://github.com/nicferrier/emacs-web"))])
  (web-beautify .
 	       [(20161115 2247)
 		nil "Format HTML, CSS and JavaScript/JSON" single
@@ -5261,6 +5352,18 @@
 		(:maintainer "Jonas Bernoulli" . "jonas@bernoul.li")
 		(:keywords "tools")
 		(:url . "https://github.com/magit/with-editor"))])
+ (with-simulated-input .
+		       [(20210514 349)
+			((emacs
+			  (24 4)))
+			"A macro to simulate user input non-interactively" single
+			((:commit . "c377a673c86cdedd5d48418caf8f1ce621aca767")
+			 (:authors
+			  ("Ryan C. Thompson" . "rct@thompsonclan.org")
+			  ("Nikita Bloshchanevich" . "nikblos@outlook.com"))
+			 (:maintainer "Ryan C Thompson" . "rct@thompsonclan.org")
+			 (:keywords "lisp" "tools" "extensions")
+			 (:url . "https://github.com/DarwinAwardWinner/with-simulated-input"))])
  (worf .
        [(20210504 1132)
 	((swiper

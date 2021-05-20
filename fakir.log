@@ -1,0 +1,12 @@
+Package: fakir
+Fetcher: github
+Source:  https://github.com/nicferrier/emacs-fakir.git
+
+Cloning https://github.com/nicferrier/emacs-fakir.git to /home/kimr/repos/my/melpa/working/fakir/
+Note: fakir :files spec is equivalent to the default.
+Built fakir in 3.408s, finished at Tue May 18 10:19:10 2021
+ ✓ Success:
+ 28K -rw-rw-r-- 1 kimr kimr  26K May 18 10:19 packages/fakir-20140729.1652.el
+4.0K -rw-rw-r-- 1 kimr kimr  386 May 18 10:19 packages/fakir-20140729.1652.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K May 18 10:19 packages/fakir-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr   76 May 18 10:19 packages/fakir-readme.txt

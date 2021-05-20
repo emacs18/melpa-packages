@@ -1,0 +1,26 @@
+Package: web
+Fetcher: github
+Source:  https://github.com/nicferrier/emacs-web.git
+
+Cloning https://github.com/nicferrier/emacs-web.git to /home/kimr/repos/my/melpa/working/web/
+Built web in 1.976s, finished at Tue May 18 10:21:58 2021
+ ✓ Success:
+ 32K -rw-rw-r-- 1 kimr kimr  29K May 18 10:21 packages/web-20141231.2001.el
+4.0K -rw-rw-r-- 1 kimr kimr  399 May 18 10:21 packages/web-20141231.2001.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K May 18 10:21 packages/web-badge.svg
+8.0K -rw-rw-r-- 1 kimr kimr 7.0K May 17 20:50 packages/web-beautify-20161115.2247.el
+4.0K -rw-rw-r-- 1 kimr kimr  323 May 17 20:50 packages/web-beautify-20161115.2247.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K May 17 20:50 packages/web-beautify-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr  559 May 17 20:50 packages/web-beautify.log
+4.0K -rw-rw-r-- 1 kimr kimr 1.4K May 17 20:50 packages/web-beautify-readme.txt
+4.0K -rw-rw-r-- 1 kimr kimr  443 May 17 20:50 packages/web-completion-data-20160318.848.entry
+752K -rw-rw-r-- 1 kimr kimr 750K May 17 20:50 packages/web-completion-data-20160318.848.tar
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K May 17 20:51 packages/web-completion-data-badge.svg
+ 36K -rw-rw-r-- 1 kimr kimr  35K May 17 20:51 packages/web-completion-data.log
+4.0K -rw-rw-r-- 1 kimr kimr  704 May 17 20:50 packages/web-completion-data-readme.txt
+520K -rw-rw-r-- 1 kimr kimr 520K May 17 20:51 packages/web-mode-20210131.1758.el
+4.0K -rw-rw-r-- 1 kimr kimr  361 May 17 20:51 packages/web-mode-20210131.1758.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K May 17 20:51 packages/web-mode-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr  527 May 17 20:51 packages/web-mode.log
+4.0K -rw-rw-r-- 1 kimr kimr  236 May 17 20:51 packages/web-mode-readme.txt
+4.0K -rw-rw-r-- 1 kimr kimr  655 May 18 10:21 packages/web-readme.txt
