@@ -1028,13 +1028,16 @@
 		  (:keywords "c" "tools")
 		  (:url . "https://github.com/liblit/demangle-mode"))])
  (devdocs .
-	  [(20170731 850)
-	   nil "Launch DevDocs search" single
-	   ((:commit . "a2d51e824f0cc48a9dd611cc740bc8b86143e611")
+	  [(20210529 2155)
+	   ((emacs
+	     (27 1)))
+	   "Emacs viewer for DevDocs" single
+	   ((:commit . "8a3f4e00e0a2113c604c631f81f7db90c1b56d5b")
 	    (:authors
-	     ("Chunyang Xu" . "xuchunyang.me@gmail.com"))
-	    (:maintainer "Chunyang Xu" . "xuchunyang.me@gmail.com")
-	    (:url . "https://github.com/xuchunyang/DevDocs.el"))])
+	     ("Augusto Stoffel" . "arstoffel@gmail.com"))
+	    (:maintainer "Augusto Stoffel" . "arstoffel@gmail.com")
+	    (:keywords "help")
+	    (:url . "https://github.com/astoff/devdocs"))])
  (diff-hl .
 	  [(20210410 130)
 	   ((cl-lib
