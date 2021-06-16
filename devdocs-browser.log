@@ -1,0 +1,11 @@
+Package: devdocs-browser
+Fetcher: github
+Source:  https://github.com/blahgeek/emacs-devdocs-browser.git
+
+Cloning https://github.com/blahgeek/emacs-devdocs-browser.git to /home/kimr/repos/my/melpa/working/devdocs-browser/
+Built devdocs-browser in 1.972s, finished at Wed Jun 16 06:30:20 2021
+ ✓ Success:
+ 32K -rw-rw-r-- 1 kimr kimr  32K Jun 16 06:30 packages/devdocs-browser-20210601.1447.el
+4.0K -rw-rw-r-- 1 kimr kimr  388 Jun 16 06:30 packages/devdocs-browser-20210601.1447.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jun 16 06:30 packages/devdocs-browser-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr   52 Jun 16 06:30 packages/devdocs-browser-readme.txt
