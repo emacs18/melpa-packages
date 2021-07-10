@@ -3,9 +3,9 @@ Fetcher: github
 Source:  https://github.com/syl20bnr/vi-tilde-fringe.git
 
 Updating /home/kimr/repos/my/melpa/working/vi-tilde-fringe/
-Built vi-tilde-fringe in 1.101s, finished at Mon May 17 20:50:54 2021
+Built vi-tilde-fringe in 0.643s, finished at 2021-07-10T17:23:28+0000
  ✓ Success:
-4.0K -rw-rw-r-- 1 kimr kimr 3.0K May 17 20:50 packages/vi-tilde-fringe-20141028.242.el
-4.0K -rw-rw-r-- 1 kimr kimr  417 May 17 20:50 packages/vi-tilde-fringe-20141028.242.entry
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K May 17 20:50 packages/vi-tilde-fringe-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr  513 May 17 20:50 packages/vi-tilde-fringe-readme.txt
+4.0K -rw-rw-r-- 1 kimr kimr 3.0K Jul 10 10:23 packages/vi-tilde-fringe-20141028.242.el
+4.0K -rw-rw-r-- 1 kimr kimr  417 Jul 10 10:23 packages/vi-tilde-fringe-20141028.242.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 10 10:23 packages/vi-tilde-fringe-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr  513 Jul 10 10:23 packages/vi-tilde-fringe-readme.txt

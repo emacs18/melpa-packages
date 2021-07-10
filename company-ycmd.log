@@ -3,9 +3,9 @@ Fetcher: github
 Source:  https://github.com/abingham/emacs-ycmd.git
 
 Updating /home/kimr/repos/my/melpa/working/company-ycmd/
-Built company-ycmd in 1.072s, finished at Mon May 17 20:43:16 2021
+Built company-ycmd in 0.852s, finished at 2021-07-10T17:19:05+0000
  ✓ Success:
- 28K -rw-rw-r-- 1 kimr kimr  27K May 17 20:43 packages/company-ycmd-20180520.1053.el
-4.0K -rw-rw-r-- 1 kimr kimr  365 May 17 20:43 packages/company-ycmd-20180520.1053.entry
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K May 17 20:43 packages/company-ycmd-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr  491 May 17 20:43 packages/company-ycmd-readme.txt
+ 28K -rw-rw-r-- 1 kimr kimr  27K Jul 10 10:19 packages/company-ycmd-20180520.1053.el
+4.0K -rw-rw-r-- 1 kimr kimr  365 Jul 10 10:19 packages/company-ycmd-20180520.1053.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 10 10:19 packages/company-ycmd-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr  491 Jul 10 10:19 packages/company-ycmd-readme.txt

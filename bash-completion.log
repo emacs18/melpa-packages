@@ -3,9 +3,9 @@ Fetcher: github
 Source:  https://github.com/szermatt/emacs-bash-completion.git
 
 Updating /home/kimr/repos/my/melpa/working/bash-completion/
-Built bash-completion in 1.074s, finished at Mon May 17 20:42:31 2021
+Built bash-completion in 0.201s, finished at 2021-07-10T17:18:41+0000
  ✓ Success:
- 72K -rw-rw-r-- 1 kimr kimr  69K May 17 20:42 packages/bash-completion-20201011.916.el
-4.0K -rw-rw-r-- 1 kimr kimr  422 May 17 20:42 packages/bash-completion-20201011.916.entry
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K May 17 20:42 packages/bash-completion-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr 2.8K May 17 20:42 packages/bash-completion-readme.txt
+ 72K -rw-rw-r-- 1 kimr kimr  69K Jul 10 10:18 packages/bash-completion-20210615.1601.el
+4.0K -rw-rw-r-- 1 kimr kimr  423 Jul 10 10:18 packages/bash-completion-20210615.1601.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 10 10:18 packages/bash-completion-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr 2.8K Jul 10 10:18 packages/bash-completion-readme.txt

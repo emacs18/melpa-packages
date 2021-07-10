@@ -3,9 +3,9 @@ Fetcher: github
 Source:  https://github.com/emacsorphanage/helm-gtags.git
 
 Updating /home/kimr/repos/my/melpa/working/helm-gtags/
-Built helm-gtags in 1.070s, finished at Mon May 17 20:46:28 2021
+Built helm-gtags in 0.284s, finished at 2021-07-10T17:20:55+0000
  ✓ Success:
- 60K -rw-rw-r-- 1 kimr kimr  58K May 17 20:46 packages/helm-gtags-20200602.1610.el
-4.0K -rw-rw-r-- 1 kimr kimr  387 May 17 20:46 packages/helm-gtags-20200602.1610.entry
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K May 17 20:46 packages/helm-gtags-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr 1.1K May 17 20:46 packages/helm-gtags-readme.txt
+ 60K -rw-rw-r-- 1 kimr kimr  58K Jul 10 10:20 packages/helm-gtags-20200602.1610.el
+4.0K -rw-rw-r-- 1 kimr kimr  387 Jul 10 10:20 packages/helm-gtags-20200602.1610.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 10 10:20 packages/helm-gtags-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr 1.1K Jul 10 10:20 packages/helm-gtags-readme.txt

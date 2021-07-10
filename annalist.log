@@ -5,19 +5,19 @@ Source:  https://github.com/noctuid/annalist.el.git
 Updating /home/kimr/repos/my/melpa/working/annalist/
 Copying files (->) and directories (=>)
   from /home/kimr/repos/my/melpa/working/annalist/
-  to /tmp/annalisten2ai4/annalist-20190929.207
+  to /tmp/annalisth3YKmq/annalist-20190929.207
     annalist.el -> annalist.el
     annalist.texi -> annalist.texi
-Created /tmp/annalisten2ai4/annalist-20190929.207/annalist.info
+Created /tmp/annalisth3YKmq/annalist-20190929.207/annalist.info
 Created annalist-20190929.207.tar containing:
   annalist-20190929.207/
   annalist-20190929.207/annalist-pkg.el
   annalist-20190929.207/annalist.el
   annalist-20190929.207/annalist.info
   annalist-20190929.207/dir
-Built annalist in 1.088s, finished at Mon May 17 20:42:17 2021
+Built annalist in 0.871s, finished at 2021-07-10T17:18:33+0000
  ✓ Success:
-4.0K -rw-rw-r-- 1 kimr kimr  433 May 17 20:42 packages/annalist-20190929.207.entry
- 72K -rw-rw-r-- 1 kimr kimr  70K May 17 20:42 packages/annalist-20190929.207.tar
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K May 17 20:42 packages/annalist-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr  168 May 17 20:42 packages/annalist-readme.txt
+4.0K -rw-rw-r-- 1 kimr kimr  433 Jul 10 10:18 packages/annalist-20190929.207.entry
+ 72K -rw-rw-r-- 1 kimr kimr  70K Jul 10 10:18 packages/annalist-20190929.207.tar
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 10 10:18 packages/annalist-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr  168 Jul 10 10:18 packages/annalist-readme.txt

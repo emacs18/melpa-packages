@@ -3,11 +3,9 @@ Fetcher: github
 Source:  https://github.com/emacs-lsp/lsp-python-ms.git
 
 Updating /home/kimr/repos/my/melpa/working/lsp-python-ms/
-Built lsp-python-ms in 1.078s, finished at Mon May 17 20:47:45 2021
+Built lsp-python-ms in 0.228s, finished at 2021-07-10T17:21:38+0000
  ✓ Success:
- 28K -rw-rw-r-- 1 kimr kimr  25K Mar 12 19:32 packages/lsp-python-ms-20210217.1823.el
-4.0K -rw-rw-r-- 1 kimr kimr  398 Mar 12 19:32 packages/lsp-python-ms-20210217.1823.entry
- 28K -rw-rw-r-- 1 kimr kimr  25K May 17 20:47 packages/lsp-python-ms-20210513.1019.el
-4.0K -rw-rw-r-- 1 kimr kimr  398 May 17 20:47 packages/lsp-python-ms-20210513.1019.entry
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K May 17 20:47 packages/lsp-python-ms-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr  120 May 17 20:47 packages/lsp-python-ms-readme.txt
+ 28K -rw-rw-r-- 1 kimr kimr  25K Jul 10 10:21 packages/lsp-python-ms-20210513.1019.el
+4.0K -rw-rw-r-- 1 kimr kimr  398 Jul 10 10:21 packages/lsp-python-ms-20210513.1019.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 10 10:21 packages/lsp-python-ms-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr  120 Jul 10 10:21 packages/lsp-python-ms-readme.txt

@@ -3,8 +3,8 @@ Fetcher: github
 Source:  https://github.com/alphapapa/outorg.git
 
 Updating /home/kimr/repos/my/melpa/working/outorg/
-Built outorg in 1.294s, finished at Mon May 17 20:48:49 2021
+Built outorg in 0.669s, finished at 2021-07-10T17:22:14+0000
  ✓ Success:
- 72K -rw-rw-r-- 1 kimr kimr  71K May 17 20:48 packages/outorg-20190720.2002.el
-4.0K -rw-rw-r-- 1 kimr kimr  253 May 17 20:48 packages/outorg-20190720.2002.entry
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K May 17 20:48 packages/outorg-badge.svg
+ 72K -rw-rw-r-- 1 kimr kimr  71K Jul 10 10:22 packages/outorg-20190720.2002.el
+4.0K -rw-rw-r-- 1 kimr kimr  253 Jul 10 10:22 packages/outorg-20190720.2002.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 10 10:22 packages/outorg-badge.svg

@@ -3,9 +3,9 @@ Fetcher: github
 Source:  https://github.com/edkolev/evil-goggles.git
 
 Updating /home/kimr/repos/my/melpa/working/evil-goggles/
-Built evil-goggles in 1.087s, finished at Mon May 17 20:44:32 2021
+Built evil-goggles in 0.656s, finished at 2021-07-10T17:19:52+0000
  ✓ Success:
- 28K -rw-rw-r-- 1 kimr kimr  28K May 17 20:44 packages/evil-goggles-20200101.1935.el
-4.0K -rw-rw-r-- 1 kimr kimr  410 May 17 20:44 packages/evil-goggles-20200101.1935.entry
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K May 17 20:44 packages/evil-goggles-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr  106 May 17 20:44 packages/evil-goggles-readme.txt
+ 28K -rw-rw-r-- 1 kimr kimr  28K Jul 10 10:19 packages/evil-goggles-20200101.1935.el
+4.0K -rw-rw-r-- 1 kimr kimr  410 Jul 10 10:19 packages/evil-goggles-20200101.1935.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 10 10:19 packages/evil-goggles-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr  106 Jul 10 10:19 packages/evil-goggles-readme.txt

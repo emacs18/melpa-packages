@@ -3,9 +3,9 @@ Fetcher: github
 Source:  https://github.com/abo-abo/org-download.git
 
 Updating /home/kimr/repos/my/melpa/working/org-download/
-Built org-download in 1.087s, finished at Mon May 17 20:48:26 2021
+Built org-download in 0.573s, finished at 2021-07-10T17:22:04+0000
  ✓ Success:
- 28K -rw-rw-r-- 1 kimr kimr  28K May 17 20:48 packages/org-download-20210118.958.el
-4.0K -rw-rw-r-- 1 kimr kimr  380 May 17 20:48 packages/org-download-20210118.958.entry
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K May 17 20:48 packages/org-download-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr 1.8K May 17 20:48 packages/org-download-readme.txt
+ 28K -rw-rw-r-- 1 kimr kimr  28K Jul 10 10:22 packages/org-download-20210118.958.el
+4.0K -rw-rw-r-- 1 kimr kimr  380 Jul 10 10:22 packages/org-download-20210118.958.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 10 10:22 packages/org-download-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr 1.8K Jul 10 10:22 packages/org-download-readme.txt

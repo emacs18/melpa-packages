@@ -3,9 +3,9 @@ Fetcher: github
 Source:  https://github.com/org-mime/org-mime.git
 
 Updating /home/kimr/repos/my/melpa/working/org-mime/
-Built org-mime in 2.113s, finished at Mon May 17 20:48:32 2021
+Built org-mime in 0.785s, finished at 2021-07-10T17:22:06+0000
  ✓ Success:
- 32K -rw-rw-r-- 1 kimr kimr  31K May 17 20:48 packages/org-mime-20210309.1028.el
-4.0K -rw-rw-r-- 1 kimr kimr  384 May 17 20:48 packages/org-mime-20210309.1028.entry
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K May 17 20:48 packages/org-mime-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr 3.0K May 17 20:48 packages/org-mime-readme.txt
+ 32K -rw-rw-r-- 1 kimr kimr  31K Jul 10 10:22 packages/org-mime-20210309.1028.el
+4.0K -rw-rw-r-- 1 kimr kimr  384 Jul 10 10:22 packages/org-mime-20210309.1028.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 10 10:22 packages/org-mime-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr 3.0K Jul 10 10:22 packages/org-mime-readme.txt

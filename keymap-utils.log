@@ -3,9 +3,9 @@ Fetcher: github
 Source:  https://github.com/tarsius/keymap-utils.git
 
 Updating /home/kimr/repos/my/melpa/working/keymap-utils/
-Built keymap-utils in 1.052s, finished at Mon May 17 20:47:25 2021
+Built keymap-utils in 0.666s, finished at 2021-07-10T17:21:28+0000
  ✓ Success:
- 24K -rw-rw-r-- 1 kimr kimr  24K May 17 20:47 packages/keymap-utils-20210125.823.el
-4.0K -rw-rw-r-- 1 kimr kimr  374 May 17 20:47 packages/keymap-utils-20210125.823.entry
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K May 17 20:47 packages/keymap-utils-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr   82 May 17 20:47 packages/keymap-utils-readme.txt
+ 24K -rw-rw-r-- 1 kimr kimr  24K Jul 10 10:21 packages/keymap-utils-20210125.823.el
+4.0K -rw-rw-r-- 1 kimr kimr  374 Jul 10 10:21 packages/keymap-utils-20210125.823.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 10 10:21 packages/keymap-utils-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr   82 Jul 10 10:21 packages/keymap-utils-readme.txt

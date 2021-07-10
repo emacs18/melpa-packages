@@ -3,9 +3,9 @@ Fetcher: github
 Source:  https://github.com/Wilfred/ag.el.git
 
 Updating /home/kimr/repos/my/melpa/working/ag/
-Built ag in 1.042s, finished at Mon May 17 20:42:10 2021
+Built ag in 0.856s, finished at 2021-07-10T17:18:29+0000
  ✓ Success:
- 28K -rw-rw-r-- 1 kimr kimr  27K May 17 20:42 packages/ag-20201031.2202.el
-4.0K -rw-rw-r-- 1 kimr kimr  426 May 17 20:42 packages/ag-20201031.2202.entry
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K May 17 20:42 packages/ag-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr  100 May 17 20:42 packages/ag-readme.txt
+ 28K -rw-rw-r-- 1 kimr kimr  27K Jul 10 10:18 packages/ag-20201031.2202.el
+4.0K -rw-rw-r-- 1 kimr kimr  426 Jul 10 10:18 packages/ag-20201031.2202.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 10 10:18 packages/ag-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr  100 Jul 10 10:18 packages/ag-readme.txt

@@ -3,9 +3,9 @@ Fetcher: github
 Source:  https://github.com/pwalsh/pipenv.el.git
 
 Updating /home/kimr/repos/my/melpa/working/pipenv/
-Built pipenv in 1.676s, finished at Mon May 17 20:49:26 2021
+Built pipenv in 0.662s, finished at 2021-07-10T17:22:34+0000
  ✓ Success:
- 16K -rw-rw-r-- 1 kimr kimr  15K May 17 20:49 packages/pipenv-20210127.1444.el
-4.0K -rw-rw-r-- 1 kimr kimr  348 May 17 20:49 packages/pipenv-20210127.1444.entry
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K May 17 20:49 packages/pipenv-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr   59 May 17 20:49 packages/pipenv-readme.txt
+ 16K -rw-rw-r-- 1 kimr kimr  15K Jul 10 10:22 packages/pipenv-20210127.1444.el
+4.0K -rw-rw-r-- 1 kimr kimr  348 Jul 10 10:22 packages/pipenv-20210127.1444.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 10 10:22 packages/pipenv-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr   59 Jul 10 10:22 packages/pipenv-readme.txt

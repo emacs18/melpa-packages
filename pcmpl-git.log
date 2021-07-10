@@ -5,7 +5,7 @@ Source:  https://github.com/leoliu/pcmpl-git-el.git
 Updating /home/kimr/repos/my/melpa/working/pcmpl-git/
 Copying files (->) and directories (=>)
   from /home/kimr/repos/my/melpa/working/pcmpl-git/
-  to /tmp/pcmpl-git2e4pgg/pcmpl-git-20170121.59
+  to /tmp/pcmpl-gitSukbKu/pcmpl-git-20170121.59
     pcmpl-git-parse.el -> pcmpl-git-parse.el
     pcmpl-git.el -> pcmpl-git.el
     git-options -> git-options
@@ -15,9 +15,9 @@ Created pcmpl-git-20170121.59.tar containing:
   pcmpl-git-20170121.59/pcmpl-git-parse.el
   pcmpl-git-20170121.59/pcmpl-git-pkg.el
   pcmpl-git-20170121.59/pcmpl-git.el
-Built pcmpl-git in 1.016s, finished at Mon May 17 20:49:16 2021
+Built pcmpl-git in 0.719s, finished at 2021-07-10T17:22:28+0000
  ✓ Success:
-4.0K -rw-rw-r-- 1 kimr kimr  265 May 17 20:49 packages/pcmpl-git-20170121.59.entry
- 72K -rw-rw-r-- 1 kimr kimr  70K May 17 20:49 packages/pcmpl-git-20170121.59.tar
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K May 17 20:49 packages/pcmpl-git-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr  267 May 17 20:49 packages/pcmpl-git-readme.txt
+4.0K -rw-rw-r-- 1 kimr kimr  265 Jul 10 10:22 packages/pcmpl-git-20170121.59.entry
+ 72K -rw-rw-r-- 1 kimr kimr  70K Jul 10 10:22 packages/pcmpl-git-20170121.59.tar
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 10 10:22 packages/pcmpl-git-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr  267 Jul 10 10:22 packages/pcmpl-git-readme.txt

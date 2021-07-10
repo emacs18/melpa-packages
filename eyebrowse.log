@@ -3,9 +3,9 @@ Fetcher: git
 Source:  https://depp.brause.cc/eyebrowse.git
 
 Updating /home/kimr/repos/my/melpa/working/eyebrowse/
-Built eyebrowse in 1.549s, finished at Mon May 17 20:44:54 2021
+Built eyebrowse in 0.926s, finished at 2021-07-10T17:20:04+0000
  ✓ Success:
- 28K -rw-rw-r-- 1 kimr kimr  27K May 17 20:44 packages/eyebrowse-20201107.955.el
-4.0K -rw-rw-r-- 1 kimr kimr  415 May 17 20:44 packages/eyebrowse-20201107.955.entry
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K May 17 20:44 packages/eyebrowse-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr  221 May 17 20:44 packages/eyebrowse-readme.txt
+ 28K -rw-rw-r-- 1 kimr kimr  27K Jul 10 10:20 packages/eyebrowse-20201107.955.el
+4.0K -rw-rw-r-- 1 kimr kimr  415 Jul 10 10:20 packages/eyebrowse-20201107.955.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 10 10:20 packages/eyebrowse-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr  221 Jul 10 10:20 packages/eyebrowse-readme.txt

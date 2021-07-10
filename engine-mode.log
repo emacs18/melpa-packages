@@ -3,9 +3,9 @@ Fetcher: github
 Source:  https://github.com/hrs/engine-mode.git
 
 Updating /home/kimr/repos/my/melpa/working/engine-mode/
-Built engine-mode in 1.296s, finished at Mon May 17 20:44:09 2021
+Built engine-mode in 0.730s, finished at 2021-07-10T17:19:38+0000
  ✓ Success:
-8.0K -rw-rw-r-- 1 kimr kimr 6.5K May 17 20:44 packages/engine-mode-20200611.1825.el
-4.0K -rw-rw-r-- 1 kimr kimr  394 May 17 20:44 packages/engine-mode-20200611.1825.entry
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K May 17 20:44 packages/engine-mode-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr  781 May 17 20:44 packages/engine-mode-readme.txt
+8.0K -rw-rw-r-- 1 kimr kimr 6.5K Jul 10 10:19 packages/engine-mode-20200611.1825.el
+4.0K -rw-rw-r-- 1 kimr kimr  394 Jul 10 10:19 packages/engine-mode-20200611.1825.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 10 10:19 packages/engine-mode-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr  781 Jul 10 10:19 packages/engine-mode-readme.txt

@@ -3,9 +3,9 @@ Fetcher: github
 Source:  https://github.com/naiquevin/sphinx-doc.el.git
 
 Updating /home/kimr/repos/my/melpa/working/sphinx-doc/
-Built sphinx-doc in 1.056s, finished at Mon May 17 20:50:23 2021
+Built sphinx-doc in 1.474s, finished at 2021-07-10T17:23:09+0000
  ✓ Success:
- 20K -rwxrwxr-x 1 kimr kimr  19K May 17 20:50 packages/sphinx-doc-20210213.1250.el
-4.0K -rw-rw-r-- 1 kimr kimr  472 May 17 20:50 packages/sphinx-doc-20210213.1250.entry
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K May 17 20:50 packages/sphinx-doc-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr  232 May 17 20:50 packages/sphinx-doc-readme.txt
+ 20K -rwxrwxr-x 1 kimr kimr  19K Jul 10 10:23 packages/sphinx-doc-20210213.1250.el
+4.0K -rw-rw-r-- 1 kimr kimr  472 Jul 10 10:23 packages/sphinx-doc-20210213.1250.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 10 10:23 packages/sphinx-doc-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr  232 Jul 10 10:23 packages/sphinx-doc-readme.txt

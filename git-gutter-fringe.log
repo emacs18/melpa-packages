@@ -3,9 +3,9 @@ Fetcher: github
 Source:  https://github.com/emacsorphanage/git-gutter-fringe.git
 
 Updating /home/kimr/repos/my/melpa/working/git-gutter-fringe/
-Built git-gutter-fringe in 1.072s, finished at Mon May 17 20:45:44 2021
+Built git-gutter-fringe in 0.204s, finished at 2021-07-10T17:20:29+0000
  ✓ Success:
-8.0K -rw-rw-r-- 1 kimr kimr 5.7K May 17 20:45 packages/git-gutter-fringe-20200323.2249.el
-4.0K -rw-rw-r-- 1 kimr kimr  493 May 17 20:45 packages/git-gutter-fringe-20200323.2249.entry
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K May 17 20:45 packages/git-gutter-fringe-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr  333 May 17 20:45 packages/git-gutter-fringe-readme.txt
+8.0K -rw-rw-r-- 1 kimr kimr 5.7K Jul 10 10:20 packages/git-gutter-fringe-20200323.2249.el
+4.0K -rw-rw-r-- 1 kimr kimr  493 Jul 10 10:20 packages/git-gutter-fringe-20200323.2249.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 10 10:20 packages/git-gutter-fringe-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr  333 Jul 10 10:20 packages/git-gutter-fringe-readme.txt

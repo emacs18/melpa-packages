@@ -3,11 +3,9 @@ Fetcher: github
 Source:  https://github.com/purcell/elisp-slime-nav.git
 
 Updating /home/kimr/repos/my/melpa/working/elisp-slime-nav/
-Built elisp-slime-nav in 1.088s, finished at Mon May 17 20:44:00 2021
+Built elisp-slime-nav in 0.666s, finished at 2021-07-10T17:19:32+0000
  ✓ Success:
-8.0K -rw-rw-r-- 1 kimr kimr 5.0K Mar 12 19:29 packages/elisp-slime-nav-20200304.2201.el
-4.0K -rw-rw-r-- 1 kimr kimr  474 Mar 12 19:29 packages/elisp-slime-nav-20200304.2201.entry
-8.0K -rw-rw-r-- 1 kimr kimr 5.0K May 17 20:43 packages/elisp-slime-nav-20210510.528.el
-4.0K -rw-rw-r-- 1 kimr kimr  473 May 17 20:43 packages/elisp-slime-nav-20210510.528.entry
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K May 17 20:44 packages/elisp-slime-nav-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr  678 May 17 20:43 packages/elisp-slime-nav-readme.txt
+8.0K -rw-rw-r-- 1 kimr kimr 5.0K Jul 10 10:19 packages/elisp-slime-nav-20210510.528.el
+4.0K -rw-rw-r-- 1 kimr kimr  473 Jul 10 10:19 packages/elisp-slime-nav-20210510.528.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 10 10:19 packages/elisp-slime-nav-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr  678 Jul 10 10:19 packages/elisp-slime-nav-readme.txt

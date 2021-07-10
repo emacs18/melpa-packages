@@ -3,9 +3,9 @@ Fetcher: github
 Source:  https://github.com/PythonNut/helm-flx.git
 
 Updating /home/kimr/repos/my/melpa/working/helm-flx/
-Built helm-flx in 1.044s, finished at Mon May 17 20:46:25 2021
+Built helm-flx in 0.642s, finished at 2021-07-10T17:20:53+0000
  ✓ Success:
- 12K -rw-rw-r-- 1 kimr kimr  11K May 17 20:46 packages/helm-flx-20180103.516.el
-4.0K -rw-rw-r-- 1 kimr kimr  446 May 17 20:46 packages/helm-flx-20180103.516.entry
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K May 17 20:46 packages/helm-flx-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr  313 May 17 20:46 packages/helm-flx-readme.txt
+ 12K -rw-rw-r-- 1 kimr kimr  11K Jul 10 10:20 packages/helm-flx-20180103.516.el
+4.0K -rw-rw-r-- 1 kimr kimr  446 Jul 10 10:20 packages/helm-flx-20180103.516.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 10 10:20 packages/helm-flx-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr  313 Jul 10 10:20 packages/helm-flx-readme.txt

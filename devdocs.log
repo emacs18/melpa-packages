@@ -2,12 +2,15 @@ Package: devdocs
 Fetcher: github
 Source:  https://github.com/astoff/devdocs.el.git
 
-Cloning https://github.com/astoff/devdocs.el.git to /home/kimr/repos/my/melpa/working/devdocs/
-Built devdocs in 1.829s, finished at Wed Jun  2 22:40:01 2021
+Updating /home/kimr/repos/my/melpa/working/devdocs/
+Built devdocs in 0.239s, finished at 2021-07-10T17:19:21+0000
  ✓ Success:
-4.0K -rw-rw-r-- 1 kimr kimr 3.9K May 17 20:43 packages/devdocs-20170731.850.el
-4.0K -rw-rw-r-- 1 kimr kimr  309 May 17 20:43 packages/devdocs-20170731.850.entry
- 16K -rw-rw-r-- 1 kimr kimr  15K Jun  2 22:40 packages/devdocs-20210529.2155.el
-4.0K -rw-rw-r-- 1 kimr kimr  350 Jun  2 22:40 packages/devdocs-20210529.2155.entry
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jun  2 22:40 packages/devdocs-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr  376 Jun  2 22:40 packages/devdocs-readme.txt
+ 20K -rw-rw-r-- 1 kimr kimr  18K Jul 10 10:19 packages/devdocs-20210625.1617.el
+4.0K -rw-rw-r-- 1 kimr kimr  353 Jul 10 10:19 packages/devdocs-20210625.1617.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 10 10:19 packages/devdocs-badge.svg
+ 32K -rw-rw-r-- 1 kimr kimr  32K Jun 16 06:30 packages/devdocs-browser-20210601.1447.el
+4.0K -rw-rw-r-- 1 kimr kimr  388 Jun 16 06:30 packages/devdocs-browser-20210601.1447.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jun 16 06:30 packages/devdocs-browser-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr  647 Jun 16 06:30 packages/devdocs-browser.log
+4.0K -rw-rw-r-- 1 kimr kimr   52 Jun 16 06:30 packages/devdocs-browser-readme.txt
+4.0K -rw-rw-r-- 1 kimr kimr  376 Jul 10 10:19 packages/devdocs-readme.txt

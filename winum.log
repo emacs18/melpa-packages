@@ -3,9 +3,9 @@ Fetcher: github
 Source:  https://github.com/deb0ch/emacs-winum.git
 
 Updating /home/kimr/repos/my/melpa/working/winum/
-Built winum in 1.256s, finished at Mon May 17 20:51:07 2021
+Built winum in 0.746s, finished at 2021-07-10T17:23:36+0000
  ✓ Success:
- 24K -rw-rw-r-- 1 kimr kimr  24K May 17 20:51 packages/winum-20190911.1607.el
-4.0K -rw-rw-r-- 1 kimr kimr  445 May 17 20:51 packages/winum-20190911.1607.entry
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K May 17 20:51 packages/winum-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr  446 May 17 20:51 packages/winum-readme.txt
+ 24K -rw-rw-r-- 1 kimr kimr  24K Jul 10 10:23 packages/winum-20190911.1607.el
+4.0K -rw-rw-r-- 1 kimr kimr  445 Jul 10 10:23 packages/winum-20190911.1607.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 10 10:23 packages/winum-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr  446 Jul 10 10:23 packages/winum-readme.txt

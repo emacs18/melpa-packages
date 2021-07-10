@@ -5,7 +5,7 @@ Source:  https://github.com/org-roam/org-roam.git
 Updating /home/kimr/repos/my/melpa/working/org-roam/
 Copying files (->) and directories (=>)
   from /home/kimr/repos/my/melpa/working/org-roam/
-  to /tmp/org-roamW9CMBF/org-roam-20210513.804
+  to /tmp/org-roamiIPWZ9/org-roam-20210609.1221
     org-roam-buffer.el -> org-roam-buffer.el
     org-roam-capture.el -> org-roam-capture.el
     org-roam-compat.el -> org-roam-compat.el
@@ -21,36 +21,34 @@ Copying files (->) and directories (=>)
     org-roam-protocol.el -> org-roam-protocol.el
     org-roam.el -> org-roam.el
   ! doc/org-roam.texi -> org-roam.texi
-Created /tmp/org-roamW9CMBF/org-roam-20210513.804/org-roam.info
-Created org-roam-20210513.804.tar containing:
-  org-roam-20210513.804/
-  org-roam-20210513.804/dir
-  org-roam-20210513.804/org-roam-buffer.el
-  org-roam-20210513.804/org-roam-capture.el
-  org-roam-20210513.804/org-roam-compat.el
-  org-roam-20210513.804/org-roam-completion.el
-  org-roam-20210513.804/org-roam-dailies.el
-  org-roam-20210513.804/org-roam-db.el
-  org-roam-20210513.804/org-roam-dev.el
-  org-roam-20210513.804/org-roam-doctor.el
-  org-roam-20210513.804/org-roam-faces.el
-  org-roam-20210513.804/org-roam-graph.el
-  org-roam-20210513.804/org-roam-link.el
-  org-roam-20210513.804/org-roam-macs.el
-  org-roam-20210513.804/org-roam-pkg.el
-  org-roam-20210513.804/org-roam-protocol.el
-  org-roam-20210513.804/org-roam.el
-  org-roam-20210513.804/org-roam.info
-Built org-roam in 1.448s, finished at Mon May 17 20:48:43 2021
+Created /tmp/org-roamiIPWZ9/org-roam-20210609.1221/org-roam.info
+Created org-roam-20210609.1221.tar containing:
+  org-roam-20210609.1221/
+  org-roam-20210609.1221/dir
+  org-roam-20210609.1221/org-roam-buffer.el
+  org-roam-20210609.1221/org-roam-capture.el
+  org-roam-20210609.1221/org-roam-compat.el
+  org-roam-20210609.1221/org-roam-completion.el
+  org-roam-20210609.1221/org-roam-dailies.el
+  org-roam-20210609.1221/org-roam-db.el
+  org-roam-20210609.1221/org-roam-dev.el
+  org-roam-20210609.1221/org-roam-doctor.el
+  org-roam-20210609.1221/org-roam-faces.el
+  org-roam-20210609.1221/org-roam-graph.el
+  org-roam-20210609.1221/org-roam-link.el
+  org-roam-20210609.1221/org-roam-macs.el
+  org-roam-20210609.1221/org-roam-pkg.el
+  org-roam-20210609.1221/org-roam-protocol.el
+  org-roam-20210609.1221/org-roam.el
+  org-roam-20210609.1221/org-roam.info
+Built org-roam in 0.585s, finished at 2021-07-10T17:22:11+0000
  ✓ Success:
-4.0K -rw-rw-r-- 1 kimr kimr  556 Mar 12 19:33 packages/org-roam-20210308.457.entry
-320K -rw-rw-r-- 1 kimr kimr 320K Mar 12 19:33 packages/org-roam-20210308.457.tar
-4.0K -rw-rw-r-- 1 kimr kimr  556 May 17 20:48 packages/org-roam-20210513.804.entry
-320K -rw-rw-r-- 1 kimr kimr 320K May 17 20:48 packages/org-roam-20210513.804.tar
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K May 17 20:48 packages/org-roam-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr  179 May 17 20:48 packages/org-roam-readme.txt
-4.0K -rw-rw-r-- 1 kimr kimr  531 Mar 12 19:33 packages/org-roam-server-20210312.1125.entry
-1.3M -rw-rw-r-- 1 kimr kimr 1.3M Mar 12 19:33 packages/org-roam-server-20210312.1125.tar
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K Mar 12 19:33 packages/org-roam-server-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr 1.8K Mar 12 19:33 packages/org-roam-server.log
-4.0K -rw-rw-r-- 1 kimr kimr  166 Mar 12 19:33 packages/org-roam-server-readme.txt
+4.0K -rw-rw-r-- 1 kimr kimr  557 Jul 10 10:22 packages/org-roam-20210609.1221.entry
+332K -rw-rw-r-- 1 kimr kimr 330K Jul 10 10:22 packages/org-roam-20210609.1221.tar
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 10 10:22 packages/org-roam-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr  179 Jul 10 10:22 packages/org-roam-readme.txt
+4.0K -rw-rw-r-- 1 kimr kimr  531 Jul 10 10:15 packages/org-roam-server-20210521.1055.entry
+1.3M -rw-rw-r-- 1 kimr kimr 1.3M Jul 10 10:15 packages/org-roam-server-20210521.1055.tar
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 10 10:15 packages/org-roam-server-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr 1.8K Jul 10 10:15 packages/org-roam-server.log
+4.0K -rw-rw-r-- 1 kimr kimr  166 Jul 10 10:15 packages/org-roam-server-readme.txt

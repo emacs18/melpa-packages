@@ -5,7 +5,7 @@ Source:  https://git.savannah.nongnu.org/git/bbdb.git
 Updating /home/kimr/repos/my/melpa/working/bbdb/
 Copying files (->) and directories (=>)
   from /home/kimr/repos/my/melpa/working/bbdb/
-  to /tmp/bbdbTZduXE/bbdb-20210108.38
+  to /tmp/bbdbS8DHKO/bbdb-20210108.38
   ! lisp/bbdb-anniv.el -> bbdb-anniv.el
   ! lisp/bbdb-com.el -> bbdb-com.el
   ! lisp/bbdb-gnus-aux.el -> bbdb-gnus-aux.el
@@ -30,9 +30,9 @@ Copying files (->) and directories (=>)
   ! doc/bbdb.texi -> bbdb.texi
   ! doc/doclicense.texi -> doclicense.texi
   ! doc/gpl.texi -> gpl.texi
-Created /tmp/bbdbTZduXE/bbdb-20210108.38/bbdb.info
-Created /tmp/bbdbTZduXE/bbdb-20210108.38/doclicense.info
-Created /tmp/bbdbTZduXE/bbdb-20210108.38/gpl.info
+Created /tmp/bbdbS8DHKO/bbdb-20210108.38/bbdb.info
+Created /tmp/bbdbS8DHKO/bbdb-20210108.38/doclicense.info
+Created /tmp/bbdbS8DHKO/bbdb-20210108.38/gpl.info
 Created bbdb-20210108.38.tar containing:
   bbdb-20210108.38/
   bbdb-20210108.38/bbdb-anniv.el
@@ -60,9 +60,9 @@ Created bbdb-20210108.38.tar containing:
   bbdb-20210108.38/dir
   bbdb-20210108.38/doclicense.info
   bbdb-20210108.38/gpl.info
-Built bbdb in 2.068s, finished at Mon May 17 20:42:33 2021
+Built bbdb in 1.090s, finished at 2021-07-10T17:18:42+0000
  ✓ Success:
-4.0K -rw-rw-r-- 1 kimr kimr  213 May 17 20:42 packages/bbdb-20210108.38.entry
-672K -rw-rw-r-- 1 kimr kimr 670K May 17 20:42 packages/bbdb-20210108.38.tar
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K May 17 20:42 packages/bbdb-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr  707 May 17 20:42 packages/bbdb-readme.txt
+4.0K -rw-rw-r-- 1 kimr kimr  213 Jul 10 10:18 packages/bbdb-20210108.38.entry
+672K -rw-rw-r-- 1 kimr kimr 670K Jul 10 10:18 packages/bbdb-20210108.38.tar
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 10 10:18 packages/bbdb-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr  707 Jul 10 10:18 packages/bbdb-readme.txt

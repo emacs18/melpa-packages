@@ -3,9 +3,9 @@ Fetcher: github
 Source:  https://github.com/nschum/auto-dictionary-mode.git
 
 Updating /home/kimr/repos/my/melpa/working/auto-dictionary/
-Built auto-dictionary in 1.077s, finished at Mon May 17 20:42:26 2021
+Built auto-dictionary in 0.641s, finished at 2021-07-10T17:18:38+0000
  ✓ Success:
- 48K -rw-rw-r-- 1 kimr kimr  46K May 17 20:42 packages/auto-dictionary-20150410.1610.el
-4.0K -rw-rw-r-- 1 kimr kimr  367 May 17 20:42 packages/auto-dictionary-20150410.1610.entry
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K May 17 20:42 packages/auto-dictionary-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr  652 May 17 20:42 packages/auto-dictionary-readme.txt
+ 48K -rw-rw-r-- 1 kimr kimr  46K Jul 10 10:18 packages/auto-dictionary-20150410.1610.el
+4.0K -rw-rw-r-- 1 kimr kimr  367 Jul 10 10:18 packages/auto-dictionary-20150410.1610.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 10 10:18 packages/auto-dictionary-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr  652 Jul 10 10:18 packages/auto-dictionary-readme.txt

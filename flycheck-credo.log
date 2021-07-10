@@ -3,9 +3,9 @@ Fetcher: github
 Source:  https://github.com/aaronjensen/flycheck-credo.git
 
 Updating /home/kimr/repos/my/melpa/working/flycheck-credo/
-Built flycheck-credo in 1.039s, finished at Mon May 17 20:45:07 2021
+Built flycheck-credo in 0.689s, finished at 2021-07-10T17:20:12+0000
  ✓ Success:
-4.0K -rw-rw-r-- 1 kimr kimr 3.0K May 17 20:45 packages/flycheck-credo-20170526.1545.el
-4.0K -rw-rw-r-- 1 kimr kimr  354 May 17 20:45 packages/flycheck-credo-20170526.1545.entry
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K May 17 20:45 packages/flycheck-credo-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr  230 May 17 20:45 packages/flycheck-credo-readme.txt
+4.0K -rw-rw-r-- 1 kimr kimr 3.0K Jul 10 10:20 packages/flycheck-credo-20170526.1545.el
+4.0K -rw-rw-r-- 1 kimr kimr  354 Jul 10 10:20 packages/flycheck-credo-20170526.1545.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 10 10:20 packages/flycheck-credo-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr  230 Jul 10 10:20 packages/flycheck-credo-readme.txt

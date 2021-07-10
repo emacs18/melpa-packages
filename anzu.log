@@ -3,9 +3,9 @@ Fetcher: github
 Source:  https://github.com/emacsorphanage/anzu.git
 
 Updating /home/kimr/repos/my/melpa/working/anzu/
-Built anzu in 1.315s, finished at Mon May 17 20:42:20 2021
+Built anzu in 0.656s, finished at 2021-07-10T17:18:35+0000
  ✓ Success:
- 36K -rw-rw-r-- 1 kimr kimr  35K May 17 20:42 packages/anzu-20201203.529.el
-4.0K -rw-rw-r-- 1 kimr kimr  358 May 17 20:42 packages/anzu-20201203.529.entry
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K May 17 20:42 packages/anzu-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr  360 May 17 20:42 packages/anzu-readme.txt
+ 36K -rw-rw-r-- 1 kimr kimr  35K Jul 10 10:18 packages/anzu-20201203.529.el
+4.0K -rw-rw-r-- 1 kimr kimr  358 Jul 10 10:18 packages/anzu-20201203.529.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 10 10:18 packages/anzu-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr  360 Jul 10 10:18 packages/anzu-readme.txt

@@ -5,20 +5,18 @@ Source:  https://github.com/purcell/package-lint.git
 Updating /home/kimr/repos/my/melpa/working/package-lint/
 Copying files (->) and directories (=>)
   from /home/kimr/repos/my/melpa/working/package-lint/
-  to /tmp/package-lintOLF8Md/package-lint-20210511.2055
+  to /tmp/package-lintfXLdSy/package-lint-20210528.2348
     package-lint.el -> package-lint.el
     data => data
-Created package-lint-20210511.2055.tar containing:
-  package-lint-20210511.2055/
-  package-lint-20210511.2055/data/
-  package-lint-20210511.2055/data/stdlib-changes
-  package-lint-20210511.2055/package-lint-pkg.el
-  package-lint-20210511.2055/package-lint.el
-Built package-lint in 1.079s, finished at Mon May 17 20:49:02 2021
+Created package-lint-20210528.2348.tar containing:
+  package-lint-20210528.2348/
+  package-lint-20210528.2348/data/
+  package-lint-20210528.2348/data/stdlib-changes
+  package-lint-20210528.2348/package-lint-pkg.el
+  package-lint-20210528.2348/package-lint.el
+Built package-lint in 0.190s, finished at 2021-07-10T17:22:21+0000
  ✓ Success:
-4.0K -rw-rw-r-- 1 kimr kimr  474 Mar 12 19:34 packages/package-lint-20210227.314.entry
-760K -rw-rw-r-- 1 kimr kimr 760K Mar 12 19:34 packages/package-lint-20210227.314.tar
-4.0K -rw-rw-r-- 1 kimr kimr  475 May 17 20:49 packages/package-lint-20210511.2055.entry
-760K -rw-rw-r-- 1 kimr kimr 760K May 17 20:49 packages/package-lint-20210511.2055.tar
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K May 17 20:49 packages/package-lint-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr  260 May 17 20:49 packages/package-lint-readme.txt
+4.0K -rw-rw-r-- 1 kimr kimr  475 Jul 10 10:22 packages/package-lint-20210528.2348.entry
+760K -rw-rw-r-- 1 kimr kimr 760K Jul 10 10:22 packages/package-lint-20210528.2348.tar
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 10 10:22 packages/package-lint-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr  260 Jul 10 10:22 packages/package-lint-readme.txt

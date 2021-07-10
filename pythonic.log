@@ -3,9 +3,9 @@ Fetcher: github
 Source:  https://github.com/pythonic-emacs/pythonic.git
 
 Updating /home/kimr/repos/my/melpa/working/pythonic/
-Built pythonic in 1.071s, finished at Mon May 17 20:49:47 2021
+Built pythonic in 0.638s, finished at 2021-07-10T17:22:45+0000
  ✓ Success:
- 12K -rw-rw-r-- 1 kimr kimr  12K May 17 20:49 packages/pythonic-20210122.1247.el
-4.0K -rw-rw-r-- 1 kimr kimr  416 May 17 20:49 packages/pythonic-20210122.1247.entry
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K May 17 20:49 packages/pythonic-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr   33 May 17 20:49 packages/pythonic-readme.txt
+ 12K -rw-rw-r-- 1 kimr kimr  12K Jul 10 10:22 packages/pythonic-20210122.1247.el
+4.0K -rw-rw-r-- 1 kimr kimr  416 Jul 10 10:22 packages/pythonic-20210122.1247.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 10 10:22 packages/pythonic-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr   33 Jul 10 10:22 packages/pythonic-readme.txt

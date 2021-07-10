@@ -3,11 +3,9 @@ Fetcher: github
 Source:  https://github.com/rmuslimov/browse-at-remote.git
 
 Updating /home/kimr/repos/my/melpa/working/browse-at-remote/
-Built browse-at-remote in 1.080s, finished at Mon May 17 20:42:40 2021
+Built browse-at-remote in 0.200s, finished at 2021-07-10T17:18:46+0000
  ✓ Success:
- 20K -rw-rw-r-- 1 kimr kimr  20K Mar 12 19:27 packages/browse-at-remote-20200820.654.el
-4.0K -rw-rw-r-- 1 kimr kimr  499 Mar 12 19:27 packages/browse-at-remote-20200820.654.entry
- 24K -rw-rw-r-- 1 kimr kimr  22K May 17 20:42 packages/browse-at-remote-20210405.430.el
-4.0K -rw-rw-r-- 1 kimr kimr  562 May 17 20:42 packages/browse-at-remote-20210405.430.entry
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K May 17 20:42 packages/browse-at-remote-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr  174 May 17 20:42 packages/browse-at-remote-readme.txt
+ 24K -rw-rw-r-- 1 kimr kimr  23K Jul 10 10:18 packages/browse-at-remote-20210603.802.el
+4.0K -rw-rw-r-- 1 kimr kimr  562 Jul 10 10:18 packages/browse-at-remote-20210603.802.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 10 10:18 packages/browse-at-remote-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr  174 Jul 10 10:18 packages/browse-at-remote-readme.txt

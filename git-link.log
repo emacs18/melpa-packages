@@ -3,11 +3,9 @@ Fetcher: github
 Source:  https://github.com/sshaw/git-link.git
 
 Updating /home/kimr/repos/my/melpa/working/git-link/
-Built git-link in 1.135s, finished at Mon May 17 20:45:51 2021
+Built git-link in 0.661s, finished at 2021-07-10T17:20:33+0000
  ✓ Success:
- 28K -rw-rw-r-- 1 kimr kimr  25K Mar 12 19:30 packages/git-link-20210121.235.el
-4.0K -rw-rw-r-- 1 kimr kimr  440 Mar 12 19:30 packages/git-link-20210121.235.entry
- 28K -rw-rw-r-- 1 kimr kimr  25K May 17 20:45 packages/git-link-20210504.2207.el
-4.0K -rw-rw-r-- 1 kimr kimr  441 May 17 20:45 packages/git-link-20210504.2207.entry
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K May 17 20:45 packages/git-link-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr  351 May 17 20:45 packages/git-link-readme.txt
+ 28K -rw-rw-r-- 1 kimr kimr  25K Jul 10 10:20 packages/git-link-20210504.2207.el
+4.0K -rw-rw-r-- 1 kimr kimr  441 Jul 10 10:20 packages/git-link-20210504.2207.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 10 10:20 packages/git-link-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr  351 Jul 10 10:20 packages/git-link-readme.txt

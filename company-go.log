@@ -3,8 +3,8 @@ Fetcher: github
 Source:  https://github.com/mdempsky/gocode.git
 
 Updating /home/kimr/repos/my/melpa/working/company-go/
-Built company-go in 1.081s, finished at Mon May 17 20:43:06 2021
+Built company-go in 0.667s, finished at 2021-07-10T17:19:00+0000
  ✓ Success:
- 12K -rw-rw-r-- 1 kimr kimr 9.3K May 17 20:43 packages/company-go-20190203.19.el
-4.0K -rw-rw-r-- 1 kimr kimr  372 May 17 20:43 packages/company-go-20190203.19.entry
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K May 17 20:43 packages/company-go-badge.svg
+ 12K -rw-rw-r-- 1 kimr kimr 9.3K Jul 10 10:19 packages/company-go-20190203.19.el
+4.0K -rw-rw-r-- 1 kimr kimr  372 Jul 10 10:19 packages/company-go-20190203.19.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 10 10:19 packages/company-go-badge.svg

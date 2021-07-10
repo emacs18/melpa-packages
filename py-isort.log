@@ -3,9 +3,9 @@ Fetcher: github
 Source:  https://github.com/paetzke/py-isort.el.git
 
 Updating /home/kimr/repos/my/melpa/working/py-isort/
-Built py-isort in 1.235s, finished at Mon May 17 20:49:44 2021
+Built py-isort in 0.648s, finished at 2021-07-10T17:22:43+0000
  ✓ Success:
-8.0K -rw-rw-r-- 1 kimr kimr 6.0K May 17 20:49 packages/py-isort-20160925.1018.el
-4.0K -rw-rw-r-- 1 kimr kimr  346 May 17 20:49 packages/py-isort-20160925.1018.entry
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K May 17 20:49 packages/py-isort-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr  358 May 17 20:49 packages/py-isort-readme.txt
+8.0K -rw-rw-r-- 1 kimr kimr 6.0K Jul 10 10:22 packages/py-isort-20160925.1018.el
+4.0K -rw-rw-r-- 1 kimr kimr  346 Jul 10 10:22 packages/py-isort-20160925.1018.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 10 10:22 packages/py-isort-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr  358 Jul 10 10:22 packages/py-isort-readme.txt

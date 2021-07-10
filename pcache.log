@@ -3,9 +3,9 @@ Fetcher: github
 Source:  https://github.com/sigma/pcache.git
 
 Updating /home/kimr/repos/my/melpa/working/pcache/
-Built pcache in 1.082s, finished at Mon May 17 20:49:15 2021
+Built pcache in 0.180s, finished at 2021-07-10T17:22:28+0000
  ✓ Success:
- 12K -rw-rw-r-- 1 kimr kimr 9.2K May 17 20:49 packages/pcache-20201226.634.el
-4.0K -rw-rw-r-- 1 kimr kimr  301 May 17 20:49 packages/pcache-20201226.634.entry
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K May 17 20:49 packages/pcache-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr  923 May 17 20:49 packages/pcache-readme.txt
+ 12K -rw-rw-r-- 1 kimr kimr 9.2K Jul 10 10:22 packages/pcache-20201226.634.el
+4.0K -rw-rw-r-- 1 kimr kimr  301 Jul 10 10:22 packages/pcache-20201226.634.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 10 10:22 packages/pcache-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr  923 Jul 10 10:22 packages/pcache-readme.txt

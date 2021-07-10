@@ -3,9 +3,9 @@ Fetcher: github
 Source:  https://github.com/emacsorphanage/smeargle.git
 
 Updating /home/kimr/repos/my/melpa/working/smeargle/
-Built smeargle in 1.899s, finished at Mon May 17 20:50:18 2021
+Built smeargle in 0.650s, finished at 2021-07-10T17:23:03+0000
  ✓ Success:
- 12K -rw-rw-r-- 1 kimr kimr 8.2K May 17 20:50 packages/smeargle-20200323.533.el
-4.0K -rw-rw-r-- 1 kimr kimr  363 May 17 20:50 packages/smeargle-20200323.533.entry
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K May 17 20:50 packages/smeargle-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr  196 May 17 20:50 packages/smeargle-readme.txt
+ 12K -rw-rw-r-- 1 kimr kimr 8.2K Jul 10 10:23 packages/smeargle-20200323.533.el
+4.0K -rw-rw-r-- 1 kimr kimr  363 Jul 10 10:23 packages/smeargle-20200323.533.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 10 10:23 packages/smeargle-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr  196 Jul 10 10:23 packages/smeargle-readme.txt

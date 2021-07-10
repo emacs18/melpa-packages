@@ -5,7 +5,7 @@ Source:  https://github.com/jwiegley/emacs-async.git
 Updating /home/kimr/repos/my/melpa/working/async/
 Copying files (->) and directories (=>)
   from /home/kimr/repos/my/melpa/working/async/
-  to /tmp/asyncko3yeY/async-20210501.1527
+  to /tmp/asynciVBBCa/async-20210501.1527
     async-bytecomp.el -> async-bytecomp.el
     async.el -> async.el
     dired-async.el -> dired-async.el
@@ -17,11 +17,9 @@ Created async-20210501.1527.tar containing:
   async-20210501.1527/async.el
   async-20210501.1527/dired-async.el
   async-20210501.1527/smtpmail-async.el
-Built async in 1.046s, finished at Mon May 17 20:42:21 2021
+Built async in 0.871s, finished at 2021-07-10T17:18:36+0000
  ✓ Success:
-4.0K -rw-rw-r-- 1 kimr kimr  352 Mar 12 19:27 packages/async-20210117.718.entry
- 52K -rw-rw-r-- 1 kimr kimr  50K Mar 12 19:27 packages/async-20210117.718.tar
-4.0K -rw-rw-r-- 1 kimr kimr  339 May 17 20:42 packages/async-20210501.1527.entry
- 52K -rw-rw-r-- 1 kimr kimr  50K May 17 20:42 packages/async-20210501.1527.tar
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K May 17 20:42 packages/async-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr  139 May 17 20:42 packages/async-readme.txt
+4.0K -rw-rw-r-- 1 kimr kimr  339 Jul 10 10:18 packages/async-20210501.1527.entry
+ 52K -rw-rw-r-- 1 kimr kimr  50K Jul 10 10:18 packages/async-20210501.1527.tar
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 10 10:18 packages/async-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr  139 Jul 10 10:18 packages/async-readme.txt

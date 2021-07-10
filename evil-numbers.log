@@ -2,12 +2,10 @@ Package: evil-numbers
 Fetcher: github
 Source:  https://github.com/juliapath/evil-numbers.git
 
-Cloning https://github.com/juliapath/evil-numbers.git to /home/kimr/repos/my/melpa/working/evil-numbers/
-Built evil-numbers in 1.902s, finished at Mon May 17 20:44:43 2021
+Updating /home/kimr/repos/my/melpa/working/evil-numbers/
+Built evil-numbers in 0.230s, finished at 2021-07-10T17:19:58+0000
  ✓ Success:
-8.0K -rw-rw-r-- 1 kimr kimr 7.1K Mar 12 19:29 packages/evil-numbers-20140606.1251.el
-4.0K -rw-rw-r-- 1 kimr kimr  428 Mar 12 19:29 packages/evil-numbers-20140606.1251.entry
- 20K -rw-rw-r-- 1 kimr kimr  19K May 17 20:44 packages/evil-numbers-20210517.1611.el
-4.0K -rw-rw-r-- 1 kimr kimr  401 May 17 20:44 packages/evil-numbers-20210517.1611.entry
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K May 17 20:44 packages/evil-numbers-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr  995 May 17 20:44 packages/evil-numbers-readme.txt
+ 28K -rw-rw-r-- 1 kimr kimr  25K Jul 10 10:19 packages/evil-numbers-20210605.431.el
+4.0K -rw-rw-r-- 1 kimr kimr  420 Jul 10 10:19 packages/evil-numbers-20210605.431.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 10 10:19 packages/evil-numbers-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr  995 Jul 10 10:19 packages/evil-numbers-readme.txt

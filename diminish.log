@@ -3,9 +3,9 @@ Fetcher: github
 Source:  https://github.com/myrjola/diminish.el.git
 
 Updating /home/kimr/repos/my/melpa/working/diminish/
-Built diminish in 0.873s, finished at Mon May 17 20:43:45 2021
+Built diminish in 0.768s, finished at 2021-07-10T17:19:23+0000
  ✓ Success:
- 16K -rw-rw-r-- 1 kimr kimr  15K May 17 20:43 packages/diminish-20191127.1326.el
-4.0K -rw-rw-r-- 1 kimr kimr  437 May 17 20:43 packages/diminish-20191127.1326.entry
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K May 17 20:43 packages/diminish-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr 3.4K May 17 20:43 packages/diminish-readme.txt
+ 16K -rw-rw-r-- 1 kimr kimr  15K Jul 10 10:19 packages/diminish-20191127.1326.el
+4.0K -rw-rw-r-- 1 kimr kimr  437 Jul 10 10:19 packages/diminish-20191127.1326.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 10 10:19 packages/diminish-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr 3.4K Jul 10 10:19 packages/diminish-readme.txt

@@ -4,9 +4,9 @@ Source:  https://github.com/joddie/pcre2el.git
 
 Updating /home/kimr/repos/my/melpa/working/pcre2el/
 Note: pcre2el :files spec is equivalent to the default.
-Built pcre2el in 1.098s, finished at Mon May 17 20:49:17 2021
+Built pcre2el in 0.648s, finished at 2021-07-10T17:22:29+0000
  ✓ Success:
-116K -rw-rw-r-- 1 kimr kimr 115K May 17 20:49 packages/pcre2el-20161120.2103.el
-4.0K -rw-rw-r-- 1 kimr kimr  332 May 17 20:49 packages/pcre2el-20161120.2103.entry
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K May 17 20:49 packages/pcre2el-badge.svg
- 16K -rw-rw-r-- 1 kimr kimr  16K May 17 20:49 packages/pcre2el-readme.txt
+116K -rw-rw-r-- 1 kimr kimr 115K Jul 10 10:22 packages/pcre2el-20161120.2103.el
+4.0K -rw-rw-r-- 1 kimr kimr  332 Jul 10 10:22 packages/pcre2el-20161120.2103.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 10 10:22 packages/pcre2el-badge.svg
+ 16K -rw-rw-r-- 1 kimr kimr  16K Jul 10 10:22 packages/pcre2el-readme.txt

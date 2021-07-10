@@ -3,9 +3,9 @@ Fetcher: github
 Source:  https://github.com/gongo/json-reformat.git
 
 Updating /home/kimr/repos/my/melpa/working/json-reformat/
-Built json-reformat in 1.152s, finished at Mon May 17 20:47:20 2021
+Built json-reformat in 0.314s, finished at 2021-07-10T17:21:26+0000
  ✓ Success:
-8.0K -rw-rw-r-- 1 kimr kimr 7.1K May 17 20:47 packages/json-reformat-20160212.853.el
-4.0K -rw-rw-r-- 1 kimr kimr  334 May 17 20:47 packages/json-reformat-20160212.853.entry
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K May 17 20:47 packages/json-reformat-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr  220 May 17 20:47 packages/json-reformat-readme.txt
+8.0K -rw-rw-r-- 1 kimr kimr 7.1K Jul 10 10:21 packages/json-reformat-20160212.853.el
+4.0K -rw-rw-r-- 1 kimr kimr  334 Jul 10 10:21 packages/json-reformat-20160212.853.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 10 10:21 packages/json-reformat-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr  220 Jul 10 10:21 packages/json-reformat-readme.txt

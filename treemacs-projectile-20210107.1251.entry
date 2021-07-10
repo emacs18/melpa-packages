@@ -7,7 +7,7 @@
 		       (treemacs
 			(0 0)))
 		      "Projectile integration for treemacs" single
-		      ((:commit . "6f4c02c1033bb7ba160942d92570895ae2332ae7")
+		      ((:commit . "a6f9e9f1cea3502b3ead082fd208c4011a55add0")
 		       (:authors
 			("Alexander Miller" . "alexanderm@web.de"))
 		       (:maintainer "Alexander Miller" . "alexanderm@web.de")

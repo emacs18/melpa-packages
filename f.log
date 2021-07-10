@@ -4,8 +4,8 @@ Source:  https://github.com/rejeep/f.el.git
 
 Updating /home/kimr/repos/my/melpa/working/f/
 Note: f :files spec is equivalent to the default.
-Built f in 1.019s, finished at Mon May 17 20:44:55 2021
+Built f in 0.181s, finished at 2021-07-10T17:20:05+0000
  ✓ Success:
- 20K -rw-rw-r-- 1 kimr kimr  19K May 17 20:44 packages/f-20191110.1357.el
-4.0K -rw-rw-r-- 1 kimr kimr  419 May 17 20:44 packages/f-20191110.1357.entry
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K May 17 20:44 packages/f-badge.svg
+ 20K -rw-rw-r-- 1 kimr kimr  19K Jul 10 10:20 packages/f-20210624.1103.el
+4.0K -rw-rw-r-- 1 kimr kimr  419 Jul 10 10:20 packages/f-20210624.1103.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 10 10:20 packages/f-badge.svg

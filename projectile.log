@@ -4,11 +4,9 @@ Source:  https://github.com/bbatsov/projectile.git
 
 Updating /home/kimr/repos/my/melpa/working/projectile/
 Note: projectile :files spec is equivalent to the default.
-Built projectile in 1.155s, finished at Mon May 17 20:49:40 2021
+Built projectile in 0.233s, finished at 2021-07-10T17:22:41+0000
  ✓ Success:
-216K -rw-rw-r-- 1 kimr kimr 216K Mar 12 19:34 packages/projectile-20210309.722.el
-4.0K -rw-rw-r-- 1 kimr kimr  455 Mar 12 19:34 packages/projectile-20210309.722.entry
-224K -rw-rw-r-- 1 kimr kimr 222K May 17 20:49 packages/projectile-20210503.738.el
-4.0K -rw-rw-r-- 1 kimr kimr  455 May 17 20:49 packages/projectile-20210503.738.entry
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K May 17 20:49 packages/projectile-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr  356 May 17 20:49 packages/projectile-readme.txt
+236K -rw-rw-r-- 1 kimr kimr 235K Jul 10 10:22 packages/projectile-20210701.441.el
+4.0K -rw-rw-r-- 1 kimr kimr  455 Jul 10 10:22 packages/projectile-20210701.441.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 10 10:22 packages/projectile-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr  356 Jul 10 10:22 packages/projectile-readme.txt

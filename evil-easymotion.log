@@ -3,9 +3,9 @@ Fetcher: github
 Source:  https://github.com/PythonNut/evil-easymotion.git
 
 Updating /home/kimr/repos/my/melpa/working/evil-easymotion/
-Built evil-easymotion in 1.043s, finished at Mon May 17 20:44:27 2021
+Built evil-easymotion in 0.689s, finished at 2021-07-10T17:19:49+0000
  ✓ Success:
- 24K -rw-rw-r-- 1 kimr kimr  22K May 17 20:44 packages/evil-easymotion-20200424.135.el
-4.0K -rw-rw-r-- 1 kimr kimr  448 May 17 20:44 packages/evil-easymotion-20200424.135.entry
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K May 17 20:44 packages/evil-easymotion-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K May 17 20:44 packages/evil-easymotion-readme.txt
+ 24K -rw-rw-r-- 1 kimr kimr  22K Jul 10 10:19 packages/evil-easymotion-20200424.135.el
+4.0K -rw-rw-r-- 1 kimr kimr  448 Jul 10 10:19 packages/evil-easymotion-20200424.135.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 10 10:19 packages/evil-easymotion-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 10 10:19 packages/evil-easymotion-readme.txt

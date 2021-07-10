@@ -3,9 +3,9 @@ Fetcher: github
 Source:  https://github.com/IvanMalison/org-projectile.git
 
 Updating /home/kimr/repos/my/melpa/working/org-category-capture/
-Built org-category-capture in 1.045s, finished at Mon May 17 20:48:24 2021
+Built org-category-capture in 0.642s, finished at 2021-07-10T17:22:02+0000
  ✓ Success:
- 12K -rw-rw-r-- 1 kimr kimr 8.5K May 17 20:48 packages/org-category-capture-20200329.313.el
-4.0K -rw-rw-r-- 1 kimr kimr  453 May 17 20:48 packages/org-category-capture-20200329.313.entry
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K May 17 20:48 packages/org-category-capture-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr  146 May 17 20:48 packages/org-category-capture-readme.txt
+ 12K -rw-rw-r-- 1 kimr kimr 8.5K Jul 10 10:22 packages/org-category-capture-20200329.313.el
+4.0K -rw-rw-r-- 1 kimr kimr  453 Jul 10 10:22 packages/org-category-capture-20200329.313.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 10 10:22 packages/org-category-capture-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr  146 Jul 10 10:22 packages/org-category-capture-readme.txt

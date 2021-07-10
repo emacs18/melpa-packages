@@ -3,9 +3,9 @@ Fetcher: github
 Source:  https://github.com/Andersbakken/rtags.git
 
 Updating /home/kimr/repos/my/melpa/working/ivy-rtags/
-Built ivy-rtags in 0.580s, finished at Mon May 17 20:47:11 2021
+Built ivy-rtags in 0.237s, finished at 2021-07-10T17:21:21+0000
  ✓ Success:
-8.0K -rw-rw-r-- 1 kimr kimr 4.8K May 17 20:47 packages/ivy-rtags-20191222.920.el
-4.0K -rw-rw-r-- 1 kimr kimr  434 May 17 20:47 packages/ivy-rtags-20191222.920.entry
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K May 17 20:47 packages/ivy-rtags-badge.svg
-   0 -rw-rw-r-- 1 kimr kimr    0 May 17 20:47 packages/ivy-rtags-readme.txt
+8.0K -rw-rw-r-- 1 kimr kimr 4.8K Jul 10 10:21 packages/ivy-rtags-20191222.920.el
+4.0K -rw-rw-r-- 1 kimr kimr  434 Jul 10 10:21 packages/ivy-rtags-20191222.920.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 10 10:21 packages/ivy-rtags-badge.svg
+   0 -rw-rw-r-- 1 kimr kimr    0 Jul 10 10:21 packages/ivy-rtags-readme.txt

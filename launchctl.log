@@ -3,9 +3,9 @@ Fetcher: github
 Source:  https://github.com/pekingduck/launchctl-el.git
 
 Updating /home/kimr/repos/my/melpa/working/launchctl/
-Built launchctl in 1.075s, finished at Mon May 17 20:47:28 2021
+Built launchctl in 0.270s, finished at 2021-07-10T17:21:30+0000
  ✓ Success:
- 16K -rw-rw-r-- 1 kimr kimr  14K May 17 20:47 packages/launchctl-20210309.1113.el
-4.0K -rw-rw-r-- 1 kimr kimr  398 May 17 20:47 packages/launchctl-20210309.1113.entry
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K May 17 20:47 packages/launchctl-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr  279 May 17 20:47 packages/launchctl-readme.txt
+ 16K -rw-rw-r-- 1 kimr kimr  14K Jul 10 10:21 packages/launchctl-20210611.2243.el
+4.0K -rw-rw-r-- 1 kimr kimr  398 Jul 10 10:21 packages/launchctl-20210611.2243.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 10 10:21 packages/launchctl-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr  279 Jul 10 10:21 packages/launchctl-readme.txt

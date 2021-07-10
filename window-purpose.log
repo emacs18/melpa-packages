@@ -5,7 +5,7 @@ Source:  https://github.com/bmag/emacs-purpose.git
 Updating /home/kimr/repos/my/melpa/working/window-purpose/
 Copying files (->) and directories (=>)
   from /home/kimr/repos/my/melpa/working/window-purpose/
-  to /tmp/window-purpose9ZtGC1/window-purpose-20210423.454
+  to /tmp/window-purposeZkRPav/window-purpose-20210628.715
     window-purpose-configuration.el -> window-purpose-configuration.el
     window-purpose-core.el -> window-purpose-core.el
     window-purpose-fixes.el -> window-purpose-fixes.el
@@ -16,26 +16,24 @@ Copying files (->) and directories (=>)
     window-purpose-x.el -> window-purpose-x.el
     window-purpose.el -> window-purpose.el
     layouts => layouts
-Created window-purpose-20210423.454.tar containing:
-  window-purpose-20210423.454/
-  window-purpose-20210423.454/layouts/
-  window-purpose-20210423.454/layouts/edit-terminal-general.window-layout
-  window-purpose-20210423.454/layouts/edit-terminal.window-layout
-  window-purpose-20210423.454/window-purpose-configuration.el
-  window-purpose-20210423.454/window-purpose-core.el
-  window-purpose-20210423.454/window-purpose-fixes.el
-  window-purpose-20210423.454/window-purpose-layout.el
-  window-purpose-20210423.454/window-purpose-pkg.el
-  window-purpose-20210423.454/window-purpose-prefix-overload.el
-  window-purpose-20210423.454/window-purpose-switch.el
-  window-purpose-20210423.454/window-purpose-utils.el
-  window-purpose-20210423.454/window-purpose-x.el
-  window-purpose-20210423.454/window-purpose.el
-Built window-purpose in 0.902s, finished at Mon May 17 20:51:06 2021
+Created window-purpose-20210628.715.tar containing:
+  window-purpose-20210628.715/
+  window-purpose-20210628.715/layouts/
+  window-purpose-20210628.715/layouts/edit-terminal-general.window-layout
+  window-purpose-20210628.715/layouts/edit-terminal.window-layout
+  window-purpose-20210628.715/window-purpose-configuration.el
+  window-purpose-20210628.715/window-purpose-core.el
+  window-purpose-20210628.715/window-purpose-fixes.el
+  window-purpose-20210628.715/window-purpose-layout.el
+  window-purpose-20210628.715/window-purpose-pkg.el
+  window-purpose-20210628.715/window-purpose-prefix-overload.el
+  window-purpose-20210628.715/window-purpose-switch.el
+  window-purpose-20210628.715/window-purpose-utils.el
+  window-purpose-20210628.715/window-purpose-x.el
+  window-purpose-20210628.715/window-purpose.el
+Built window-purpose in 0.171s, finished at 2021-07-10T17:23:35+0000
  ✓ Success:
-4.0K -rw-rw-r-- 1 kimr kimr  377 Mar 15 10:00 packages/window-purpose-20210309.1531.entry
-200K -rw-rw-r-- 1 kimr kimr 200K Mar 15 10:00 packages/window-purpose-20210309.1531.tar
-4.0K -rw-rw-r-- 1 kimr kimr  376 May 17 20:51 packages/window-purpose-20210423.454.entry
-200K -rw-rw-r-- 1 kimr kimr 200K May 17 20:51 packages/window-purpose-20210423.454.tar
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K May 17 20:51 packages/window-purpose-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr 1.4K May 17 20:51 packages/window-purpose-readme.txt
+4.0K -rw-rw-r-- 1 kimr kimr  376 Jul 10 10:23 packages/window-purpose-20210628.715.entry
+200K -rw-rw-r-- 1 kimr kimr 200K Jul 10 10:23 packages/window-purpose-20210628.715.tar
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 10 10:23 packages/window-purpose-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr 1.4K Jul 10 10:23 packages/window-purpose-readme.txt

@@ -2,10 +2,12 @@ Package: with-simulated-input
 Fetcher: github
 Source:  https://github.com/DarwinAwardWinner/with-simulated-input.git
 
-Cloning https://github.com/DarwinAwardWinner/with-simulated-input.git to /home/kimr/repos/my/melpa/working/with-simulated-input/
-Built with-simulated-input in 2.380s, finished at Tue May 18 11:41:21 2021
+Updating /home/kimr/repos/my/melpa/working/with-simulated-input/
+Built with-simulated-input in 0.767s, finished at 2021-07-10T17:23:37+0000
  ✓ Success:
  24K -rw-rw-r-- 1 kimr kimr  22K May 18 11:41 packages/with-simulated-input-20210514.349.el
 4.0K -rw-rw-r-- 1 kimr kimr  506 May 18 11:41 packages/with-simulated-input-20210514.349.entry
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K May 18 11:41 packages/with-simulated-input-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K May 18 11:41 packages/with-simulated-input-readme.txt
+ 24K -rw-rw-r-- 1 kimr kimr  22K Jul 10 10:23 packages/with-simulated-input-20210527.2320.el
+4.0K -rw-rw-r-- 1 kimr kimr  507 Jul 10 10:23 packages/with-simulated-input-20210527.2320.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 10 10:23 packages/with-simulated-input-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 10 10:23 packages/with-simulated-input-readme.txt

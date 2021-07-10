@@ -3,9 +3,9 @@ Fetcher: github
 Source:  https://github.com/Malabarba/Nameless.git
 
 Updating /home/kimr/repos/my/melpa/working/nameless/
-Built nameless in 1.042s, finished at Mon May 17 20:48:14 2021
+Built nameless in 0.663s, finished at 2021-07-10T17:21:55+0000
  ✓ Success:
- 12K -rw-rw-r-- 1 kimr kimr  12K May 17 20:48 packages/nameless-20190429.1202.el
-4.0K -rw-rw-r-- 1 kimr kimr  419 May 17 20:48 packages/nameless-20190429.1202.entry
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K May 17 20:48 packages/nameless-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr  423 May 17 20:48 packages/nameless-readme.txt
+ 12K -rw-rw-r-- 1 kimr kimr  12K Jul 10 10:21 packages/nameless-20190429.1202.el
+4.0K -rw-rw-r-- 1 kimr kimr  419 Jul 10 10:21 packages/nameless-20190429.1202.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 10 10:21 packages/nameless-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr  423 Jul 10 10:21 packages/nameless-readme.txt

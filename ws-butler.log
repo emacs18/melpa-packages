@@ -3,9 +3,9 @@ Fetcher: github
 Source:  https://github.com/lewang/ws-butler.git
 
 Updating /home/kimr/repos/my/melpa/working/ws-butler/
-Built ws-butler in 1.079s, finished at Mon May 17 20:51:12 2021
+Built ws-butler in 0.840s, finished at 2021-07-10T17:23:39+0000
  ✓ Success:
- 12K -rw-rw-r-- 1 kimr kimr  12K May 17 20:51 packages/ws-butler-20201117.1528.el
-4.0K -rw-rw-r-- 1 kimr kimr  277 May 17 20:51 packages/ws-butler-20201117.1528.entry
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K May 17 20:51 packages/ws-butler-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr  833 May 17 20:51 packages/ws-butler-readme.txt
+ 12K -rw-rw-r-- 1 kimr kimr  12K Jul 10 10:23 packages/ws-butler-20201117.1528.el
+4.0K -rw-rw-r-- 1 kimr kimr  277 Jul 10 10:23 packages/ws-butler-20201117.1528.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 10 10:23 packages/ws-butler-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr  833 Jul 10 10:23 packages/ws-butler-readme.txt

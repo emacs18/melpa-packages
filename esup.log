@@ -5,7 +5,7 @@ Source:  https://github.com/jschaf/esup.git
 Updating /home/kimr/repos/my/melpa/working/esup/
 Copying files (->) and directories (=>)
   from /home/kimr/repos/my/melpa/working/esup/
-  to /tmp/esupa9afOw/esup-20200814.1400
+  to /tmp/esupGcI6JU/esup-20200814.1400
     esup-child.el -> esup-child.el
     esup.el -> esup.el
 Created esup-20200814.1400.tar containing:
@@ -13,9 +13,9 @@ Created esup-20200814.1400.tar containing:
   esup-20200814.1400/esup-child.el
   esup-20200814.1400/esup-pkg.el
   esup-20200814.1400/esup.el
-Built esup in 1.044s, finished at Mon May 17 20:44:16 2021
+Built esup in 0.172s, finished at 2021-07-10T17:19:42+0000
  ✓ Success:
-4.0K -rw-rw-r-- 1 kimr kimr  390 May 17 20:44 packages/esup-20200814.1400.entry
- 52K -rw-rw-r-- 1 kimr kimr  50K May 17 20:44 packages/esup-20200814.1400.tar
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K May 17 20:44 packages/esup-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr  996 May 17 20:44 packages/esup-readme.txt
+4.0K -rw-rw-r-- 1 kimr kimr  390 Jul 10 10:19 packages/esup-20200814.1400.entry
+ 52K -rw-rw-r-- 1 kimr kimr  50K Jul 10 10:19 packages/esup-20200814.1400.tar
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 10 10:19 packages/esup-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr  996 Jul 10 10:19 packages/esup-readme.txt

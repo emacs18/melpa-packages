@@ -3,9 +3,9 @@ Fetcher: github
 Source:  https://github.com/emacsorphanage/go-eldoc.git
 
 Updating /home/kimr/repos/my/melpa/working/go-eldoc/
-Built go-eldoc in 1.049s, finished at Mon May 17 20:45:59 2021
+Built go-eldoc in 0.660s, finished at 2021-07-10T17:20:38+0000
  ✓ Success:
- 16K -rw-rw-r-- 1 kimr kimr  16K May 17 20:45 packages/go-eldoc-20170305.1427.el
-4.0K -rw-rw-r-- 1 kimr kimr  358 May 17 20:45 packages/go-eldoc-20170305.1427.entry
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K May 17 20:45 packages/go-eldoc-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr  280 May 17 20:45 packages/go-eldoc-readme.txt
+ 16K -rw-rw-r-- 1 kimr kimr  16K Jul 10 10:20 packages/go-eldoc-20170305.1427.el
+4.0K -rw-rw-r-- 1 kimr kimr  358 Jul 10 10:20 packages/go-eldoc-20170305.1427.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 10 10:20 packages/go-eldoc-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr  280 Jul 10 10:20 packages/go-eldoc-readme.txt

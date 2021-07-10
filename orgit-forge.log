@@ -3,11 +3,9 @@ Fetcher: github
 Source:  https://github.com/magit/orgit-forge.git
 
 Updating /home/kimr/repos/my/melpa/working/orgit-forge/
-Built orgit-forge in 1.044s, finished at Mon May 17 20:48:29 2021
+Built orgit-forge in 0.250s, finished at 2021-07-10T17:22:05+0000
  ✓ Success:
-4.0K -rw-rw-r-- 1 kimr kimr 3.7K Mar 15 09:35 packages/orgit-forge-20200621.2144.el
-4.0K -rw-rw-r-- 1 kimr kimr  459 Mar 15 09:35 packages/orgit-forge-20200621.2144.entry
-4.0K -rw-rw-r-- 1 kimr kimr 3.8K May 17 20:48 packages/orgit-forge-20210426.2145.el
-4.0K -rw-rw-r-- 1 kimr kimr  459 May 17 20:48 packages/orgit-forge-20210426.2145.entry
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K May 17 20:48 packages/orgit-forge-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr  103 May 17 20:48 packages/orgit-forge-readme.txt
+4.0K -rw-rw-r-- 1 kimr kimr 3.8K Jul 10 10:22 packages/orgit-forge-20210615.1516.el
+4.0K -rw-rw-r-- 1 kimr kimr  452 Jul 10 10:22 packages/orgit-forge-20210615.1516.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 10 10:22 packages/orgit-forge-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr  103 Jul 10 10:22 packages/orgit-forge-readme.txt

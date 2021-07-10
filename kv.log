@@ -2,11 +2,11 @@ Package: kv
 Fetcher: github
 Source:  https://github.com/nicferrier/emacs-kv.git
 
-Cloning https://github.com/nicferrier/emacs-kv.git to /home/kimr/repos/my/melpa/working/kv/
+Updating /home/kimr/repos/my/melpa/working/kv/
 Note: kv :files spec is equivalent to the default.
-Built kv in 2.123s, finished at Tue May 18 10:20:19 2021
+Built kv in 0.638s, finished at 2021-07-10T17:21:30+0000
  ✓ Success:
- 16K -rw-rw-r-- 1 kimr kimr  14K May 18 10:20 packages/kv-20140108.1534.el
-4.0K -rw-rw-r-- 1 kimr kimr  297 May 18 10:20 packages/kv-20140108.1534.entry
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K May 18 10:20 packages/kv-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr  166 May 18 10:20 packages/kv-readme.txt
+ 16K -rw-rw-r-- 1 kimr kimr  14K Jul 10 10:21 packages/kv-20140108.1534.el
+4.0K -rw-rw-r-- 1 kimr kimr  297 Jul 10 10:21 packages/kv-20140108.1534.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 10 10:21 packages/kv-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr  166 Jul 10 10:21 packages/kv-readme.txt

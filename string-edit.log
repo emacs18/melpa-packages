@@ -4,11 +4,9 @@ Source:  https://github.com/magnars/string-edit.el.git
 
 Updating /home/kimr/repos/my/melpa/working/string-edit/
 Note: string-edit :files spec is equivalent to the default.
-Built string-edit in 1.037s, finished at Mon May 17 20:50:25 2021
+Built string-edit in 0.178s, finished at 2021-07-10T17:23:09+0000
  ✓ Success:
- 12K -rw-rw-r-- 1 kimr kimr 8.2K Mar 12 19:35 packages/string-edit-20160411.656.el
-4.0K -rw-rw-r-- 1 kimr kimr  325 Mar 12 19:35 packages/string-edit-20160411.656.entry
- 12K -rw-rw-r-- 1 kimr kimr 8.6K May 17 20:50 packages/string-edit-20210405.1836.el
-4.0K -rw-rw-r-- 1 kimr kimr  326 May 17 20:50 packages/string-edit-20210405.1836.entry
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K May 17 20:50 packages/string-edit-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr   61 May 17 20:50 packages/string-edit-readme.txt
+ 12K -rw-rw-r-- 1 kimr kimr 8.6K Jul 10 10:23 packages/string-edit-20210405.1836.el
+4.0K -rw-rw-r-- 1 kimr kimr  326 Jul 10 10:23 packages/string-edit-20210405.1836.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 10 10:23 packages/string-edit-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr   61 Jul 10 10:23 packages/string-edit-readme.txt

@@ -3,9 +3,9 @@ Fetcher: github
 Source:  https://github.com/rlister/org-present.git
 
 Updating /home/kimr/repos/my/melpa/working/org-present/
-Built org-present in 1.078s, finished at Mon May 17 20:48:36 2021
+Built org-present in 0.290s, finished at 2021-07-10T17:22:08+0000
  ✓ Success:
- 12K -rw-rw-r-- 1 kimr kimr 9.6K May 17 20:48 packages/org-present-20200204.1647.el
-4.0K -rw-rw-r-- 1 kimr kimr  325 May 17 20:48 packages/org-present-20200204.1647.entry
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K May 17 20:48 packages/org-present-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr 1022 May 17 20:48 packages/org-present-readme.txt
+ 12K -rw-rw-r-- 1 kimr kimr 9.6K Jul 10 10:22 packages/org-present-20210619.1614.el
+4.0K -rw-rw-r-- 1 kimr kimr  325 Jul 10 10:22 packages/org-present-20210619.1614.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 10 10:22 packages/org-present-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr 1022 Jul 10 10:22 packages/org-present-readme.txt

@@ -3,8 +3,8 @@ Fetcher: github
 Source:  https://github.com/alphapapa/navi.git
 
 Updating /home/kimr/repos/my/melpa/working/navi-mode/
-Built navi-mode in 1.044s, finished at Mon May 17 20:48:15 2021
+Built navi-mode in 0.642s, finished at 2021-07-10T17:21:56+0000
  ✓ Success:
-100K -rw-rw-r-- 1 kimr kimr  98K May 17 20:48 packages/navi-mode-20201220.1727.el
-4.0K -rw-rw-r-- 1 kimr kimr  317 May 17 20:48 packages/navi-mode-20201220.1727.entry
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K May 17 20:48 packages/navi-mode-badge.svg
+100K -rw-rw-r-- 1 kimr kimr  98K Jul 10 10:21 packages/navi-mode-20201220.1727.el
+4.0K -rw-rw-r-- 1 kimr kimr  317 Jul 10 10:21 packages/navi-mode-20201220.1727.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 10 10:21 packages/navi-mode-badge.svg

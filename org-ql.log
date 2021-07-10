@@ -5,22 +5,22 @@ Source:  https://github.com/alphapapa/org-ql.git
 Updating /home/kimr/repos/my/melpa/working/org-ql/
 Copying files (->) and directories (=>)
   from /home/kimr/repos/my/melpa/working/org-ql/
-  to /tmp/org-qlsU9QCt/org-ql-20201213.1358
+  to /tmp/org-qlTK702W/org-ql-20210624.1314
     org-ql-search.el -> org-ql-search.el
     org-ql-view.el -> org-ql-view.el
     org-ql.el -> org-ql.el
     org-ql.info -> org-ql.info
-Created org-ql-20201213.1358.tar containing:
-  org-ql-20201213.1358/
-  org-ql-20201213.1358/dir
-  org-ql-20201213.1358/org-ql-pkg.el
-  org-ql-20201213.1358/org-ql-search.el
-  org-ql-20201213.1358/org-ql-view.el
-  org-ql-20201213.1358/org-ql.el
-  org-ql-20201213.1358/org-ql.info
-Built org-ql in 1.064s, finished at Mon May 17 20:48:38 2021
+Created org-ql-20210624.1314.tar containing:
+  org-ql-20210624.1314/
+  org-ql-20210624.1314/dir
+  org-ql-20210624.1314/org-ql-pkg.el
+  org-ql-20210624.1314/org-ql-search.el
+  org-ql-20210624.1314/org-ql-view.el
+  org-ql-20210624.1314/org-ql.el
+  org-ql-20210624.1314/org-ql.info
+Built org-ql in 0.180s, finished at 2021-07-10T17:22:09+0000
  ✓ Success:
-4.0K -rw-rw-r-- 1 kimr kimr  641 May 17 20:48 packages/org-ql-20201213.1358.entry
-240K -rw-rw-r-- 1 kimr kimr 240K May 17 20:48 packages/org-ql-20201213.1358.tar
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K May 17 20:48 packages/org-ql-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr  272 May 17 20:48 packages/org-ql-readme.txt
+4.0K -rw-rw-r-- 1 kimr kimr  610 Jul 10 10:22 packages/org-ql-20210624.1314.entry
+260K -rw-rw-r-- 1 kimr kimr 260K Jul 10 10:22 packages/org-ql-20210624.1314.tar
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 10 10:22 packages/org-ql-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr  272 Jul 10 10:22 packages/org-ql-readme.txt
