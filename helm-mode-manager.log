@@ -3,9 +3,9 @@ Fetcher: github
 Source:  https://github.com/istib/helm-mode-manager.git
 
 Updating /home/kimr/repos/my/melpa/working/helm-mode-manager/
-Built helm-mode-manager in 0.294s, finished at 2021-07-10T17:20:58+0000
+Built helm-mode-manager in 0.670s, finished at 2021-07-20T21:33:36+0000
  ✓ Success:
-8.0K -rw-rw-r-- 1 kimr kimr 5.0K Jul 10 10:20 packages/helm-mode-manager-20210108.2330.el
-4.0K -rw-rw-r-- 1 kimr kimr  330 Jul 10 10:20 packages/helm-mode-manager-20210108.2330.entry
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 10 10:20 packages/helm-mode-manager-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr  653 Jul 10 10:20 packages/helm-mode-manager-readme.txt
+8.0K -rw-rw-r-- 1 kimr kimr 5.0K Jul 20 14:33 packages/helm-mode-manager-20210108.2330.el
+4.0K -rw-rw-r-- 1 kimr kimr  330 Jul 20 14:33 packages/helm-mode-manager-20210108.2330.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 20 14:33 packages/helm-mode-manager-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr  653 Jul 20 14:33 packages/helm-mode-manager-readme.txt

@@ -5,7 +5,7 @@ Source:  https://github.com/emacs-lsp/lsp-treemacs.git
 Updating /home/kimr/repos/my/melpa/working/lsp-treemacs/
 Copying files (->) and directories (=>)
   from /home/kimr/repos/my/melpa/working/lsp-treemacs/
-  to /tmp/lsp-treemacspf3xR8/lsp-treemacs-20210618.1722
+  to /tmp/lsp-treemacsOPCuND/lsp-treemacs-20210618.1722
     lsp-treemacs-themes.el -> lsp-treemacs-themes.el
     lsp-treemacs.el -> lsp-treemacs.el
     icons => icons
@@ -176,9 +176,9 @@ Created lsp-treemacs-20210618.1722.tar containing:
   lsp-treemacs-20210618.1722/lsp-treemacs-pkg.el
   lsp-treemacs-20210618.1722/lsp-treemacs-themes.el
   lsp-treemacs-20210618.1722/lsp-treemacs.el
-Built lsp-treemacs in 0.231s, finished at 2021-07-10T17:21:38+0000
+Built lsp-treemacs in 0.680s, finished at 2021-07-20T21:34:28+0000
  ✓ Success:
-4.0K -rw-rw-r-- 1 kimr kimr  412 Jul 10 10:21 packages/lsp-treemacs-20210618.1722.entry
-292K -rw-rw-r-- 1 kimr kimr 290K Jul 10 10:21 packages/lsp-treemacs-20210618.1722.tar
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 10 10:21 packages/lsp-treemacs-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr   39 Jul 10 10:21 packages/lsp-treemacs-readme.txt
+4.0K -rw-rw-r-- 1 kimr kimr  412 Jul 20 14:34 packages/lsp-treemacs-20210618.1722.entry
+292K -rw-rw-r-- 1 kimr kimr 290K Jul 20 14:34 packages/lsp-treemacs-20210618.1722.tar
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 20 14:34 packages/lsp-treemacs-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr   39 Jul 20 14:34 packages/lsp-treemacs-readme.txt

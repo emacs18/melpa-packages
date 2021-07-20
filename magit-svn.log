@@ -3,9 +3,9 @@ Fetcher: github
 Source:  https://github.com/emacsorphanage/magit-svn.git
 
 Updating /home/kimr/repos/my/melpa/working/magit-svn/
-Built magit-svn in 0.691s, finished at 2021-07-10T17:21:46+0000
+Built magit-svn in 0.748s, finished at 2021-07-20T21:34:36+0000
  ✓ Success:
- 16K -rw-rw-r-- 1 kimr kimr  13K Jul 10 10:21 packages/magit-svn-20210426.2114.el
-4.0K -rw-rw-r-- 1 kimr kimr  395 Jul 10 10:21 packages/magit-svn-20210426.2114.entry
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 10 10:21 packages/magit-svn-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr 1.1K Jul 10 10:21 packages/magit-svn-readme.txt
+ 16K -rw-rw-r-- 1 kimr kimr  13K Jul 20 14:34 packages/magit-svn-20210426.2114.el
+4.0K -rw-rw-r-- 1 kimr kimr  395 Jul 20 14:34 packages/magit-svn-20210426.2114.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 20 14:34 packages/magit-svn-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr 1.1K Jul 20 14:34 packages/magit-svn-readme.txt

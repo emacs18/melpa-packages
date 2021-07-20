@@ -3,9 +3,9 @@ Fetcher: github
 Source:  https://github.com/Fanael/parent-mode.git
 
 Updating /home/kimr/repos/my/melpa/working/parent-mode/
-Built parent-mode in 0.665s, finished at 2021-07-10T17:22:25+0000
+Built parent-mode in 1.195s, finished at 2021-07-20T21:35:30+0000
  ✓ Success:
-4.0K -rw-rw-r-- 1 kimr kimr 3.1K Jul 10 10:22 packages/parent-mode-20150824.2300.el
-4.0K -rw-rw-r-- 1 kimr kimr  338 Jul 10 10:22 packages/parent-mode-20150824.2300.entry
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 10 10:22 packages/parent-mode-badge.svg
-   0 -rw-rw-r-- 1 kimr kimr    0 Jul 10 10:22 packages/parent-mode-readme.txt
+4.0K -rw-rw-r-- 1 kimr kimr 3.1K Jul 20 14:35 packages/parent-mode-20150824.2300.el
+4.0K -rw-rw-r-- 1 kimr kimr  338 Jul 20 14:35 packages/parent-mode-20150824.2300.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 20 14:35 packages/parent-mode-badge.svg
+   0 -rw-rw-r-- 1 kimr kimr    0 Jul 20 14:35 packages/parent-mode-readme.txt

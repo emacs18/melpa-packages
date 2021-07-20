@@ -3,9 +3,9 @@ Fetcher: github
 Source:  https://github.com/pitkali/pos-tip.git
 
 Updating /home/kimr/repos/my/melpa/working/pos-tip/
-Built pos-tip in 0.656s, finished at 2021-07-10T17:22:38+0000
+Built pos-tip in 0.675s, finished at 2021-07-20T21:35:46+0000
  ✓ Success:
- 36K -rw-rw-r-- 1 kimr kimr  35K Jul 10 10:22 packages/pos-tip-20191227.1356.el
-4.0K -rw-rw-r-- 1 kimr kimr  216 Jul 10 10:22 packages/pos-tip-20191227.1356.entry
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 10 10:22 packages/pos-tip-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr 1.1K Jul 10 10:22 packages/pos-tip-readme.txt
+ 36K -rw-rw-r-- 1 kimr kimr  35K Jul 20 14:35 packages/pos-tip-20191227.1356.el
+4.0K -rw-rw-r-- 1 kimr kimr  216 Jul 20 14:35 packages/pos-tip-20191227.1356.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 20 14:35 packages/pos-tip-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr 1.1K Jul 20 14:35 packages/pos-tip-readme.txt

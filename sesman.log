@@ -5,7 +5,7 @@ Source:  https://github.com/vspinu/sesman.git
 Updating /home/kimr/repos/my/melpa/working/sesman/
 Copying files (->) and directories (=>)
   from /home/kimr/repos/my/melpa/working/sesman/
-  to /tmp/sesmanRT3kJ3/sesman-20190909.1754
+  to /tmp/sesmannZVzGy/sesman-20190909.1754
     sesman-browser.el -> sesman-browser.el
     sesman.el -> sesman.el
 Created sesman-20190909.1754.tar containing:
@@ -13,9 +13,9 @@ Created sesman-20190909.1754.tar containing:
   sesman-20190909.1754/sesman-browser.el
   sesman-20190909.1754/sesman-pkg.el
   sesman-20190909.1754/sesman.el
-Built sesman in 0.650s, finished at 2021-07-10T17:22:56+0000
+Built sesman in 0.658s, finished at 2021-07-20T21:36:06+0000
  ✓ Success:
-4.0K -rw-rw-r-- 1 kimr kimr  283 Jul 10 10:22 packages/sesman-20190909.1754.entry
- 72K -rw-rw-r-- 1 kimr kimr  70K Jul 10 10:22 packages/sesman-20190909.1754.tar
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 10 10:22 packages/sesman-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr  258 Jul 10 10:22 packages/sesman-readme.txt
+4.0K -rw-rw-r-- 1 kimr kimr  283 Jul 20 14:36 packages/sesman-20190909.1754.entry
+ 72K -rw-rw-r-- 1 kimr kimr  70K Jul 20 14:36 packages/sesman-20190909.1754.tar
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 20 14:36 packages/sesman-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr  258 Jul 20 14:36 packages/sesman-readme.txt

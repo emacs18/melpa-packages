@@ -3,9 +3,9 @@ Fetcher: github
 Source:  https://github.com/nflath/hungry-delete.git
 
 Updating /home/kimr/repos/my/melpa/working/hungry-delete/
-Built hungry-delete in 0.644s, finished at 2021-07-10T17:21:13+0000
+Built hungry-delete in 0.670s, finished at 2021-07-20T21:33:52+0000
  ✓ Success:
- 12K -rw-rw-r-- 1 kimr kimr 9.7K Jul 10 10:21 packages/hungry-delete-20210409.1643.el
-4.0K -rw-rw-r-- 1 kimr kimr  315 Jul 10 10:21 packages/hungry-delete-20210409.1643.entry
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 10 10:21 packages/hungry-delete-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr  404 Jul 10 10:21 packages/hungry-delete-readme.txt
+ 12K -rw-rw-r-- 1 kimr kimr 9.7K Jul 20 14:33 packages/hungry-delete-20210409.1643.el
+4.0K -rw-rw-r-- 1 kimr kimr  315 Jul 20 14:33 packages/hungry-delete-20210409.1643.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 20 14:33 packages/hungry-delete-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr  404 Jul 20 14:33 packages/hungry-delete-readme.txt

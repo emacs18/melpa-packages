@@ -5,7 +5,7 @@ Source:  https://github.com/emacs-helm/helm.git
 Updating /home/kimr/repos/my/melpa/working/helm/
 Copying files (->) and directories (=>)
   from /home/kimr/repos/my/melpa/working/helm/
-  to /tmp/helmoiqUng/helm-20210709.558
+  to /tmp/helm7NbTyL/helm-20210714.1600
     .dir-locals.el -> .dir-locals.el
     helm-adaptive.el -> helm-adaptive.el
     helm-bookmark.el -> helm-bookmark.el
@@ -50,181 +50,183 @@ Copying files (->) and directories (=>)
     helm-utils.el -> helm-utils.el
     helm-x-files.el -> helm-x-files.el
     emacs-helm.sh -> emacs-helm.sh
-Created helm-20210709.558.tar containing:
-  helm-20210709.558/
-  helm-20210709.558/.dir-locals.el
-  helm-20210709.558/emacs-helm.sh
-  helm-20210709.558/helm-adaptive.el
-  helm-20210709.558/helm-bookmark.el
-  helm-20210709.558/helm-buffers.el
-  helm-20210709.558/helm-color.el
-  helm-20210709.558/helm-comint.el
-  helm-20210709.558/helm-command.el
-  helm-20210709.558/helm-config.el
-  helm-20210709.558/helm-dabbrev.el
-  helm-20210709.558/helm-easymenu.el
-  helm-20210709.558/helm-elisp-package.el
-  helm-20210709.558/helm-elisp.el
-  helm-20210709.558/helm-epa.el
-  helm-20210709.558/helm-eshell.el
-  helm-20210709.558/helm-eval.el
-  helm-20210709.558/helm-external.el
-  helm-20210709.558/helm-fd.el
-  helm-20210709.558/helm-files.el
-  helm-20210709.558/helm-find.el
-  helm-20210709.558/helm-font.el
-  helm-20210709.558/helm-for-files.el
-  helm-20210709.558/helm-global-bindings.el
-  helm-20210709.558/helm-grep.el
-  helm-20210709.558/helm-help.el
-  helm-20210709.558/helm-id-utils.el
-  helm-20210709.558/helm-imenu.el
-  helm-20210709.558/helm-info.el
-  helm-20210709.558/helm-locate.el
-  helm-20210709.558/helm-man.el
-  helm-20210709.558/helm-misc.el
-  helm-20210709.558/helm-mode.el
-  helm-20210709.558/helm-net.el
-  helm-20210709.558/helm-occur.el
-  helm-20210709.558/helm-pkg.el
-  helm-20210709.558/helm-regexp.el
-  helm-20210709.558/helm-ring.el
-  helm-20210709.558/helm-semantic.el
-  helm-20210709.558/helm-shell.el
-  helm-20210709.558/helm-sys.el
-  helm-20210709.558/helm-tags.el
-  helm-20210709.558/helm-types.el
-  helm-20210709.558/helm-utils.el
-  helm-20210709.558/helm-x-files.el
-Built helm in 0.243s, finished at 2021-07-10T17:20:47+0000
+Created helm-20210714.1600.tar containing:
+  helm-20210714.1600/
+  helm-20210714.1600/.dir-locals.el
+  helm-20210714.1600/emacs-helm.sh
+  helm-20210714.1600/helm-adaptive.el
+  helm-20210714.1600/helm-bookmark.el
+  helm-20210714.1600/helm-buffers.el
+  helm-20210714.1600/helm-color.el
+  helm-20210714.1600/helm-comint.el
+  helm-20210714.1600/helm-command.el
+  helm-20210714.1600/helm-config.el
+  helm-20210714.1600/helm-dabbrev.el
+  helm-20210714.1600/helm-easymenu.el
+  helm-20210714.1600/helm-elisp-package.el
+  helm-20210714.1600/helm-elisp.el
+  helm-20210714.1600/helm-epa.el
+  helm-20210714.1600/helm-eshell.el
+  helm-20210714.1600/helm-eval.el
+  helm-20210714.1600/helm-external.el
+  helm-20210714.1600/helm-fd.el
+  helm-20210714.1600/helm-files.el
+  helm-20210714.1600/helm-find.el
+  helm-20210714.1600/helm-font.el
+  helm-20210714.1600/helm-for-files.el
+  helm-20210714.1600/helm-global-bindings.el
+  helm-20210714.1600/helm-grep.el
+  helm-20210714.1600/helm-help.el
+  helm-20210714.1600/helm-id-utils.el
+  helm-20210714.1600/helm-imenu.el
+  helm-20210714.1600/helm-info.el
+  helm-20210714.1600/helm-locate.el
+  helm-20210714.1600/helm-man.el
+  helm-20210714.1600/helm-misc.el
+  helm-20210714.1600/helm-mode.el
+  helm-20210714.1600/helm-net.el
+  helm-20210714.1600/helm-occur.el
+  helm-20210714.1600/helm-pkg.el
+  helm-20210714.1600/helm-regexp.el
+  helm-20210714.1600/helm-ring.el
+  helm-20210714.1600/helm-semantic.el
+  helm-20210714.1600/helm-shell.el
+  helm-20210714.1600/helm-sys.el
+  helm-20210714.1600/helm-tags.el
+  helm-20210714.1600/helm-types.el
+  helm-20210714.1600/helm-utils.el
+  helm-20210714.1600/helm-x-files.el
+Built helm in 0.673s, finished at 2021-07-20T21:33:23+0000
  ✓ Success:
 4.0K -rw-rw-r-- 1 kimr kimr  431 Jul 10 10:20 packages/helm-20210709.558.entry
 1.1M -rw-rw-r-- 1 kimr kimr 1.1M Jul 10 10:20 packages/helm-20210709.558.tar
- 56K -rw-rw-r-- 1 kimr kimr  54K Jul 10 10:14 packages/helm-ag-20210702.845.el
-4.0K -rw-rw-r-- 1 kimr kimr  361 Jul 10 10:14 packages/helm-ag-20210702.845.entry
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 10 10:14 packages/helm-ag-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr  686 Jul 10 10:14 packages/helm-ag.log
-4.0K -rw-rw-r-- 1 kimr kimr  206 Jul 10 10:14 packages/helm-ag-readme.txt
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 10 10:20 packages/helm-badge.svg
- 16K -rw-rw-r-- 1 kimr kimr  13K May 17 20:46 packages/helm-company-20190812.1429.el
-4.0K -rw-rw-r-- 1 kimr kimr  411 May 17 20:46 packages/helm-company-20190812.1429.entry
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K May 17 20:46 packages/helm-company-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr  573 May 17 20:46 packages/helm-company.log
-4.0K -rw-rw-r-- 1 kimr kimr  285 May 17 20:46 packages/helm-company-readme.txt
-4.0K -rw-rw-r-- 1 kimr kimr  193 Jul 10 10:14 packages/helm-core-20210704.556.entry
-452K -rw-rw-r-- 1 kimr kimr 450K Jul 10 10:14 packages/helm-core-20210704.556.tar
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 10 10:14 packages/helm-core-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 10 10:14 packages/helm-core.log
- 36K -rw-rw-r-- 1 kimr kimr  34K May 17 20:46 packages/helm-css-scss-20191230.1549.el
-4.0K -rw-rw-r-- 1 kimr kimr  445 May 17 20:46 packages/helm-css-scss-20191230.1549.entry
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K May 17 20:46 packages/helm-css-scss-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr  575 May 17 20:46 packages/helm-css-scss.log
-4.0K -rw-rw-r-- 1 kimr kimr 1.4K May 17 20:46 packages/helm-css-scss-readme.txt
- 24K -rw-rw-r-- 1 kimr kimr  21K May 17 20:46 packages/helm-c-yasnippet-20210330.16.el
-4.0K -rw-rw-r-- 1 kimr kimr  432 May 17 20:46 packages/helm-c-yasnippet-20210330.16.entry
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K May 17 20:46 packages/helm-c-yasnippet-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr  770 May 17 20:46 packages/helm-c-yasnippet.log
-4.0K -rw-rw-r-- 1 kimr kimr  106 May 17 20:46 packages/helm-c-yasnippet-readme.txt
-8.0K -rw-rw-r-- 1 kimr kimr 5.2K May 17 20:46 packages/helm-dash-20190527.1118.el
-4.0K -rw-rw-r-- 1 kimr kimr  591 May 17 20:46 packages/helm-dash-20190527.1118.entry
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K May 17 20:46 packages/helm-dash-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr  541 May 17 20:46 packages/helm-dash.log
-4.0K -rw-rw-r-- 1 kimr kimr  201 May 17 20:46 packages/helm-dash-readme.txt
- 12K -rw-rw-r-- 1 kimr kimr  12K May 17 20:46 packages/helm-descbinds-20190501.935.el
-4.0K -rw-rw-r-- 1 kimr kimr  392 May 17 20:46 packages/helm-descbinds-20190501.935.entry
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K May 17 20:46 packages/helm-descbinds-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr  577 May 17 20:46 packages/helm-descbinds.log
-4.0K -rw-rw-r-- 1 kimr kimr 1.3K May 17 20:46 packages/helm-descbinds-readme.txt
- 12K -rw-rw-r-- 1 kimr kimr  12K May 17 20:46 packages/helm-dictionary-20201006.1511.el
-4.0K -rw-rw-r-- 1 kimr kimr  440 May 17 20:46 packages/helm-dictionary-20201006.1511.entry
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K May 17 20:46 packages/helm-dictionary-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr  587 May 17 20:46 packages/helm-dictionary.log
-4.0K -rw-rw-r-- 1 kimr kimr  390 May 17 20:46 packages/helm-dictionary-readme.txt
- 12K -rw-rw-r-- 1 kimr kimr  11K May 17 20:46 packages/helm-flx-20180103.516.el
-4.0K -rw-rw-r-- 1 kimr kimr  446 May 17 20:46 packages/helm-flx-20180103.516.entry
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K May 17 20:46 packages/helm-flx-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr  528 May 17 20:46 packages/helm-flx.log
-4.0K -rw-rw-r-- 1 kimr kimr  313 May 17 20:46 packages/helm-flx-readme.txt
- 32K -rw-rw-r-- 1 kimr kimr  29K May 17 20:46 packages/helm-git-grep-20170614.1411.el
-4.0K -rw-rw-r-- 1 kimr kimr  327 May 17 20:46 packages/helm-git-grep-20170614.1411.entry
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K May 17 20:46 packages/helm-git-grep-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr  567 May 17 20:46 packages/helm-git-grep.log
-4.0K -rw-rw-r-- 1 kimr kimr  593 May 17 20:46 packages/helm-git-grep-readme.txt
-4.0K -rw-rw-r-- 1 kimr kimr 3.5K May 17 20:46 packages/helm-gitignore-20170211.8.el
-4.0K -rw-rw-r-- 1 kimr kimr  441 May 17 20:46 packages/helm-gitignore-20170211.8.entry
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K May 17 20:46 packages/helm-gitignore-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr  567 May 17 20:46 packages/helm-gitignore.log
-4.0K -rw-rw-r-- 1 kimr kimr  103 May 17 20:46 packages/helm-gitignore-readme.txt
- 60K -rw-rw-r-- 1 kimr kimr  58K May 17 20:46 packages/helm-gtags-20200602.1610.el
-4.0K -rw-rw-r-- 1 kimr kimr  387 May 17 20:46 packages/helm-gtags-20200602.1610.entry
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K May 17 20:46 packages/helm-gtags-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr  551 May 17 20:46 packages/helm-gtags.log
-4.0K -rw-rw-r-- 1 kimr kimr 1.1K May 17 20:46 packages/helm-gtags-readme.txt
- 32K -rw-rw-r-- 1 kimr kimr  30K May 17 20:46 packages/helm-ls-git-20210324.1515.el
-4.0K -rw-rw-r-- 1 kimr kimr  162 May 17 20:46 packages/helm-ls-git-20210324.1515.entry
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K May 17 20:46 packages/helm-ls-git-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr  646 May 17 20:46 packages/helm-ls-git.log
- 16K -rwxrwxr-x 1 kimr kimr  14K May 17 20:46 packages/helm-lsp-20210419.2014.el
-4.0K -rw-rw-r-- 1 kimr kimr  447 May 17 20:46 packages/helm-lsp-20210419.2014.entry
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K May 17 20:46 packages/helm-lsp-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr  695 May 17 20:46 packages/helm-lsp.log
-4.0K -rw-rw-r-- 1 kimr kimr   25 May 17 20:46 packages/helm-lsp-readme.txt
- 20K -rw-rw-r-- 1 kimr kimr  18K May 17 20:46 packages/helm-make-20200620.27.el
-4.0K -rw-rw-r-- 1 kimr kimr  354 May 17 20:46 packages/helm-make-20200620.27.entry
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K May 17 20:46 packages/helm-make-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr  532 May 17 20:46 packages/helm-make.log
-4.0K -rw-rw-r-- 1 kimr kimr  141 May 17 20:46 packages/helm-make-readme.txt
-8.0K -rw-rw-r-- 1 kimr kimr 5.0K May 17 20:46 packages/helm-mode-manager-20210108.2330.el
-4.0K -rw-rw-r-- 1 kimr kimr  330 May 17 20:46 packages/helm-mode-manager-20210108.2330.entry
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K May 17 20:46 packages/helm-mode-manager-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr  598 May 17 20:46 packages/helm-mode-manager.log
-4.0K -rw-rw-r-- 1 kimr kimr  653 May 17 20:46 packages/helm-mode-manager-readme.txt
- 24K -rw-rw-r-- 1 kimr kimr  22K May 17 20:46 packages/helm-org-20210324.1927.el
-4.0K -rw-rw-r-- 1 kimr kimr  408 May 17 20:46 packages/helm-org-20210324.1927.entry
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K May 17 20:46 packages/helm-org-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K May 17 20:46 packages/helm-org.log
-8.0K -rw-rw-r-- 1 kimr kimr 7.7K May 17 22:50 packages/helm-org-ql-20201123.1102.el
-4.0K -rw-rw-r-- 1 kimr kimr  448 May 17 22:50 packages/helm-org-ql-20201123.1102.entry
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K May 17 22:50 packages/helm-org-ql-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr  591 May 17 22:50 packages/helm-org-ql.log
-4.0K -rw-rw-r-- 1 kimr kimr  293 May 17 22:50 packages/helm-org-ql-readme.txt
-4.0K -rw-rw-r-- 1 kimr kimr   48 May 17 20:46 packages/helm-org-readme.txt
- 84K -rw-rw-r-- 1 kimr kimr  82K May 17 20:46 packages/helm-org-rifle-20200512.1943.el
-4.0K -rw-rw-r-- 1 kimr kimr  468 May 17 20:46 packages/helm-org-rifle-20200512.1943.entry
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K May 17 20:46 packages/helm-org-rifle-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr  573 May 17 20:46 packages/helm-org-rifle.log
-4.0K -rw-rw-r-- 1 kimr kimr 1.1K May 17 20:46 packages/helm-org-rifle-readme.txt
- 52K -rw-rw-r-- 1 kimr kimr  51K May 17 20:46 packages/helm-projectile-20201217.908.el
-4.0K -rw-rw-r-- 1 kimr kimr  410 May 17 20:46 packages/helm-projectile-20201217.908.entry
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K May 17 20:46 packages/helm-projectile-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr  582 May 17 20:46 packages/helm-projectile.log
-4.0K -rw-rw-r-- 1 kimr kimr  356 May 17 20:46 packages/helm-projectile-readme.txt
-4.0K -rw-rw-r-- 1 kimr kimr 4.0K May 17 20:46 packages/helm-purpose-20170114.1636.el
-4.0K -rw-rw-r-- 1 kimr kimr  347 May 17 20:46 packages/helm-purpose-20170114.1636.entry
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K May 17 20:46 packages/helm-purpose-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr  557 May 17 20:46 packages/helm-purpose.log
-4.0K -rw-rw-r-- 1 kimr kimr  835 May 17 20:46 packages/helm-purpose-readme.txt
-4.0K -rw-rw-r-- 1 kimr kimr  388 May 17 20:46 packages/helm-pydoc-20160918.542.entry
- 20K -rw-rw-r-- 1 kimr kimr  20K May 17 20:46 packages/helm-pydoc-20160918.542.tar
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K May 17 20:46 packages/helm-pydoc-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr  963 May 17 20:46 packages/helm-pydoc.log
-   0 -rw-rw-r-- 1 kimr kimr    0 May 17 20:46 packages/helm-pydoc-readme.txt
-8.0K -rw-rw-r-- 1 kimr kimr 6.1K Jul 10 10:14 packages/helm-rtags-20191222.920.el
-4.0K -rw-rw-r-- 1 kimr kimr  434 Jul 10 10:14 packages/helm-rtags-20191222.920.entry
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 10 10:14 packages/helm-rtags-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr  542 Jul 10 10:14 packages/helm-rtags.log
-   0 -rw-rw-r-- 1 kimr kimr    0 Jul 10 10:14 packages/helm-rtags-readme.txt
- 72K -rw-rw-r-- 1 kimr kimr  69K May 17 20:46 packages/helm-swoop-20210426.547.el
-4.0K -rw-rw-r-- 1 kimr kimr  499 May 17 20:46 packages/helm-swoop-20210426.547.entry
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K May 17 20:46 packages/helm-swoop-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr  716 May 17 20:46 packages/helm-swoop.log
-4.0K -rw-rw-r-- 1 kimr kimr 2.6K May 17 20:46 packages/helm-swoop-readme.txt
-4.0K -rw-rw-r-- 1 kimr kimr 2.8K May 17 20:46 packages/helm-themes-20200323.712.el
-4.0K -rw-rw-r-- 1 kimr kimr  399 May 17 20:46 packages/helm-themes-20200323.712.entry
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K May 17 20:46 packages/helm-themes-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr  557 May 17 20:46 packages/helm-themes.log
-4.0K -rw-rw-r-- 1 kimr kimr  107 May 17 20:46 packages/helm-themes-readme.txt
-8.0K -rw-rw-r-- 1 kimr kimr 6.6K May 17 20:46 packages/helm-xref-20201004.1817.el
-4.0K -rw-rw-r-- 1 kimr kimr  392 May 17 20:46 packages/helm-xref-20201004.1817.entry
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K May 17 20:46 packages/helm-xref-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr  461 May 17 20:46 packages/helm-xref.log
+4.0K -rw-rw-r-- 1 kimr kimr  432 Jul 20 14:33 packages/helm-20210714.1600.entry
+1.1M -rw-rw-r-- 1 kimr kimr 1.1M Jul 20 14:33 packages/helm-20210714.1600.tar
+ 56K -rw-rw-r-- 1 kimr kimr  54K Jul 10 10:20 packages/helm-ag-20210702.845.el
+4.0K -rw-rw-r-- 1 kimr kimr  361 Jul 10 10:20 packages/helm-ag-20210702.845.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 10 10:20 packages/helm-ag-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr  525 Jul 10 10:20 packages/helm-ag.log
+4.0K -rw-rw-r-- 1 kimr kimr  206 Jul 10 10:20 packages/helm-ag-readme.txt
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 20 14:33 packages/helm-badge.svg
+ 16K -rw-rw-r-- 1 kimr kimr  13K Jul 10 10:20 packages/helm-company-20190812.1429.el
+4.0K -rw-rw-r-- 1 kimr kimr  411 Jul 10 10:20 packages/helm-company-20190812.1429.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 10 10:20 packages/helm-company-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr  573 Jul 10 10:20 packages/helm-company.log
+4.0K -rw-rw-r-- 1 kimr kimr  285 Jul 10 10:20 packages/helm-company-readme.txt
+4.0K -rw-rw-r-- 1 kimr kimr  193 Jul 10 10:20 packages/helm-core-20210704.556.entry
+452K -rw-rw-r-- 1 kimr kimr 450K Jul 10 10:20 packages/helm-core-20210704.556.tar
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 10 10:20 packages/helm-core-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr 1.1K Jul 10 10:20 packages/helm-core.log
+ 36K -rw-rw-r-- 1 kimr kimr  34K Jul 10 10:20 packages/helm-css-scss-20191230.1549.el
+4.0K -rw-rw-r-- 1 kimr kimr  445 Jul 10 10:20 packages/helm-css-scss-20191230.1549.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 10 10:20 packages/helm-css-scss-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr  575 Jul 10 10:20 packages/helm-css-scss.log
+4.0K -rw-rw-r-- 1 kimr kimr 1.4K Jul 10 10:20 packages/helm-css-scss-readme.txt
+ 24K -rw-rw-r-- 1 kimr kimr  21K Jul 10 10:20 packages/helm-c-yasnippet-20210330.16.el
+4.0K -rw-rw-r-- 1 kimr kimr  432 Jul 10 10:20 packages/helm-c-yasnippet-20210330.16.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 10 10:20 packages/helm-c-yasnippet-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr  589 Jul 10 10:20 packages/helm-c-yasnippet.log
+4.0K -rw-rw-r-- 1 kimr kimr  106 Jul 10 10:20 packages/helm-c-yasnippet-readme.txt
+8.0K -rw-rw-r-- 1 kimr kimr 5.2K Jul 10 10:20 packages/helm-dash-20190527.1118.el
+4.0K -rw-rw-r-- 1 kimr kimr  591 Jul 10 10:20 packages/helm-dash-20190527.1118.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 10 10:20 packages/helm-dash-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr  541 Jul 10 10:20 packages/helm-dash.log
+4.0K -rw-rw-r-- 1 kimr kimr  201 Jul 10 10:20 packages/helm-dash-readme.txt
+ 12K -rw-rw-r-- 1 kimr kimr  12K Jul 10 10:20 packages/helm-descbinds-20190501.935.el
+4.0K -rw-rw-r-- 1 kimr kimr  392 Jul 10 10:20 packages/helm-descbinds-20190501.935.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 10 10:20 packages/helm-descbinds-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr  577 Jul 10 10:20 packages/helm-descbinds.log
+4.0K -rw-rw-r-- 1 kimr kimr 1.3K Jul 10 10:20 packages/helm-descbinds-readme.txt
+ 12K -rw-rw-r-- 1 kimr kimr  12K Jul 10 10:20 packages/helm-dictionary-20201006.1511.el
+4.0K -rw-rw-r-- 1 kimr kimr  440 Jul 10 10:20 packages/helm-dictionary-20201006.1511.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 10 10:20 packages/helm-dictionary-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr  587 Jul 10 10:20 packages/helm-dictionary.log
+4.0K -rw-rw-r-- 1 kimr kimr  390 Jul 10 10:20 packages/helm-dictionary-readme.txt
+ 12K -rw-rw-r-- 1 kimr kimr  11K Jul 10 10:20 packages/helm-flx-20180103.516.el
+4.0K -rw-rw-r-- 1 kimr kimr  446 Jul 10 10:20 packages/helm-flx-20180103.516.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 10 10:20 packages/helm-flx-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr  528 Jul 10 10:20 packages/helm-flx.log
+4.0K -rw-rw-r-- 1 kimr kimr  313 Jul 10 10:20 packages/helm-flx-readme.txt
+ 32K -rw-rw-r-- 1 kimr kimr  29K Jul 10 10:20 packages/helm-git-grep-20170614.1411.el
+4.0K -rw-rw-r-- 1 kimr kimr  327 Jul 10 10:20 packages/helm-git-grep-20170614.1411.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 10 10:20 packages/helm-git-grep-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr  567 Jul 10 10:20 packages/helm-git-grep.log
+4.0K -rw-rw-r-- 1 kimr kimr  593 Jul 10 10:20 packages/helm-git-grep-readme.txt
+4.0K -rw-rw-r-- 1 kimr kimr 3.5K Jul 10 10:20 packages/helm-gitignore-20170211.8.el
+4.0K -rw-rw-r-- 1 kimr kimr  441 Jul 10 10:20 packages/helm-gitignore-20170211.8.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 10 10:20 packages/helm-gitignore-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr  567 Jul 10 10:20 packages/helm-gitignore.log
+4.0K -rw-rw-r-- 1 kimr kimr  103 Jul 10 10:20 packages/helm-gitignore-readme.txt
+ 60K -rw-rw-r-- 1 kimr kimr  58K Jul 10 10:20 packages/helm-gtags-20200602.1610.el
+4.0K -rw-rw-r-- 1 kimr kimr  387 Jul 10 10:20 packages/helm-gtags-20200602.1610.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 10 10:20 packages/helm-gtags-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr  551 Jul 10 10:20 packages/helm-gtags.log
+4.0K -rw-rw-r-- 1 kimr kimr 1.1K Jul 10 10:20 packages/helm-gtags-readme.txt
+ 32K -rw-rw-r-- 1 kimr kimr  30K Jul 10 10:20 packages/helm-ls-git-20210324.1515.el
+4.0K -rw-rw-r-- 1 kimr kimr  162 Jul 10 10:20 packages/helm-ls-git-20210324.1515.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 10 10:20 packages/helm-ls-git-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr  477 Jul 10 10:20 packages/helm-ls-git.log
+ 16K -rwxrwxr-x 1 kimr kimr  14K Jul 10 10:20 packages/helm-lsp-20210419.2014.el
+4.0K -rw-rw-r-- 1 kimr kimr  447 Jul 10 10:20 packages/helm-lsp-20210419.2014.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 10 10:20 packages/helm-lsp-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr  530 Jul 10 10:20 packages/helm-lsp.log
+4.0K -rw-rw-r-- 1 kimr kimr   25 Jul 10 10:20 packages/helm-lsp-readme.txt
+ 20K -rw-rw-r-- 1 kimr kimr  18K Jul 10 10:20 packages/helm-make-20200620.27.el
+4.0K -rw-rw-r-- 1 kimr kimr  354 Jul 10 10:20 packages/helm-make-20200620.27.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 10 10:20 packages/helm-make-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr  532 Jul 10 10:20 packages/helm-make.log
+4.0K -rw-rw-r-- 1 kimr kimr  141 Jul 10 10:20 packages/helm-make-readme.txt
+8.0K -rw-rw-r-- 1 kimr kimr 5.0K Jul 10 10:20 packages/helm-mode-manager-20210108.2330.el
+4.0K -rw-rw-r-- 1 kimr kimr  330 Jul 10 10:20 packages/helm-mode-manager-20210108.2330.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 10 10:20 packages/helm-mode-manager-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr  598 Jul 10 10:20 packages/helm-mode-manager.log
+4.0K -rw-rw-r-- 1 kimr kimr  653 Jul 10 10:20 packages/helm-mode-manager-readme.txt
+ 24K -rw-rw-r-- 1 kimr kimr  22K Jul 10 10:20 packages/helm-org-20210324.1927.el
+4.0K -rw-rw-r-- 1 kimr kimr  408 Jul 10 10:20 packages/helm-org-20210324.1927.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 10 10:20 packages/helm-org-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr 1.4K Jul 10 10:20 packages/helm-org.log
+8.0K -rw-rw-r-- 1 kimr kimr 7.7K Jul 10 10:20 packages/helm-org-ql-20210608.1556.el
+4.0K -rw-rw-r-- 1 kimr kimr  448 Jul 10 10:20 packages/helm-org-ql-20210608.1556.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 10 10:21 packages/helm-org-ql-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr  720 Jul 10 10:21 packages/helm-org-ql.log
+4.0K -rw-rw-r-- 1 kimr kimr  293 Jul 10 10:20 packages/helm-org-ql-readme.txt
+4.0K -rw-rw-r-- 1 kimr kimr   48 Jul 10 10:20 packages/helm-org-readme.txt
+ 84K -rw-rw-r-- 1 kimr kimr  82K Jul 10 10:21 packages/helm-org-rifle-20200512.1943.el
+4.0K -rw-rw-r-- 1 kimr kimr  468 Jul 10 10:21 packages/helm-org-rifle-20200512.1943.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 10 10:21 packages/helm-org-rifle-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr  573 Jul 10 10:21 packages/helm-org-rifle.log
+4.0K -rw-rw-r-- 1 kimr kimr 1.1K Jul 10 10:21 packages/helm-org-rifle-readme.txt
+ 52K -rw-rw-r-- 1 kimr kimr  51K Jul 10 10:21 packages/helm-projectile-20201217.908.el
+4.0K -rw-rw-r-- 1 kimr kimr  410 Jul 10 10:21 packages/helm-projectile-20201217.908.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 10 10:21 packages/helm-projectile-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr  582 Jul 10 10:21 packages/helm-projectile.log
+4.0K -rw-rw-r-- 1 kimr kimr  356 Jul 10 10:21 packages/helm-projectile-readme.txt
+4.0K -rw-rw-r-- 1 kimr kimr 4.0K Jul 10 10:21 packages/helm-purpose-20170114.1636.el
+4.0K -rw-rw-r-- 1 kimr kimr  347 Jul 10 10:21 packages/helm-purpose-20170114.1636.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 10 10:21 packages/helm-purpose-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr  557 Jul 10 10:21 packages/helm-purpose.log
+4.0K -rw-rw-r-- 1 kimr kimr  835 Jul 10 10:21 packages/helm-purpose-readme.txt
+4.0K -rw-rw-r-- 1 kimr kimr  388 Jul 10 10:21 packages/helm-pydoc-20160918.542.entry
+ 20K -rw-rw-r-- 1 kimr kimr  20K Jul 10 10:21 packages/helm-pydoc-20160918.542.tar
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 10 10:21 packages/helm-pydoc-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr  963 Jul 10 10:21 packages/helm-pydoc.log
+   0 -rw-rw-r-- 1 kimr kimr    0 Jul 10 10:21 packages/helm-pydoc-readme.txt
+8.0K -rw-rw-r-- 1 kimr kimr 6.1K Jul 10 10:21 packages/helm-rtags-20191222.920.el
+4.0K -rw-rw-r-- 1 kimr kimr  434 Jul 10 10:21 packages/helm-rtags-20191222.920.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 10 10:21 packages/helm-rtags-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr  542 Jul 10 10:21 packages/helm-rtags.log
+   0 -rw-rw-r-- 1 kimr kimr    0 Jul 10 10:21 packages/helm-rtags-readme.txt
+ 72K -rw-rw-r-- 1 kimr kimr  69K Jul 10 10:21 packages/helm-swoop-20210426.547.el
+4.0K -rw-rw-r-- 1 kimr kimr  499 Jul 10 10:21 packages/helm-swoop-20210426.547.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 10 10:21 packages/helm-swoop-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr  549 Jul 10 10:21 packages/helm-swoop.log
+4.0K -rw-rw-r-- 1 kimr kimr 2.6K Jul 10 10:21 packages/helm-swoop-readme.txt
+4.0K -rw-rw-r-- 1 kimr kimr 2.8K Jul 10 10:21 packages/helm-themes-20200323.712.el
+4.0K -rw-rw-r-- 1 kimr kimr  399 Jul 10 10:21 packages/helm-themes-20200323.712.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 10 10:21 packages/helm-themes-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr  557 Jul 10 10:21 packages/helm-themes.log
+4.0K -rw-rw-r-- 1 kimr kimr  107 Jul 10 10:21 packages/helm-themes-readme.txt
+8.0K -rw-rw-r-- 1 kimr kimr 6.6K Jul 10 10:21 packages/helm-xref-20201004.1817.el
+4.0K -rw-rw-r-- 1 kimr kimr  392 Jul 10 10:21 packages/helm-xref-20201004.1817.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 10 10:21 packages/helm-xref-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr  461 Jul 10 10:21 packages/helm-xref.log

@@ -3,14 +3,14 @@ Fetcher: github
 Source:  https://github.com/joaotavora/yasnippet.git
 
 Updating /home/kimr/repos/my/melpa/working/yasnippet/
-Built yasnippet in 0.657s, finished at 2021-07-10T17:23:43+0000
+Built yasnippet in 0.663s, finished at 2021-07-20T21:36:56+0000
  ✓ Success:
-216K -rw-rw-r-- 1 kimr kimr 215K Jul 10 10:23 packages/yasnippet-20200604.246.el
-4.0K -rw-rw-r-- 1 kimr kimr  340 Jul 10 10:23 packages/yasnippet-20200604.246.entry
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 10 10:23 packages/yasnippet-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr 3.3K Jul 10 10:23 packages/yasnippet-readme.txt
-4.0K -rw-rw-r-- 1 kimr kimr  440 May 17 20:51 packages/yasnippet-snippets-20210408.1234.entry
-2.3M -rw-rw-r-- 1 kimr kimr 2.3M May 17 20:51 packages/yasnippet-snippets-20210408.1234.tar
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K May 17 20:51 packages/yasnippet-snippets-badge.svg
-148K -rw-rw-r-- 1 kimr kimr 146K May 17 20:51 packages/yasnippet-snippets.log
-4.0K -rw-rw-r-- 1 kimr kimr   55 May 17 20:51 packages/yasnippet-snippets-readme.txt
+216K -rw-rw-r-- 1 kimr kimr 215K Jul 20 14:36 packages/yasnippet-20200604.246.el
+4.0K -rw-rw-r-- 1 kimr kimr  340 Jul 20 14:36 packages/yasnippet-20200604.246.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 20 14:36 packages/yasnippet-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr 3.3K Jul 20 14:36 packages/yasnippet-readme.txt
+4.0K -rw-rw-r-- 1 kimr kimr  440 Jul 10 10:23 packages/yasnippet-snippets-20210408.1234.entry
+2.3M -rw-rw-r-- 1 kimr kimr 2.3M Jul 10 10:23 packages/yasnippet-snippets-20210408.1234.tar
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 10 10:23 packages/yasnippet-snippets-badge.svg
+148K -rw-rw-r-- 1 kimr kimr 145K Jul 10 10:23 packages/yasnippet-snippets.log
+4.0K -rw-rw-r-- 1 kimr kimr   55 Jul 10 10:23 packages/yasnippet-snippets-readme.txt

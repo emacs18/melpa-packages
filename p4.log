@@ -3,9 +3,9 @@ Fetcher: github
 Source:  https://github.com/gareth-rees/p4.el.git
 
 Updating /home/kimr/repos/my/melpa/working/p4/
-Built p4 in 0.680s, finished at 2021-07-10T17:22:20+0000
+Built p4 in 0.512s, finished at 2021-07-20T21:35:22+0000
  ✓ Success:
-148K -rw-rw-r-- 1 kimr kimr 148K Jul 10 10:22 packages/p4-20150721.1937.el
-4.0K -rw-rw-r-- 1 kimr kimr  317 Jul 10 10:22 packages/p4-20150721.1937.entry
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 10 10:22 packages/p4-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr  236 Jul 10 10:22 packages/p4-readme.txt
+148K -rw-rw-r-- 1 kimr kimr 148K Jul 20 14:35 packages/p4-20150721.1937.el
+4.0K -rw-rw-r-- 1 kimr kimr  317 Jul 20 14:35 packages/p4-20150721.1937.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 20 14:35 packages/p4-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr  236 Jul 20 14:35 packages/p4-readme.txt

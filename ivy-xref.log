@@ -3,9 +3,9 @@ Fetcher: github
 Source:  https://github.com/alexmurray/ivy-xref.git
 
 Updating /home/kimr/repos/my/melpa/working/ivy-xref/
-Built ivy-xref in 0.628s, finished at 2021-07-10T17:21:22+0000
+Built ivy-xref in 0.675s, finished at 2021-07-20T21:34:03+0000
  ✓ Success:
-8.0K -rw-rw-r-- 1 kimr kimr 5.3K Jul 10 10:21 packages/ivy-xref-20191126.401.el
-4.0K -rw-rw-r-- 1 kimr kimr  369 Jul 10 10:21 packages/ivy-xref-20191126.401.entry
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 10 10:21 packages/ivy-xref-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr  195 Jul 10 10:21 packages/ivy-xref-readme.txt
+8.0K -rw-rw-r-- 1 kimr kimr 5.3K Jul 20 14:34 packages/ivy-xref-20191126.401.el
+4.0K -rw-rw-r-- 1 kimr kimr  369 Jul 20 14:34 packages/ivy-xref-20191126.401.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 20 14:34 packages/ivy-xref-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr  195 Jul 20 14:34 packages/ivy-xref-readme.txt

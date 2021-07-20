@@ -3,9 +3,9 @@ Fetcher: github
 Source:  https://github.com/purcell/default-text-scale.git
 
 Updating /home/kimr/repos/my/melpa/working/default-text-scale/
-Built default-text-scale in 0.855s, finished at 2021-07-10T17:19:18+0000
+Built default-text-scale in 0.878s, finished at 2021-07-20T21:31:33+0000
  ✓ Success:
-8.0K -rw-rw-r-- 1 kimr kimr 6.0K Jul 10 10:19 packages/default-text-scale-20191226.2234.el
-4.0K -rw-rw-r-- 1 kimr kimr  394 Jul 10 10:19 packages/default-text-scale-20191226.2234.entry
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 10 10:19 packages/default-text-scale-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr  394 Jul 10 10:19 packages/default-text-scale-readme.txt
+8.0K -rw-rw-r-- 1 kimr kimr 6.0K Jul 20 14:31 packages/default-text-scale-20191226.2234.el
+4.0K -rw-rw-r-- 1 kimr kimr  394 Jul 20 14:31 packages/default-text-scale-20191226.2234.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 20 14:31 packages/default-text-scale-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr  394 Jul 20 14:31 packages/default-text-scale-readme.txt

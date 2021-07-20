@@ -3,9 +3,9 @@ Fetcher: github
 Source:  https://github.com/emacs-evil/evil-ediff.git
 
 Updating /home/kimr/repos/my/melpa/working/evil-ediff/
-Built evil-ediff in 0.646s, finished at 2021-07-10T17:19:49+0000
+Built evil-ediff in 0.671s, finished at 2021-07-20T21:32:10+0000
  ✓ Success:
-8.0K -rw-rw-r-- 1 kimr kimr 8.0K Jul 10 10:19 packages/evil-ediff-20170724.1923.el
-4.0K -rw-rw-r-- 1 kimr kimr  355 Jul 10 10:19 packages/evil-ediff-20170724.1923.entry
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 10 10:19 packages/evil-ediff-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr 1.4K Jul 10 10:19 packages/evil-ediff-readme.txt
+8.0K -rw-rw-r-- 1 kimr kimr 8.0K Jul 20 14:32 packages/evil-ediff-20170724.1923.el
+4.0K -rw-rw-r-- 1 kimr kimr  355 Jul 20 14:32 packages/evil-ediff-20170724.1923.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 20 14:32 packages/evil-ediff-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr 1.4K Jul 20 14:32 packages/evil-ediff-readme.txt

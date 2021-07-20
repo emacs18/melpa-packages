@@ -3,9 +3,9 @@ Fetcher: github
 Source:  https://github.com/emacsorphanage/fancy-battery.git
 
 Updating /home/kimr/repos/my/melpa/working/fancy-battery/
-Built fancy-battery in 0.633s, finished at 2021-07-10T17:20:06+0000
+Built fancy-battery in 0.676s, finished at 2021-07-20T21:32:30+0000
  ✓ Success:
-8.0K -rw-rw-r-- 1 kimr kimr 6.4K Jul 10 10:20 packages/fancy-battery-20150101.1204.el
-4.0K -rw-rw-r-- 1 kimr kimr  398 Jul 10 10:20 packages/fancy-battery-20150101.1204.entry
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 10 10:20 packages/fancy-battery-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr  594 Jul 10 10:20 packages/fancy-battery-readme.txt
+8.0K -rw-rw-r-- 1 kimr kimr 6.4K Jul 20 14:32 packages/fancy-battery-20150101.1204.el
+4.0K -rw-rw-r-- 1 kimr kimr  398 Jul 20 14:32 packages/fancy-battery-20150101.1204.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 20 14:32 packages/fancy-battery-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr  594 Jul 20 14:32 packages/fancy-battery-readme.txt

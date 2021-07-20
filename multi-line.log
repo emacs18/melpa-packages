@@ -5,7 +5,7 @@ Source:  https://github.com/IvanMalison/multi-line.git
 Updating /home/kimr/repos/my/melpa/working/multi-line/
 Copying files (->) and directories (=>)
   from /home/kimr/repos/my/melpa/working/multi-line/
-  to /tmp/multi-lineSobZov/multi-line-20170822.226
+  to /tmp/multi-lineVtkuuQ/multi-line-20170822.226
     multi-line-candidate.el -> multi-line-candidate.el
     multi-line-cycle.el -> multi-line-cycle.el
     multi-line-decorator.el -> multi-line-decorator.el
@@ -27,9 +27,9 @@ Created multi-line-20170822.226.tar containing:
   multi-line-20170822.226/multi-line-respace.el
   multi-line-20170822.226/multi-line-shared.el
   multi-line-20170822.226/multi-line.el
-Built multi-line in 0.644s, finished at 2021-07-10T17:21:53+0000
+Built multi-line in 0.676s, finished at 2021-07-20T21:34:45+0000
  ✓ Success:
-4.0K -rw-rw-r-- 1 kimr kimr  577 Jul 10 10:21 packages/multi-line-20170822.226.entry
- 52K -rw-rw-r-- 1 kimr kimr  50K Jul 10 10:21 packages/multi-line-20170822.226.tar
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 10 10:21 packages/multi-line-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr  325 Jul 10 10:21 packages/multi-line-readme.txt
+4.0K -rw-rw-r-- 1 kimr kimr  577 Jul 20 14:34 packages/multi-line-20170822.226.entry
+ 52K -rw-rw-r-- 1 kimr kimr  50K Jul 20 14:34 packages/multi-line-20170822.226.tar
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 20 14:34 packages/multi-line-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr  325 Jul 20 14:34 packages/multi-line-readme.txt

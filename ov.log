@@ -3,9 +3,9 @@ Fetcher: github
 Source:  https://github.com/emacsorphanage/ov.git
 
 Updating /home/kimr/repos/my/melpa/working/ov/
-Built ov in 0.652s, finished at 2021-07-10T17:22:16+0000
+Built ov in 0.870s, finished at 2021-07-20T21:35:16+0000
  ✓ Success:
- 28K -rw-rw-r-- 1 kimr kimr  27K Jul 10 10:22 packages/ov-20200326.1042.el
-4.0K -rw-rw-r-- 1 kimr kimr  388 Jul 10 10:22 packages/ov-20200326.1042.entry
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 10 10:22 packages/ov-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr  120 Jul 10 10:22 packages/ov-readme.txt
+ 28K -rw-rw-r-- 1 kimr kimr  27K Jul 20 14:35 packages/ov-20200326.1042.el
+4.0K -rw-rw-r-- 1 kimr kimr  388 Jul 20 14:35 packages/ov-20200326.1042.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 20 14:35 packages/ov-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr  120 Jul 20 14:35 packages/ov-readme.txt

@@ -3,8 +3,8 @@ Fetcher: github
 Source:  https://github.com/eschulte/jump.el.git
 
 Updating /home/kimr/repos/my/melpa/working/inflections/
-Built inflections in 0.194s, finished at 2021-07-10T17:21:18+0000
+Built inflections in 0.790s, finished at 2021-07-20T21:33:58+0000
  ✓ Success:
-8.0K -rw-rw-r-- 1 kimr kimr 6.9K Jul 10 10:21 packages/inflections-20210110.2237.el
-4.0K -rw-rw-r-- 1 kimr kimr  424 Jul 10 10:21 packages/inflections-20210110.2237.entry
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 10 10:21 packages/inflections-badge.svg
+8.0K -rw-rw-r-- 1 kimr kimr 6.9K Jul 20 14:33 packages/inflections-20210110.2237.el
+4.0K -rw-rw-r-- 1 kimr kimr  424 Jul 20 14:33 packages/inflections-20210110.2237.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 20 14:33 packages/inflections-badge.svg

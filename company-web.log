@@ -5,7 +5,7 @@ Source:  https://github.com/osv/company-web.git
 Updating /home/kimr/repos/my/melpa/working/company-web/
 Copying files (->) and directories (=>)
   from /home/kimr/repos/my/melpa/working/company-web/
-  to /tmp/company-webZDIkph/company-web-20180402.1155
+  to /tmp/company-webtOrguZ/company-web-20180402.1155
     company-web-html.el -> company-web-html.el
     company-web-jade.el -> company-web-jade.el
     company-web-slim.el -> company-web-slim.el
@@ -17,9 +17,9 @@ Created company-web-20180402.1155.tar containing:
   company-web-20180402.1155/company-web-pkg.el
   company-web-20180402.1155/company-web-slim.el
   company-web-20180402.1155/company-web.el
-Built company-web in 0.660s, finished at 2021-07-10T17:19:04+0000
+Built company-web in 0.673s, finished at 2021-07-20T21:31:15+0000
  ✓ Success:
-4.0K -rw-rw-r-- 1 kimr kimr  542 Jul 10 10:19 packages/company-web-20180402.1155.entry
- 52K -rw-rw-r-- 1 kimr kimr  50K Jul 10 10:19 packages/company-web-20180402.1155.tar
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 10 10:19 packages/company-web-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr  904 Jul 10 10:19 packages/company-web-readme.txt
+4.0K -rw-rw-r-- 1 kimr kimr  542 Jul 20 14:31 packages/company-web-20180402.1155.entry
+ 52K -rw-rw-r-- 1 kimr kimr  50K Jul 20 14:31 packages/company-web-20180402.1155.tar
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 20 14:31 packages/company-web-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr  904 Jul 20 14:31 packages/company-web-readme.txt

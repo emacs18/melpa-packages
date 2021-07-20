@@ -3,9 +3,9 @@ Fetcher: github
 Source:  https://github.com/mooz/js-doc.git
 
 Updating /home/kimr/repos/my/melpa/working/js-doc/
-Built js-doc in 0.631s, finished at 2021-07-10T17:21:24+0000
+Built js-doc in 0.652s, finished at 2021-07-20T21:34:06+0000
  ✓ Success:
- 28K -rw-rw-r-- 1 kimr kimr  25K Jul 10 10:21 packages/js-doc-20160715.434.el
-4.0K -rw-rw-r-- 1 kimr kimr  321 Jul 10 10:21 packages/js-doc-20160715.434.entry
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 10 10:21 packages/js-doc-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr  779 Jul 10 10:21 packages/js-doc-readme.txt
+ 28K -rw-rw-r-- 1 kimr kimr  25K Jul 20 14:34 packages/js-doc-20160715.434.el
+4.0K -rw-rw-r-- 1 kimr kimr  321 Jul 20 14:34 packages/js-doc-20160715.434.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 20 14:34 packages/js-doc-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr  779 Jul 20 14:34 packages/js-doc-readme.txt

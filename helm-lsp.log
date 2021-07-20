@@ -3,9 +3,9 @@ Fetcher: github
 Source:  https://github.com/emacs-lsp/helm-lsp.git
 
 Updating /home/kimr/repos/my/melpa/working/helm-lsp/
-Built helm-lsp in 0.650s, finished at 2021-07-10T17:20:57+0000
+Built helm-lsp in 0.618s, finished at 2021-07-20T21:33:34+0000
  ✓ Success:
- 16K -rwxrwxr-x 1 kimr kimr  14K Jul 10 10:20 packages/helm-lsp-20210419.2014.el
-4.0K -rw-rw-r-- 1 kimr kimr  447 Jul 10 10:20 packages/helm-lsp-20210419.2014.entry
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 10 10:20 packages/helm-lsp-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr   25 Jul 10 10:20 packages/helm-lsp-readme.txt
+ 16K -rwxrwxr-x 1 kimr kimr  14K Jul 20 14:33 packages/helm-lsp-20210419.2014.el
+4.0K -rw-rw-r-- 1 kimr kimr  447 Jul 20 14:33 packages/helm-lsp-20210419.2014.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 20 14:33 packages/helm-lsp-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr   25 Jul 20 14:33 packages/helm-lsp-readme.txt

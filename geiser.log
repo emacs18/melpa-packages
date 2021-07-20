@@ -5,7 +5,7 @@ Source:  https://gitlab.com/emacs-geiser/geiser.git
 Updating /home/kimr/repos/my/melpa/working/geiser/
 Copying files (->) and directories (=>)
   from /home/kimr/repos/my/melpa/working/geiser/
-  to /tmp/geiserNnFVpK/geiser-20210428.1942
+  to /tmp/geiser3BLBVs/geiser-20210428.1942
   ! elisp/geiser-autodoc.el -> geiser-autodoc.el
   ! elisp/geiser-base.el -> geiser-base.el
   ! elisp/geiser-company.el -> geiser-company.el
@@ -31,7 +31,7 @@ Copying files (->) and directories (=>)
   ! elisp/geiser.el -> geiser.el
   ! doc/dir -> dir
   ! doc/geiser.texi -> geiser.texi
-Created /tmp/geiserNnFVpK/geiser-20210428.1942/geiser.info
+Created /tmp/geiser3BLBVs/geiser-20210428.1942/geiser.info
 Created geiser-20210428.1942.tar containing:
   geiser-20210428.1942/
   geiser-20210428.1942/dir
@@ -60,9 +60,9 @@ Created geiser-20210428.1942.tar containing:
   geiser-20210428.1942/geiser-xref.el
   geiser-20210428.1942/geiser.el
   geiser-20210428.1942/geiser.info
-Built geiser in 1.103s, finished at 2021-07-10T17:20:22+0000
+Built geiser in 1.349s, finished at 2021-07-20T21:32:49+0000
  ✓ Success:
-4.0K -rw-rw-r-- 1 kimr kimr  375 Jul 10 10:20 packages/geiser-20210428.1942.entry
-312K -rw-rw-r-- 1 kimr kimr 310K Jul 10 10:20 packages/geiser-20210428.1942.tar
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 10 10:20 packages/geiser-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr 1.4K Jul 10 10:20 packages/geiser-readme.txt
+4.0K -rw-rw-r-- 1 kimr kimr  375 Jul 20 14:32 packages/geiser-20210428.1942.entry
+312K -rw-rw-r-- 1 kimr kimr 310K Jul 20 14:32 packages/geiser-20210428.1942.tar
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 20 14:32 packages/geiser-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr 1.4K Jul 20 14:32 packages/geiser-readme.txt

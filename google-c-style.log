@@ -3,9 +3,9 @@ Fetcher: github
 Source:  https://github.com/google/styleguide.git
 
 Updating /home/kimr/repos/my/melpa/working/google-c-style/
-Built google-c-style in 0.814s, finished at 2021-07-10T17:20:43+0000
+Built google-c-style in 0.691s, finished at 2021-07-20T21:33:18+0000
  ✓ Success:
-8.0K -rw-rw-r-- 1 kimr kimr 6.2K Jul 10 10:20 packages/google-c-style-20180130.1736.el
-4.0K -rw-rw-r-- 1 kimr kimr  175 Jul 10 10:20 packages/google-c-style-20180130.1736.entry
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 10 10:20 packages/google-c-style-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr  405 Jul 10 10:20 packages/google-c-style-readme.txt
+8.0K -rw-rw-r-- 1 kimr kimr 6.2K Jul 20 14:33 packages/google-c-style-20180130.1736.el
+4.0K -rw-rw-r-- 1 kimr kimr  175 Jul 20 14:33 packages/google-c-style-20180130.1736.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 20 14:33 packages/google-c-style-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr  405 Jul 20 14:33 packages/google-c-style-readme.txt

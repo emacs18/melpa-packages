@@ -3,9 +3,9 @@ Fetcher: github
 Source:  https://github.com/tkf/emacs-request.git
 
 Updating /home/kimr/repos/my/melpa/working/request-deferred/
-Built request-deferred in 0.662s, finished at 2021-07-10T17:22:50+0000
+Built request-deferred in 0.672s, finished at 2021-07-20T21:36:00+0000
  ✓ Success:
-4.0K -rw-rw-r-- 1 kimr kimr 2.5K Jul 10 10:22 packages/request-deferred-20210214.37.el
-4.0K -rw-rw-r-- 1 kimr kimr  420 Jul 10 10:22 packages/request-deferred-20210214.37.entry
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 10 10:22 packages/request-deferred-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr   70 Jul 10 10:22 packages/request-deferred-readme.txt
+4.0K -rw-rw-r-- 1 kimr kimr 2.5K Jul 20 14:36 packages/request-deferred-20210214.37.el
+4.0K -rw-rw-r-- 1 kimr kimr  420 Jul 20 14:36 packages/request-deferred-20210214.37.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 20 14:36 packages/request-deferred-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr   70 Jul 20 14:36 packages/request-deferred-readme.txt

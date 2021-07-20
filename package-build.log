@@ -5,7 +5,7 @@ Source:  https://github.com/melpa/package-build.git
 Updating /home/kimr/repos/my/melpa/working/package-build/
 Copying files (->) and directories (=>)
   from /home/kimr/repos/my/melpa/working/package-build/
-  to /tmp/package-buildrIXtfg/package-build-20210707.1424
+  to /tmp/package-buildpOznqq/package-build-20210707.1424
     package-build-badges.el -> package-build-badges.el
     package-build.el -> package-build.el
     package-recipe-mode.el -> package-recipe-mode.el
@@ -17,9 +17,9 @@ Created package-build-20210707.1424.tar containing:
   package-build-20210707.1424/package-build.el
   package-build-20210707.1424/package-recipe-mode.el
   package-build-20210707.1424/package-recipe.el
-Built package-build in 0.194s, finished at 2021-07-10T17:22:21+0000
+Built package-build in 1.204s, finished at 2021-07-20T21:35:24+0000
  ✓ Success:
-4.0K -rw-rw-r-- 1 kimr kimr  404 Jul 10 10:22 packages/package-build-20210707.1424.entry
- 60K -rw-rw-r-- 1 kimr kimr  60K Jul 10 10:22 packages/package-build-20210707.1424.tar
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 10 10:22 packages/package-build-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr  308 Jul 10 10:22 packages/package-build-readme.txt
+4.0K -rw-rw-r-- 1 kimr kimr  404 Jul 20 14:35 packages/package-build-20210707.1424.entry
+ 60K -rw-rw-r-- 1 kimr kimr  60K Jul 20 14:35 packages/package-build-20210707.1424.tar
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 20 14:35 packages/package-build-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr  308 Jul 20 14:35 packages/package-build-readme.txt

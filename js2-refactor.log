@@ -5,7 +5,7 @@ Source:  https://github.com/js-emacs/js2-refactor.el.git
 Updating /home/kimr/repos/my/melpa/working/js2-refactor/
 Copying files (->) and directories (=>)
   from /home/kimr/repos/my/melpa/working/js2-refactor/
-  to /tmp/js2-refactorJeBvGU/js2-refactor-20210306.2003
+  to /tmp/js2-refactorOSyN3y/js2-refactor-20210306.2003
     js2-refactor-pkg.el -> js2-refactor-pkg.el
     js2-refactor.el -> js2-refactor.el
     js2r-conditionals.el -> js2r-conditionals.el
@@ -30,9 +30,9 @@ Created js2-refactor-20210306.2003.tar containing:
   js2-refactor-20210306.2003/js2r-paredit.el
   js2-refactor-20210306.2003/js2r-vars.el
   js2-refactor-20210306.2003/js2r-wrapping.el
-Built js2-refactor in 0.441s, finished at 2021-07-10T17:21:23+0000
+Built js2-refactor in 0.677s, finished at 2021-07-20T21:34:05+0000
  ✓ Success:
-4.0K -rw-rw-r-- 1 kimr kimr  494 Jul 10 10:21 packages/js2-refactor-20210306.2003.entry
-100K -rw-rw-r-- 1 kimr kimr 100K Jul 10 10:21 packages/js2-refactor-20210306.2003.tar
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 10 10:21 packages/js2-refactor-badge.svg
-8.0K -rw-rw-r-- 1 kimr kimr 5.2K Jul 10 10:21 packages/js2-refactor-readme.txt
+4.0K -rw-rw-r-- 1 kimr kimr  494 Jul 20 14:34 packages/js2-refactor-20210306.2003.entry
+100K -rw-rw-r-- 1 kimr kimr 100K Jul 20 14:34 packages/js2-refactor-20210306.2003.tar
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 20 14:34 packages/js2-refactor-badge.svg
+8.0K -rw-rw-r-- 1 kimr kimr 5.2K Jul 20 14:34 packages/js2-refactor-readme.txt

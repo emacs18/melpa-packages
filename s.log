@@ -4,9 +4,9 @@ Source:  https://github.com/magnars/s.el.git
 
 Updating /home/kimr/repos/my/melpa/working/s/
 Note: s :files spec is equivalent to the default.
-Built s in 0.219s, finished at 2021-07-10T17:22:52+0000
+Built s in 0.676s, finished at 2021-07-20T21:36:04+0000
  ✓ Success:
- 24K -rw-rw-r-- 1 kimr kimr  24K Jul 10 10:22 packages/s-20210616.619.el
-4.0K -rw-rw-r-- 1 kimr kimr  297 Jul 10 10:22 packages/s-20210616.619.entry
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 10 10:22 packages/s-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr  113 Jul 10 10:22 packages/s-readme.txt
+ 24K -rw-rw-r-- 1 kimr kimr  24K Jul 20 14:36 packages/s-20210616.619.el
+4.0K -rw-rw-r-- 1 kimr kimr  297 Jul 20 14:36 packages/s-20210616.619.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 20 14:36 packages/s-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr  113 Jul 20 14:36 packages/s-readme.txt

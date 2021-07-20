@@ -3,9 +3,9 @@ Fetcher: github
 Source:  https://github.com/magnars/dash.el.git
 
 Updating /home/kimr/repos/my/melpa/working/dash-functional/
-Built dash-functional in 0.199s, finished at 2021-07-10T17:19:16+0000
+Built dash-functional in 0.677s, finished at 2021-07-20T21:31:31+0000
  ✓ Success:
-4.0K -rw-rw-r-- 1 kimr kimr 2.1K Jul 10 10:19 packages/dash-functional-20210210.1449.el
-4.0K -rw-rw-r-- 1 kimr kimr  451 Jul 10 10:19 packages/dash-functional-20210210.1449.entry
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 10 10:19 packages/dash-functional-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr  614 Jul 10 10:19 packages/dash-functional-readme.txt
+4.0K -rw-rw-r-- 1 kimr kimr 2.1K Jul 20 14:31 packages/dash-functional-20210210.1449.el
+4.0K -rw-rw-r-- 1 kimr kimr  451 Jul 20 14:31 packages/dash-functional-20210210.1449.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 20 14:31 packages/dash-functional-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr  614 Jul 20 14:31 packages/dash-functional-readme.txt

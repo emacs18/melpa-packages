@@ -3,9 +3,9 @@ Fetcher: github
 Source:  https://github.com/antonj/Highlight-Indentation-for-Emacs.git
 
 Updating /home/kimr/repos/my/melpa/working/highlight-indentation/
-Built highlight-indentation in 0.746s, finished at 2021-07-10T17:21:07+0000
+Built highlight-indentation in 0.680s, finished at 2021-07-20T21:33:46+0000
  ✓ Success:
- 16K -rw-rw-r-- 1 kimr kimr  14K Jul 10 10:21 packages/highlight-indentation-20210221.1418.el
-4.0K -rw-rw-r-- 1 kimr kimr  379 Jul 10 10:21 packages/highlight-indentation-20210221.1418.entry
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 10 10:21 packages/highlight-indentation-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr  108 Jul 10 10:21 packages/highlight-indentation-readme.txt
+ 16K -rw-rw-r-- 1 kimr kimr  14K Jul 20 14:33 packages/highlight-indentation-20210221.1418.el
+4.0K -rw-rw-r-- 1 kimr kimr  379 Jul 20 14:33 packages/highlight-indentation-20210221.1418.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 20 14:33 packages/highlight-indentation-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr  108 Jul 20 14:33 packages/highlight-indentation-readme.txt

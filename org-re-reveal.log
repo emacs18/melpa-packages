@@ -5,7 +5,7 @@ Source:  https://gitlab.com/oer/org-re-reveal.git
 Updating /home/kimr/repos/my/melpa/working/org-re-reveal/
 Copying files (->) and directories (=>)
   from /home/kimr/repos/my/melpa/working/org-re-reveal/
-  to /tmp/org-re-revealOg67Db/org-re-reveal-20210507.1615
+  to /tmp/org-re-revealyMlL0b/org-re-reveal-20210507.1615
     org-re-reveal.el -> org-re-reveal.el
     ox-re-reveal.el -> ox-re-reveal.el
 Created org-re-reveal-20210507.1615.tar containing:
@@ -13,9 +13,9 @@ Created org-re-reveal-20210507.1615.tar containing:
   org-re-reveal-20210507.1615/org-re-reveal-pkg.el
   org-re-reveal-20210507.1615/org-re-reveal.el
   org-re-reveal-20210507.1615/ox-re-reveal.el
-Built org-re-reveal in 0.170s, finished at 2021-07-10T17:22:10+0000
+Built org-re-reveal in 1.065s, finished at 2021-07-20T21:35:06+0000
  ✓ Success:
-4.0K -rw-rw-r-- 1 kimr kimr  346 Jul 10 10:22 packages/org-re-reveal-20210507.1615.entry
-120K -rw-rw-r-- 1 kimr kimr 120K Jul 10 10:22 packages/org-re-reveal-20210507.1615.tar
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 10 10:22 packages/org-re-reveal-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr 1.7K Jul 10 10:22 packages/org-re-reveal-readme.txt
+4.0K -rw-rw-r-- 1 kimr kimr  346 Jul 20 14:35 packages/org-re-reveal-20210507.1615.entry
+120K -rw-rw-r-- 1 kimr kimr 120K Jul 20 14:35 packages/org-re-reveal-20210507.1615.tar
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 20 14:35 packages/org-re-reveal-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr 1.7K Jul 20 14:35 packages/org-re-reveal-readme.txt

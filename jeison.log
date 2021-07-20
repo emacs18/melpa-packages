@@ -3,9 +3,9 @@ Fetcher: github
 Source:  https://github.com/SavchenkoValeriy/jeison.git
 
 Updating /home/kimr/repos/my/melpa/working/jeison/
-Built jeison in 0.563s, finished at 2021-07-10T17:21:23+0000
+Built jeison in 0.666s, finished at 2021-07-20T21:34:05+0000
  ✓ Success:
- 20K -rw-rw-r-- 1 kimr kimr  17K Jul 10 10:21 packages/jeison-20190721.1651.el
-4.0K -rw-rw-r-- 1 kimr kimr  283 Jul 10 10:21 packages/jeison-20190721.1651.entry
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 10 10:21 packages/jeison-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr   84 Jul 10 10:21 packages/jeison-readme.txt
+ 20K -rw-rw-r-- 1 kimr kimr  17K Jul 20 14:34 packages/jeison-20190721.1651.el
+4.0K -rw-rw-r-- 1 kimr kimr  283 Jul 20 14:34 packages/jeison-20190721.1651.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 20 14:34 packages/jeison-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr   84 Jul 20 14:34 packages/jeison-readme.txt

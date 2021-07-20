@@ -3,9 +3,9 @@ Fetcher: github
 Source:  https://github.com/dash-docs-el/dash-docs.git
 
 Updating /home/kimr/repos/my/melpa/working/dash-docs/
-Built dash-docs in 0.633s, finished at 2021-07-10T17:19:16+0000
+Built dash-docs in 0.676s, finished at 2021-07-20T21:31:30+0000
  ✓ Success:
- 28K -rw-rw-r-- 1 kimr kimr  26K Jul 10 10:19 packages/dash-docs-20200516.1943.el
-4.0K -rw-rw-r-- 1 kimr kimr  538 Jul 10 10:19 packages/dash-docs-20200516.1943.entry
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 10 10:19 packages/dash-docs-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr  143 Jul 10 10:19 packages/dash-docs-readme.txt
+ 28K -rw-rw-r-- 1 kimr kimr  26K Jul 20 14:31 packages/dash-docs-20200516.1943.el
+4.0K -rw-rw-r-- 1 kimr kimr  538 Jul 20 14:31 packages/dash-docs-20200516.1943.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 20 14:31 packages/dash-docs-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr  143 Jul 20 14:31 packages/dash-docs-readme.txt

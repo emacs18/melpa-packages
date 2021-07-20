@@ -3,9 +3,9 @@ Fetcher: github
 Source:  https://github.com/company-mode/company-quickhelp.git
 
 Updating /home/kimr/repos/my/melpa/working/company-quickhelp/
-Built company-quickhelp in 0.311s, finished at 2021-07-10T17:19:01+0000
+Built company-quickhelp in 0.600s, finished at 2021-07-20T21:31:11+0000
  ✓ Success:
- 12K -rw-rw-r-- 1 kimr kimr  12K Jul 10 10:19 packages/company-quickhelp-20210515.2212.el
-4.0K -rw-rw-r-- 1 kimr kimr  517 Jul 10 10:19 packages/company-quickhelp-20210515.2212.entry
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 10 10:19 packages/company-quickhelp-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr  127 Jul 10 10:19 packages/company-quickhelp-readme.txt
+ 12K -rw-rw-r-- 1 kimr kimr  12K Jul 20 14:31 packages/company-quickhelp-20210515.2212.el
+4.0K -rw-rw-r-- 1 kimr kimr  517 Jul 20 14:31 packages/company-quickhelp-20210515.2212.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 20 14:31 packages/company-quickhelp-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr  127 Jul 20 14:31 packages/company-quickhelp-readme.txt

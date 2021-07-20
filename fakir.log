@@ -4,9 +4,9 @@ Source:  https://github.com/nicferrier/emacs-fakir.git
 
 Updating /home/kimr/repos/my/melpa/working/fakir/
 Note: fakir :files spec is equivalent to the default.
-Built fakir in 0.712s, finished at 2021-07-10T17:20:05+0000
+Built fakir in 0.666s, finished at 2021-07-20T21:32:29+0000
  ✓ Success:
- 28K -rw-rw-r-- 1 kimr kimr  26K Jul 10 10:20 packages/fakir-20140729.1652.el
-4.0K -rw-rw-r-- 1 kimr kimr  386 Jul 10 10:20 packages/fakir-20140729.1652.entry
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 10 10:20 packages/fakir-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr   76 Jul 10 10:20 packages/fakir-readme.txt
+ 28K -rw-rw-r-- 1 kimr kimr  26K Jul 20 14:32 packages/fakir-20140729.1652.el
+4.0K -rw-rw-r-- 1 kimr kimr  386 Jul 20 14:32 packages/fakir-20140729.1652.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 20 14:32 packages/fakir-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr   76 Jul 20 14:32 packages/fakir-readme.txt

@@ -5,7 +5,7 @@ Source:  https://github.com/syl20bnr/evil-tutor.git
 Updating /home/kimr/repos/my/melpa/working/evil-tutor/
 Copying files (->) and directories (=>)
   from /home/kimr/repos/my/melpa/working/evil-tutor/
-  to /tmp/evil-tutorHU2s98/evil-tutor-20150103.650
+  to /tmp/evil-tutorCnJVGK/evil-tutor-20150103.650
     evil-tutor.el -> evil-tutor.el
     tutor.txt -> tutor.txt
 Created evil-tutor-20150103.650.tar containing:
@@ -13,9 +13,9 @@ Created evil-tutor-20150103.650.tar containing:
   evil-tutor-20150103.650/evil-tutor-pkg.el
   evil-tutor-20150103.650/evil-tutor.el
   evil-tutor-20150103.650/tutor.txt
-Built evil-tutor in 0.653s, finished at 2021-07-10T17:20:01+0000
+Built evil-tutor in 0.671s, finished at 2021-07-20T21:32:24+0000
  ✓ Success:
-4.0K -rw-rw-r-- 1 kimr kimr  444 Jul 10 10:20 packages/evil-tutor-20150103.650.entry
- 40K -rw-rw-r-- 1 kimr kimr  40K Jul 10 10:20 packages/evil-tutor-20150103.650.tar
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 10 10:20 packages/evil-tutor-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr  248 Jul 10 10:20 packages/evil-tutor-readme.txt
+4.0K -rw-rw-r-- 1 kimr kimr  444 Jul 20 14:32 packages/evil-tutor-20150103.650.entry
+ 40K -rw-rw-r-- 1 kimr kimr  40K Jul 20 14:32 packages/evil-tutor-20150103.650.tar
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 20 14:32 packages/evil-tutor-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr  248 Jul 20 14:32 packages/evil-tutor-readme.txt

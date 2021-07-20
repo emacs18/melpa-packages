@@ -5,7 +5,7 @@ Source:  https://github.com/atykhonov/google-translate.git
 Updating /home/kimr/repos/my/melpa/working/google-translate/
 Copying files (->) and directories (=>)
   from /home/kimr/repos/my/melpa/working/google-translate/
-  to /tmp/google-translateKCm47u/google-translate-20210406.1138
+  to /tmp/google-translateUTQy8z/google-translate-20210406.1138
     .bump-version.el -> .bump-version.el
     google-translate-backend.el -> google-translate-backend.el
     google-translate-core-ui.el -> google-translate-core-ui.el
@@ -26,9 +26,9 @@ Created google-translate-20210406.1138.tar containing:
   google-translate-20210406.1138/google-translate-smooth-ui.el
   google-translate-20210406.1138/google-translate-tk.el
   google-translate-20210406.1138/google-translate.el
-Built google-translate in 0.644s, finished at 2021-07-10T17:20:43+0000
+Built google-translate in 0.672s, finished at 2021-07-20T21:33:18+0000
  ✓ Success:
-4.0K -rw-rw-r-- 1 kimr kimr  382 Jul 10 10:20 packages/google-translate-20210406.1138.entry
-100K -rw-rw-r-- 1 kimr kimr 100K Jul 10 10:20 packages/google-translate-20210406.1138.tar
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 10 10:20 packages/google-translate-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr 1.3K Jul 10 10:20 packages/google-translate-readme.txt
+4.0K -rw-rw-r-- 1 kimr kimr  382 Jul 20 14:33 packages/google-translate-20210406.1138.entry
+100K -rw-rw-r-- 1 kimr kimr 100K Jul 20 14:33 packages/google-translate-20210406.1138.tar
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 20 14:33 packages/google-translate-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr 1.3K Jul 20 14:33 packages/google-translate-readme.txt

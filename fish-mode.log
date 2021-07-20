@@ -3,9 +3,9 @@ Fetcher: github
 Source:  https://github.com/wwwjfy/emacs-fish.git
 
 Updating /home/kimr/repos/my/melpa/working/fish-mode/
-Built fish-mode in 0.595s, finished at 2021-07-10T17:20:08+0000
+Built fish-mode in 0.675s, finished at 2021-07-20T21:32:32+0000
  ✓ Success:
- 24K -rw-rw-r-- 1 kimr kimr  21K Jul 10 10:20 packages/fish-mode-20210215.1114.el
-4.0K -rw-rw-r-- 1 kimr kimr  318 Jul 10 10:20 packages/fish-mode-20210215.1114.entry
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 10 10:20 packages/fish-mode-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr  424 Jul 10 10:20 packages/fish-mode-readme.txt
+ 24K -rw-rw-r-- 1 kimr kimr  21K Jul 20 14:32 packages/fish-mode-20210215.1114.el
+4.0K -rw-rw-r-- 1 kimr kimr  318 Jul 20 14:32 packages/fish-mode-20210215.1114.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 20 14:32 packages/fish-mode-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr  424 Jul 20 14:32 packages/fish-mode-readme.txt

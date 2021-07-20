@@ -5,7 +5,7 @@ Source:  https://github.com/arifer612/pippel.git
 Updating /home/kimr/repos/my/melpa/working/pippel/
 Copying files (->) and directories (=>)
   from /home/kimr/repos/my/melpa/working/pippel/
-  to /tmp/pippelbxtUQu/pippel-20210614.1655
+  to /tmp/pippelJPV2ye/pippel-20210614.1655
     pippel.el -> pippel.el
     pippel.py -> pippel.py
 Created pippel-20210614.1655.tar containing:
@@ -13,8 +13,8 @@ Created pippel-20210614.1655.tar containing:
   pippel-20210614.1655/pippel-pkg.el
   pippel-20210614.1655/pippel.el
   pippel-20210614.1655/pippel.py
-Built pippel in 0.155s, finished at 2021-07-10T17:22:34+0000
+Built pippel in 0.671s, finished at 2021-07-20T21:35:41+0000
  ✓ Success:
-4.0K -rw-rw-r-- 1 kimr kimr  372 Jul 10 10:22 packages/pippel-20210614.1655.entry
- 32K -rw-rw-r-- 1 kimr kimr  30K Jul 10 10:22 packages/pippel-20210614.1655.tar
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 10 10:22 packages/pippel-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr  372 Jul 20 14:35 packages/pippel-20210614.1655.entry
+ 32K -rw-rw-r-- 1 kimr kimr  30K Jul 20 14:35 packages/pippel-20210614.1655.tar
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 20 14:35 packages/pippel-badge.svg

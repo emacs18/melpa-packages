@@ -3,9 +3,9 @@ Fetcher: github
 Source:  https://github.com/emacsorphanage/evil-textobj-line.git
 
 Updating /home/kimr/repos/my/melpa/working/evil-textobj-line/
-Built evil-textobj-line in 0.777s, finished at 2021-07-10T17:20:00+0000
+Built evil-textobj-line in 0.675s, finished at 2021-07-20T21:32:23+0000
  ✓ Success:
-4.0K -rw-rw-r-- 1 kimr kimr 2.4K Jul 10 10:19 packages/evil-textobj-line-20150729.1522.el
-4.0K -rw-rw-r-- 1 kimr kimr  365 Jul 10 10:19 packages/evil-textobj-line-20150729.1522.entry
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 10 10:20 packages/evil-textobj-line-badge.svg
-   0 -rw-rw-r-- 1 kimr kimr    0 Jul 10 10:19 packages/evil-textobj-line-readme.txt
+4.0K -rw-rw-r-- 1 kimr kimr 2.4K Jul 20 14:32 packages/evil-textobj-line-20150729.1522.el
+4.0K -rw-rw-r-- 1 kimr kimr  365 Jul 20 14:32 packages/evil-textobj-line-20150729.1522.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 20 14:32 packages/evil-textobj-line-badge.svg
+   0 -rw-rw-r-- 1 kimr kimr    0 Jul 20 14:32 packages/evil-textobj-line-readme.txt

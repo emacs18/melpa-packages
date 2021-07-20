@@ -5,7 +5,7 @@ Source:  https://github.com/emacs-evil/evil.git
 Updating /home/kimr/repos/my/melpa/working/evil/
 Copying files (->) and directories (=>)
   from /home/kimr/repos/my/melpa/working/evil/
-  to /tmp/evilda4O4Y/evil-20210705.2021
+  to /tmp/evil9g0D7U/evil-20210719.856
     evil-command-window.el -> evil-command-window.el
     evil-commands.el -> evil-commands.el
     evil-common.el -> evil-common.el
@@ -26,155 +26,157 @@ Copying files (->) and directories (=>)
     evil-vars.el -> evil-vars.el
     evil.el -> evil.el
   ! doc/build/texinfo/evil.texi -> evil.texi
-Created /tmp/evilda4O4Y/evil-20210705.2021/evil.info
-Created evil-20210705.2021.tar containing:
-  evil-20210705.2021/
-  evil-20210705.2021/dir
-  evil-20210705.2021/evil-command-window.el
-  evil-20210705.2021/evil-commands.el
-  evil-20210705.2021/evil-common.el
-  evil-20210705.2021/evil-core.el
-  evil-20210705.2021/evil-development.el
-  evil-20210705.2021/evil-digraphs.el
-  evil-20210705.2021/evil-ex.el
-  evil-20210705.2021/evil-integration.el
-  evil-20210705.2021/evil-jumps.el
-  evil-20210705.2021/evil-keybindings.el
-  evil-20210705.2021/evil-macros.el
-  evil-20210705.2021/evil-maps.el
-  evil-20210705.2021/evil-pkg.el
-  evil-20210705.2021/evil-repeat.el
-  evil-20210705.2021/evil-search.el
-  evil-20210705.2021/evil-states.el
-  evil-20210705.2021/evil-types.el
-  evil-20210705.2021/evil-vars.el
-  evil-20210705.2021/evil.el
-  evil-20210705.2021/evil.info
-Built evil in 0.616s, finished at 2021-07-10T17:19:45+0000
+Created /tmp/evil9g0D7U/evil-20210719.856/evil.info
+Created evil-20210719.856.tar containing:
+  evil-20210719.856/
+  evil-20210719.856/dir
+  evil-20210719.856/evil-command-window.el
+  evil-20210719.856/evil-commands.el
+  evil-20210719.856/evil-common.el
+  evil-20210719.856/evil-core.el
+  evil-20210719.856/evil-development.el
+  evil-20210719.856/evil-digraphs.el
+  evil-20210719.856/evil-ex.el
+  evil-20210719.856/evil-integration.el
+  evil-20210719.856/evil-jumps.el
+  evil-20210719.856/evil-keybindings.el
+  evil-20210719.856/evil-macros.el
+  evil-20210719.856/evil-maps.el
+  evil-20210719.856/evil-pkg.el
+  evil-20210719.856/evil-repeat.el
+  evil-20210719.856/evil-search.el
+  evil-20210719.856/evil-states.el
+  evil-20210719.856/evil-types.el
+  evil-20210719.856/evil-vars.el
+  evil-20210719.856/evil.el
+  evil-20210719.856/evil.info
+Built evil in 1.070s, finished at 2021-07-20T21:32:05+0000
  ✓ Success:
 4.0K -rw-rw-r-- 1 kimr kimr  283 Jul 10 10:19 packages/evil-20210705.2021.entry
 892K -rw-rw-r-- 1 kimr kimr 890K Jul 10 10:19 packages/evil-20210705.2021.tar
-4.0K -rw-rw-r-- 1 kimr kimr 2.8K May 17 20:44 packages/evil-anzu-20200514.1902.el
-4.0K -rw-rw-r-- 1 kimr kimr  420 May 17 20:44 packages/evil-anzu-20200514.1902.entry
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K May 17 20:44 packages/evil-anzu-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr  543 May 17 20:44 packages/evil-anzu.log
-   0 -rw-rw-r-- 1 kimr kimr    0 May 17 20:44 packages/evil-anzu-readme.txt
- 12K -rw-rw-r-- 1 kimr kimr 8.1K May 17 20:44 packages/evil-args-20180908.2157.el
-4.0K -rw-rw-r-- 1 kimr kimr  423 May 17 20:44 packages/evil-args-20180908.2157.entry
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K May 17 20:44 packages/evil-args-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr  536 May 17 20:44 packages/evil-args.log
-4.0K -rw-rw-r-- 1 kimr kimr  810 May 17 20:44 packages/evil-args-readme.txt
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 10 10:19 packages/evil-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr  587 May 17 20:44 packages/evil-cleverparens-20170718.413.entry
-112K -rw-rw-r-- 1 kimr kimr 110K May 17 20:44 packages/evil-cleverparens-20170718.413.tar
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K May 17 20:44 packages/evil-cleverparens-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr 1.3K May 17 20:44 packages/evil-cleverparens.log
-4.0K -rw-rw-r-- 1 kimr kimr  256 May 17 20:44 packages/evil-cleverparens-readme.txt
-4.0K -rw-rw-r-- 1 kimr kimr  442 Jul 10 10:14 packages/evil-collection-20210710.58.entry
-840K -rw-rw-r-- 1 kimr kimr 840K Jul 10 10:14 packages/evil-collection-20210710.58.tar
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 10 10:14 packages/evil-collection-badge.svg
- 24K -rw-rw-r-- 1 kimr kimr  21K Jul 10 10:14 packages/evil-collection.log
-4.0K -rw-rw-r-- 1 kimr kimr  301 Jul 10 10:14 packages/evil-collection-readme.txt
- 24K -rw-rw-r-- 1 kimr kimr  22K May 17 20:44 packages/evil-easymotion-20200424.135.el
-4.0K -rw-rw-r-- 1 kimr kimr  448 May 17 20:44 packages/evil-easymotion-20200424.135.entry
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K May 17 20:44 packages/evil-easymotion-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr  584 May 17 20:44 packages/evil-easymotion.log
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K May 17 20:44 packages/evil-easymotion-readme.txt
-8.0K -rw-rw-r-- 1 kimr kimr 8.0K May 17 20:44 packages/evil-ediff-20170724.1923.el
-4.0K -rw-rw-r-- 1 kimr kimr  355 May 17 20:44 packages/evil-ediff-20170724.1923.entry
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K May 17 20:44 packages/evil-ediff-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr  547 May 17 20:44 packages/evil-ediff.log
-4.0K -rw-rw-r-- 1 kimr kimr 1.4K May 17 20:44 packages/evil-ediff-readme.txt
- 16K -rw-rw-r-- 1 kimr kimr  13K May 17 20:44 packages/evil-escape-20180910.1234.el
-4.0K -rw-rw-r-- 1 kimr kimr  467 May 17 20:44 packages/evil-escape-20180910.1234.entry
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K May 17 20:44 packages/evil-escape-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr  553 May 17 20:44 packages/evil-escape.log
-4.0K -rw-rw-r-- 1 kimr kimr 1.8K May 17 20:44 packages/evil-escape-readme.txt
-8.0K -rw-rw-r-- 1 kimr kimr 8.0K May 17 20:44 packages/evil-exchange-20200118.252.el
-4.0K -rw-rw-r-- 1 kimr kimr  383 May 17 20:44 packages/evil-exchange-20200118.252.entry
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K May 17 20:44 packages/evil-exchange-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr  567 May 17 20:44 packages/evil-exchange.log
-4.0K -rw-rw-r-- 1 kimr kimr  319 May 17 20:44 packages/evil-exchange-readme.txt
- 28K -rw-rw-r-- 1 kimr kimr  28K May 17 20:44 packages/evil-goggles-20200101.1935.el
-4.0K -rw-rw-r-- 1 kimr kimr  410 May 17 20:44 packages/evil-goggles-20200101.1935.entry
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K May 17 20:44 packages/evil-goggles-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr  560 May 17 20:44 packages/evil-goggles.log
-4.0K -rw-rw-r-- 1 kimr kimr  106 May 17 20:44 packages/evil-goggles-readme.txt
- 12K -rw-rw-r-- 1 kimr kimr 9.8K May 17 20:44 packages/evil-iedit-state-20200830.617.el
-4.0K -rw-rw-r-- 1 kimr kimr  483 May 17 20:44 packages/evil-iedit-state-20200830.617.entry
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K May 17 20:44 packages/evil-iedit-state-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr  591 May 17 20:44 packages/evil-iedit-state.log
-4.0K -rw-rw-r-- 1 kimr kimr  151 May 17 20:44 packages/evil-iedit-state-readme.txt
- 12K -rw-rw-r-- 1 kimr kimr 8.4K May 17 20:44 packages/evil-indent-plus-20151109.1906.el
-4.0K -rw-rw-r-- 1 kimr kimr  423 May 17 20:44 packages/evil-indent-plus-20151109.1906.entry
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K May 17 20:44 packages/evil-indent-plus-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr  590 May 17 20:44 packages/evil-indent-plus.log
-4.0K -rw-rw-r-- 1 kimr kimr  327 May 17 20:44 packages/evil-indent-plus-readme.txt
- 12K -rw-rw-r-- 1 kimr kimr 8.6K May 17 20:44 packages/evil-lion-20170811.614.el
-4.0K -rw-rw-r-- 1 kimr kimr  415 May 17 20:44 packages/evil-lion-20170811.614.entry
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K May 17 20:44 packages/evil-lion-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr  592 May 17 20:44 packages/evil-lion.log
-4.0K -rw-rw-r-- 1 kimr kimr  275 May 17 20:44 packages/evil-lion-readme.txt
- 12K -rw-rw-r-- 1 kimr kimr  12K May 17 20:44 packages/evil-lisp-state-20160404.248.el
-4.0K -rw-rw-r-- 1 kimr kimr  507 May 17 20:44 packages/evil-lisp-state-20160404.248.entry
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K May 17 20:44 packages/evil-lisp-state-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr  583 May 17 20:44 packages/evil-lisp-state.log
-4.0K -rw-rw-r-- 1 kimr kimr 3.3K May 17 20:44 packages/evil-lisp-state-readme.txt
-4.0K -rw-rw-r-- 1 kimr kimr   27 May 17 20:44 packages/evil-magit.log
+4.0K -rw-rw-r-- 1 kimr kimr  282 Jul 20 14:32 packages/evil-20210719.856.entry
+892K -rw-rw-r-- 1 kimr kimr 890K Jul 20 14:32 packages/evil-20210719.856.tar
+4.0K -rw-rw-r-- 1 kimr kimr 2.8K Jul 10 10:19 packages/evil-anzu-20200514.1902.el
+4.0K -rw-rw-r-- 1 kimr kimr  420 Jul 10 10:19 packages/evil-anzu-20200514.1902.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 10 10:19 packages/evil-anzu-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr  543 Jul 10 10:19 packages/evil-anzu.log
+   0 -rw-rw-r-- 1 kimr kimr    0 Jul 10 10:19 packages/evil-anzu-readme.txt
+ 12K -rw-rw-r-- 1 kimr kimr 8.1K Jul 10 10:19 packages/evil-args-20180908.2157.el
+4.0K -rw-rw-r-- 1 kimr kimr  423 Jul 10 10:19 packages/evil-args-20180908.2157.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 10 10:19 packages/evil-args-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr  536 Jul 10 10:19 packages/evil-args.log
+4.0K -rw-rw-r-- 1 kimr kimr  810 Jul 10 10:19 packages/evil-args-readme.txt
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 20 14:32 packages/evil-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr  587 Jul 10 10:19 packages/evil-cleverparens-20170718.413.entry
+112K -rw-rw-r-- 1 kimr kimr 110K Jul 10 10:19 packages/evil-cleverparens-20170718.413.tar
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 10 10:19 packages/evil-cleverparens-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr 1.3K Jul 10 10:19 packages/evil-cleverparens.log
+4.0K -rw-rw-r-- 1 kimr kimr  256 Jul 10 10:19 packages/evil-cleverparens-readme.txt
+4.0K -rw-rw-r-- 1 kimr kimr  442 Jul 10 10:19 packages/evil-collection-20210710.58.entry
+840K -rw-rw-r-- 1 kimr kimr 840K Jul 10 10:19 packages/evil-collection-20210710.58.tar
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 10 10:19 packages/evil-collection-badge.svg
+ 24K -rw-rw-r-- 1 kimr kimr  21K Jul 10 10:19 packages/evil-collection.log
+4.0K -rw-rw-r-- 1 kimr kimr  301 Jul 10 10:19 packages/evil-collection-readme.txt
+ 24K -rw-rw-r-- 1 kimr kimr  22K Jul 10 10:19 packages/evil-easymotion-20200424.135.el
+4.0K -rw-rw-r-- 1 kimr kimr  448 Jul 10 10:19 packages/evil-easymotion-20200424.135.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 10 10:19 packages/evil-easymotion-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr  584 Jul 10 10:19 packages/evil-easymotion.log
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 10 10:19 packages/evil-easymotion-readme.txt
+8.0K -rw-rw-r-- 1 kimr kimr 8.0K Jul 10 10:19 packages/evil-ediff-20170724.1923.el
+4.0K -rw-rw-r-- 1 kimr kimr  355 Jul 10 10:19 packages/evil-ediff-20170724.1923.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 10 10:19 packages/evil-ediff-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr  547 Jul 10 10:19 packages/evil-ediff.log
+4.0K -rw-rw-r-- 1 kimr kimr 1.4K Jul 10 10:19 packages/evil-ediff-readme.txt
+ 16K -rw-rw-r-- 1 kimr kimr  13K Jul 10 10:19 packages/evil-escape-20180910.1234.el
+4.0K -rw-rw-r-- 1 kimr kimr  467 Jul 10 10:19 packages/evil-escape-20180910.1234.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 10 10:19 packages/evil-escape-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr  553 Jul 10 10:19 packages/evil-escape.log
+4.0K -rw-rw-r-- 1 kimr kimr 1.8K Jul 10 10:19 packages/evil-escape-readme.txt
+8.0K -rw-rw-r-- 1 kimr kimr 8.0K Jul 10 10:19 packages/evil-exchange-20200118.252.el
+4.0K -rw-rw-r-- 1 kimr kimr  383 Jul 10 10:19 packages/evil-exchange-20200118.252.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 10 10:19 packages/evil-exchange-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr  567 Jul 10 10:19 packages/evil-exchange.log
+4.0K -rw-rw-r-- 1 kimr kimr  319 Jul 10 10:19 packages/evil-exchange-readme.txt
+ 28K -rw-rw-r-- 1 kimr kimr  28K Jul 10 10:19 packages/evil-goggles-20200101.1935.el
+4.0K -rw-rw-r-- 1 kimr kimr  410 Jul 10 10:19 packages/evil-goggles-20200101.1935.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 10 10:19 packages/evil-goggles-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr  560 Jul 10 10:19 packages/evil-goggles.log
+4.0K -rw-rw-r-- 1 kimr kimr  106 Jul 10 10:19 packages/evil-goggles-readme.txt
+ 12K -rw-rw-r-- 1 kimr kimr 9.8K Jul 10 10:19 packages/evil-iedit-state-20200830.617.el
+4.0K -rw-rw-r-- 1 kimr kimr  483 Jul 10 10:19 packages/evil-iedit-state-20200830.617.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 10 10:19 packages/evil-iedit-state-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr  591 Jul 10 10:19 packages/evil-iedit-state.log
+4.0K -rw-rw-r-- 1 kimr kimr  151 Jul 10 10:19 packages/evil-iedit-state-readme.txt
+ 12K -rw-rw-r-- 1 kimr kimr 8.4K Jul 10 10:19 packages/evil-indent-plus-20151109.1906.el
+4.0K -rw-rw-r-- 1 kimr kimr  423 Jul 10 10:19 packages/evil-indent-plus-20151109.1906.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 10 10:19 packages/evil-indent-plus-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr  590 Jul 10 10:19 packages/evil-indent-plus.log
+4.0K -rw-rw-r-- 1 kimr kimr  327 Jul 10 10:19 packages/evil-indent-plus-readme.txt
+ 12K -rw-rw-r-- 1 kimr kimr 8.6K Jul 10 10:19 packages/evil-lion-20170811.614.el
+4.0K -rw-rw-r-- 1 kimr kimr  415 Jul 10 10:19 packages/evil-lion-20170811.614.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 10 10:19 packages/evil-lion-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr  592 Jul 10 10:19 packages/evil-lion.log
+4.0K -rw-rw-r-- 1 kimr kimr  275 Jul 10 10:19 packages/evil-lion-readme.txt
+ 12K -rw-rw-r-- 1 kimr kimr  12K Jul 10 10:19 packages/evil-lisp-state-20160404.248.el
+4.0K -rw-rw-r-- 1 kimr kimr  507 Jul 10 10:19 packages/evil-lisp-state-20160404.248.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 10 10:19 packages/evil-lisp-state-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr  583 Jul 10 10:19 packages/evil-lisp-state.log
+4.0K -rw-rw-r-- 1 kimr kimr 3.3K Jul 10 10:19 packages/evil-lisp-state-readme.txt
+4.0K -rw-rw-r-- 1 kimr kimr   27 Jul 10 10:19 packages/evil-magit.log
 4.0K -rw-rw-r-- 1 kimr kimr  810 Dec 19  2020 packages/evil-magit-readme.txt
-4.0K -rw-rw-r-- 1 kimr kimr  413 Jul 10 10:14 packages/evil-matchit-20210609.1311.entry
-120K -rw-rw-r-- 1 kimr kimr 120K Jul 10 10:14 packages/evil-matchit-20210609.1311.tar
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 10 10:14 packages/evil-matchit-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr 3.3K Jul 10 10:14 packages/evil-matchit.log
-4.0K -rw-rw-r-- 1 kimr kimr  577 Jul 10 10:14 packages/evil-matchit-readme.txt
-4.0K -rw-rw-r-- 1 kimr kimr  485 May 17 20:44 packages/evil-mc-20210206.1941.entry
-140K -rw-rw-r-- 1 kimr kimr 140K May 17 20:44 packages/evil-mc-20210206.1941.tar
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K May 17 20:44 packages/evil-mc-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr 1.9K May 17 20:44 packages/evil-mc.log
-4.0K -rw-rw-r-- 1 kimr kimr  244 May 17 20:44 packages/evil-mc-readme.txt
-4.0K -rw-rw-r-- 1 kimr kimr  462 Jul 10 10:14 packages/evil-nerd-commenter-20210624.1122.entry
- 60K -rw-rw-r-- 1 kimr kimr  60K Jul 10 10:14 packages/evil-nerd-commenter-20210624.1122.tar
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 10 10:14 packages/evil-nerd-commenter-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr 1.5K Jul 10 10:14 packages/evil-nerd-commenter.log
-4.0K -rw-rw-r-- 1 kimr kimr 3.6K Jul 10 10:14 packages/evil-nerd-commenter-readme.txt
- 28K -rw-rw-r-- 1 kimr kimr  25K Jul 10 10:14 packages/evil-numbers-20210605.431.el
-4.0K -rw-rw-r-- 1 kimr kimr  420 Jul 10 10:14 packages/evil-numbers-20210605.431.entry
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 10 10:14 packages/evil-numbers-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr  733 Jul 10 10:14 packages/evil-numbers.log
-4.0K -rw-rw-r-- 1 kimr kimr  995 Jul 10 10:14 packages/evil-numbers-readme.txt
-4.0K -rw-rw-r-- 1 kimr kimr  354 May 17 20:44 packages/evil-org-20201222.2023.entry
- 52K -rw-rw-r-- 1 kimr kimr  50K May 17 20:44 packages/evil-org-20201222.2023.tar
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K May 17 20:44 packages/evil-org-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr  945 May 17 20:44 packages/evil-org.log
-4.0K -rw-rw-r-- 1 kimr kimr   67 May 17 20:44 packages/evil-org-readme.txt
-4.0K -rw-rw-r-- 1 kimr kimr  883 Jul 10 10:19 packages/evil-readme.txt
- 28K -rwxrwxr-x 1 kimr kimr  26K Jul 10 10:14 packages/evil-snipe-20210609.509.el
-4.0K -rw-rw-r-- 1 kimr kimr  483 Jul 10 10:14 packages/evil-snipe-20210609.509.entry
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 10 10:14 packages/evil-snipe-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr  712 Jul 10 10:14 packages/evil-snipe.log
-4.0K -rw-rw-r-- 1 kimr kimr  452 Jul 10 10:14 packages/evil-snipe-readme.txt
- 20K -rw-rw-r-- 1 kimr kimr  19K Jul 10 10:14 packages/evil-surround-20210615.2119.el
-4.0K -rw-rw-r-- 1 kimr kimr  382 Jul 10 10:14 packages/evil-surround-20210615.2119.entry
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 10 10:14 packages/evil-surround-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr  746 Jul 10 10:14 packages/evil-surround.log
-4.0K -rw-rw-r-- 1 kimr kimr  449 Jul 10 10:14 packages/evil-surround-readme.txt
-4.0K -rw-rw-r-- 1 kimr kimr 2.4K May 17 20:44 packages/evil-textobj-line-20150729.1522.el
-4.0K -rw-rw-r-- 1 kimr kimr  365 May 17 20:44 packages/evil-textobj-line-20150729.1522.entry
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K May 17 20:44 packages/evil-textobj-line-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr  607 May 17 20:44 packages/evil-textobj-line.log
-   0 -rw-rw-r-- 1 kimr kimr    0 May 17 20:44 packages/evil-textobj-line-readme.txt
-4.0K -rw-rw-r-- 1 kimr kimr  444 May 17 20:44 packages/evil-tutor-20150103.650.entry
- 40K -rw-rw-r-- 1 kimr kimr  40K May 17 20:44 packages/evil-tutor-20150103.650.tar
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K May 17 20:44 packages/evil-tutor-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr  945 May 17 20:44 packages/evil-tutor.log
-4.0K -rw-rw-r-- 1 kimr kimr  248 May 17 20:44 packages/evil-tutor-readme.txt
-8.0K -rw-rw-r-- 1 kimr kimr 6.7K May 17 20:44 packages/evil-visual-mark-mode-20190116.1557.el
-4.0K -rw-rw-r-- 1 kimr kimr  351 May 17 20:44 packages/evil-visual-mark-mode-20190116.1557.entry
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K May 17 20:44 packages/evil-visual-mark-mode-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr  630 May 17 20:44 packages/evil-visual-mark-mode.log
-4.0K -rw-rw-r-- 1 kimr kimr  346 May 17 20:44 packages/evil-visual-mark-mode-readme.txt
-8.0K -rw-rw-r-- 1 kimr kimr 4.4K May 17 20:44 packages/evil-visualstar-20160223.48.el
-4.0K -rw-rw-r-- 1 kimr kimr  356 May 17 20:44 packages/evil-visualstar-20160223.48.entry
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K May 17 20:44 packages/evil-visualstar-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr  578 May 17 20:44 packages/evil-visualstar.log
-4.0K -rw-rw-r-- 1 kimr kimr  330 May 17 20:44 packages/evil-visualstar-readme.txt
+4.0K -rw-rw-r-- 1 kimr kimr  413 Jul 10 10:19 packages/evil-matchit-20210609.1311.entry
+120K -rw-rw-r-- 1 kimr kimr 120K Jul 10 10:19 packages/evil-matchit-20210609.1311.tar
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 10 10:19 packages/evil-matchit-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr 3.2K Jul 10 10:19 packages/evil-matchit.log
+4.0K -rw-rw-r-- 1 kimr kimr  577 Jul 10 10:19 packages/evil-matchit-readme.txt
+4.0K -rw-rw-r-- 1 kimr kimr  485 Jul 10 10:19 packages/evil-mc-20210206.1941.entry
+140K -rw-rw-r-- 1 kimr kimr 140K Jul 10 10:19 packages/evil-mc-20210206.1941.tar
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 10 10:19 packages/evil-mc-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr 1.9K Jul 10 10:19 packages/evil-mc.log
+4.0K -rw-rw-r-- 1 kimr kimr  244 Jul 10 10:19 packages/evil-mc-readme.txt
+4.0K -rw-rw-r-- 1 kimr kimr  462 Jul 10 10:19 packages/evil-nerd-commenter-20210624.1122.entry
+ 60K -rw-rw-r-- 1 kimr kimr  60K Jul 10 10:19 packages/evil-nerd-commenter-20210624.1122.tar
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 10 10:19 packages/evil-nerd-commenter-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr 1.3K Jul 10 10:19 packages/evil-nerd-commenter.log
+4.0K -rw-rw-r-- 1 kimr kimr 3.6K Jul 10 10:19 packages/evil-nerd-commenter-readme.txt
+ 28K -rw-rw-r-- 1 kimr kimr  25K Jul 10 10:19 packages/evil-numbers-20210605.431.el
+4.0K -rw-rw-r-- 1 kimr kimr  420 Jul 10 10:19 packages/evil-numbers-20210605.431.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 10 10:19 packages/evil-numbers-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr  560 Jul 10 10:19 packages/evil-numbers.log
+4.0K -rw-rw-r-- 1 kimr kimr  995 Jul 10 10:19 packages/evil-numbers-readme.txt
+4.0K -rw-rw-r-- 1 kimr kimr  354 Jul 10 10:19 packages/evil-org-20201222.2023.entry
+ 52K -rw-rw-r-- 1 kimr kimr  50K Jul 10 10:19 packages/evil-org-20201222.2023.tar
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 10 10:19 packages/evil-org-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr  945 Jul 10 10:19 packages/evil-org.log
+4.0K -rw-rw-r-- 1 kimr kimr   67 Jul 10 10:19 packages/evil-org-readme.txt
+4.0K -rw-rw-r-- 1 kimr kimr  883 Jul 20 14:32 packages/evil-readme.txt
+ 28K -rwxrwxr-x 1 kimr kimr  26K Jul 10 10:19 packages/evil-snipe-20210609.509.el
+4.0K -rw-rw-r-- 1 kimr kimr  483 Jul 10 10:19 packages/evil-snipe-20210609.509.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 10 10:19 packages/evil-snipe-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr  543 Jul 10 10:19 packages/evil-snipe.log
+4.0K -rw-rw-r-- 1 kimr kimr  452 Jul 10 10:19 packages/evil-snipe-readme.txt
+ 20K -rw-rw-r-- 1 kimr kimr  19K Jul 10 10:19 packages/evil-surround-20210615.2119.el
+4.0K -rw-rw-r-- 1 kimr kimr  382 Jul 10 10:19 packages/evil-surround-20210615.2119.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 10 10:19 packages/evil-surround-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr  571 Jul 10 10:19 packages/evil-surround.log
+4.0K -rw-rw-r-- 1 kimr kimr  449 Jul 10 10:19 packages/evil-surround-readme.txt
+4.0K -rw-rw-r-- 1 kimr kimr 2.4K Jul 10 10:19 packages/evil-textobj-line-20150729.1522.el
+4.0K -rw-rw-r-- 1 kimr kimr  365 Jul 10 10:19 packages/evil-textobj-line-20150729.1522.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 10 10:20 packages/evil-textobj-line-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr  607 Jul 10 10:20 packages/evil-textobj-line.log
+   0 -rw-rw-r-- 1 kimr kimr    0 Jul 10 10:19 packages/evil-textobj-line-readme.txt
+4.0K -rw-rw-r-- 1 kimr kimr  444 Jul 10 10:20 packages/evil-tutor-20150103.650.entry
+ 40K -rw-rw-r-- 1 kimr kimr  40K Jul 10 10:20 packages/evil-tutor-20150103.650.tar
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 10 10:20 packages/evil-tutor-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr  945 Jul 10 10:20 packages/evil-tutor.log
+4.0K -rw-rw-r-- 1 kimr kimr  248 Jul 10 10:20 packages/evil-tutor-readme.txt
+8.0K -rw-rw-r-- 1 kimr kimr 6.7K Jul 10 10:20 packages/evil-visual-mark-mode-20190116.1557.el
+4.0K -rw-rw-r-- 1 kimr kimr  351 Jul 10 10:20 packages/evil-visual-mark-mode-20190116.1557.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 10 10:20 packages/evil-visual-mark-mode-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr  630 Jul 10 10:20 packages/evil-visual-mark-mode.log
+4.0K -rw-rw-r-- 1 kimr kimr  346 Jul 10 10:20 packages/evil-visual-mark-mode-readme.txt
+8.0K -rw-rw-r-- 1 kimr kimr 4.4K Jul 10 10:20 packages/evil-visualstar-20160223.48.el
+4.0K -rw-rw-r-- 1 kimr kimr  356 Jul 10 10:20 packages/evil-visualstar-20160223.48.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 10 10:20 packages/evil-visualstar-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr  578 Jul 10 10:20 packages/evil-visualstar.log
+4.0K -rw-rw-r-- 1 kimr kimr  330 Jul 10 10:20 packages/evil-visualstar-readme.txt

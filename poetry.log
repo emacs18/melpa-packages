@@ -3,9 +3,9 @@ Fetcher: github
 Source:  https://github.com/galaunay/poetry.el.git
 
 Updating /home/kimr/repos/my/melpa/working/poetry/
-Built poetry in 0.647s, finished at 2021-07-10T17:22:36+0000
+Built poetry in 0.696s, finished at 2021-07-20T21:35:44+0000
  ✓ Success:
- 36K -rw-rw-r-- 1 kimr kimr  35K Jul 10 10:22 packages/poetry-20201114.1723.el
-4.0K -rw-rw-r-- 1 kimr kimr  403 Jul 10 10:22 packages/poetry-20201114.1723.entry
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 10 10:22 packages/poetry-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr  425 Jul 10 10:22 packages/poetry-readme.txt
+ 36K -rw-rw-r-- 1 kimr kimr  35K Jul 20 14:35 packages/poetry-20201114.1723.el
+4.0K -rw-rw-r-- 1 kimr kimr  403 Jul 20 14:35 packages/poetry-20201114.1723.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 20 14:35 packages/poetry-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr  425 Jul 20 14:35 packages/poetry-readme.txt

@@ -3,9 +3,9 @@ Fetcher: github
 Source:  https://github.com/volrath/treepy.el.git
 
 Updating /home/kimr/repos/my/melpa/working/treepy/
-Built treepy in 0.643s, finished at 2021-07-10T17:23:24+0000
+Built treepy in 1.084s, finished at 2021-07-20T21:36:33+0000
  ✓ Success:
- 20K -rw-rw-r-- 1 kimr kimr  18K Jul 10 10:23 packages/treepy-20191108.2217.el
-4.0K -rw-rw-r-- 1 kimr kimr  374 Jul 10 10:23 packages/treepy-20191108.2217.entry
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 10 10:23 packages/treepy-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr  970 Jul 10 10:23 packages/treepy-readme.txt
+ 20K -rw-rw-r-- 1 kimr kimr  18K Jul 20 14:36 packages/treepy-20191108.2217.el
+4.0K -rw-rw-r-- 1 kimr kimr  374 Jul 20 14:36 packages/treepy-20191108.2217.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 20 14:36 packages/treepy-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr  970 Jul 20 14:36 packages/treepy-readme.txt

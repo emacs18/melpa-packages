@@ -3,8 +3,8 @@ Fetcher: github
 Source:  https://github.com/yjwen/org-reveal.git
 
 Updating /home/kimr/repos/my/melpa/working/ox-reveal/
-Built ox-reveal in 0.194s, finished at 2021-07-10T17:22:19+0000
+Built ox-reveal in 1.710s, finished at 2021-07-20T21:35:22+0000
  ✓ Success:
- 68K -rw-rw-r-- 1 kimr kimr  66K Jul 10 10:22 packages/ox-reveal-20210705.2321.el
-4.0K -rw-rw-r-- 1 kimr kimr  387 Jul 10 10:22 packages/ox-reveal-20210705.2321.entry
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 10 10:22 packages/ox-reveal-badge.svg
+ 68K -rw-rw-r-- 1 kimr kimr  66K Jul 20 14:35 packages/ox-reveal-20210705.2321.el
+4.0K -rw-rw-r-- 1 kimr kimr  387 Jul 20 14:35 packages/ox-reveal-20210705.2321.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 20 14:35 packages/ox-reveal-badge.svg

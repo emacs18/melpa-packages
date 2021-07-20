@@ -3,9 +3,9 @@ Fetcher: github
 Source:  https://github.com/purcell/flycheck-package.git
 
 Updating /home/kimr/repos/my/melpa/working/flycheck-package/
-Built flycheck-package in 0.741s, finished at 2021-07-10T17:20:14+0000
+Built flycheck-package in 0.677s, finished at 2021-07-20T21:32:38+0000
  ✓ Success:
-4.0K -rw-rw-r-- 1 kimr kimr 2.8K Jul 10 10:20 packages/flycheck-package-20210509.2323.el
-4.0K -rw-rw-r-- 1 kimr kimr  520 Jul 10 10:20 packages/flycheck-package-20210509.2323.entry
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 10 10:20 packages/flycheck-package-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr  341 Jul 10 10:20 packages/flycheck-package-readme.txt
+4.0K -rw-rw-r-- 1 kimr kimr 2.8K Jul 20 14:32 packages/flycheck-package-20210509.2323.el
+4.0K -rw-rw-r-- 1 kimr kimr  520 Jul 20 14:32 packages/flycheck-package-20210509.2323.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 20 14:32 packages/flycheck-package-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr  341 Jul 20 14:32 packages/flycheck-package-readme.txt

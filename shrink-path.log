@@ -3,9 +3,9 @@ Fetcher: gitlab
 Source:  https://gitlab.com/bennya/shrink-path.el.git
 
 Updating /home/kimr/repos/my/melpa/working/shrink-path/
-Built shrink-path in 1.482s, finished at 2021-07-10T17:22:59+0000
+Built shrink-path in 0.599s, finished at 2021-07-20T21:36:08+0000
  ✓ Success:
-8.0K -rw-rw-r-- 1 kimr kimr 5.8K Jul 10 10:22 packages/shrink-path-20190208.1335.el
-4.0K -rw-rw-r-- 1 kimr kimr  375 Jul 10 10:22 packages/shrink-path-20190208.1335.entry
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 10 10:22 packages/shrink-path-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr  235 Jul 10 10:22 packages/shrink-path-readme.txt
+8.0K -rw-rw-r-- 1 kimr kimr 5.8K Jul 20 14:36 packages/shrink-path-20190208.1335.el
+4.0K -rw-rw-r-- 1 kimr kimr  375 Jul 20 14:36 packages/shrink-path-20190208.1335.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 20 14:36 packages/shrink-path-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr  235 Jul 20 14:36 packages/shrink-path-readme.txt

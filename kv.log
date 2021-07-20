@@ -4,9 +4,9 @@ Source:  https://github.com/nicferrier/emacs-kv.git
 
 Updating /home/kimr/repos/my/melpa/working/kv/
 Note: kv :files spec is equivalent to the default.
-Built kv in 0.638s, finished at 2021-07-10T17:21:30+0000
+Built kv in 0.525s, finished at 2021-07-20T21:34:14+0000
  ✓ Success:
- 16K -rw-rw-r-- 1 kimr kimr  14K Jul 10 10:21 packages/kv-20140108.1534.el
-4.0K -rw-rw-r-- 1 kimr kimr  297 Jul 10 10:21 packages/kv-20140108.1534.entry
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 10 10:21 packages/kv-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr  166 Jul 10 10:21 packages/kv-readme.txt
+ 16K -rw-rw-r-- 1 kimr kimr  14K Jul 20 14:34 packages/kv-20140108.1534.el
+4.0K -rw-rw-r-- 1 kimr kimr  297 Jul 20 14:34 packages/kv-20140108.1534.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 20 14:34 packages/kv-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr  166 Jul 20 14:34 packages/kv-readme.txt

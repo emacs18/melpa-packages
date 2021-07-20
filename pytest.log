@@ -3,9 +3,9 @@ Fetcher: github
 Source:  https://github.com/ionrock/pytest-el.git
 
 Updating /home/kimr/repos/my/melpa/working/pytest/
-Built pytest in 0.640s, finished at 2021-07-10T17:22:44+0000
+Built pytest in 0.641s, finished at 2021-07-20T21:35:54+0000
  ✓ Success:
- 12K -rw-rw-r-- 1 kimr kimr  12K Jul 10 10:22 packages/pytest-20200330.41.el
-4.0K -rw-rw-r-- 1 kimr kimr  246 Jul 10 10:22 packages/pytest-20200330.41.entry
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 10 10:22 packages/pytest-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr 1.6K Jul 10 10:22 packages/pytest-readme.txt
+ 12K -rw-rw-r-- 1 kimr kimr  12K Jul 20 14:35 packages/pytest-20200330.41.el
+4.0K -rw-rw-r-- 1 kimr kimr  246 Jul 20 14:35 packages/pytest-20200330.41.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 20 14:35 packages/pytest-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr 1.6K Jul 20 14:35 packages/pytest-readme.txt

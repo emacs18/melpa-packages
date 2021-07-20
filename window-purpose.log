@@ -5,7 +5,7 @@ Source:  https://github.com/bmag/emacs-purpose.git
 Updating /home/kimr/repos/my/melpa/working/window-purpose/
 Copying files (->) and directories (=>)
   from /home/kimr/repos/my/melpa/working/window-purpose/
-  to /tmp/window-purposeZkRPav/window-purpose-20210628.715
+  to /tmp/window-purposewSot6G/window-purpose-20210628.715
     window-purpose-configuration.el -> window-purpose-configuration.el
     window-purpose-core.el -> window-purpose-core.el
     window-purpose-fixes.el -> window-purpose-fixes.el
@@ -31,9 +31,9 @@ Created window-purpose-20210628.715.tar containing:
   window-purpose-20210628.715/window-purpose-utils.el
   window-purpose-20210628.715/window-purpose-x.el
   window-purpose-20210628.715/window-purpose.el
-Built window-purpose in 0.171s, finished at 2021-07-10T17:23:35+0000
+Built window-purpose in 0.666s, finished at 2021-07-20T21:36:47+0000
  ✓ Success:
-4.0K -rw-rw-r-- 1 kimr kimr  376 Jul 10 10:23 packages/window-purpose-20210628.715.entry
-200K -rw-rw-r-- 1 kimr kimr 200K Jul 10 10:23 packages/window-purpose-20210628.715.tar
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 10 10:23 packages/window-purpose-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr 1.4K Jul 10 10:23 packages/window-purpose-readme.txt
+4.0K -rw-rw-r-- 1 kimr kimr  376 Jul 20 14:36 packages/window-purpose-20210628.715.entry
+200K -rw-rw-r-- 1 kimr kimr 200K Jul 20 14:36 packages/window-purpose-20210628.715.tar
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 20 14:36 packages/window-purpose-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr 1.4K Jul 20 14:36 packages/window-purpose-readme.txt

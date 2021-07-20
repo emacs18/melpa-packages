@@ -3,9 +3,9 @@ Fetcher: github
 Source:  https://github.com/kaz-yos/reveal-in-osx-finder.git
 
 Updating /home/kimr/repos/my/melpa/working/reveal-in-osx-finder/
-Built reveal-in-osx-finder in 0.638s, finished at 2021-07-10T17:22:51+0000
+Built reveal-in-osx-finder in 0.660s, finished at 2021-07-20T21:36:02+0000
  ✓ Success:
-8.0K -rw-rw-r-- 1 kimr kimr 4.4K Jul 10 10:22 packages/reveal-in-osx-finder-20150802.1657.el
-4.0K -rw-rw-r-- 1 kimr kimr  353 Jul 10 10:22 packages/reveal-in-osx-finder-20150802.1657.entry
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 10 10:22 packages/reveal-in-osx-finder-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr 1018 Jul 10 10:22 packages/reveal-in-osx-finder-readme.txt
+8.0K -rw-rw-r-- 1 kimr kimr 4.4K Jul 20 14:36 packages/reveal-in-osx-finder-20150802.1657.el
+4.0K -rw-rw-r-- 1 kimr kimr  353 Jul 20 14:36 packages/reveal-in-osx-finder-20150802.1657.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 20 14:36 packages/reveal-in-osx-finder-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr 1018 Jul 20 14:36 packages/reveal-in-osx-finder-readme.txt

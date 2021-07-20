@@ -4,9 +4,9 @@ Source:  https://github.com/auto-complete/popup-el.git
 
 Updating /home/kimr/repos/my/melpa/working/popup/
 Note: popup :files spec is equivalent to the default.
-Built popup in 0.203s, finished at 2021-07-10T17:22:37+0000
+Built popup in 0.656s, finished at 2021-07-20T21:35:44+0000
  ✓ Success:
- 56K -rw-rw-r-- 1 kimr kimr  55K Jul 10 10:22 packages/popup-20210625.400.el
-4.0K -rw-rw-r-- 1 kimr kimr  347 Jul 10 10:22 packages/popup-20210625.400.entry
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 10 10:22 packages/popup-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr  192 Jul 10 10:22 packages/popup-readme.txt
+ 56K -rw-rw-r-- 1 kimr kimr  55K Jul 20 14:35 packages/popup-20210625.400.el
+4.0K -rw-rw-r-- 1 kimr kimr  347 Jul 20 14:35 packages/popup-20210625.400.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 20 14:35 packages/popup-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr  192 Jul 20 14:35 packages/popup-readme.txt

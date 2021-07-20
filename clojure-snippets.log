@@ -5,7 +5,7 @@ Source:  https://github.com/mpenet/clojure-snippets.git
 Updating /home/kimr/repos/my/melpa/working/clojure-snippets/
 Copying files (->) and directories (=>)
   from /home/kimr/repos/my/melpa/working/clojure-snippets/
-  to /tmp/clojure-snippetsQzfhh9/clojure-snippets-20180314.1308
+  to /tmp/clojure-snippetsnD5xMR/clojure-snippets-20180314.1308
     clojure-snippets-pkg.el -> clojure-snippets-pkg.el
     clojure-snippets.el -> clojure-snippets.el
     snippets => snippets
@@ -54,8 +54,8 @@ Created clojure-snippets-20180314.1308.tar containing:
   clojure-snippets-20180314.1308/snippets/clojure-mode/use
   clojure-snippets-20180314.1308/snippets/clojure-mode/when
   clojure-snippets-20180314.1308/snippets/clojure-mode/whenl
-Built clojure-snippets in 0.873s, finished at 2021-07-10T17:18:54+0000
+Built clojure-snippets in 0.524s, finished at 2021-07-20T21:31:03+0000
  ✓ Success:
-4.0K -rw-rw-r-- 1 kimr kimr  303 Jul 10 10:18 packages/clojure-snippets-20180314.1308.entry
- 52K -rw-rw-r-- 1 kimr kimr  50K Jul 10 10:18 packages/clojure-snippets-20180314.1308.tar
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 10 10:18 packages/clojure-snippets-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr  303 Jul 20 14:31 packages/clojure-snippets-20180314.1308.entry
+ 52K -rw-rw-r-- 1 kimr kimr  50K Jul 20 14:31 packages/clojure-snippets-20180314.1308.tar
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 20 14:31 packages/clojure-snippets-badge.svg

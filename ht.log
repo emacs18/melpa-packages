@@ -4,9 +4,9 @@ Source:  https://github.com/Wilfred/ht.el.git
 
 Updating /home/kimr/repos/my/melpa/working/ht/
 Note: ht :files spec is equivalent to the default.
-Built ht in 0.661s, finished at 2021-07-10T17:21:11+0000
+Built ht in 0.539s, finished at 2021-07-20T21:33:51+0000
  ✓ Success:
- 12K -rw-rw-r-- 1 kimr kimr  11K Jul 10 10:21 packages/ht-20210119.741.el
-4.0K -rw-rw-r-- 1 kimr kimr  346 Jul 10 10:21 packages/ht-20210119.741.entry
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 10 10:21 packages/ht-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr   97 Jul 10 10:21 packages/ht-readme.txt
+ 12K -rw-rw-r-- 1 kimr kimr  11K Jul 20 14:33 packages/ht-20210119.741.el
+4.0K -rw-rw-r-- 1 kimr kimr  346 Jul 20 14:33 packages/ht-20210119.741.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 20 14:33 packages/ht-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr   97 Jul 20 14:33 packages/ht-readme.txt

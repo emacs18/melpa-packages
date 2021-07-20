@@ -5,14 +5,14 @@ Source:  https://github.com/editorconfig/editorconfig-emacs.git
 Updating /home/kimr/repos/my/melpa/working/editorconfig/
 Copying files (->) and directories (=>)
   from /home/kimr/repos/my/melpa/working/editorconfig/
-  to /tmp/editorconfigNuOW7s/editorconfig-20210407.407
+  to /tmp/editorconfigfeXRBr/editorconfig-20210407.407
     editorconfig-conf-mode.el -> editorconfig-conf-mode.el
     editorconfig-core-handle.el -> editorconfig-core-handle.el
     editorconfig-core.el -> editorconfig-core.el
     editorconfig-fnmatch.el -> editorconfig-fnmatch.el
     editorconfig.el -> editorconfig.el
   ! doc/editorconfig.texi -> editorconfig.texi
-Created /tmp/editorconfigNuOW7s/editorconfig-20210407.407/editorconfig.info
+Created /tmp/editorconfigfeXRBr/editorconfig-20210407.407/editorconfig.info
 Created editorconfig-20210407.407.tar containing:
   editorconfig-20210407.407/
   editorconfig-20210407.407/dir
@@ -23,9 +23,9 @@ Created editorconfig-20210407.407.tar containing:
   editorconfig-20210407.407/editorconfig-pkg.el
   editorconfig-20210407.407/editorconfig.el
   editorconfig-20210407.407/editorconfig.info
-Built editorconfig in 0.900s, finished at 2021-07-10T17:19:29+0000
+Built editorconfig in 0.866s, finished at 2021-07-20T21:31:46+0000
  ✓ Success:
-4.0K -rw-rw-r-- 1 kimr kimr  426 Jul 10 10:19 packages/editorconfig-20210407.407.entry
- 92K -rw-rw-r-- 1 kimr kimr  90K Jul 10 10:19 packages/editorconfig-20210407.407.tar
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 10 10:19 packages/editorconfig-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr  394 Jul 10 10:19 packages/editorconfig-readme.txt
+4.0K -rw-rw-r-- 1 kimr kimr  426 Jul 20 14:31 packages/editorconfig-20210407.407.entry
+ 92K -rw-rw-r-- 1 kimr kimr  90K Jul 20 14:31 packages/editorconfig-20210407.407.tar
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 20 14:31 packages/editorconfig-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr  394 Jul 20 14:31 packages/editorconfig-readme.txt

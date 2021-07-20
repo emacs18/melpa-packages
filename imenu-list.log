@@ -3,9 +3,9 @@ Fetcher: github
 Source:  https://github.com/bmag/imenu-list.git
 
 Updating /home/kimr/repos/my/melpa/working/imenu-list/
-Built imenu-list in 0.719s, finished at 2021-07-10T17:21:15+0000
+Built imenu-list in 0.667s, finished at 2021-07-20T21:33:55+0000
  ✓ Success:
- 32K -rw-rw-r-- 1 kimr kimr  29K Jul 10 10:21 packages/imenu-list-20210420.1200.el
-4.0K -rw-rw-r-- 1 kimr kimr  327 Jul 10 10:21 packages/imenu-list-20210420.1200.entry
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 10 10:21 packages/imenu-list-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr  491 Jul 10 10:21 packages/imenu-list-readme.txt
+ 32K -rw-rw-r-- 1 kimr kimr  29K Jul 20 14:33 packages/imenu-list-20210420.1200.el
+4.0K -rw-rw-r-- 1 kimr kimr  327 Jul 20 14:33 packages/imenu-list-20210420.1200.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 20 14:33 packages/imenu-list-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr  491 Jul 20 14:33 packages/imenu-list-readme.txt

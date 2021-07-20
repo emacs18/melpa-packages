@@ -3,9 +3,9 @@ Fetcher: github
 Source:  https://github.com/Fanael/rainbow-delimiters.git
 
 Updating /home/kimr/repos/my/melpa/working/rainbow-delimiters/
-Built rainbow-delimiters in 0.703s, finished at 2021-07-10T17:22:48+0000
+Built rainbow-delimiters in 0.672s, finished at 2021-07-20T21:35:59+0000
  ✓ Success:
- 16K -rw-rw-r-- 1 kimr kimr  14K Jul 10 10:22 packages/rainbow-delimiters-20210515.1254.el
-4.0K -rw-rw-r-- 1 kimr kimr  489 Jul 10 10:22 packages/rainbow-delimiters-20210515.1254.entry
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 10 10:22 packages/rainbow-delimiters-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr 1.4K Jul 10 10:22 packages/rainbow-delimiters-readme.txt
+ 16K -rw-rw-r-- 1 kimr kimr  14K Jul 20 14:35 packages/rainbow-delimiters-20210515.1254.el
+4.0K -rw-rw-r-- 1 kimr kimr  489 Jul 20 14:35 packages/rainbow-delimiters-20210515.1254.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 20 14:35 packages/rainbow-delimiters-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr 1.4K Jul 20 14:35 packages/rainbow-delimiters-readme.txt

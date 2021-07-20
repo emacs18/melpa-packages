@@ -3,9 +3,9 @@ Fetcher: github
 Source:  https://github.com/stig/ox-jira.el.git
 
 Updating /home/kimr/repos/my/melpa/working/ox-jira/
-Built ox-jira in 0.597s, finished at 2021-07-10T17:22:18+0000
+Built ox-jira in 0.638s, finished at 2021-07-20T21:35:19+0000
  ✓ Success:
- 20K -rw-rw-r-- 1 kimr kimr  20K Jul 10 10:22 packages/ox-jira-20201202.1658.el
-4.0K -rw-rw-r-- 1 kimr kimr  376 Jul 10 10:22 packages/ox-jira-20201202.1658.entry
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 10 10:22 packages/ox-jira-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr  381 Jul 10 10:22 packages/ox-jira-readme.txt
+ 20K -rw-rw-r-- 1 kimr kimr  20K Jul 20 14:35 packages/ox-jira-20201202.1658.el
+4.0K -rw-rw-r-- 1 kimr kimr  376 Jul 20 14:35 packages/ox-jira-20201202.1658.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 20 14:35 packages/ox-jira-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr  381 Jul 20 14:35 packages/ox-jira-readme.txt

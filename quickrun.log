@@ -3,9 +3,9 @@ Fetcher: github
 Source:  https://github.com/emacsorphanage/quickrun.git
 
 Updating /home/kimr/repos/my/melpa/working/quickrun/
-Built quickrun in 0.300s, finished at 2021-07-10T17:22:47+0000
+Built quickrun in 0.670s, finished at 2021-07-20T21:35:58+0000
  ✓ Success:
- 60K -rw-rw-r-- 1 kimr kimr  60K Jul 10 10:22 packages/quickrun-20210330.654.el
-4.0K -rw-rw-r-- 1 kimr kimr  331 Jul 10 10:22 packages/quickrun-20210330.654.entry
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 10 10:22 packages/quickrun-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr  389 Jul 10 10:22 packages/quickrun-readme.txt
+ 60K -rw-rw-r-- 1 kimr kimr  60K Jul 20 14:35 packages/quickrun-20210330.654.el
+4.0K -rw-rw-r-- 1 kimr kimr  331 Jul 20 14:35 packages/quickrun-20210330.654.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 20 14:35 packages/quickrun-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr  389 Jul 20 14:35 packages/quickrun-readme.txt

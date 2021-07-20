@@ -5,7 +5,7 @@ Source:  https://github.com/luxbock/evil-cleverparens.git
 Updating /home/kimr/repos/my/melpa/working/evil-cleverparens/
 Copying files (->) and directories (=>)
   from /home/kimr/repos/my/melpa/working/evil-cleverparens/
-  to /tmp/evil-cleverparensNadqOk/evil-cleverparens-20170718.413
+  to /tmp/evil-cleverparensfSI5zJ/evil-cleverparens-20170718.413
     evil-cleverparens-text-objects.el -> evil-cleverparens-text-objects.el
     evil-cleverparens-util.el -> evil-cleverparens-util.el
     evil-cleverparens.el -> evil-cleverparens.el
@@ -15,9 +15,9 @@ Created evil-cleverparens-20170718.413.tar containing:
   evil-cleverparens-20170718.413/evil-cleverparens-text-objects.el
   evil-cleverparens-20170718.413/evil-cleverparens-util.el
   evil-cleverparens-20170718.413/evil-cleverparens.el
-Built evil-cleverparens in 0.656s, finished at 2021-07-10T17:19:47+0000
+Built evil-cleverparens in 0.678s, finished at 2021-07-20T21:32:08+0000
  ✓ Success:
-4.0K -rw-rw-r-- 1 kimr kimr  587 Jul 10 10:19 packages/evil-cleverparens-20170718.413.entry
-112K -rw-rw-r-- 1 kimr kimr 110K Jul 10 10:19 packages/evil-cleverparens-20170718.413.tar
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 10 10:19 packages/evil-cleverparens-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr  256 Jul 10 10:19 packages/evil-cleverparens-readme.txt
+4.0K -rw-rw-r-- 1 kimr kimr  587 Jul 20 14:32 packages/evil-cleverparens-20170718.413.entry
+112K -rw-rw-r-- 1 kimr kimr 110K Jul 20 14:32 packages/evil-cleverparens-20170718.413.tar
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 20 14:32 packages/evil-cleverparens-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr  256 Jul 20 14:32 packages/evil-cleverparens-readme.txt

@@ -3,9 +3,9 @@ Fetcher: github
 Source:  https://github.com/Sodel-the-Vociferous/helm-company.git
 
 Updating /home/kimr/repos/my/melpa/working/helm-company/
-Built helm-company in 0.658s, finished at 2021-07-10T17:20:48+0000
+Built helm-company in 0.665s, finished at 2021-07-20T21:33:24+0000
  ✓ Success:
- 16K -rw-rw-r-- 1 kimr kimr  13K Jul 10 10:20 packages/helm-company-20190812.1429.el
-4.0K -rw-rw-r-- 1 kimr kimr  411 Jul 10 10:20 packages/helm-company-20190812.1429.entry
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 10 10:20 packages/helm-company-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr  285 Jul 10 10:20 packages/helm-company-readme.txt
+ 16K -rw-rw-r-- 1 kimr kimr  13K Jul 20 14:33 packages/helm-company-20190812.1429.el
+4.0K -rw-rw-r-- 1 kimr kimr  411 Jul 20 14:33 packages/helm-company-20190812.1429.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 20 14:33 packages/helm-company-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr  285 Jul 20 14:33 packages/helm-company-readme.txt

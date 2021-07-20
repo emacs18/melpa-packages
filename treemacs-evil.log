@@ -3,9 +3,9 @@ Fetcher: github
 Source:  https://github.com/Alexander-Miller/treemacs.git
 
 Updating /home/kimr/repos/my/melpa/working/treemacs-evil/
-Built treemacs-evil in 0.210s, finished at 2021-07-10T17:23:20+0000
+Built treemacs-evil in 0.642s, finished at 2021-07-20T21:36:28+0000
  ✓ Success:
-8.0K -rw-rw-r-- 1 kimr kimr 5.1K Jul 10 10:23 packages/treemacs-evil-20210419.1753.el
-4.0K -rw-rw-r-- 1 kimr kimr  397 Jul 10 10:23 packages/treemacs-evil-20210419.1753.entry
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 10 10:23 packages/treemacs-evil-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr   27 Jul 10 10:23 packages/treemacs-evil-readme.txt
+8.0K -rw-rw-r-- 1 kimr kimr 5.1K Jul 20 14:36 packages/treemacs-evil-20210419.1753.el
+4.0K -rw-rw-r-- 1 kimr kimr  397 Jul 20 14:36 packages/treemacs-evil-20210419.1753.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 20 14:36 packages/treemacs-evil-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr   27 Jul 20 14:36 packages/treemacs-evil-readme.txt

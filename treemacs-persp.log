@@ -3,9 +3,9 @@ Fetcher: github
 Source:  https://github.com/Alexander-Miller/treemacs.git
 
 Updating /home/kimr/repos/my/melpa/working/treemacs-persp/
-Built treemacs-persp in 0.222s, finished at 2021-07-10T17:23:22+0000
+Built treemacs-persp in 0.877s, finished at 2021-07-20T21:36:31+0000
  ✓ Success:
-8.0K -rw-rw-r-- 1 kimr kimr 5.5K Jul 10 10:23 packages/treemacs-persp-20210114.2135.el
-4.0K -rw-rw-r-- 1 kimr kimr  435 Jul 10 10:23 packages/treemacs-persp-20210114.2135.entry
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 10 10:23 packages/treemacs-persp-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr   69 Jul 10 10:23 packages/treemacs-persp-readme.txt
+8.0K -rw-rw-r-- 1 kimr kimr 5.5K Jul 20 14:36 packages/treemacs-persp-20210114.2135.el
+4.0K -rw-rw-r-- 1 kimr kimr  435 Jul 20 14:36 packages/treemacs-persp-20210114.2135.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 20 14:36 packages/treemacs-persp-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr   69 Jul 20 14:36 packages/treemacs-persp-readme.txt

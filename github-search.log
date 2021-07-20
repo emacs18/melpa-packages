@@ -3,9 +3,9 @@ Fetcher: github
 Source:  https://github.com/IvanMalison/github-search.git
 
 Updating /home/kimr/repos/my/melpa/working/github-search/
-Built github-search in 0.588s, finished at 2021-07-10T17:20:31+0000
+Built github-search in 0.664s, finished at 2021-07-20T21:33:04+0000
  ✓ Success:
-8.0K -rwxrwxr-x 1 kimr kimr 5.6K Jul 10 10:20 packages/github-search-20190624.436.el
-4.0K -rw-rw-r-- 1 kimr kimr  447 Jul 10 10:20 packages/github-search-20190624.436.entry
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 10 10:20 packages/github-search-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr  118 Jul 10 10:20 packages/github-search-readme.txt
+8.0K -rwxrwxr-x 1 kimr kimr 5.6K Jul 20 14:33 packages/github-search-20190624.436.el
+4.0K -rw-rw-r-- 1 kimr kimr  447 Jul 20 14:33 packages/github-search-20190624.436.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 20 14:33 packages/github-search-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr  118 Jul 20 14:33 packages/github-search-readme.txt

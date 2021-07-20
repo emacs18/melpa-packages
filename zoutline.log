@@ -3,8 +3,8 @@ Fetcher: github
 Source:  https://github.com/abo-abo/zoutline.git
 
 Updating /home/kimr/repos/my/melpa/working/zoutline/
-Built zoutline in 1.253s, finished at 2021-07-10T17:23:49+0000
+Built zoutline in 0.647s, finished at 2021-07-20T21:37:02+0000
  ✓ Success:
-8.0K -rw-rw-r-- 1 kimr kimr 4.9K Jul 10 10:23 packages/zoutline-20190520.1819.el
-4.0K -rw-rw-r-- 1 kimr kimr  334 Jul 10 10:23 packages/zoutline-20190520.1819.entry
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 10 10:23 packages/zoutline-badge.svg
+8.0K -rw-rw-r-- 1 kimr kimr 4.9K Jul 20 14:37 packages/zoutline-20190520.1819.el
+4.0K -rw-rw-r-- 1 kimr kimr  334 Jul 20 14:37 packages/zoutline-20190520.1819.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 20 14:37 packages/zoutline-badge.svg

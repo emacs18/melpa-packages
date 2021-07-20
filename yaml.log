@@ -2,15 +2,15 @@ Package: yaml
 Fetcher: github
 Source:  https://github.com/zkry/yaml.el.git
 
-Cloning https://github.com/zkry/yaml.el.git to /home/kimr/repos/my/melpa/working/yaml/
-Built yaml in 1.417s, finished at 2021-07-10T17:29:28+0000
+Updating /home/kimr/repos/my/melpa/working/yaml/
+Built yaml in 0.676s, finished at 2021-07-20T21:36:54+0000
  ✓ Success:
-104K -rw-rw-r-- 1 kimr kimr 103K Jul 10 10:29 packages/yaml-20210625.528.el
-4.0K -rw-rw-r-- 1 kimr kimr  330 Jul 10 10:29 packages/yaml-20210625.528.entry
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 10 10:29 packages/yaml-badge.svg
+104K -rw-rw-r-- 1 kimr kimr 103K Jul 20 14:36 packages/yaml-20210625.528.el
+4.0K -rw-rw-r-- 1 kimr kimr  330 Jul 20 14:36 packages/yaml-20210625.528.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 20 14:36 packages/yaml-badge.svg
  20K -rw-rw-r-- 1 kimr kimr  18K Jul 10 10:23 packages/yaml-mode-20210508.1641.el
 4.0K -rw-rw-r-- 1 kimr kimr  448 Jul 10 10:23 packages/yaml-mode-20210508.1641.entry
 4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 10 10:23 packages/yaml-mode-badge.svg
 4.0K -rw-rw-r-- 1 kimr kimr  536 Jul 10 10:23 packages/yaml-mode.log
 4.0K -rw-rw-r-- 1 kimr kimr  942 Jul 10 10:23 packages/yaml-mode-readme.txt
-4.0K -rw-rw-r-- 1 kimr kimr  512 Jul 10 10:29 packages/yaml-readme.txt
+4.0K -rw-rw-r-- 1 kimr kimr  512 Jul 20 14:36 packages/yaml-readme.txt

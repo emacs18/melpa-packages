@@ -5,19 +5,19 @@ Source:  https://github.com/magit/with-editor.git
 Updating /home/kimr/repos/my/melpa/working/with-editor/
 Copying files (->) and directories (=>)
   from /home/kimr/repos/my/melpa/working/with-editor/
-  to /tmp/with-editoriGkjKN/with-editor-20210524.1654
+  to /tmp/with-editoraYm0Ri/with-editor-20210524.1654
     with-editor.el -> with-editor.el
     with-editor.texi -> with-editor.texi
-Created /tmp/with-editoriGkjKN/with-editor-20210524.1654/with-editor.info
+Created /tmp/with-editoraYm0Ri/with-editor-20210524.1654/with-editor.info
 Created with-editor-20210524.1654.tar containing:
   with-editor-20210524.1654/
   with-editor-20210524.1654/dir
   with-editor-20210524.1654/with-editor-pkg.el
   with-editor-20210524.1654/with-editor.el
   with-editor-20210524.1654/with-editor.info
-Built with-editor in 0.313s, finished at 2021-07-10T17:23:36+0000
+Built with-editor in 0.675s, finished at 2021-07-20T21:36:48+0000
  ✓ Success:
-4.0K -rw-rw-r-- 1 kimr kimr  381 Jul 10 10:23 packages/with-editor-20210524.1654.entry
- 72K -rw-rw-r-- 1 kimr kimr  70K Jul 10 10:23 packages/with-editor-20210524.1654.tar
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 10 10:23 packages/with-editor-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr 2.3K Jul 10 10:23 packages/with-editor-readme.txt
+4.0K -rw-rw-r-- 1 kimr kimr  381 Jul 20 14:36 packages/with-editor-20210524.1654.entry
+ 72K -rw-rw-r-- 1 kimr kimr  70K Jul 20 14:36 packages/with-editor-20210524.1654.tar
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 20 14:36 packages/with-editor-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr 2.3K Jul 20 14:36 packages/with-editor-readme.txt

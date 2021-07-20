@@ -3,19 +3,19 @@ Fetcher: github
 Source:  https://github.com/emacsorphanage/git-gutter.git
 
 Updating /home/kimr/repos/my/melpa/working/git-gutter/
-Built git-gutter in 0.198s, finished at 2021-07-10T17:20:28+0000
+Built git-gutter in 0.746s, finished at 2021-07-20T21:33:00+0000
  ✓ Success:
- 44K -rw-rw-r-- 1 kimr kimr  44K Jul 10 10:20 packages/git-gutter-20210703.1007.el
-4.0K -rw-rw-r-- 1 kimr kimr  383 Jul 10 10:20 packages/git-gutter-20210703.1007.entry
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 10 10:20 packages/git-gutter-badge.svg
-8.0K -rw-rw-r-- 1 kimr kimr 5.7K May 17 20:45 packages/git-gutter-fringe+-20140729.1103.el
-4.0K -rw-rw-r-- 1 kimr kimr  440 May 17 20:45 packages/git-gutter-fringe+-20140729.1103.entry
-8.0K -rw-rw-r-- 1 kimr kimr 5.7K Jul 10 10:14 packages/git-gutter-fringe-20200323.2249.el
-4.0K -rw-rw-r-- 1 kimr kimr  493 Jul 10 10:14 packages/git-gutter-fringe-20200323.2249.entry
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K May 17 20:45 packages/git-gutter-fringe+-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 10 10:14 packages/git-gutter-fringe-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr  683 May 17 20:45 packages/git-gutter-fringe+.log
-4.0K -rw-rw-r-- 1 kimr kimr  607 Jul 10 10:14 packages/git-gutter-fringe.log
-   0 -rw-rw-r-- 1 kimr kimr    0 May 17 20:45 packages/git-gutter-fringe+-readme.txt
-4.0K -rw-rw-r-- 1 kimr kimr  333 Jul 10 10:14 packages/git-gutter-fringe-readme.txt
-4.0K -rw-rw-r-- 1 kimr kimr   53 Jul 10 10:20 packages/git-gutter-readme.txt
+ 44K -rw-rw-r-- 1 kimr kimr  44K Jul 20 14:32 packages/git-gutter-20210703.1007.el
+4.0K -rw-rw-r-- 1 kimr kimr  383 Jul 20 14:32 packages/git-gutter-20210703.1007.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 20 14:33 packages/git-gutter-badge.svg
+8.0K -rw-rw-r-- 1 kimr kimr 5.7K Jul 10 10:20 packages/git-gutter-fringe+-20140729.1103.el
+4.0K -rw-rw-r-- 1 kimr kimr  440 Jul 10 10:20 packages/git-gutter-fringe+-20140729.1103.entry
+8.0K -rw-rw-r-- 1 kimr kimr 5.7K Jul 10 10:20 packages/git-gutter-fringe-20200323.2249.el
+4.0K -rw-rw-r-- 1 kimr kimr  493 Jul 10 10:20 packages/git-gutter-fringe-20200323.2249.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 10 10:20 packages/git-gutter-fringe+-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 10 10:20 packages/git-gutter-fringe-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr  683 Jul 10 10:20 packages/git-gutter-fringe+.log
+4.0K -rw-rw-r-- 1 kimr kimr  607 Jul 10 10:20 packages/git-gutter-fringe.log
+   0 -rw-rw-r-- 1 kimr kimr    0 Jul 10 10:20 packages/git-gutter-fringe+-readme.txt
+4.0K -rw-rw-r-- 1 kimr kimr  333 Jul 10 10:20 packages/git-gutter-fringe-readme.txt
+4.0K -rw-rw-r-- 1 kimr kimr   53 Jul 20 14:32 packages/git-gutter-readme.txt

@@ -4,9 +4,9 @@ Source:  https://github.com/emacscollective/packed.git
 
 Updating /home/kimr/repos/my/melpa/working/packed/
 Note: packed :files spec is equivalent to the default.
-Built packed in 0.751s, finished at 2021-07-10T17:22:22+0000
+Built packed in 0.877s, finished at 2021-07-20T21:35:26+0000
  ✓ Success:
- 24K -rw-rw-r-- 1 kimr kimr  21K Jul 10 10:22 packages/packed-20210503.2046.el
-4.0K -rw-rw-r-- 1 kimr kimr  414 Jul 10 10:22 packages/packed-20210503.2046.entry
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 10 10:22 packages/packed-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr  548 Jul 10 10:22 packages/packed-readme.txt
+ 24K -rw-rw-r-- 1 kimr kimr  21K Jul 20 14:35 packages/packed-20210503.2046.el
+4.0K -rw-rw-r-- 1 kimr kimr  414 Jul 20 14:35 packages/packed-20210503.2046.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 20 14:35 packages/packed-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr  548 Jul 20 14:35 packages/packed-readme.txt

@@ -5,7 +5,7 @@ Source:  https://github.com/akermu/emacs-libvterm.git
 Updating /home/kimr/repos/my/melpa/working/vterm/
 Copying files (->) and directories (=>)
   from /home/kimr/repos/my/melpa/working/vterm/
-  to /tmp/vtermvYCMun/vterm-20210618.1922
+  to /tmp/vtermgTC06V/vterm-20210618.1922
     .git => .git
     .gitmodules -> .gitmodules
     CMakeLists.txt -> CMakeLists.txt
@@ -39,9 +39,9 @@ Created vterm-20210618.1922.tar containing:
   vterm-20210618.1922/vterm-module.h
   vterm-20210618.1922/vterm-pkg.el
   vterm-20210618.1922/vterm.el
-Built vterm in 0.485s, finished at 2021-07-10T17:23:29+0000
+Built vterm in 0.912s, finished at 2021-07-20T21:36:40+0000
  ✓ Success:
-4.0K -rw-rw-r-- 1 kimr kimr  352 Jul 10 10:23 packages/vterm-20210618.1922.entry
-232K -rw-rw-r-- 1 kimr kimr 230K Jul 10 10:23 packages/vterm-20210618.1922.tar
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 10 10:23 packages/vterm-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr  977 Jul 10 10:23 packages/vterm-readme.txt
+4.0K -rw-rw-r-- 1 kimr kimr  352 Jul 20 14:36 packages/vterm-20210618.1922.entry
+232K -rw-rw-r-- 1 kimr kimr 230K Jul 20 14:36 packages/vterm-20210618.1922.tar
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 20 14:36 packages/vterm-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr  977 Jul 20 14:36 packages/vterm-readme.txt
