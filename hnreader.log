@@ -1,0 +1,11 @@
+Package: hnreader
+Fetcher: github
+Source:  https://github.com/thanhvg/emacs-hnreader.git
+
+Cloning https://github.com/thanhvg/emacs-hnreader.git to /home/kimr/repos/my/melpa/working/hnreader/
+Built hnreader in 2.886s, finished at 2021-07-24T21:47:39+0000
+ ✓ Success:
+ 16K -rw-rw-r-- 1 kimr kimr  15K Jul 24 14:47 packages/hnreader-20210518.428.el
+4.0K -rw-rw-r-- 1 kimr kimr  407 Jul 24 14:47 packages/hnreader-20210518.428.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 24 14:47 packages/hnreader-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr  831 Jul 24 14:47 packages/hnreader-readme.txt

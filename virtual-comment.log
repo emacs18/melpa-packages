@@ -1,0 +1,11 @@
+Package: virtual-comment
+Fetcher: github
+Source:  https://github.com/thanhvg/emacs-virtual-comment.git
+
+Cloning https://github.com/thanhvg/emacs-virtual-comment.git to /home/kimr/repos/my/melpa/working/virtual-comment/
+Built virtual-comment in 3.906s, finished at 2021-07-24T21:48:14+0000
+ ✓ Success:
+ 32K -rw-rw-r-- 1 kimr kimr  32K Jul 24 14:48 packages/virtual-comment-20210210.255.el
+4.0K -rw-rw-r-- 1 kimr kimr  338 Jul 24 14:48 packages/virtual-comment-20210210.255.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 24 14:48 packages/virtual-comment-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr 1.6K Jul 24 14:48 packages/virtual-comment-readme.txt

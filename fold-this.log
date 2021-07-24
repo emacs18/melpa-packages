@@ -1,0 +1,12 @@
+Package: fold-this
+Fetcher: github
+Source:  https://github.com/magnars/fold-this.el.git
+
+Cloning https://github.com/magnars/fold-this.el.git to /home/kimr/repos/my/melpa/working/fold-this/
+Note: fold-this :files spec is equivalent to the default.
+Built fold-this in 1.709s, finished at 2021-07-24T21:47:19+0000
+ ✓ Success:
+ 16K -rw-rw-r-- 1 kimr kimr  14K Jul 24 14:47 packages/fold-this-20191107.1816.el
+4.0K -rw-rw-r-- 1 kimr kimr  354 Jul 24 14:47 packages/fold-this-20191107.1816.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 24 14:47 packages/fold-this-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr  341 Jul 24 14:47 packages/fold-this-readme.txt

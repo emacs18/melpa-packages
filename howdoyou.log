@@ -1,0 +1,11 @@
+Package: howdoyou
+Fetcher: github
+Source:  https://github.com/thanhvg/emacs-howdoyou.git
+
+Cloning https://github.com/thanhvg/emacs-howdoyou.git to /home/kimr/repos/my/melpa/working/howdoyou/
+Built howdoyou in 1.133s, finished at 2021-07-24T21:47:46+0000
+ ✓ Success:
+ 20K -rw-rw-r-- 1 kimr kimr  19K Jul 24 14:47 packages/howdoyou-20210707.1513.el
+4.0K -rw-rw-r-- 1 kimr kimr  428 Jul 24 14:47 packages/howdoyou-20210707.1513.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 24 14:47 packages/howdoyou-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr 1.9K Jul 24 14:47 packages/howdoyou-readme.txt

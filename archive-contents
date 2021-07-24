@@ -2022,6 +2022,15 @@
 			  ("Boris Buliga" . "boris@d12frosted.io"))
 			 (:maintainer "Boris Buliga" . "boris@d12frosted.io")
 			 (:url . "https://github.com/d12frosted/flyspell-correct"))])
+ (fold-this .
+	    [(20191107 1816)
+	     nil "Just fold this region please" single
+	     ((:commit . "c3912c738cf0515f65162479c55999e2992afce5")
+	      (:authors
+	       ("Magnar Sveen" . "magnars@gmail.com"))
+	      (:maintainer "Magnar Sveen" . "magnars@gmail.com")
+	      (:keywords "convenience")
+	      (:url . "https://github.com/magnars/fold-this.el"))])
  (font-lock+ .
 	     [(20180101 1939)
 	      nil "Enhancements to standard library `font-lock.el'." single
@@ -2954,6 +2963,38 @@
 	    (:maintainer "Jonas Bernoulli" . "jonas@bernoul.li")
 	    (:keywords "convenience")
 	    (:url . "https://github.com/tarsius/hl-todo"))])
+ (hnreader .
+	   [(20210518 428)
+	    ((emacs
+	      (25 1))
+	     (promise
+	      (1 1))
+	     (request
+	      (0 3 0))
+	     (org
+	      (9 2)))
+	    "A hackernews reader" single
+	    ((:commit . "0bda35e6b2063ddecca2fe2b0dd21f46a3391de3")
+	     (:authors
+	      ("Thanh Vuong" . "thanhvg@gmail.com"))
+	     (:maintainer "Thanh Vuong" . "thanhvg@gmail.com")
+	     (:url . "https://github.com/thanhvg/emacs-hnreader/"))])
+ (howdoyou .
+	   [(20210707 1513)
+	    ((emacs
+	      (25 1))
+	     (promise
+	      (1 1))
+	     (request
+	      (0 3 0))
+	     (org
+	      (9 2)))
+	    "A stackoverflow and its sisters' sites reader" single
+	    ((:commit . "4943a4ef8d242952ade64903a05c13094de2fbf0")
+	     (:authors
+	      ("Thanh Vuong" . "thanhvg@gmail.com"))
+	     (:maintainer "Thanh Vuong" . "thanhvg@gmail.com")
+	     (:url . "https://github.com/thanhvg/howdoyou/"))])
  (ht .
      [(20210119 741)
       ((dash
@@ -4687,6 +4728,24 @@
 		       (:maintainer "Fanael Linithien" . "fanael4@gmail.com")
 		       (:keywords "faces" "convenience" "lisp" "tools")
 		       (:url . "https://github.com/Fanael/rainbow-delimiters"))])
+ (reddigg .
+	  [(20210603 2305)
+	   ((emacs
+	     (26 3))
+	    (promise
+	     (1 1))
+	    (ht
+	     (2 3))
+	    (request
+	     (0 3 0))
+	    (org
+	     (9 2)))
+	   "A reader for redditt" single
+	   ((:commit . "1a6eaf3d1a5e44205399526c0f425281b8d9ccc3")
+	    (:authors
+	     ("Thanh Vuong" . "thanhvg@gmail.com"))
+	    (:maintainer "Thanh Vuong" . "thanhvg@gmail.com")
+	    (:url . "https://github.com/thanhvg/emacs-reddigg"))])
  (request .
 	  [(20210410 2218)
 	   ((emacs
@@ -5239,6 +5298,16 @@
 		    (:maintainer "Sylvain Benner" . "sylvain.benner@gmail.com")
 		    (:keywords "emulation")
 		    (:url . "https://github.com/syl20bnr/vi-tilde-fringe"))])
+ (virtual-comment .
+		  [(20210210 255)
+		   ((emacs
+		     (26 1)))
+		   "Virtual Comments" single
+		   ((:commit . "dadf36158c7ff89291bea4695999860cca2d094e")
+		    (:authors
+		     ("Thanh Vuong" . "thanhvg@gmail.com"))
+		    (:maintainer "Thanh Vuong" . "thanhvg@gmail.com")
+		    (:url . "https://github.com/thanhvg/emacs-virtual-comment"))])
  (visual-fill-column .
 		     [(20210419 857)
 		      ((emacs
