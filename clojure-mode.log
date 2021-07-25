@@ -3,9 +3,9 @@ Fetcher: github
 Source:  https://github.com/clojure-emacs/clojure-mode.git
 
 Updating /home/kimr/repos/my/melpa/working/clojure-mode/
-Built clojure-mode in 0.837s, finished at 2021-07-20T21:31:02+0000
+Built clojure-mode in 0.686s, finished at 2021-07-25T03:48:56+0000
  ✓ Success:
-112K -rw-rw-r-- 1 kimr kimr 112K Jul 20 14:31 packages/clojure-mode-20210706.1318.el
-4.0K -rw-rw-r-- 1 kimr kimr  355 Jul 20 14:31 packages/clojure-mode-20210706.1318.entry
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 20 14:31 packages/clojure-mode-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr  632 Jul 20 14:31 packages/clojure-mode-readme.txt
+112K -rw-rw-r-- 1 kimr kimr 112K Jul 24 20:48 packages/clojure-mode-20210706.1318.el
+4.0K -rw-rw-r-- 1 kimr kimr  355 Jul 24 20:48 packages/clojure-mode-20210706.1318.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 24 20:48 packages/clojure-mode-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr  632 Jul 24 20:48 packages/clojure-mode-readme.txt

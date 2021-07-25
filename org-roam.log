@@ -5,7 +5,7 @@ Source:  https://github.com/org-roam/org-roam.git
 Updating /home/kimr/repos/my/melpa/working/org-roam/
 Copying files (->) and directories (=>)
   from /home/kimr/repos/my/melpa/working/org-roam/
-  to /tmp/org-roampVUIKq/org-roam-20210720.825
+  to /tmp/org-roamkin9eu/org-roam-20210725.231
     org-roam-capture.el -> org-roam-capture.el
     org-roam-compat.el -> org-roam-compat.el
     org-roam-completion.el -> org-roam-completion.el
@@ -20,35 +20,35 @@ Copying files (->) and directories (=>)
     org-roam-utils.el -> org-roam-utils.el
     org-roam.el -> org-roam.el
   ! doc/org-roam.texi -> org-roam.texi
-Created /tmp/org-roampVUIKq/org-roam-20210720.825/org-roam.info
-Created org-roam-20210720.825.tar containing:
-  org-roam-20210720.825/
-  org-roam-20210720.825/dir
-  org-roam-20210720.825/org-roam-capture.el
-  org-roam-20210720.825/org-roam-compat.el
-  org-roam-20210720.825/org-roam-completion.el
-  org-roam-20210720.825/org-roam-dailies.el
-  org-roam-20210720.825/org-roam-db.el
-  org-roam-20210720.825/org-roam-graph.el
-  org-roam-20210720.825/org-roam-macs.el
-  org-roam-20210720.825/org-roam-migrate.el
-  org-roam-20210720.825/org-roam-mode.el
-  org-roam-20210720.825/org-roam-overlay.el
-  org-roam-20210720.825/org-roam-pkg.el
-  org-roam-20210720.825/org-roam-protocol.el
-  org-roam-20210720.825/org-roam-utils.el
-  org-roam-20210720.825/org-roam.el
-  org-roam-20210720.825/org-roam.info
-Built org-roam in 1.841s, finished at 2021-07-20T21:35:10+0000
+Created /tmp/org-roamkin9eu/org-roam-20210725.231/org-roam.info
+Created org-roam-20210725.231.tar containing:
+  org-roam-20210725.231/
+  org-roam-20210725.231/dir
+  org-roam-20210725.231/org-roam-capture.el
+  org-roam-20210725.231/org-roam-compat.el
+  org-roam-20210725.231/org-roam-completion.el
+  org-roam-20210725.231/org-roam-dailies.el
+  org-roam-20210725.231/org-roam-db.el
+  org-roam-20210725.231/org-roam-graph.el
+  org-roam-20210725.231/org-roam-macs.el
+  org-roam-20210725.231/org-roam-migrate.el
+  org-roam-20210725.231/org-roam-mode.el
+  org-roam-20210725.231/org-roam-overlay.el
+  org-roam-20210725.231/org-roam-pkg.el
+  org-roam-20210725.231/org-roam-protocol.el
+  org-roam-20210725.231/org-roam-utils.el
+  org-roam-20210725.231/org-roam.el
+  org-roam-20210725.231/org-roam.info
+Built org-roam in 1.061s, finished at 2021-07-25T03:49:50+0000
  ✓ Success:
-4.0K -rw-rw-r-- 1 kimr kimr  557 Jul 10 10:22 packages/org-roam-20210609.1221.entry
-332K -rw-rw-r-- 1 kimr kimr 330K Jul 10 10:22 packages/org-roam-20210609.1221.tar
 4.0K -rw-rw-r-- 1 kimr kimr  567 Jul 20 14:35 packages/org-roam-20210720.825.entry
 292K -rw-rw-r-- 1 kimr kimr 290K Jul 20 14:35 packages/org-roam-20210720.825.tar
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 20 14:35 packages/org-roam-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr  179 Jul 20 14:35 packages/org-roam-readme.txt
-4.0K -rw-rw-r-- 1 kimr kimr  531 Jul 10 10:22 packages/org-roam-server-20210521.1055.entry
-1.3M -rw-rw-r-- 1 kimr kimr 1.3M Jul 10 10:22 packages/org-roam-server-20210521.1055.tar
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 10 10:22 packages/org-roam-server-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr 1.6K Jul 10 10:22 packages/org-roam-server.log
-4.0K -rw-rw-r-- 1 kimr kimr  166 Jul 10 10:22 packages/org-roam-server-readme.txt
+4.0K -rw-rw-r-- 1 kimr kimr  567 Jul 24 20:49 packages/org-roam-20210725.231.entry
+300K -rw-rw-r-- 1 kimr kimr 300K Jul 24 20:49 packages/org-roam-20210725.231.tar
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 24 20:49 packages/org-roam-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr  179 Jul 24 20:49 packages/org-roam-readme.txt
+4.0K -rw-rw-r-- 1 kimr kimr  531 Jul 20 14:35 packages/org-roam-server-20210521.1055.entry
+1.3M -rw-rw-r-- 1 kimr kimr 1.3M Jul 20 14:35 packages/org-roam-server-20210521.1055.tar
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 20 14:35 packages/org-roam-server-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr 1.6K Jul 20 14:35 packages/org-roam-server.log
+4.0K -rw-rw-r-- 1 kimr kimr  166 Jul 20 14:35 packages/org-roam-server-readme.txt

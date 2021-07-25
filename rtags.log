@@ -3,9 +3,9 @@ Fetcher: github
 Source:  https://github.com/Andersbakken/rtags.git
 
 Updating /home/kimr/repos/my/melpa/working/rtags/
-Built rtags in 0.679s, finished at 2021-07-20T21:36:03+0000
+Built rtags in 0.823s, finished at 2021-07-25T03:49:57+0000
  ✓ Success:
-244K -rw-rw-r-- 1 kimr kimr 241K Jul 20 14:36 packages/rtags-20210313.1541.el
-4.0K -rw-rw-r-- 1 kimr kimr  359 Jul 20 14:36 packages/rtags-20210313.1541.entry
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 20 14:36 packages/rtags-badge.svg
-   0 -rw-rw-r-- 1 kimr kimr    0 Jul 20 14:36 packages/rtags-readme.txt
+244K -rw-rw-r-- 1 kimr kimr 241K Jul 24 20:49 packages/rtags-20210313.1541.el
+4.0K -rw-rw-r-- 1 kimr kimr  359 Jul 24 20:49 packages/rtags-20210313.1541.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 24 20:49 packages/rtags-badge.svg
+   0 -rw-rw-r-- 1 kimr kimr    0 Jul 24 20:49 packages/rtags-readme.txt

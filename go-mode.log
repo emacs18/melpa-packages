@@ -3,9 +3,9 @@ Fetcher: github
 Source:  https://github.com/dominikh/go-mode.el.git
 
 Updating /home/kimr/repos/my/melpa/working/go-mode/
-Built go-mode in 0.203s, finished at 2021-07-20T21:33:17+0000
+Built go-mode in 0.223s, finished at 2021-07-25T03:49:25+0000
  ✓ Success:
-112K -rw-rw-r-- 1 kimr kimr 111K Jul 20 14:33 packages/go-mode-20210509.2353.el
-4.0K -rw-rw-r-- 1 kimr kimr  322 Jul 20 14:33 packages/go-mode-20210509.2353.entry
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 20 14:33 packages/go-mode-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr  304 Jul 20 14:33 packages/go-mode-readme.txt
+112K -rw-rw-r-- 1 kimr kimr 111K Jul 24 20:49 packages/go-mode-20210509.2353.el
+4.0K -rw-rw-r-- 1 kimr kimr  322 Jul 24 20:49 packages/go-mode-20210509.2353.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 24 20:49 packages/go-mode-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr  304 Jul 24 20:49 packages/go-mode-readme.txt

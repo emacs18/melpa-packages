@@ -5,27 +5,27 @@ Source:  https://gitlab.com/protesilaos/modus-themes.git
 Updating /home/kimr/repos/my/melpa/working/modus-themes/
 Copying files (->) and directories (=>)
   from /home/kimr/repos/my/melpa/working/modus-themes/
-  to /tmp/modus-themesmczFB1/modus-themes-20210715.1112
+  to /tmp/modus-themesnrLtLF/modus-themes-20210723.615
     modus-operandi-theme.el -> modus-operandi-theme.el
     modus-themes.el -> modus-themes.el
     modus-vivendi-theme.el -> modus-vivendi-theme.el
   ! doc/modus-themes.info -> modus-themes.info
   ! doc/doclicense.texi -> doclicense.texi
-Created /tmp/modus-themesmczFB1/modus-themes-20210715.1112/doclicense.info
-Created modus-themes-20210715.1112.tar containing:
-  modus-themes-20210715.1112/
-  modus-themes-20210715.1112/dir
-  modus-themes-20210715.1112/doclicense.info
-  modus-themes-20210715.1112/modus-operandi-theme.el
-  modus-themes-20210715.1112/modus-themes-pkg.el
-  modus-themes-20210715.1112/modus-themes.el
-  modus-themes-20210715.1112/modus-themes.info
-  modus-themes-20210715.1112/modus-vivendi-theme.el
-Built modus-themes in 1.768s, finished at 2021-07-20T21:34:43+0000
+Created /tmp/modus-themesnrLtLF/modus-themes-20210723.615/doclicense.info
+Created modus-themes-20210723.615.tar containing:
+  modus-themes-20210723.615/
+  modus-themes-20210723.615/dir
+  modus-themes-20210723.615/doclicense.info
+  modus-themes-20210723.615/modus-operandi-theme.el
+  modus-themes-20210723.615/modus-themes-pkg.el
+  modus-themes-20210723.615/modus-themes.el
+  modus-themes-20210723.615/modus-themes.info
+  modus-themes-20210723.615/modus-vivendi-theme.el
+Built modus-themes in 1.729s, finished at 2021-07-25T03:49:46+0000
  ✓ Success:
-4.0K -rw-rw-r-- 1 kimr kimr  416 Jul 10 10:21 packages/modus-themes-20210710.1611.entry
-632K -rw-rw-r-- 1 kimr kimr 630K Jul 10 10:21 packages/modus-themes-20210710.1611.tar
 4.0K -rw-rw-r-- 1 kimr kimr  416 Jul 20 14:34 packages/modus-themes-20210715.1112.entry
 632K -rw-rw-r-- 1 kimr kimr 630K Jul 20 14:34 packages/modus-themes-20210715.1112.tar
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 20 14:34 packages/modus-themes-badge.svg
-8.0K -rw-rw-r-- 1 kimr kimr 7.9K Jul 20 14:34 packages/modus-themes-readme.txt
+4.0K -rw-rw-r-- 1 kimr kimr  415 Jul 24 20:49 packages/modus-themes-20210723.615.entry
+632K -rw-rw-r-- 1 kimr kimr 630K Jul 24 20:49 packages/modus-themes-20210723.615.tar
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 24 20:49 packages/modus-themes-badge.svg
+8.0K -rw-rw-r-- 1 kimr kimr 7.9K Jul 24 20:49 packages/modus-themes-readme.txt

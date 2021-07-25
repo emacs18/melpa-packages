@@ -3,9 +3,9 @@ Fetcher: github
 Source:  https://github.com/d12frosted/flyspell-correct.git
 
 Updating /home/kimr/repos/my/melpa/working/flyspell-correct-ivy/
-Built flyspell-correct-ivy in 0.242s, finished at 2021-07-20T21:32:42+0000
+Built flyspell-correct-ivy in 0.200s, finished at 2021-07-25T03:49:14+0000
  ✓ Success:
-8.0K -rw-rw-r-- 1 kimr kimr 4.1K Jul 20 14:32 packages/flyspell-correct-ivy-20210124.1143.el
-4.0K -rw-rw-r-- 1 kimr kimr  445 Jul 20 14:32 packages/flyspell-correct-ivy-20210124.1143.entry
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 20 14:32 packages/flyspell-correct-ivy-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr  474 Jul 20 14:32 packages/flyspell-correct-ivy-readme.txt
+8.0K -rw-rw-r-- 1 kimr kimr 4.1K Jul 24 20:49 packages/flyspell-correct-ivy-20210124.1143.el
+4.0K -rw-rw-r-- 1 kimr kimr  445 Jul 24 20:49 packages/flyspell-correct-ivy-20210124.1143.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 24 20:49 packages/flyspell-correct-ivy-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr  474 Jul 24 20:49 packages/flyspell-correct-ivy-readme.txt

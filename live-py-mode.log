@@ -5,7 +5,7 @@ Source:  https://github.com/donkirkby/live-py-plugin.git
 Updating /home/kimr/repos/my/melpa/working/live-py-mode/
 Copying files (->) and directories (=>)
   from /home/kimr/repos/my/melpa/working/live-py-mode/
-  to /tmp/live-py-modeI3df6R/live-py-mode-20210701.1955
+  to /tmp/live-py-mode3yWImz/live-py-mode-20210701.1955
   ! emacs-live-py-mode/live-py-mode.el -> live-py-mode.el
   ! plugin/PySrc/space_tracer => space_tracer
 Created live-py-mode-20210701.1955.tar containing:
@@ -23,9 +23,9 @@ Created live-py-mode-20210701.1955.tar containing:
   live-py-mode-20210701.1955/space_tracer/module_importers.py
   live-py-mode-20210701.1955/space_tracer/report_builder.py
   live-py-mode-20210701.1955/space_tracer/traced_finder.py
-Built live-py-mode in 0.673s, finished at 2021-07-20T21:34:19+0000
+Built live-py-mode in 0.854s, finished at 2021-07-25T03:49:35+0000
  ✓ Success:
-4.0K -rw-rw-r-- 1 kimr kimr  371 Jul 20 14:34 packages/live-py-mode-20210701.1955.entry
-160K -rw-rw-r-- 1 kimr kimr 160K Jul 20 14:34 packages/live-py-mode-20210701.1955.tar
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 20 14:34 packages/live-py-mode-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr  156 Jul 20 14:34 packages/live-py-mode-readme.txt
+4.0K -rw-rw-r-- 1 kimr kimr  371 Jul 24 20:49 packages/live-py-mode-20210701.1955.entry
+160K -rw-rw-r-- 1 kimr kimr 160K Jul 24 20:49 packages/live-py-mode-20210701.1955.tar
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 24 20:49 packages/live-py-mode-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr  156 Jul 24 20:49 packages/live-py-mode-readme.txt

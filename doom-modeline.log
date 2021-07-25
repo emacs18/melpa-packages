@@ -5,21 +5,23 @@ Source:  https://github.com/seagle0128/doom-modeline.git
 Updating /home/kimr/repos/my/melpa/working/doom-modeline/
 Copying files (->) and directories (=>)
   from /home/kimr/repos/my/melpa/working/doom-modeline/
-  to /tmp/doom-modelinehld6Zf/doom-modeline-20210706.604
+  to /tmp/doom-modelineomELFq/doom-modeline-20210721.1833
     doom-modeline-core.el -> doom-modeline-core.el
     doom-modeline-env.el -> doom-modeline-env.el
     doom-modeline-segments.el -> doom-modeline-segments.el
     doom-modeline.el -> doom-modeline.el
-Created doom-modeline-20210706.604.tar containing:
-  doom-modeline-20210706.604/
-  doom-modeline-20210706.604/doom-modeline-core.el
-  doom-modeline-20210706.604/doom-modeline-env.el
-  doom-modeline-20210706.604/doom-modeline-pkg.el
-  doom-modeline-20210706.604/doom-modeline-segments.el
-  doom-modeline-20210706.604/doom-modeline.el
-Built doom-modeline in 0.672s, finished at 2021-07-20T21:31:42+0000
+Created doom-modeline-20210721.1833.tar containing:
+  doom-modeline-20210721.1833/
+  doom-modeline-20210721.1833/doom-modeline-core.el
+  doom-modeline-20210721.1833/doom-modeline-env.el
+  doom-modeline-20210721.1833/doom-modeline-pkg.el
+  doom-modeline-20210721.1833/doom-modeline-segments.el
+  doom-modeline-20210721.1833/doom-modeline.el
+Built doom-modeline in 0.589s, finished at 2021-07-25T03:49:03+0000
  ✓ Success:
 4.0K -rw-rw-r-- 1 kimr kimr  459 Jul 20 14:31 packages/doom-modeline-20210706.604.entry
 212K -rw-rw-r-- 1 kimr kimr 210K Jul 20 14:31 packages/doom-modeline-20210706.604.tar
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 20 14:31 packages/doom-modeline-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr 2.0K Jul 20 14:31 packages/doom-modeline-readme.txt
+4.0K -rw-rw-r-- 1 kimr kimr  460 Jul 24 20:49 packages/doom-modeline-20210721.1833.entry
+212K -rw-rw-r-- 1 kimr kimr 210K Jul 24 20:49 packages/doom-modeline-20210721.1833.tar
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 24 20:49 packages/doom-modeline-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr 2.0K Jul 24 20:49 packages/doom-modeline-readme.txt

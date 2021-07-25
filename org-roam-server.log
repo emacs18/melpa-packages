@@ -5,28 +5,30 @@ Source:  https://github.com/org-roam/org-roam-server.git
 Updating /home/kimr/repos/my/melpa/working/org-roam-server/
 Copying files (->) and directories (=>)
   from /home/kimr/repos/my/melpa/working/org-roam-server/
-  to /tmp/org-roam-server8ZL0Iq/org-roam-server-20210521.1055
+  to /tmp/org-roam-serverAnUF3K/org-roam-server-20210723.1424
     org-roam-server.el -> org-roam-server.el
     index.html -> index.html
     assets => assets
-Created org-roam-server-20210521.1055.tar containing:
-  org-roam-server-20210521.1055/
-  org-roam-server-20210521.1055/assets/
-  org-roam-server-20210521.1055/assets/bootstrap-toggle.min.css
-  org-roam-server-20210521.1055/assets/bootstrap-toggle.min.js
-  org-roam-server-20210521.1055/assets/bootstrap.min.css
-  org-roam-server-20210521.1055/assets/bootstrap.min.js
-  org-roam-server-20210521.1055/assets/jquery-3.5.0.min.js
-  org-roam-server-20210521.1055/assets/org.css
-  org-roam-server-20210521.1055/assets/select2.min.css
-  org-roam-server-20210521.1055/assets/select2.min.js
-  org-roam-server-20210521.1055/assets/vis-network.min.js
-  org-roam-server-20210521.1055/index.html
-  org-roam-server-20210521.1055/org-roam-server-pkg.el
-  org-roam-server-20210521.1055/org-roam-server.el
-Built org-roam-server in 0.837s, finished at 2021-07-20T21:35:11+0000
+Created org-roam-server-20210723.1424.tar containing:
+  org-roam-server-20210723.1424/
+  org-roam-server-20210723.1424/assets/
+  org-roam-server-20210723.1424/assets/bootstrap-toggle.min.css
+  org-roam-server-20210723.1424/assets/bootstrap-toggle.min.js
+  org-roam-server-20210723.1424/assets/bootstrap.min.css
+  org-roam-server-20210723.1424/assets/bootstrap.min.js
+  org-roam-server-20210723.1424/assets/jquery-3.5.0.min.js
+  org-roam-server-20210723.1424/assets/org.css
+  org-roam-server-20210723.1424/assets/select2.min.css
+  org-roam-server-20210723.1424/assets/select2.min.js
+  org-roam-server-20210723.1424/assets/vis-network.min.js
+  org-roam-server-20210723.1424/index.html
+  org-roam-server-20210723.1424/org-roam-server-pkg.el
+  org-roam-server-20210723.1424/org-roam-server.el
+Built org-roam-server in 0.646s, finished at 2021-07-25T03:49:51+0000
  ✓ Success:
 4.0K -rw-rw-r-- 1 kimr kimr  531 Jul 20 14:35 packages/org-roam-server-20210521.1055.entry
 1.3M -rw-rw-r-- 1 kimr kimr 1.3M Jul 20 14:35 packages/org-roam-server-20210521.1055.tar
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 20 14:35 packages/org-roam-server-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr  166 Jul 20 14:35 packages/org-roam-server-readme.txt
+4.0K -rw-rw-r-- 1 kimr kimr  531 Jul 24 20:49 packages/org-roam-server-20210723.1424.entry
+1.3M -rw-rw-r-- 1 kimr kimr 1.3M Jul 24 20:49 packages/org-roam-server-20210723.1424.tar
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 24 20:49 packages/org-roam-server-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr  166 Jul 24 20:49 packages/org-roam-server-readme.txt

@@ -5,21 +5,23 @@ Source:  https://github.com/melpa/package-build.git
 Updating /home/kimr/repos/my/melpa/working/package-build/
 Copying files (->) and directories (=>)
   from /home/kimr/repos/my/melpa/working/package-build/
-  to /tmp/package-buildpOznqq/package-build-20210707.1424
+  to /tmp/package-buildLIsiEk/package-build-20210724.1143
     package-build-badges.el -> package-build-badges.el
     package-build.el -> package-build.el
     package-recipe-mode.el -> package-recipe-mode.el
     package-recipe.el -> package-recipe.el
-Created package-build-20210707.1424.tar containing:
-  package-build-20210707.1424/
-  package-build-20210707.1424/package-build-badges.el
-  package-build-20210707.1424/package-build-pkg.el
-  package-build-20210707.1424/package-build.el
-  package-build-20210707.1424/package-recipe-mode.el
-  package-build-20210707.1424/package-recipe.el
-Built package-build in 1.204s, finished at 2021-07-20T21:35:24+0000
+Created package-build-20210724.1143.tar containing:
+  package-build-20210724.1143/
+  package-build-20210724.1143/package-build-badges.el
+  package-build-20210724.1143/package-build-pkg.el
+  package-build-20210724.1143/package-build.el
+  package-build-20210724.1143/package-recipe-mode.el
+  package-build-20210724.1143/package-recipe.el
+Built package-build in 0.633s, finished at 2021-07-25T03:49:52+0000
  ✓ Success:
 4.0K -rw-rw-r-- 1 kimr kimr  404 Jul 20 14:35 packages/package-build-20210707.1424.entry
  60K -rw-rw-r-- 1 kimr kimr  60K Jul 20 14:35 packages/package-build-20210707.1424.tar
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 20 14:35 packages/package-build-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr  308 Jul 20 14:35 packages/package-build-readme.txt
+4.0K -rw-rw-r-- 1 kimr kimr  404 Jul 24 20:49 packages/package-build-20210724.1143.entry
+ 72K -rw-rw-r-- 1 kimr kimr  70K Jul 24 20:49 packages/package-build-20210724.1143.tar
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 24 20:49 packages/package-build-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr  308 Jul 24 20:49 packages/package-build-readme.txt

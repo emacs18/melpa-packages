@@ -7,7 +7,7 @@
 		 (rtags
 		  (2 10)))
 		"RTags back-end for company" single
-		((:commit . "65113e2a137baa9f85dc2157b893291470788dc4")
+		((:commit . "3a057f127b931c683288f8731f05ba5e2aab4133")
 		 (:authors
 		  ("Jan Erik Hanssen" . "jhanssen@gmail.com")
 		  ("Anders Bakken" . "agbakken@gmail.com"))

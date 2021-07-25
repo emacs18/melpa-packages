@@ -5,7 +5,7 @@ Source:  https://github.com/clojure-emacs/cider.git
 Updating /home/kimr/repos/my/melpa/working/cider/
 Copying files (->) and directories (=>)
   from /home/kimr/repos/my/melpa/working/cider/
-  to /tmp/ciderUBMg9G/cider-20210706.1151
+  to /tmp/cider2wOlia/cider-20210706.1151
     cider-apropos.el -> cider-apropos.el
     cider-browse-ns.el -> cider-browse-ns.el
     cider-browse-spec.el -> cider-browse-spec.el
@@ -83,14 +83,14 @@ Created cider-20210706.1151.tar containing:
   cider-20210706.1151/cider.el
   cider-20210706.1151/nrepl-client.el
   cider-20210706.1151/nrepl-dict.el
-Built cider in 0.775s, finished at 2021-07-20T21:30:56+0000
+Built cider in 0.849s, finished at 2021-07-25T03:48:54+0000
  ✓ Success:
-4.0K -rw-rw-r-- 1 kimr kimr  769 Jul 20 14:30 packages/cider-20210706.1151.entry
-852K -rw-rw-r-- 1 kimr kimr 850K Jul 20 14:30 packages/cider-20210706.1151.tar
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 20 14:30 packages/cider-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr 2.6K Jul 10 10:18 packages/cider-eval-sexp-fu-20190311.2152.el
-4.0K -rw-rw-r-- 1 kimr kimr  430 Jul 10 10:18 packages/cider-eval-sexp-fu-20190311.2152.entry
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 10 10:18 packages/cider-eval-sexp-fu-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr  614 Jul 10 10:18 packages/cider-eval-sexp-fu.log
-4.0K -rw-rw-r-- 1 kimr kimr  132 Jul 10 10:18 packages/cider-eval-sexp-fu-readme.txt
-4.0K -rw-rw-r-- 1 kimr kimr  568 Jul 20 14:30 packages/cider-readme.txt
+4.0K -rw-rw-r-- 1 kimr kimr  769 Jul 24 20:48 packages/cider-20210706.1151.entry
+852K -rw-rw-r-- 1 kimr kimr 850K Jul 24 20:48 packages/cider-20210706.1151.tar
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 24 20:48 packages/cider-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr 2.6K Jul 20 14:30 packages/cider-eval-sexp-fu-20190311.2152.el
+4.0K -rw-rw-r-- 1 kimr kimr  430 Jul 20 14:30 packages/cider-eval-sexp-fu-20190311.2152.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 20 14:30 packages/cider-eval-sexp-fu-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr  614 Jul 20 14:30 packages/cider-eval-sexp-fu.log
+4.0K -rw-rw-r-- 1 kimr kimr  132 Jul 20 14:30 packages/cider-eval-sexp-fu-readme.txt
+4.0K -rw-rw-r-- 1 kimr kimr  568 Jul 24 20:48 packages/cider-readme.txt

@@ -3,11 +3,9 @@ Fetcher: github
 Source:  https://github.com/hlissner/evil-snipe.git
 
 Updating /home/kimr/repos/my/melpa/working/evil-snipe/
-Built evil-snipe in 0.677s, finished at 2021-07-20T21:32:21+0000
+Built evil-snipe in 0.607s, finished at 2021-07-25T03:49:11+0000
  ✓ Success:
- 28K -rwxrwxr-x 1 kimr kimr  26K Jul 10 10:19 packages/evil-snipe-20210609.509.el
-4.0K -rw-rw-r-- 1 kimr kimr  483 Jul 10 10:19 packages/evil-snipe-20210609.509.entry
- 28K -rwxrwxr-x 1 kimr kimr  26K Jul 20 14:32 packages/evil-snipe-20210713.1456.el
-4.0K -rw-rw-r-- 1 kimr kimr  484 Jul 20 14:32 packages/evil-snipe-20210713.1456.entry
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 20 14:32 packages/evil-snipe-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr  452 Jul 20 14:32 packages/evil-snipe-readme.txt
+ 28K -rwxrwxr-x 1 kimr kimr  26K Jul 24 20:49 packages/evil-snipe-20210713.1456.el
+4.0K -rw-rw-r-- 1 kimr kimr  484 Jul 24 20:49 packages/evil-snipe-20210713.1456.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 24 20:49 packages/evil-snipe-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr  452 Jul 24 20:49 packages/evil-snipe-readme.txt
