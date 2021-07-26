@@ -887,7 +887,7 @@
  (cython-mode .
 	      [(20190111 2150)
 	       nil "Major mode for editing Cython files" single
-	       ((:commit . "d6625e2b6c7d8bbb5fa5b17b90d748ede44150cb"))])
+	       ((:commit . "719553db360261c082386cc2a81d5937861a6990"))])
  (dap-mode .
 	   [(20210720 448)
 	    ((emacs
@@ -1437,7 +1437,7 @@
 		 (:maintainer "Takeshi Banse" . "takebi@laafc.net")
 		 (:keywords "lisp" "highlight" "convenience"))])
  (evil .
-       [(20210723 2222)
+       [(20210725 2056)
 	((emacs
 	  (24 1))
 	 (goto-chg
@@ -1445,7 +1445,7 @@
 	 (cl-lib
 	  (0 5)))
 	"Extensible Vi layer for Emacs." tar
-	((:commit . "566bc902732610471cb77e56639cf424a41745e7")
+	((:commit . "ed7b0c49c960432b7c078b3496cf10af906c044a")
 	 (:keywords "emulation" "vim")
 	 (:url . "https://github.com/emacs-evil/evil"))])
  (evil-anzu .
@@ -2214,7 +2214,7 @@
 	       (with-editor
 		(20210524)))
 	      "Edit Git commit messages" single
-	      ((:commit . "2db04ea92562350ec5f0e78fa21c7d53f38d351c")
+	      ((:commit . "877f7140451de30c3c55554aa780f5a2680f6674")
 	       (:authors
 		("Jonas Bernoulli" . "jonas@bernoul.li")
 		("Sebastian Wiesner" . "lunaryorn@gmail.com")
@@ -2544,7 +2544,7 @@
 	      (:keywords "markup" "languages" "html")
 	      (:url . "https://github.com/nex3/haml-mode"))])
  (helm .
-       [(20210714 1600)
+       [(20210726 818)
 	((emacs
 	  (25 1))
 	 (async
@@ -2554,7 +2554,7 @@
 	 (helm-core
 	  (3 8 0)))
 	"Helm is an Emacs incremental and narrowing framework" tar
-	((:commit . "f6cf6078a745ec6ab313dbe98097e3bd5cef0a8c")
+	((:commit . "3ff6e02b629ada63f9bc7e4814a39bd5f7b108eb")
 	 (:authors
 	  ("Thierry Volpiatto" . "thierry.volpiatto@gmail.com"))
 	 (:maintainer "Thierry Volpiatto" . "thierry.volpiatto@gmail.com")
@@ -2604,7 +2604,7 @@
 	      (async
 	       (1 9 4)))
 	     "Development files for Helm" tar
-	     ((:commit . "f6cf6078a745ec6ab313dbe98097e3bd5cef0a8c"))])
+	     ((:commit . "3ff6e02b629ada63f9bc7e4814a39bd5f7b108eb"))])
  (helm-css-scss .
 		[(20191230 1549)
 		 ((emacs
@@ -2714,11 +2714,11 @@
 	       (:maintainer "Syohei YOSHIDA" . "syohex@gmail.com")
 	       (:url . "https://github.com/syohex/emacs-helm-gtags"))])
  (helm-ls-git .
-	      [(20210324 1515)
+	      [(20210726 400)
 	       ((helm
 		 (1 7 8)))
 	       "list git files." single
-	       ((:commit . "48696448e52d266f5b2cb5ee1390071dab4d16e8"))])
+	       ((:commit . "6aa8f0ba61e8c5a981abd0bfe74172305f0d1081"))])
  (helm-lsp .
 	   [(20210419 2014)
 	    ((emacs
@@ -3571,7 +3571,7 @@
 	      (:keywords "lisp" "languages" "macro" "debugging")
 	      (:url . "https://github.com/joddie/macrostep"))])
  (magit .
-	[(20210724 1154)
+	[(20210726 1130)
 	 ((emacs
 	   (25 1))
 	  (dash
@@ -3585,7 +3585,7 @@
 	  (with-editor
 	   (20210524)))
 	 "A Git porcelain inside Emacs." tar
-	 ((:commit . "2db04ea92562350ec5f0e78fa21c7d53f38d351c")
+	 ((:commit . "877f7140451de30c3c55554aa780f5a2680f6674")
 	  (:authors
 	   ("Marius Vollmer" . "marius.vollmer@gmail.com")
 	   ("Jonas Bernoulli" . "jonas@bernoul.li"))
@@ -3625,7 +3625,7 @@
 		  (dash
 		   (20210330)))
 		 "Sections for read-only buffers" tar
-		 ((:commit . "2db04ea92562350ec5f0e78fa21c7d53f38d351c")
+		 ((:commit . "877f7140451de30c3c55554aa780f5a2680f6674")
 		  (:authors
 		   ("Jonas Bernoulli" . "jonas@bernoul.li"))
 		  (:maintainer "Jonas Bernoulli" . "jonas@bernoul.li")
@@ -3671,11 +3671,11 @@
 		      (:keywords "tools" "minor-mode" "manage" "emacs")
 		      (:url . "https://github.com/ShingoFukuyama/manage-minor-mode"))])
  (markdown-mode .
-		[(20210722 839)
+		[(20210726 1255)
 		 ((emacs
 		   (25 1)))
 		 "Major mode for Markdown-formatted text" single
-		 ((:commit . "f3c4fd9230252503e3a9f2de6f5d469c4ac270ae")
+		 ((:commit . "ab99cb182f8c38b24fe55233db972093236d0420")
 		  (:authors
 		   ("Jason R. Blevins" . "jblevins@xbeta.org"))
 		  (:maintainer "Jason R. Blevins" . "jblevins@xbeta.org")
@@ -3718,11 +3718,11 @@
 	    (:maintainer "Christopher Wellons" . "mosquitopsu@gmail.com")
 	    (:url . "https://github.com/skeeto/emacs-memoize"))])
  (modus-themes .
-	       [(20210723 615)
+	       [(20210726 1542)
 		((emacs
 		  (26 1)))
 		"Highly accessible themes (WCAG AAA)" tar
-		((:commit . "72ccffafab68312672f994c3b73887f1db79ee69")
+		((:commit . "114ba80b96c0bfbf619a1919af8db6023ee60f7c")
 		 (:authors
 		  ("Protesilaos Stavrou" . "info@protesilaos.com"))
 		 (:maintainer "Protesilaos Stavrou" . "info@protesilaos.com")
@@ -4029,7 +4029,7 @@
 		  (:keywords "convenience" "hypermedia" "org")
 		  (:url . "https://github.com/unhammer/org-rich-yank"))])
  (org-roam .
-	   [(20210725 231)
+	   [(20210726 548)
 	    ((emacs
 	      (26 1))
 	     (dash
@@ -4045,7 +4045,7 @@
 	     (magit-section
 	      (2 90 1)))
 	    "Roam Research replica with Org-mode" tar
-	    ((:commit . "9acd98233287c162f71dcd49b661654ceb817510")
+	    ((:commit . "6dc8dda5e59765d3e4629469f4a400b315e92a51")
 	     (:authors
 	      ("Jethro Kuan" . "jethrokuan95@gmail.com"))
 	     (:maintainer "Jethro Kuan" . "jethrokuan95@gmail.com")
@@ -4088,7 +4088,7 @@
 		     (ts
 		      (0 2)))
 		    "Supercharge your agenda" tar
-		    ((:commit . "f5e80e4d0da6b2eeda9ba21e021838fa6a495376")
+		    ((:commit . "a5557ea4f51571ee9def3cd9a1ab1c38f1a27af7")
 		     (:authors
 		      ("Adam Porter" . "adam@alphapapa.net"))
 		     (:maintainer "Adam Porter" . "adam@alphapapa.net")
@@ -5027,9 +5027,9 @@
 		 ("Magnar Sveen" . "magnars@gmail.com"))
 		(:maintainer "Magnar Sveen" . "magnars@gmail.com"))])
  (string-inflection .
-		    [(20210712 755)
+		    [(20210726 205)
 		     nil "underscore -> UPCASE -> CamelCase -> lowerCamelCase conversion of names" single
-		     ((:commit . "bf60b0c943cc0934aa188ada7c1c16053517df07")
+		     ((:commit . "73a7863ad4b08ad27fdd700e26ac85c63e4011fa")
 		      (:authors
 		       ("akicho8" . "akicho8@gmail.com"))
 		      (:maintainer "akicho8" . "akicho8@gmail.com")

@@ -3,9 +3,9 @@ Fetcher: github
 Source:  https://github.com/emacs-lsp/lsp-ivy.git
 
 Updating /home/kimr/repos/my/melpa/working/lsp-ivy/
-Built lsp-ivy in 0.790s, finished at 2021-07-25T03:49:36+0000
+Built lsp-ivy in 0.638s, finished at 2021-07-26T16:34:38+0000
  ✓ Success:
- 12K -rw-rw-r-- 1 kimr kimr 8.8K Jul 24 20:49 packages/lsp-ivy-20210518.2034.el
-4.0K -rw-rw-r-- 1 kimr kimr  314 Jul 24 20:49 packages/lsp-ivy-20210518.2034.entry
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 24 20:49 packages/lsp-ivy-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr  202 Jul 24 20:49 packages/lsp-ivy-readme.txt
+ 12K -rw-rw-r-- 1 kimr kimr 8.8K Jul 26 09:34 packages/lsp-ivy-20210518.2034.el
+4.0K -rw-rw-r-- 1 kimr kimr  314 Jul 26 09:34 packages/lsp-ivy-20210518.2034.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 26 09:34 packages/lsp-ivy-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr  202 Jul 26 09:34 packages/lsp-ivy-readme.txt

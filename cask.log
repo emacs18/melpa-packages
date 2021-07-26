@@ -5,7 +5,7 @@ Source:  https://github.com/cask/cask.git
 Updating /home/kimr/repos/my/melpa/working/cask/
 Copying files (->) and directories (=>)
   from /home/kimr/repos/my/melpa/working/cask/
-  to /tmp/caskczS5lE/cask-20210621.1830
+  to /tmp/casksmw1bH/cask-20210621.1830
     cask.el -> cask.el
     cask-bootstrap.el -> cask-bootstrap.el
 Created cask-20210621.1830.tar containing:
@@ -13,9 +13,9 @@ Created cask-20210621.1830.tar containing:
   cask-20210621.1830/cask-bootstrap.el
   cask-20210621.1830/cask-pkg.el
   cask-20210621.1830/cask.el
-Built cask in 0.595s, finished at 2021-07-25T03:48:52+0000
+Built cask in 0.610s, finished at 2021-07-26T16:32:26+0000
  ✓ Success:
-4.0K -rw-rw-r-- 1 kimr kimr  507 Jul 24 20:48 packages/cask-20210621.1830.entry
- 52K -rw-rw-r-- 1 kimr kimr  50K Jul 24 20:48 packages/cask-20210621.1830.tar
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 24 20:48 packages/cask-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr   95 Jul 24 20:48 packages/cask-readme.txt
+4.0K -rw-rw-r-- 1 kimr kimr  507 Jul 26 09:32 packages/cask-20210621.1830.entry
+ 52K -rw-rw-r-- 1 kimr kimr  50K Jul 26 09:32 packages/cask-20210621.1830.tar
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 26 09:32 packages/cask-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr   95 Jul 26 09:32 packages/cask-readme.txt

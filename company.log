@@ -5,7 +5,7 @@ Source:  https://github.com/company-mode/company-mode.git
 Updating /home/kimr/repos/my/melpa/working/company/
 Copying files (->) and directories (=>)
   from /home/kimr/repos/my/melpa/working/company/
-  to /tmp/companyzdqUyI/company-20210721.2003
+  to /tmp/companyUErjNA/company-20210721.2003
     company-abbrev.el -> company-abbrev.el
     company-bbdb.el -> company-bbdb.el
     company-capf.el -> company-capf.el
@@ -111,12 +111,10 @@ Created company-20210721.2003.tar containing:
   company-20210721.2003/icons/vscode-light/symbol-string.svg
   company-20210721.2003/icons/vscode-light/symbol-structure.svg
   company-20210721.2003/icons/vscode-light/symbol-variable.svg
-Built company in 0.861s, finished at 2021-07-25T03:48:58+0000
+Built company in 4.334s, finished at 2021-07-26T16:32:35+0000
  ✓ Success:
-4.0K -rw-rw-r-- 1 kimr kimr  353 Jul 20 14:31 packages/company-20210709.1110.entry
-452K -rw-rw-r-- 1 kimr kimr 450K Jul 20 14:31 packages/company-20210709.1110.tar
-4.0K -rw-rw-r-- 1 kimr kimr  353 Jul 24 20:48 packages/company-20210721.2003.entry
-452K -rw-rw-r-- 1 kimr kimr 450K Jul 24 20:48 packages/company-20210721.2003.tar
+4.0K -rw-rw-r-- 1 kimr kimr  353 Jul 26 09:32 packages/company-20210721.2003.entry
+452K -rw-rw-r-- 1 kimr kimr 450K Jul 26 09:32 packages/company-20210721.2003.tar
 8.0K -rw-rw-r-- 1 kimr kimr 5.9K Jul 20 14:31 packages/company-anaconda-20200404.1859.el
 4.0K -rw-rw-r-- 1 kimr kimr  494 Jul 20 14:31 packages/company-anaconda-20200404.1859.entry
 4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 20 14:31 packages/company-anaconda-badge.svg
@@ -127,7 +125,7 @@ Built company in 0.861s, finished at 2021-07-25T03:48:58+0000
 4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 20 14:31 packages/company-auctex-badge.svg
 4.0K -rw-rw-r-- 1 kimr kimr  576 Jul 20 14:31 packages/company-auctex.log
 4.0K -rw-rw-r-- 1 kimr kimr  102 Jul 20 14:31 packages/company-auctex-readme.txt
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 24 20:48 packages/company-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 26 09:32 packages/company-badge.svg
 8.0K -rw-rw-r-- 1 kimr kimr 7.5K Jul 20 14:31 packages/company-c-headers-20190825.1631.el
 4.0K -rw-rw-r-- 1 kimr kimr  407 Jul 20 14:31 packages/company-c-headers-20190825.1631.entry
 4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 20 14:31 packages/company-c-headers-badge.svg
@@ -140,24 +138,24 @@ Built company in 0.861s, finished at 2021-07-25T03:48:58+0000
 4.0K -rw-rw-r-- 1 kimr kimr 1.2K Feb 27 07:42 packages/company-lsp-badge.svg
 4.0K -rw-rw-r-- 1 kimr kimr   28 Jul 20 14:31 packages/company-lsp.log
 4.0K -rw-rw-r-- 1 kimr kimr  185 Feb 27 07:42 packages/company-lsp-readme.txt
-4.0K -rw-rw-r-- 1 kimr kimr   33 Jul 20 14:31 packages/company-org-roam.log
+4.0K -rw-rw-r-- 1 kimr kimr   33 Jul 24 20:48 packages/company-org-roam.log
 4.0K -rw-rw-r-- 1 kimr kimr  185 Dec  6  2020 packages/company-org-roam-readme.txt
  12K -rw-rw-r-- 1 kimr kimr  12K Jul 20 14:31 packages/company-quickhelp-20210515.2212.el
 4.0K -rw-rw-r-- 1 kimr kimr  517 Jul 20 14:31 packages/company-quickhelp-20210515.2212.entry
 4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 20 14:31 packages/company-quickhelp-badge.svg
 4.0K -rw-rw-r-- 1 kimr kimr  605 Jul 20 14:31 packages/company-quickhelp.log
 4.0K -rw-rw-r-- 1 kimr kimr  127 Jul 20 14:31 packages/company-quickhelp-readme.txt
-4.0K -rw-rw-r-- 1 kimr kimr 1.3K Jul 24 20:48 packages/company-readme.txt
- 12K -rw-rw-r-- 1 kimr kimr 8.1K Jul 20 14:31 packages/company-reftex-20210418.1316.el
-4.0K -rw-rw-r-- 1 kimr kimr  468 Jul 20 14:31 packages/company-reftex-20210418.1316.entry
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 20 14:31 packages/company-reftex-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr  574 Jul 20 14:31 packages/company-reftex.log
-4.0K -rw-rw-r-- 1 kimr kimr  596 Jul 20 14:31 packages/company-reftex-readme.txt
- 16K -rw-rw-r-- 1 kimr kimr  13K Jul 20 14:31 packages/company-rtags-20191222.920.el
-4.0K -rw-rw-r-- 1 kimr kimr  428 Jul 20 14:31 packages/company-rtags-20191222.920.entry
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 20 14:31 packages/company-rtags-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr  563 Jul 20 14:31 packages/company-rtags.log
-   0 -rw-rw-r-- 1 kimr kimr    0 Jul 20 14:31 packages/company-rtags-readme.txt
+4.0K -rw-rw-r-- 1 kimr kimr 1.3K Jul 26 09:32 packages/company-readme.txt
+ 12K -rw-rw-r-- 1 kimr kimr 8.1K Jul 24 20:48 packages/company-reftex-20210418.1316.el
+4.0K -rw-rw-r-- 1 kimr kimr  468 Jul 24 20:48 packages/company-reftex-20210418.1316.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 24 20:48 packages/company-reftex-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr  574 Jul 24 20:48 packages/company-reftex.log
+4.0K -rw-rw-r-- 1 kimr kimr  596 Jul 24 20:48 packages/company-reftex-readme.txt
+ 16K -rw-rw-r-- 1 kimr kimr  13K Jul 24 20:48 packages/company-rtags-20191222.920.el
+4.0K -rw-rw-r-- 1 kimr kimr  428 Jul 24 20:48 packages/company-rtags-20191222.920.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 24 20:49 packages/company-rtags-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr  563 Jul 24 20:49 packages/company-rtags.log
+   0 -rw-rw-r-- 1 kimr kimr    0 Jul 24 20:48 packages/company-rtags-readme.txt
  12K -rw-rw-r-- 1 kimr kimr  11K Jul 20 14:31 packages/company-shell-20170518.541.el
 4.0K -rw-rw-r-- 1 kimr kimr  482 Jul 20 14:31 packages/company-shell-20170518.541.entry
 4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 20 14:31 packages/company-shell-badge.svg

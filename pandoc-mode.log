@@ -5,7 +5,7 @@ Source:  https://github.com/joostkremers/pandoc-mode.git
 Updating /home/kimr/repos/my/melpa/working/pandoc-mode/
 Copying files (->) and directories (=>)
   from /home/kimr/repos/my/melpa/working/pandoc-mode/
-  to /tmp/pandoc-modeqXgDgh/pandoc-mode-20210317.2340
+  to /tmp/pandoc-modeGTnGrx/pandoc-mode-20210317.2340
     pandoc-mode-utils.el -> pandoc-mode-utils.el
     pandoc-mode.el -> pandoc-mode.el
     pandoc-mode.info -> pandoc-mode.info
@@ -16,9 +16,9 @@ Created pandoc-mode-20210317.2340.tar containing:
   pandoc-mode-20210317.2340/pandoc-mode-utils.el
   pandoc-mode-20210317.2340/pandoc-mode.el
   pandoc-mode-20210317.2340/pandoc-mode.info
-Built pandoc-mode in 0.536s, finished at 2021-07-25T03:49:53+0000
+Built pandoc-mode in 3.742s, finished at 2021-07-26T16:35:22+0000
  ✓ Success:
-4.0K -rw-rw-r-- 1 kimr kimr  443 Jul 24 20:49 packages/pandoc-mode-20210317.2340.entry
-192K -rw-rw-r-- 1 kimr kimr 190K Jul 24 20:49 packages/pandoc-mode-20210317.2340.tar
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 24 20:49 packages/pandoc-mode-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr  197 Jul 24 20:49 packages/pandoc-mode-readme.txt
+4.0K -rw-rw-r-- 1 kimr kimr  443 Jul 26 09:35 packages/pandoc-mode-20210317.2340.entry
+192K -rw-rw-r-- 1 kimr kimr 190K Jul 26 09:35 packages/pandoc-mode-20210317.2340.tar
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 26 09:35 packages/pandoc-mode-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr  197 Jul 26 09:35 packages/pandoc-mode-readme.txt

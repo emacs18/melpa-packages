@@ -5,7 +5,7 @@ Source:  https://github.com/emacs-lsp/lsp-mode.git
 Updating /home/kimr/repos/my/melpa/working/lsp-mode/
 Copying files (->) and directories (=>)
   from /home/kimr/repos/my/melpa/working/lsp-mode/
-  to /tmp/lsp-modeqLigj6/lsp-mode-20210724.1836
+  to /tmp/lsp-modeJW5b7P/lsp-mode-20210724.1836
     lsp-completion.el -> lsp-completion.el
     lsp-diagnostics.el -> lsp-diagnostics.el
     lsp-dired.el -> lsp-dired.el
@@ -157,11 +157,9 @@ Created lsp-mode-20210724.1836.tar containing:
   lsp-mode-20210724.1836/lsp-yaml.el
   lsp-mode-20210724.1836/lsp-zig.el
   lsp-mode-20210724.1836/lsp.el
-Built lsp-mode in 0.645s, finished at 2021-07-25T03:49:37+0000
+Built lsp-mode in 0.655s, finished at 2021-07-26T16:34:39+0000
  ✓ Success:
-4.0K -rw-rw-r-- 1 kimr kimr  512 Jul 20 14:34 packages/lsp-mode-20210718.1240.entry
-1.1M -rw-rw-r-- 1 kimr kimr 1.1M Jul 20 14:34 packages/lsp-mode-20210718.1240.tar
-4.0K -rw-rw-r-- 1 kimr kimr  512 Jul 24 20:49 packages/lsp-mode-20210724.1836.entry
-1.1M -rw-rw-r-- 1 kimr kimr 1.1M Jul 24 20:49 packages/lsp-mode-20210724.1836.tar
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 24 20:49 packages/lsp-mode-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr   54 Jul 24 20:49 packages/lsp-mode-readme.txt
+4.0K -rw-rw-r-- 1 kimr kimr  512 Jul 26 09:34 packages/lsp-mode-20210724.1836.entry
+1.1M -rw-rw-r-- 1 kimr kimr 1.1M Jul 26 09:34 packages/lsp-mode-20210724.1836.tar
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 26 09:34 packages/lsp-mode-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr   54 Jul 26 09:34 packages/lsp-mode-readme.txt

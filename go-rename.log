@@ -3,9 +3,9 @@ Fetcher: github
 Source:  https://github.com/dominikh/go-mode.el.git
 
 Updating /home/kimr/repos/my/melpa/working/go-rename/
-Built go-rename in 0.645s, finished at 2021-07-25T03:49:25+0000
+Built go-rename in 0.851s, finished at 2021-07-26T16:34:17+0000
  ✓ Success:
-8.0K -rw-rw-r-- 1 kimr kimr 4.1K Jul 24 20:49 packages/go-rename-20190805.2101.el
-4.0K -rw-rw-r-- 1 kimr kimr  217 Jul 24 20:49 packages/go-rename-20190805.2101.entry
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 24 20:49 packages/go-rename-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr  266 Jul 24 20:49 packages/go-rename-readme.txt
+8.0K -rw-rw-r-- 1 kimr kimr 4.1K Jul 26 09:34 packages/go-rename-20190805.2101.el
+4.0K -rw-rw-r-- 1 kimr kimr  217 Jul 26 09:34 packages/go-rename-20190805.2101.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 26 09:34 packages/go-rename-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr  266 Jul 26 09:34 packages/go-rename-readme.txt

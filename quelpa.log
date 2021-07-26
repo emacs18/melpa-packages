@@ -5,7 +5,7 @@ Source:  https://github.com/quelpa/quelpa.git
 Updating /home/kimr/repos/my/melpa/working/quelpa/
 Copying files (->) and directories (=>)
   from /home/kimr/repos/my/melpa/working/quelpa/
-  to /tmp/quelpaFdiU3t/quelpa-20210329.639
+  to /tmp/quelpaIghVNg/quelpa-20210329.639
     bootstrap.el -> bootstrap.el
     quelpa.el -> quelpa.el
 Created quelpa-20210329.639.tar containing:
@@ -13,9 +13,9 @@ Created quelpa-20210329.639.tar containing:
   quelpa-20210329.639/bootstrap.el
   quelpa-20210329.639/quelpa-pkg.el
   quelpa-20210329.639/quelpa.el
-Built quelpa in 0.579s, finished at 2021-07-25T03:49:55+0000
+Built quelpa in 0.799s, finished at 2021-07-26T16:35:28+0000
  ✓ Success:
-4.0K -rw-rw-r-- 1 kimr kimr  352 Jul 24 20:49 packages/quelpa-20210329.639.entry
- 92K -rw-rw-r-- 1 kimr kimr  90K Jul 24 20:49 packages/quelpa-20210329.639.tar
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 24 20:49 packages/quelpa-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr  223 Jul 24 20:49 packages/quelpa-readme.txt
+4.0K -rw-rw-r-- 1 kimr kimr  352 Jul 26 09:35 packages/quelpa-20210329.639.entry
+ 92K -rw-rw-r-- 1 kimr kimr  90K Jul 26 09:35 packages/quelpa-20210329.639.tar
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 26 09:35 packages/quelpa-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr  223 Jul 26 09:35 packages/quelpa-readme.txt

@@ -5,7 +5,7 @@ Source:  https://github.com/d12frosted/flyspell-correct.git
 Updating /home/kimr/repos/my/melpa/working/flyspell-correct/
 Copying files (->) and directories (=>)
   from /home/kimr/repos/my/melpa/working/flyspell-correct/
-  to /tmp/flyspell-correctsktTar/flyspell-correct-20210724.1042
+  to /tmp/flyspell-correctcuxqZv/flyspell-correct-20210724.1042
     flyspell-correct.el -> flyspell-correct.el
     flyspell-correct-ido.el -> flyspell-correct-ido.el
 Created flyspell-correct-20210724.1042.tar containing:
@@ -13,21 +13,19 @@ Created flyspell-correct-20210724.1042.tar containing:
   flyspell-correct-20210724.1042/flyspell-correct-ido.el
   flyspell-correct-20210724.1042/flyspell-correct-pkg.el
   flyspell-correct-20210724.1042/flyspell-correct.el
-Built flyspell-correct in 0.324s, finished at 2021-07-25T03:49:13+0000
+Built flyspell-correct in 0.753s, finished at 2021-07-26T16:33:58+0000
  ✓ Success:
-4.0K -rw-rw-r-- 1 kimr kimr  383 Jul 20 14:32 packages/flyspell-correct-20210124.1143.entry
- 32K -rw-rw-r-- 1 kimr kimr  30K Jul 20 14:32 packages/flyspell-correct-20210124.1143.tar
-4.0K -rw-rw-r-- 1 kimr kimr  383 Jul 24 20:49 packages/flyspell-correct-20210724.1042.entry
- 32K -rw-rw-r-- 1 kimr kimr  30K Jul 24 20:49 packages/flyspell-correct-20210724.1042.tar
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 24 20:49 packages/flyspell-correct-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr 3.7K Jul 20 14:32 packages/flyspell-correct-helm-20210124.1143.el
-4.0K -rw-rw-r-- 1 kimr kimr  438 Jul 20 14:32 packages/flyspell-correct-helm-20210124.1143.entry
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 20 14:32 packages/flyspell-correct-helm-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr  630 Jul 20 14:32 packages/flyspell-correct-helm.log
-4.0K -rw-rw-r-- 1 kimr kimr  478 Jul 20 14:32 packages/flyspell-correct-helm-readme.txt
-8.0K -rw-rw-r-- 1 kimr kimr 4.1K Jul 20 14:32 packages/flyspell-correct-ivy-20210124.1143.el
-4.0K -rw-rw-r-- 1 kimr kimr  445 Jul 20 14:32 packages/flyspell-correct-ivy-20210124.1143.entry
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 20 14:32 packages/flyspell-correct-ivy-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr  623 Jul 20 14:32 packages/flyspell-correct-ivy.log
-4.0K -rw-rw-r-- 1 kimr kimr  474 Jul 20 14:32 packages/flyspell-correct-ivy-readme.txt
-4.0K -rw-rw-r-- 1 kimr kimr 1.7K Jul 24 20:49 packages/flyspell-correct-readme.txt
+4.0K -rw-rw-r-- 1 kimr kimr  383 Jul 26 09:33 packages/flyspell-correct-20210724.1042.entry
+ 32K -rw-rw-r-- 1 kimr kimr  30K Jul 26 09:33 packages/flyspell-correct-20210724.1042.tar
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 26 09:33 packages/flyspell-correct-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr 3.7K Jul 24 20:49 packages/flyspell-correct-helm-20210124.1143.el
+4.0K -rw-rw-r-- 1 kimr kimr  438 Jul 24 20:49 packages/flyspell-correct-helm-20210124.1143.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 24 20:49 packages/flyspell-correct-helm-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr  630 Jul 24 20:49 packages/flyspell-correct-helm.log
+4.0K -rw-rw-r-- 1 kimr kimr  478 Jul 24 20:49 packages/flyspell-correct-helm-readme.txt
+8.0K -rw-rw-r-- 1 kimr kimr 4.1K Jul 24 20:49 packages/flyspell-correct-ivy-20210124.1143.el
+4.0K -rw-rw-r-- 1 kimr kimr  445 Jul 24 20:49 packages/flyspell-correct-ivy-20210124.1143.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 24 20:49 packages/flyspell-correct-ivy-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr  623 Jul 24 20:49 packages/flyspell-correct-ivy.log
+4.0K -rw-rw-r-- 1 kimr kimr  474 Jul 24 20:49 packages/flyspell-correct-ivy-readme.txt
+4.0K -rw-rw-r-- 1 kimr kimr 1.7K Jul 26 09:33 packages/flyspell-correct-readme.txt

@@ -5,7 +5,7 @@ Source:  https://github.com/emacs-evil/evil-collection.git
 Updating /home/kimr/repos/my/melpa/working/evil-collection/
 Copying files (->) and directories (=>)
   from /home/kimr/repos/my/melpa/working/evil-collection/
-  to /tmp/evil-collectionUwCk8m/evil-collection-20210721.1454
+  to /tmp/evil-collection4m44Ac/evil-collection-20210721.1454
     evil-collection.el -> evil-collection.el
     modes => modes
 Created evil-collection-20210721.1454.tar containing:
@@ -349,11 +349,9 @@ Created evil-collection-20210721.1454.tar containing:
   evil-collection-20210721.1454/modes/zmusic/evil-collection-zmusic.el
   evil-collection-20210721.1454/modes/ztree/
   evil-collection-20210721.1454/modes/ztree/evil-collection-ztree.el
-Built evil-collection in 0.841s, finished at 2021-07-25T03:49:10+0000
+Built evil-collection in 1.046s, finished at 2021-07-26T16:33:50+0000
  ✓ Success:
-4.0K -rw-rw-r-- 1 kimr kimr  443 Jul 20 14:32 packages/evil-collection-20210718.441.entry
-840K -rw-rw-r-- 1 kimr kimr 840K Jul 20 14:32 packages/evil-collection-20210718.441.tar
-4.0K -rw-rw-r-- 1 kimr kimr  444 Jul 24 20:49 packages/evil-collection-20210721.1454.entry
-840K -rw-rw-r-- 1 kimr kimr 840K Jul 24 20:49 packages/evil-collection-20210721.1454.tar
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 24 20:49 packages/evil-collection-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr  301 Jul 24 20:49 packages/evil-collection-readme.txt
+4.0K -rw-rw-r-- 1 kimr kimr  444 Jul 26 09:33 packages/evil-collection-20210721.1454.entry
+840K -rw-rw-r-- 1 kimr kimr 840K Jul 26 09:33 packages/evil-collection-20210721.1454.tar
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 26 09:33 packages/evil-collection-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr  301 Jul 26 09:33 packages/evil-collection-readme.txt

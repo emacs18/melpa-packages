@@ -5,7 +5,7 @@ Source:  https://github.com/elixir-editors/emacs-elixir.git
 Updating /home/kimr/repos/my/melpa/working/elixir-mode/
 Copying files (->) and directories (=>)
   from /home/kimr/repos/my/melpa/working/elixir-mode/
-  to /tmp/elixir-modeRJ2gsI/elixir-mode-20210509.2353
+  to /tmp/elixir-modekO0p7k/elixir-mode-20210509.2353
     elixir-format.el -> elixir-format.el
     elixir-mode.el -> elixir-mode.el
     elixir-smie.el -> elixir-smie.el
@@ -15,9 +15,9 @@ Created elixir-mode-20210509.2353.tar containing:
   elixir-mode-20210509.2353/elixir-mode-pkg.el
   elixir-mode-20210509.2353/elixir-mode.el
   elixir-mode-20210509.2353/elixir-smie.el
-Built elixir-mode in 0.627s, finished at 2021-07-25T03:49:06+0000
+Built elixir-mode in 0.646s, finished at 2021-07-26T16:33:21+0000
  ✓ Success:
-4.0K -rw-rw-r-- 1 kimr kimr  311 Jul 24 20:49 packages/elixir-mode-20210509.2353.entry
- 72K -rw-rw-r-- 1 kimr kimr  70K Jul 24 20:49 packages/elixir-mode-20210509.2353.tar
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 24 20:49 packages/elixir-mode-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr   97 Jul 24 20:49 packages/elixir-mode-readme.txt
+4.0K -rw-rw-r-- 1 kimr kimr  311 Jul 26 09:33 packages/elixir-mode-20210509.2353.entry
+ 72K -rw-rw-r-- 1 kimr kimr  70K Jul 26 09:33 packages/elixir-mode-20210509.2353.tar
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 26 09:33 packages/elixir-mode-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr   97 Jul 26 09:33 packages/elixir-mode-readme.txt

@@ -3,9 +3,9 @@ Fetcher: github
 Source:  https://github.com/tarsius/keycast.git
 
 Updating /home/kimr/repos/my/melpa/working/keycast/
-Built keycast in 0.439s, finished at 2021-07-25T03:49:30+0000
+Built keycast in 0.719s, finished at 2021-07-26T16:34:31+0000
  ✓ Success:
- 16K -rw-rw-r-- 1 kimr kimr  14K Jul 24 20:49 packages/keycast-20210616.826.el
-4.0K -rw-rw-r-- 1 kimr kimr  346 Jul 24 20:49 packages/keycast-20210616.826.entry
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 24 20:49 packages/keycast-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr  188 Jul 24 20:49 packages/keycast-readme.txt
+ 16K -rw-rw-r-- 1 kimr kimr  14K Jul 26 09:34 packages/keycast-20210616.826.el
+4.0K -rw-rw-r-- 1 kimr kimr  346 Jul 26 09:34 packages/keycast-20210616.826.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 26 09:34 packages/keycast-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr  188 Jul 26 09:34 packages/keycast-readme.txt

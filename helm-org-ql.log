@@ -3,9 +3,9 @@ Fetcher: github
 Source:  https://github.com/alphapapa/org-ql.git
 
 Updating /home/kimr/repos/my/melpa/working/helm-org-ql/
-Built helm-org-ql in 0.768s, finished at 2021-07-25T03:49:26+0000
+Built helm-org-ql in 0.860s, finished at 2021-07-26T16:34:21+0000
  ✓ Success:
-8.0K -rw-rw-r-- 1 kimr kimr 7.7K Jul 24 20:49 packages/helm-org-ql-20210608.1556.el
-4.0K -rw-rw-r-- 1 kimr kimr  448 Jul 24 20:49 packages/helm-org-ql-20210608.1556.entry
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 24 20:49 packages/helm-org-ql-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr  293 Jul 24 20:49 packages/helm-org-ql-readme.txt
+8.0K -rw-rw-r-- 1 kimr kimr 7.7K Jul 26 09:34 packages/helm-org-ql-20210608.1556.el
+4.0K -rw-rw-r-- 1 kimr kimr  448 Jul 26 09:34 packages/helm-org-ql-20210608.1556.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 26 09:34 packages/helm-org-ql-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr  293 Jul 26 09:34 packages/helm-org-ql-readme.txt

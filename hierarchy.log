@@ -3,9 +3,9 @@ Fetcher: github
 Source:  https://github.com/DamienCassou/hierarchy.git
 
 Updating /home/kimr/repos/my/melpa/working/hierarchy/
-Built hierarchy in 0.630s, finished at 2021-07-25T03:49:28+0000
+Built hierarchy in 0.824s, finished at 2021-07-26T16:34:22+0000
  ✓ Success:
- 24K -rw-rw-r-- 1 kimr kimr  23K Jul 24 20:49 packages/hierarchy-20190425.842.el
-4.0K -rw-rw-r-- 1 kimr kimr  370 Jul 24 20:49 packages/hierarchy-20190425.842.entry
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 24 20:49 packages/hierarchy-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr  891 Jul 24 20:49 packages/hierarchy-readme.txt
+ 24K -rw-rw-r-- 1 kimr kimr  23K Jul 26 09:34 packages/hierarchy-20190425.842.el
+4.0K -rw-rw-r-- 1 kimr kimr  370 Jul 26 09:34 packages/hierarchy-20190425.842.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 26 09:34 packages/hierarchy-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr  891 Jul 26 09:34 packages/hierarchy-readme.txt
