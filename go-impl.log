@@ -3,9 +3,11 @@ Fetcher: github
 Source:  https://github.com/emacsorphanage/go-impl.git
 
 Updating /home/kimr/repos/my/melpa/working/go-impl/
-Built go-impl in 3.315s, finished at 2021-07-26T16:34:16+0000
+Checking out origin/HEAD
+Checking out 1eebba6ccd02d11a5a82ad4540a8d562797bc3b3
+Built go-impl in 0.650s, finished at 2021-08-08T16:18:22+0000
  ✓ Success:
-8.0K -rw-rw-r-- 1 kimr kimr 6.6K Jul 26 09:34 packages/go-impl-20210621.743.el
-4.0K -rw-rw-r-- 1 kimr kimr  355 Jul 26 09:34 packages/go-impl-20210621.743.entry
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 26 09:34 packages/go-impl-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr   59 Jul 26 09:34 packages/go-impl-readme.txt
+8.0K -rw-rw-r-- 1 kimr kimr 6.6K Aug  8 09:18 packages/go-impl-20210621.743.el
+4.0K -rw-rw-r-- 1 kimr kimr  355 Aug  8 09:18 packages/go-impl-20210621.743.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Aug  8 09:18 packages/go-impl-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr   59 Aug  8 09:18 packages/go-impl-readme.txt

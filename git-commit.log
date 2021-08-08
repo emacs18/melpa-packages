@@ -3,9 +3,23 @@ Fetcher: github
 Source:  https://github.com/magit/magit.git
 
 Updating /home/kimr/repos/my/melpa/working/git-commit/
-Built git-commit in 0.655s, finished at 2021-07-26T16:34:08+0000
+Checking out origin/HEAD
+Checking out a990a44c96dc069bb52800b923c466acc6d5f369
+Copying files (->) and directories (=>)
+  from /home/kimr/repos/my/melpa/working/git-commit/
+  to /tmp/git-commitbfcBmf/git-commit-20210806.1607
+  ! lisp/git-commit.el -> git-commit.el
+    LICENSE -> LICENSE
+Created git-commit-20210806.1607.tar containing:
+  git-commit-20210806.1607/
+  git-commit-20210806.1607/LICENSE
+  git-commit-20210806.1607/git-commit-pkg.el
+  git-commit-20210806.1607/git-commit.el
+Built git-commit in 0.747s, finished at 2021-08-08T16:18:17+0000
  ✓ Success:
  44K -rw-rw-r-- 1 kimr kimr  42K Jul 26 09:34 packages/git-commit-20210702.822.el
 4.0K -rw-rw-r-- 1 kimr kimr  654 Jul 26 09:34 packages/git-commit-20210702.822.entry
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 26 09:34 packages/git-commit-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr 3.5K Jul 26 09:34 packages/git-commit-readme.txt
+4.0K -rw-rw-r-- 1 kimr kimr  644 Aug  8 09:18 packages/git-commit-20210806.1607.entry
+ 80K -rw-rw-r-- 1 kimr kimr  80K Aug  8 09:18 packages/git-commit-20210806.1607.tar
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Aug  8 09:18 packages/git-commit-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr 3.5K Aug  8 09:18 packages/git-commit-readme.txt

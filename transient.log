@@ -3,21 +3,23 @@ Fetcher: github
 Source:  https://github.com/magit/transient.git
 
 Updating /home/kimr/repos/my/melpa/working/transient/
+Checking out origin/HEAD
+Checking out efdf91980a6f8bcb151debb877302ead8751ab65
 Copying files (->) and directories (=>)
   from /home/kimr/repos/my/melpa/working/transient/
-  to /tmp/transientndMSzM/transient-20210723.1601
+  to /tmp/transientq0JaFX/transient-20210723.1601
   ! lisp/transient.el -> transient.el
   ! docs/transient.texi -> transient.texi
-Created /tmp/transientndMSzM/transient-20210723.1601/transient.info
+Created /tmp/transientq0JaFX/transient-20210723.1601/transient.info
 Created transient-20210723.1601.tar containing:
   transient-20210723.1601/
   transient-20210723.1601/dir
   transient-20210723.1601/transient-pkg.el
   transient-20210723.1601/transient.el
   transient-20210723.1601/transient.info
-Built transient in 1.034s, finished at 2021-07-26T16:35:37+0000
+Built transient in 1.032s, finished at 2021-08-08T16:19:11+0000
  ✓ Success:
-4.0K -rw-rw-r-- 1 kimr kimr  362 Jul 26 09:35 packages/transient-20210723.1601.entry
-260K -rw-rw-r-- 1 kimr kimr 260K Jul 26 09:35 packages/transient-20210723.1601.tar
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 26 09:35 packages/transient-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr  994 Jul 26 09:35 packages/transient-readme.txt
+4.0K -rw-rw-r-- 1 kimr kimr  362 Aug  8 09:19 packages/transient-20210723.1601.entry
+260K -rw-rw-r-- 1 kimr kimr 260K Aug  8 09:19 packages/transient-20210723.1601.tar
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Aug  8 09:19 packages/transient-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr  994 Aug  8 09:19 packages/transient-readme.txt

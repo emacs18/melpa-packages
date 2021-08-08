@@ -3,9 +3,11 @@ Fetcher: github
 Source:  https://github.com/dominikh/go-mode.el.git
 
 Updating /home/kimr/repos/my/melpa/working/go-guru/
-Built go-guru in 0.626s, finished at 2021-07-26T16:34:12+0000
+Checking out origin/HEAD
+Checking out 34974346d1f74fa835d745514c9fe9afccce8dae
+Built go-guru in 0.825s, finished at 2021-08-08T16:18:21+0000
  ✓ Success:
- 20K -rw-rw-r-- 1 kimr kimr  20K Jul 26 09:34 packages/go-guru-20181012.330.el
-4.0K -rw-rw-r-- 1 kimr kimr  234 Jul 26 09:34 packages/go-guru-20181012.330.entry
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 26 09:34 packages/go-guru-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr  936 Jul 26 09:34 packages/go-guru-readme.txt
+ 20K -rw-rw-r-- 1 kimr kimr  20K Aug  8 09:18 packages/go-guru-20181012.330.el
+4.0K -rw-rw-r-- 1 kimr kimr  234 Aug  8 09:18 packages/go-guru-20181012.330.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Aug  8 09:18 packages/go-guru-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr  936 Aug  8 09:18 packages/go-guru-readme.txt

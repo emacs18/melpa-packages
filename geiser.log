@@ -3,9 +3,11 @@ Fetcher: gitlab
 Source:  https://gitlab.com/emacs-geiser/geiser.git
 
 Updating /home/kimr/repos/my/melpa/working/geiser/
+Checking out origin/HEAD
+Checking out d7b9e3ebe4e0874ea51f4f9430eb874143d7a424
 Copying files (->) and directories (=>)
   from /home/kimr/repos/my/melpa/working/geiser/
-  to /tmp/geiser3BLBVs/geiser-20210428.1942
+  to /tmp/geisereGti4X/geiser-20210428.1942
   ! elisp/geiser-autodoc.el -> geiser-autodoc.el
   ! elisp/geiser-base.el -> geiser-base.el
   ! elisp/geiser-company.el -> geiser-company.el
@@ -31,7 +33,18 @@ Copying files (->) and directories (=>)
   ! elisp/geiser.el -> geiser.el
   ! doc/dir -> dir
   ! doc/geiser.texi -> geiser.texi
-Created /tmp/geiser3BLBVs/geiser-20210428.1942/geiser.info
+Error: (error "Command ’(env LC_ALL=C makeinfo /home/kimr/repos/my/melpa/working/geiser/doc/geiser.texi -o /tmp/geisereGti4X/geiser-20210428.1942/geiser.info)’ exited with non-zero status 1: HEAD is now at d7b9e3e documentation: mention to the new NonGNU ELPA packages
+HEAD is now at d7b9e3e documentation: mention to the new NonGNU ELPA packages
+./install.texi:56: misplaced {
+./install.texi:56: misplaced }
+")
+Created /tmp/geisereGti4X/geiser-20210428.1942/geiser.info
+Error: (error "Command ’(env LC_ALL=C install-info --dir=dir /tmp/geisereGti4X/geiser-20210428.1942/geiser.info)’ exited with non-zero status 1: HEAD is now at d7b9e3e documentation: mention to the new NonGNU ELPA packages
+HEAD is now at d7b9e3e documentation: mention to the new NonGNU ELPA packages
+./install.texi:56: misplaced {
+./install.texi:56: misplaced }
+install-info: No such file or directory for /tmp/geisereGti4X/geiser-20210428.1942/geiser.info
+")
 Created geiser-20210428.1942.tar containing:
   geiser-20210428.1942/
   geiser-20210428.1942/dir
@@ -59,10 +72,9 @@ Created geiser-20210428.1942.tar containing:
   geiser-20210428.1942/geiser-table.el
   geiser-20210428.1942/geiser-xref.el
   geiser-20210428.1942/geiser.el
-  geiser-20210428.1942/geiser.info
-Built geiser in 1.349s, finished at 2021-07-20T21:32:49+0000
+Built geiser in 0.576s, finished at 2021-08-08T16:18:14+0000
  ✓ Success:
-4.0K -rw-rw-r-- 1 kimr kimr  375 Jul 20 14:32 packages/geiser-20210428.1942.entry
-312K -rw-rw-r-- 1 kimr kimr 310K Jul 20 14:32 packages/geiser-20210428.1942.tar
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 20 14:32 packages/geiser-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr 1.4K Jul 20 14:32 packages/geiser-readme.txt
+4.0K -rw-rw-r-- 1 kimr kimr  375 Aug  8 09:18 packages/geiser-20210428.1942.entry
+220K -rw-rw-r-- 1 kimr kimr 220K Aug  8 09:18 packages/geiser-20210428.1942.tar
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Aug  8 09:18 packages/geiser-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr 1.4K Aug  8 09:18 packages/geiser-readme.txt

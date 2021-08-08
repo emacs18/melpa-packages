@@ -98,6 +98,7 @@ missing package or change you would like to see.
     css-mode
     csv-mode
     ctrlf
+    cursor-flash
     custom (M-x customize)
     dap-mode
     dashboard (emacs-dashboard)
@@ -133,6 +134,7 @@ missing package or change you would like to see.
     eldoc-box
     elfeed
     elfeed-score
+    elpher
     embark
     emms
     enh-ruby-mode (enhanced-ruby-mode)

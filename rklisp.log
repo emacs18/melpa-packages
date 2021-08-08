@@ -3,4 +3,6 @@ Fetcher: git
 Source:  /u/kimr/repos/my/rklisp
 
 Updating /home/kimr/repos/my/melpa/working/rklisp/
+Checking out origin/HEAD
+Checking out 0f7cd352b4d4452ccb1fdead4c2dc4204cad51d7
 rklisp[-pkg].el matching package name is missing

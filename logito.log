@@ -3,9 +3,11 @@ Fetcher: github
 Source:  https://github.com/sigma/logito.git
 
 Updating /home/kimr/repos/my/melpa/working/logito/
-Built logito in 0.597s, finished at 2021-07-26T16:34:37+0000
+Checking out origin/HEAD
+Checking out d5934ce10ba3a70d3fcfb94d742ce3b9136ce124
+Built logito in 0.645s, finished at 2021-08-08T16:18:40+0000
  ✓ Success:
-4.0K -rw-rw-r-- 1 kimr kimr 3.2K Jul 26 09:34 packages/logito-20201226.534.el
-4.0K -rw-rw-r-- 1 kimr kimr  304 Jul 26 09:34 packages/logito-20201226.534.entry
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 26 09:34 packages/logito-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr   48 Jul 26 09:34 packages/logito-readme.txt
+4.0K -rw-rw-r-- 1 kimr kimr 3.2K Aug  8 09:18 packages/logito-20201226.534.el
+4.0K -rw-rw-r-- 1 kimr kimr  304 Aug  8 09:18 packages/logito-20201226.534.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Aug  8 09:18 packages/logito-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr   48 Aug  8 09:18 packages/logito-readme.txt

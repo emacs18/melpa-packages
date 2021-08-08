@@ -3,9 +3,11 @@ Fetcher: github
 Source:  https://github.com/emacs-evil/evil.git
 
 Updating /home/kimr/repos/my/melpa/working/evil/
+Checking out origin/HEAD
+Checking out 5c28294d830a5a79e9b9da2c32e7675d52d76720
 Copying files (->) and directories (=>)
   from /home/kimr/repos/my/melpa/working/evil/
-  to /tmp/evilQAul93/evil-20210725.2056
+  to /tmp/evilEofk4R/evil-20210726.2220
     evil-command-window.el -> evil-command-window.el
     evil-commands.el -> evil-commands.el
     evil-common.el -> evil-common.el
@@ -26,36 +28,36 @@ Copying files (->) and directories (=>)
     evil-vars.el -> evil-vars.el
     evil.el -> evil.el
   ! doc/build/texinfo/evil.texi -> evil.texi
-Created /tmp/evilQAul93/evil-20210725.2056/evil.info
-Created evil-20210725.2056.tar containing:
-  evil-20210725.2056/
-  evil-20210725.2056/dir
-  evil-20210725.2056/evil-command-window.el
-  evil-20210725.2056/evil-commands.el
-  evil-20210725.2056/evil-common.el
-  evil-20210725.2056/evil-core.el
-  evil-20210725.2056/evil-development.el
-  evil-20210725.2056/evil-digraphs.el
-  evil-20210725.2056/evil-ex.el
-  evil-20210725.2056/evil-integration.el
-  evil-20210725.2056/evil-jumps.el
-  evil-20210725.2056/evil-keybindings.el
-  evil-20210725.2056/evil-macros.el
-  evil-20210725.2056/evil-maps.el
-  evil-20210725.2056/evil-pkg.el
-  evil-20210725.2056/evil-repeat.el
-  evil-20210725.2056/evil-search.el
-  evil-20210725.2056/evil-states.el
-  evil-20210725.2056/evil-types.el
-  evil-20210725.2056/evil-vars.el
-  evil-20210725.2056/evil.el
-  evil-20210725.2056/evil.info
-Built evil in 2.983s, finished at 2021-07-26T16:33:49+0000
+Created /tmp/evilEofk4R/evil-20210726.2220/evil.info
+Created evil-20210726.2220.tar containing:
+  evil-20210726.2220/
+  evil-20210726.2220/dir
+  evil-20210726.2220/evil-command-window.el
+  evil-20210726.2220/evil-commands.el
+  evil-20210726.2220/evil-common.el
+  evil-20210726.2220/evil-core.el
+  evil-20210726.2220/evil-development.el
+  evil-20210726.2220/evil-digraphs.el
+  evil-20210726.2220/evil-ex.el
+  evil-20210726.2220/evil-integration.el
+  evil-20210726.2220/evil-jumps.el
+  evil-20210726.2220/evil-keybindings.el
+  evil-20210726.2220/evil-macros.el
+  evil-20210726.2220/evil-maps.el
+  evil-20210726.2220/evil-pkg.el
+  evil-20210726.2220/evil-repeat.el
+  evil-20210726.2220/evil-search.el
+  evil-20210726.2220/evil-states.el
+  evil-20210726.2220/evil-types.el
+  evil-20210726.2220/evil-vars.el
+  evil-20210726.2220/evil.el
+  evil-20210726.2220/evil.info
+Built evil in 1.061s, finished at 2021-08-08T16:18:02+0000
  ✓ Success:
-4.0K -rw-rw-r-- 1 kimr kimr  283 Jul 24 20:49 packages/evil-20210723.2222.entry
-892K -rw-rw-r-- 1 kimr kimr 890K Jul 24 20:49 packages/evil-20210723.2222.tar
 4.0K -rw-rw-r-- 1 kimr kimr  283 Jul 26 09:33 packages/evil-20210725.2056.entry
 892K -rw-rw-r-- 1 kimr kimr 890K Jul 26 09:33 packages/evil-20210725.2056.tar
+4.0K -rw-rw-r-- 1 kimr kimr  283 Aug  8 09:18 packages/evil-20210726.2220.entry
+892K -rw-rw-r-- 1 kimr kimr 890K Aug  8 09:18 packages/evil-20210726.2220.tar
 4.0K -rw-rw-r-- 1 kimr kimr 2.8K Jul 20 14:32 packages/evil-anzu-20200514.1902.el
 4.0K -rw-rw-r-- 1 kimr kimr  420 Jul 20 14:32 packages/evil-anzu-20200514.1902.entry
 4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 20 14:32 packages/evil-anzu-badge.svg
@@ -66,17 +68,17 @@ Built evil in 2.983s, finished at 2021-07-26T16:33:49+0000
 4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 20 14:32 packages/evil-args-badge.svg
 4.0K -rw-rw-r-- 1 kimr kimr  536 Jul 20 14:32 packages/evil-args.log
 4.0K -rw-rw-r-- 1 kimr kimr  810 Jul 20 14:32 packages/evil-args-readme.txt
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 26 09:33 packages/evil-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Aug  8 09:18 packages/evil-badge.svg
 4.0K -rw-rw-r-- 1 kimr kimr  587 Jul 20 14:32 packages/evil-cleverparens-20170718.413.entry
 112K -rw-rw-r-- 1 kimr kimr 110K Jul 20 14:32 packages/evil-cleverparens-20170718.413.tar
 4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 20 14:32 packages/evil-cleverparens-badge.svg
 4.0K -rw-rw-r-- 1 kimr kimr 1.3K Jul 20 14:32 packages/evil-cleverparens.log
 4.0K -rw-rw-r-- 1 kimr kimr  256 Jul 20 14:32 packages/evil-cleverparens-readme.txt
-4.0K -rw-rw-r-- 1 kimr kimr  444 Jul 24 20:49 packages/evil-collection-20210721.1454.entry
-840K -rw-rw-r-- 1 kimr kimr 840K Jul 24 20:49 packages/evil-collection-20210721.1454.tar
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 24 20:49 packages/evil-collection-badge.svg
- 24K -rw-rw-r-- 1 kimr kimr  22K Jul 24 20:49 packages/evil-collection.log
-4.0K -rw-rw-r-- 1 kimr kimr  301 Jul 24 20:49 packages/evil-collection-readme.txt
+4.0K -rw-rw-r-- 1 kimr kimr  444 Jul 26 09:33 packages/evil-collection-20210721.1454.entry
+840K -rw-rw-r-- 1 kimr kimr 840K Jul 26 09:33 packages/evil-collection-20210721.1454.tar
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 26 09:33 packages/evil-collection-badge.svg
+ 24K -rw-rw-r-- 1 kimr kimr  21K Jul 26 09:33 packages/evil-collection.log
+4.0K -rw-rw-r-- 1 kimr kimr  301 Jul 26 09:33 packages/evil-collection-readme.txt
  24K -rw-rw-r-- 1 kimr kimr  22K Jul 20 14:32 packages/evil-easymotion-20200424.135.el
 4.0K -rw-rw-r-- 1 kimr kimr  448 Jul 20 14:32 packages/evil-easymotion-20200424.135.entry
 4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 20 14:32 packages/evil-easymotion-badge.svg
@@ -149,12 +151,12 @@ Built evil in 2.983s, finished at 2021-07-26T16:33:49+0000
 4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 20 14:32 packages/evil-org-badge.svg
 4.0K -rw-rw-r-- 1 kimr kimr  945 Jul 20 14:32 packages/evil-org.log
 4.0K -rw-rw-r-- 1 kimr kimr   67 Jul 20 14:32 packages/evil-org-readme.txt
-4.0K -rw-rw-r-- 1 kimr kimr  883 Jul 26 09:33 packages/evil-readme.txt
- 28K -rwxrwxr-x 1 kimr kimr  26K Jul 24 20:49 packages/evil-snipe-20210713.1456.el
-4.0K -rw-rw-r-- 1 kimr kimr  484 Jul 24 20:49 packages/evil-snipe-20210713.1456.entry
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 24 20:49 packages/evil-snipe-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr  545 Jul 24 20:49 packages/evil-snipe.log
-4.0K -rw-rw-r-- 1 kimr kimr  452 Jul 24 20:49 packages/evil-snipe-readme.txt
+4.0K -rw-rw-r-- 1 kimr kimr  883 Aug  8 09:18 packages/evil-readme.txt
+ 28K -rwxrwxr-x 1 kimr kimr  26K Jul 26 09:33 packages/evil-snipe-20210713.1456.el
+4.0K -rw-rw-r-- 1 kimr kimr  484 Jul 26 09:33 packages/evil-snipe-20210713.1456.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 26 09:33 packages/evil-snipe-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr  545 Jul 26 09:33 packages/evil-snipe.log
+4.0K -rw-rw-r-- 1 kimr kimr  452 Jul 26 09:33 packages/evil-snipe-readme.txt
  20K -rw-rw-r-- 1 kimr kimr  19K Jul 20 14:32 packages/evil-surround-20210615.2119.el
 4.0K -rw-rw-r-- 1 kimr kimr  382 Jul 20 14:32 packages/evil-surround-20210615.2119.entry
 4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 20 14:32 packages/evil-surround-badge.svg

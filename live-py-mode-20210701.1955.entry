@@ -3,7 +3,7 @@
 	       ((emacs
 		 (24 3)))
 	       "Live Coding in Python" tar
-	       ((:commit . "58b8af6075059633bac1afd166a2a248f25a8515")
+	       ((:commit . "033c5c888f8ec9f9739848ead6381b891d4c9c00")
 		(:authors
 		 ("Don Kirkby http://donkirkby.github.io"))
 		(:maintainer "Don Kirkby http://donkirkby.github.io")

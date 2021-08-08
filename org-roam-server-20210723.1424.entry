@@ -15,7 +15,7 @@
 		   (f
 		    (0 20 0)))
 		  "Org Roam Database Visualizer" tar
-		  ((:commit . "35cd20280428470d37c1bff18d26cd49436ec3a2")
+		  ((:commit . "a207ecd36e29dad55eb66431f041e39144130ee5")
 		   (:authors
 		    ("Göktuğ Karakaşlı" . "karakasligk@gmail.com"))
 		   (:maintainer "Göktuğ Karakaşlı" . "karakasligk@gmail.com")

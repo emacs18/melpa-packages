@@ -3,9 +3,11 @@ Fetcher: github
 Source:  https://github.com/abo-abo/worf.git
 
 Updating /home/kimr/repos/my/melpa/working/worf/
+Checking out origin/HEAD
+Checking out 28d381e2603a79340a94a410acbbb8a6b3e237d8
 Copying files (->) and directories (=>)
   from /home/kimr/repos/my/melpa/working/worf/
-  to /tmp/worfRdeste/worf-20210702.1200
+  to /tmp/worf2QEsdx/worf-20210702.1200
     elpa.el -> elpa.el
     worf.el -> worf.el
 Created worf-20210702.1200.tar containing:
@@ -13,9 +15,9 @@ Created worf-20210702.1200.tar containing:
   worf-20210702.1200/elpa.el
   worf-20210702.1200/worf-pkg.el
   worf-20210702.1200/worf.el
-Built worf in 9.609s, finished at 2021-07-26T16:35:57+0000
+Built worf in 0.639s, finished at 2021-08-08T16:19:19+0000
  ✓ Success:
-4.0K -rw-rw-r-- 1 kimr kimr  427 Jul 26 09:35 packages/worf-20210702.1200.entry
- 80K -rw-rw-r-- 1 kimr kimr  80K Jul 26 09:35 packages/worf-20210702.1200.tar
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 26 09:35 packages/worf-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr 3.9K Jul 26 09:35 packages/worf-readme.txt
+4.0K -rw-rw-r-- 1 kimr kimr  427 Aug  8 09:19 packages/worf-20210702.1200.entry
+ 80K -rw-rw-r-- 1 kimr kimr  80K Aug  8 09:19 packages/worf-20210702.1200.tar
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Aug  8 09:19 packages/worf-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr 3.9K Aug  8 09:19 packages/worf-readme.txt

@@ -3,9 +3,11 @@ Fetcher: github
 Source:  https://github.com/akermu/emacs-libvterm.git
 
 Updating /home/kimr/repos/my/melpa/working/vterm/
+Checking out origin/HEAD
+Checking out f73644a07ce56712101d1568139a8f3c3b4a9e59
 Copying files (->) and directories (=>)
   from /home/kimr/repos/my/melpa/working/vterm/
-  to /tmp/vtermgTC06V/vterm-20210618.1922
+  to /tmp/vtermmwjO3I/vterm-20210804.405
     .git => .git
     .gitmodules -> .gitmodules
     CMakeLists.txt -> CMakeLists.txt
@@ -20,28 +22,30 @@ Copying files (->) and directories (=>)
     vterm-module.c -> vterm-module.c
     vterm-module.h -> vterm-module.h
     vterm.el -> vterm.el
-Created vterm-20210618.1922.tar containing:
-  vterm-20210618.1922/
-  vterm-20210618.1922/.gitmodules
-  vterm-20210618.1922/CMakeLists.txt
-  vterm-20210618.1922/LICENSE
-  vterm-20210618.1922/README.md
-  vterm-20210618.1922/elisp.c
-  vterm-20210618.1922/elisp.h
-  vterm-20210618.1922/emacs-module.h
-  vterm-20210618.1922/etc/
-  vterm-20210618.1922/etc/emacs-vterm-bash.sh
-  vterm-20210618.1922/etc/emacs-vterm-zsh.sh
-  vterm-20210618.1922/etc/emacs-vterm.fish
-  vterm-20210618.1922/utf8.c
-  vterm-20210618.1922/utf8.h
-  vterm-20210618.1922/vterm-module.c
-  vterm-20210618.1922/vterm-module.h
-  vterm-20210618.1922/vterm-pkg.el
-  vterm-20210618.1922/vterm.el
-Built vterm in 0.912s, finished at 2021-07-20T21:36:40+0000
+Created vterm-20210804.405.tar containing:
+  vterm-20210804.405/
+  vterm-20210804.405/.gitmodules
+  vterm-20210804.405/CMakeLists.txt
+  vterm-20210804.405/LICENSE
+  vterm-20210804.405/README.md
+  vterm-20210804.405/elisp.c
+  vterm-20210804.405/elisp.h
+  vterm-20210804.405/emacs-module.h
+  vterm-20210804.405/etc/
+  vterm-20210804.405/etc/emacs-vterm-bash.sh
+  vterm-20210804.405/etc/emacs-vterm-zsh.sh
+  vterm-20210804.405/etc/emacs-vterm.fish
+  vterm-20210804.405/utf8.c
+  vterm-20210804.405/utf8.h
+  vterm-20210804.405/vterm-module.c
+  vterm-20210804.405/vterm-module.h
+  vterm-20210804.405/vterm-pkg.el
+  vterm-20210804.405/vterm.el
+Built vterm in 0.835s, finished at 2021-08-08T16:19:18+0000
  ✓ Success:
 4.0K -rw-rw-r-- 1 kimr kimr  352 Jul 20 14:36 packages/vterm-20210618.1922.entry
 232K -rw-rw-r-- 1 kimr kimr 230K Jul 20 14:36 packages/vterm-20210618.1922.tar
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 20 14:36 packages/vterm-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr  977 Jul 20 14:36 packages/vterm-readme.txt
+4.0K -rw-rw-r-- 1 kimr kimr  351 Aug  8 09:19 packages/vterm-20210804.405.entry
+232K -rw-rw-r-- 1 kimr kimr 230K Aug  8 09:19 packages/vterm-20210804.405.tar
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Aug  8 09:19 packages/vterm-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr  977 Aug  8 09:19 packages/vterm-readme.txt

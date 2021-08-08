@@ -3,23 +3,25 @@ Fetcher: github
 Source:  https://github.com/ahungry/org-jira.git
 
 Updating /home/kimr/repos/my/melpa/working/org-jira/
+Checking out origin/HEAD
+Checking out 7ac5a035a0f63d00a1a66734ffe92859fd996543
 Copying files (->) and directories (=>)
   from /home/kimr/repos/my/melpa/working/org-jira/
-  to /tmp/org-jiraSg4uN2/org-jira-20210719.2242
+  to /tmp/org-jiraqxMdLY/org-jira-20210804.2307
     jiralib.el -> jiralib.el
     org-jira.el -> org-jira.el
     org-jira-sdk.el -> org-jira-sdk.el
-Created org-jira-20210719.2242.tar containing:
-  org-jira-20210719.2242/
-  org-jira-20210719.2242/jiralib.el
-  org-jira-20210719.2242/org-jira-pkg.el
-  org-jira-20210719.2242/org-jira-sdk.el
-  org-jira-20210719.2242/org-jira.el
-Built org-jira in 1.337s, finished at 2021-07-20T21:35:00+0000
+Created org-jira-20210804.2307.tar containing:
+  org-jira-20210804.2307/
+  org-jira-20210804.2307/jiralib.el
+  org-jira-20210804.2307/org-jira-pkg.el
+  org-jira-20210804.2307/org-jira-sdk.el
+  org-jira-20210804.2307/org-jira.el
+Built org-jira in 0.683s, finished at 2021-08-08T16:18:55+0000
  ✓ Success:
-4.0K -rw-rw-r-- 1 kimr kimr  410 Jul 10 10:22 packages/org-jira-20210622.130.entry
-172K -rw-rw-r-- 1 kimr kimr 170K Jul 10 10:22 packages/org-jira-20210622.130.tar
 4.0K -rw-rw-r-- 1 kimr kimr  411 Jul 20 14:34 packages/org-jira-20210719.2242.entry
 172K -rw-rw-r-- 1 kimr kimr 170K Jul 20 14:34 packages/org-jira-20210719.2242.tar
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 20 14:35 packages/org-jira-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr   83 Jul 20 14:34 packages/org-jira-readme.txt
+4.0K -rw-rw-r-- 1 kimr kimr  411 Aug  8 09:18 packages/org-jira-20210804.2307.entry
+172K -rw-rw-r-- 1 kimr kimr 170K Aug  8 09:18 packages/org-jira-20210804.2307.tar
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Aug  8 09:18 packages/org-jira-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr   83 Aug  8 09:18 packages/org-jira-readme.txt

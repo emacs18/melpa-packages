@@ -3,9 +3,11 @@ Fetcher: github
 Source:  https://github.com/integral-dw/org-superstar-mode.git
 
 Updating /home/kimr/repos/my/melpa/working/org-superstar/
-Built org-superstar in 1.042s, finished at 2021-07-26T16:35:18+0000
+Checking out origin/HEAD
+Checking out 9d64c42e5029910153ec74cb9b5747b074281140
+Built org-superstar in 0.644s, finished at 2021-08-08T16:19:00+0000
  ✓ Success:
- 36K -rw-rw-r-- 1 kimr kimr  35K Jul 26 09:35 packages/org-superstar-20210216.1925.el
-4.0K -rw-rw-r-- 1 kimr kimr  419 Jul 26 09:35 packages/org-superstar-20210216.1925.entry
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 26 09:35 packages/org-superstar-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr 1.9K Jul 26 09:35 packages/org-superstar-readme.txt
+ 36K -rw-rw-r-- 1 kimr kimr  35K Aug  8 09:19 packages/org-superstar-20210216.1925.el
+4.0K -rw-rw-r-- 1 kimr kimr  419 Aug  8 09:19 packages/org-superstar-20210216.1925.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Aug  8 09:19 packages/org-superstar-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr 1.9K Aug  8 09:19 packages/org-superstar-readme.txt

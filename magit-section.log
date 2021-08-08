@@ -3,21 +3,25 @@ Fetcher: github
 Source:  https://github.com/magit/magit.git
 
 Updating /home/kimr/repos/my/melpa/working/magit-section/
+Checking out origin/HEAD
+Checking out a990a44c96dc069bb52800b923c466acc6d5f369
 Copying files (->) and directories (=>)
   from /home/kimr/repos/my/melpa/working/magit-section/
-  to /tmp/magit-sectionlOv0H0/magit-section-20210702.822
+  to /tmp/magit-sectionBplNTx/magit-section-20210806.1607
   ! lisp/magit-section.el -> magit-section.el
   ! Documentation/magit-section.texi -> magit-section.texi
-Created /tmp/magit-sectionlOv0H0/magit-section-20210702.822/magit-section.info
-Created magit-section-20210702.822.tar containing:
-  magit-section-20210702.822/
-  magit-section-20210702.822/dir
-  magit-section-20210702.822/magit-section-pkg.el
-  magit-section-20210702.822/magit-section.el
-  magit-section-20210702.822/magit-section.info
-Built magit-section in 0.337s, finished at 2021-07-26T16:34:46+0000
+Created /tmp/magit-sectionBplNTx/magit-section-20210806.1607/magit-section.info
+Created magit-section-20210806.1607.tar containing:
+  magit-section-20210806.1607/
+  magit-section-20210806.1607/dir
+  magit-section-20210806.1607/magit-section-pkg.el
+  magit-section-20210806.1607/magit-section.el
+  magit-section-20210806.1607/magit-section.info
+Built magit-section in 0.406s, finished at 2021-08-08T16:18:47+0000
  ✓ Success:
 4.0K -rw-rw-r-- 1 kimr kimr  372 Jul 26 09:34 packages/magit-section-20210702.822.entry
 100K -rw-rw-r-- 1 kimr kimr 100K Jul 26 09:34 packages/magit-section-20210702.822.tar
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 26 09:34 packages/magit-section-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr  255 Jul 26 09:34 packages/magit-section-readme.txt
+4.0K -rw-rw-r-- 1 kimr kimr  371 Aug  8 09:18 packages/magit-section-20210806.1607.entry
+100K -rw-rw-r-- 1 kimr kimr 100K Aug  8 09:18 packages/magit-section-20210806.1607.tar
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Aug  8 09:18 packages/magit-section-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr  255 Aug  8 09:18 packages/magit-section-readme.txt

@@ -3,9 +3,11 @@ Fetcher: github
 Source:  https://github.com/Alexander-Miller/treemacs.git
 
 Updating /home/kimr/repos/my/melpa/working/treemacs-projectile/
-Built treemacs-projectile in 0.196s, finished at 2021-07-20T21:36:31+0000
+Checking out origin/HEAD
+Checking out b572bc78daa01264a1845dc8143f7d47152faefb
+Built treemacs-projectile in 0.277s, finished at 2021-08-08T16:19:16+0000
  ✓ Success:
-8.0K -rw-rw-r-- 1 kimr kimr 5.1K Jul 20 14:36 packages/treemacs-projectile-20210107.1251.el
-4.0K -rw-rw-r-- 1 kimr kimr  453 Jul 20 14:36 packages/treemacs-projectile-20210107.1251.entry
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 20 14:36 packages/treemacs-projectile-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr   38 Jul 20 14:36 packages/treemacs-projectile-readme.txt
+8.0K -rw-rw-r-- 1 kimr kimr 5.1K Aug  8 09:19 packages/treemacs-projectile-20210107.1251.el
+4.0K -rw-rw-r-- 1 kimr kimr  453 Aug  8 09:19 packages/treemacs-projectile-20210107.1251.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Aug  8 09:19 packages/treemacs-projectile-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr   38 Aug  8 09:19 packages/treemacs-projectile-readme.txt

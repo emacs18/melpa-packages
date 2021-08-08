@@ -3,9 +3,11 @@ Fetcher: github
 Source:  https://github.com/d12frosted/flyspell-correct.git
 
 Updating /home/kimr/repos/my/melpa/working/flyspell-correct-helm/
-Built flyspell-correct-helm in 1.276s, finished at 2021-07-26T16:34:00+0000
+Checking out origin/HEAD
+Checking out 00357953a736e21d0a1c8d76f5605820990544fe
+Built flyspell-correct-helm in 0.655s, finished at 2021-08-08T16:18:10+0000
  ✓ Success:
-4.0K -rw-rw-r-- 1 kimr kimr 3.7K Jul 26 09:33 packages/flyspell-correct-helm-20210124.1143.el
-4.0K -rw-rw-r-- 1 kimr kimr  438 Jul 26 09:33 packages/flyspell-correct-helm-20210124.1143.entry
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 26 09:34 packages/flyspell-correct-helm-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr  478 Jul 26 09:33 packages/flyspell-correct-helm-readme.txt
+4.0K -rw-rw-r-- 1 kimr kimr 3.7K Aug  8 09:18 packages/flyspell-correct-helm-20210124.1143.el
+4.0K -rw-rw-r-- 1 kimr kimr  438 Aug  8 09:18 packages/flyspell-correct-helm-20210124.1143.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Aug  8 09:18 packages/flyspell-correct-helm-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr  478 Aug  8 09:18 packages/flyspell-correct-helm-readme.txt

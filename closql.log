@@ -3,9 +3,11 @@ Fetcher: github
 Source:  https://github.com/emacscollective/closql.git
 
 Updating /home/kimr/repos/my/melpa/working/closql/
-Built closql in 0.580s, finished at 2021-07-26T16:32:31+0000
+Checking out origin/HEAD
+Checking out e2687e7ff958a19e6e5d6552c4e0b7b33c424bab
+Built closql in 0.853s, finished at 2021-08-08T16:17:49+0000
  ✓ Success:
- 24K -rw-rw-r-- 1 kimr kimr  24K Jul 26 09:32 packages/closql-20210616.1951.el
-4.0K -rw-rw-r-- 1 kimr kimr  388 Jul 26 09:32 packages/closql-20210616.1951.entry
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 26 09:32 packages/closql-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr  308 Jul 26 09:32 packages/closql-readme.txt
+ 24K -rw-rw-r-- 1 kimr kimr  24K Aug  8 09:17 packages/closql-20210616.1951.el
+4.0K -rw-rw-r-- 1 kimr kimr  388 Aug  8 09:17 packages/closql-20210616.1951.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Aug  8 09:17 packages/closql-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr  308 Aug  8 09:17 packages/closql-readme.txt

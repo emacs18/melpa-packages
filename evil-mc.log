@@ -3,9 +3,11 @@ Fetcher: github
 Source:  https://github.com/gabesoft/evil-mc.git
 
 Updating /home/kimr/repos/my/melpa/working/evil-mc/
+Checking out origin/HEAD
+Checking out 246aecc17481dd23c172a9b845f02a9d9e322c7f
 Copying files (->) and directories (=>)
   from /home/kimr/repos/my/melpa/working/evil-mc/
-  to /tmp/evil-mc7JbTv2/evil-mc-20210206.1941
+  to /tmp/evil-mcczKyKc/evil-mc-20210730.1752
     evil-mc-command-execute.el -> evil-mc-command-execute.el
     evil-mc-command-record.el -> evil-mc-command-record.el
     evil-mc-common.el -> evil-mc-common.el
@@ -18,24 +20,26 @@ Copying files (->) and directories (=>)
     evil-mc-undo.el -> evil-mc-undo.el
     evil-mc-vars.el -> evil-mc-vars.el
     evil-mc.el -> evil-mc.el
-Created evil-mc-20210206.1941.tar containing:
-  evil-mc-20210206.1941/
-  evil-mc-20210206.1941/evil-mc-command-execute.el
-  evil-mc-20210206.1941/evil-mc-command-record.el
-  evil-mc-20210206.1941/evil-mc-common.el
-  evil-mc-20210206.1941/evil-mc-cursor-make.el
-  evil-mc-20210206.1941/evil-mc-cursor-state.el
-  evil-mc-20210206.1941/evil-mc-known-commands.el
-  evil-mc-20210206.1941/evil-mc-pkg.el
-  evil-mc-20210206.1941/evil-mc-region.el
-  evil-mc-20210206.1941/evil-mc-scratch.el
-  evil-mc-20210206.1941/evil-mc-setup.el
-  evil-mc-20210206.1941/evil-mc-undo.el
-  evil-mc-20210206.1941/evil-mc-vars.el
-  evil-mc-20210206.1941/evil-mc.el
-Built evil-mc in 0.654s, finished at 2021-07-20T21:32:18+0000
+Created evil-mc-20210730.1752.tar containing:
+  evil-mc-20210730.1752/
+  evil-mc-20210730.1752/evil-mc-command-execute.el
+  evil-mc-20210730.1752/evil-mc-command-record.el
+  evil-mc-20210730.1752/evil-mc-common.el
+  evil-mc-20210730.1752/evil-mc-cursor-make.el
+  evil-mc-20210730.1752/evil-mc-cursor-state.el
+  evil-mc-20210730.1752/evil-mc-known-commands.el
+  evil-mc-20210730.1752/evil-mc-pkg.el
+  evil-mc-20210730.1752/evil-mc-region.el
+  evil-mc-20210730.1752/evil-mc-scratch.el
+  evil-mc-20210730.1752/evil-mc-setup.el
+  evil-mc-20210730.1752/evil-mc-undo.el
+  evil-mc-20210730.1752/evil-mc-vars.el
+  evil-mc-20210730.1752/evil-mc.el
+Built evil-mc in 0.644s, finished at 2021-08-08T16:18:05+0000
  ✓ Success:
 4.0K -rw-rw-r-- 1 kimr kimr  485 Jul 20 14:32 packages/evil-mc-20210206.1941.entry
 140K -rw-rw-r-- 1 kimr kimr 140K Jul 20 14:32 packages/evil-mc-20210206.1941.tar
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 20 14:32 packages/evil-mc-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr  244 Jul 20 14:32 packages/evil-mc-readme.txt
+4.0K -rw-rw-r-- 1 kimr kimr  485 Aug  8 09:18 packages/evil-mc-20210730.1752.entry
+140K -rw-rw-r-- 1 kimr kimr 140K Aug  8 09:18 packages/evil-mc-20210730.1752.tar
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Aug  8 09:18 packages/evil-mc-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr  244 Aug  8 09:18 packages/evil-mc-readme.txt

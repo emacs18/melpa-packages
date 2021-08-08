@@ -3,9 +3,11 @@ Fetcher: github
 Source:  https://github.com/AndreaCrotti/yasnippet-snippets.git
 
 Updating /home/kimr/repos/my/melpa/working/yasnippet-snippets/
+Checking out origin/HEAD
+Checking out 37e3b1ee7d110bb05ab36524642bbf5cb4058c0d
 Copying files (->) and directories (=>)
   from /home/kimr/repos/my/melpa/working/yasnippet-snippets/
-  to /tmp/yasnippet-snippetsLjx7m1/yasnippet-snippets-20210408.1234
+  to /tmp/yasnippet-snippetsvFrvaB/yasnippet-snippets-20210408.1234
     yasnippet-snippets.el -> yasnippet-snippets.el
     snippets => snippets
 Created yasnippet-snippets-20210408.1234.tar containing:
@@ -2173,9 +2175,9 @@ Created yasnippet-snippets-20210408.1234.tar containing:
   yasnippet-snippets-20210408.1234/snippets/yaml-mode/section
   yasnippet-snippets-20210408.1234/yasnippet-snippets-pkg.el
   yasnippet-snippets-20210408.1234/yasnippet-snippets.el
-Built yasnippet-snippets in 2.540s, finished at 2021-07-20T21:36:59+0000
+Built yasnippet-snippets in 2.494s, finished at 2021-08-08T16:19:24+0000
  ✓ Success:
-4.0K -rw-rw-r-- 1 kimr kimr  440 Jul 20 14:36 packages/yasnippet-snippets-20210408.1234.entry
-2.3M -rw-rw-r-- 1 kimr kimr 2.3M Jul 20 14:36 packages/yasnippet-snippets-20210408.1234.tar
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 20 14:36 packages/yasnippet-snippets-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr   55 Jul 20 14:36 packages/yasnippet-snippets-readme.txt
+4.0K -rw-rw-r-- 1 kimr kimr  440 Aug  8 09:19 packages/yasnippet-snippets-20210408.1234.entry
+2.3M -rw-rw-r-- 1 kimr kimr 2.3M Aug  8 09:19 packages/yasnippet-snippets-20210408.1234.tar
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Aug  8 09:19 packages/yasnippet-snippets-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr   55 Aug  8 09:19 packages/yasnippet-snippets-readme.txt
