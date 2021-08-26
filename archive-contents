@@ -766,6 +766,16 @@
 	       (:maintainer "SAKURAI Masashi <m.sakurai at kiwanami.net>")
 	       (:keywords "deferred" "async" "concurrent")
 	       (:url . "https://github.com/kiwanami/emacs-deferred/blob/master/README-concurrent.markdown"))])
+ (consult .
+	  [(20210818 1128)
+	   ((emacs
+	     (26 1)))
+	   "Consulting completing-read" tar
+	   ((:commit . "105a1ac50169382368a36ed53d7af908d02ffa07")
+	    (:authors
+	     ("Daniel Mendler and Consult contributors"))
+	    (:maintainer "Daniel Mendler" . "mail@daniel-mendler.de")
+	    (:url . "https://github.com/minad/consult"))])
  (counsel .
 	  [(20210802 931)
 	   ((emacs
@@ -1291,6 +1301,32 @@
 		    (:maintainer "Zhu Zihao" . "all_but_last@163.com")
 		    (:keywords "extensions")
 		    (:url . "https://github.com/cireu/emacsql-sqlite3"))])
+ (embark .
+	 [(20210826 51)
+	  ((emacs
+	    (26 1)))
+	  "Conveniently act on minibuffer completions" tar
+	  ((:commit . "d1b46dafdad8e1ed21075401c0022814e3d08fcd")
+	   (:authors
+	    ("Omar Antolín Camarena" . "omar@matem.unam.mx"))
+	   (:maintainer "Omar Antolín Camarena" . "omar@matem.unam.mx")
+	   (:keywords "convenience")
+	   (:url . "https://github.com/oantolin/embark"))])
+ (embark-consult .
+		 [(20210816 1819)
+		  ((emacs
+		    (25 1))
+		   (embark
+		    (0 9))
+		   (consult
+		    (0 1)))
+		  "Consult integration for Embark" single
+		  ((:commit . "d1b46dafdad8e1ed21075401c0022814e3d08fcd")
+		   (:authors
+		    ("Omar Antolín Camarena" . "omar@matem.unam.mx"))
+		   (:maintainer "Omar Antolín Camarena" . "omar@matem.unam.mx")
+		   (:keywords "convenience")
+		   (:url . "https://github.com/oantolin/embark"))])
  (emmet-mode .
 	     [(20180613 341)
 	      nil "Unofficial Emmet's support for emacs" single
@@ -2025,6 +2061,20 @@
 			  ("Boris Buliga" . "boris@d12frosted.io"))
 			 (:maintainer "Boris Buliga" . "boris@d12frosted.io")
 			 (:url . "https://github.com/d12frosted/flyspell-correct"))])
+ (flyspell-correct-popup .
+			 [(20210124 1143)
+			  ((flyspell-correct
+			    (0 6 1))
+			   (popup
+			    (0 5 3))
+			   (emacs
+			    (24)))
+			  "Correcting words with flyspell via popup interface" single
+			  ((:commit . "00357953a736e21d0a1c8d76f5605820990544fe")
+			   (:authors
+			    ("Boris Buliga" . "boris@d12frosted.io"))
+			   (:maintainer "Boris Buliga" . "boris@d12frosted.io")
+			   (:url . "https://github.com/d12frosted/flyspell-correct"))])
  (fold-this .
 	    [(20191107 1816)
 	     nil "Just fold this region please" single
@@ -3670,6 +3720,16 @@
 		      (:maintainer "Jen-Chieh Shen" . "jcs090218@gmail.com")
 		      (:keywords "tools" "minor-mode" "manage" "emacs")
 		      (:url . "https://github.com/ShingoFukuyama/manage-minor-mode"))])
+ (marginalia .
+	     [(20210823 1004)
+	      ((emacs
+		(26 1)))
+	      "Enrich existing commands with completion annotations" single
+	      ((:commit . "207eb405706f5415dd0daf490925648fd058cc42")
+	       (:authors
+		("Omar Antolín Camarena <omar@matem.unam.mx>, Daniel Mendler" . "mail@daniel-mendler.de"))
+	       (:maintainer "Omar Antolín Camarena <omar@matem.unam.mx>, Daniel Mendler" . "mail@daniel-mendler.de")
+	       (:url . "https://github.com/minad/marginalia"))])
  (markdown-mode .
 		[(20210808 1444)
 		 ((emacs
@@ -3833,6 +3893,17 @@
 		   (:maintainer "rubikitch" . "rubikitch@ruby-lang.org")
 		   (:keywords "convenience" "tools")
 		   (:url . "http://www.emacswiki.org/cgi-bin/wiki/download/open-junk-file.el"))])
+ (orderless .
+	    [(20210812 2035)
+	     ((emacs
+	       (26 1)))
+	     "Completion style for matching regexps in any order" tar
+	     ((:commit . "1a7011ac9c476dbb083c5ead88462a5f520ef8aa")
+	      (:authors
+	       ("Omar Antolín Camarena" . "omar@matem.unam.mx"))
+	      (:maintainer "Omar Antolín Camarena" . "omar@matem.unam.mx")
+	      (:keywords "extensions")
+	      (:url . "https://github.com/oantolin/orderless"))])
  (org-brain .
 	    [(20210706 1519)
 	     ((emacs

@@ -1,0 +1,25 @@
+Package: embark
+Fetcher: github
+Source:  https://github.com/oantolin/embark.git
+
+Cloning https://github.com/oantolin/embark.git to /home/kimr/repos/my/melpa/working/embark/
+Checking out origin/HEAD
+Checking out d1b46dafdad8e1ed21075401c0022814e3d08fcd
+Copying files (->) and directories (=>)
+  from /home/kimr/repos/my/melpa/working/embark/
+  to /tmp/embarksOBEM9/embark-20210826.51
+    embark.el -> embark.el
+    embark.texi -> embark.texi
+Created /tmp/embarksOBEM9/embark-20210826.51/embark.info
+Created embark-20210826.51.tar containing:
+  embark-20210826.51/
+  embark-20210826.51/dir
+  embark-20210826.51/embark-pkg.el
+  embark-20210826.51/embark.el
+  embark-20210826.51/embark.info
+Built embark in 2.380s, finished at 2021-08-26T04:57:40+0000
+ ✓ Success:
+4.0K -rw-rw-r-- 1 kimr kimr  372 Aug 25 21:57 packages/embark-20210826.51.entry
+192K -rw-rw-r-- 1 kimr kimr 190K Aug 25 21:57 packages/embark-20210826.51.tar
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Aug 25 21:57 packages/embark-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr 4.0K Aug 25 21:57 packages/embark-readme.txt
