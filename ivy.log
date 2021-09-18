@@ -4,10 +4,10 @@ Source:  https://github.com/abo-abo/swiper.git
 
 Updating /home/kimr/repos/my/melpa/working/ivy/
 Checking out origin/HEAD
-Checking out bde2176e89aa38344f700e9e7f9fc5c7b4fc471f
+Checking out 6a8e5611f32cf7cc77c2c6974dc2d3a18f32d5a5
 Copying files (->) and directories (=>)
   from /home/kimr/repos/my/melpa/working/ivy/
-  to /tmp/ivy1hEAte/ivy-20210730.1743
+  to /tmp/ivy4gkVKR/ivy-20210903.1814
     colir.el -> colir.el
     elpa.el -> elpa.el
     ivy-faces.el -> ivy-faces.el
@@ -15,41 +15,41 @@ Copying files (->) and directories (=>)
     ivy.el -> ivy.el
   ! doc/ivy.texi -> ivy.texi
   ! doc/ivy-help.org -> ivy-help.org
-Created /tmp/ivy1hEAte/ivy-20210730.1743/ivy.info
-Created ivy-20210730.1743.tar containing:
-  ivy-20210730.1743/
-  ivy-20210730.1743/colir.el
-  ivy-20210730.1743/dir
-  ivy-20210730.1743/elpa.el
-  ivy-20210730.1743/ivy-faces.el
-  ivy-20210730.1743/ivy-help.org
-  ivy-20210730.1743/ivy-overlay.el
-  ivy-20210730.1743/ivy-pkg.el
-  ivy-20210730.1743/ivy.el
-  ivy-20210730.1743/ivy.info
-Built ivy in 1.056s, finished at 2021-08-08T16:18:31+0000
+Created /tmp/ivy4gkVKR/ivy-20210903.1814/ivy.info
+Created ivy-20210903.1814.tar containing:
+  ivy-20210903.1814/
+  ivy-20210903.1814/colir.el
+  ivy-20210903.1814/dir
+  ivy-20210903.1814/elpa.el
+  ivy-20210903.1814/ivy-faces.el
+  ivy-20210903.1814/ivy-help.org
+  ivy-20210903.1814/ivy-overlay.el
+  ivy-20210903.1814/ivy-pkg.el
+  ivy-20210903.1814/ivy.el
+  ivy-20210903.1814/ivy.info
+Built ivy in 0.543s, finished at 2021-09-18T13:13:22+0000
  ✓ Success:
-4.0K -rw-rw-r-- 1 kimr kimr  362 Jul 20 14:33 packages/ivy-20210602.1349.entry
-300K -rw-rw-r-- 1 kimr kimr 300K Jul 20 14:33 packages/ivy-20210602.1349.tar
 4.0K -rw-rw-r-- 1 kimr kimr  362 Aug  8 09:18 packages/ivy-20210730.1743.entry
 300K -rw-rw-r-- 1 kimr kimr 300K Aug  8 09:18 packages/ivy-20210730.1743.tar
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K Aug  8 09:18 packages/ivy-badge.svg
-8.0K -rw-rw-r-- 1 kimr kimr 5.8K Jul 26 09:34 packages/ivy-hydra-20210311.1108.el
-4.0K -rw-rw-r-- 1 kimr kimr  436 Jul 26 09:34 packages/ivy-hydra-20210311.1108.entry
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 26 09:34 packages/ivy-hydra-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr  533 Jul 26 09:34 packages/ivy-hydra.log
-4.0K -rw-rw-r-- 1 kimr kimr  178 Jul 26 09:34 packages/ivy-hydra-readme.txt
+4.0K -rw-rw-r-- 1 kimr kimr  362 Sep 18 06:13 packages/ivy-20210903.1814.entry
+300K -rw-rw-r-- 1 kimr kimr 300K Sep 18 06:13 packages/ivy-20210903.1814.tar
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Sep 18 06:13 packages/ivy-badge.svg
+8.0K -rw-rw-r-- 1 kimr kimr 5.8K Sep 18 06:06 packages/ivy-hydra-20210311.1108.el
+4.0K -rw-rw-r-- 1 kimr kimr  436 Sep 18 06:06 packages/ivy-hydra-20210311.1108.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Sep 18 06:06 packages/ivy-hydra-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr  612 Sep 18 06:06 packages/ivy-hydra.log
+4.0K -rw-rw-r-- 1 kimr kimr  178 Sep 18 06:06 packages/ivy-hydra-readme.txt
 4.0K -rw-rw-r-- 1 kimr kimr 3.7K Jul 20 14:34 packages/ivy-purpose-20160724.1003.el
 4.0K -rw-rw-r-- 1 kimr kimr  363 Jul 20 14:34 packages/ivy-purpose-20160724.1003.entry
 4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 20 14:34 packages/ivy-purpose-badge.svg
 4.0K -rw-rw-r-- 1 kimr kimr  549 Jul 20 14:34 packages/ivy-purpose.log
 4.0K -rw-rw-r-- 1 kimr kimr  857 Jul 20 14:34 packages/ivy-purpose-readme.txt
-4.0K -rw-rw-r-- 1 kimr kimr  396 Aug  8 09:18 packages/ivy-readme.txt
-8.0K -rw-rw-r-- 1 kimr kimr 4.8K Jul 26 09:34 packages/ivy-rtags-20191222.920.el
-4.0K -rw-rw-r-- 1 kimr kimr  434 Jul 26 09:34 packages/ivy-rtags-20191222.920.entry
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 26 09:34 packages/ivy-rtags-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr  535 Jul 26 09:34 packages/ivy-rtags.log
-   0 -rw-rw-r-- 1 kimr kimr    0 Jul 26 09:34 packages/ivy-rtags-readme.txt
+4.0K -rw-rw-r-- 1 kimr kimr  396 Sep 18 06:13 packages/ivy-readme.txt
+8.0K -rw-rw-r-- 1 kimr kimr 4.8K Sep 18 06:06 packages/ivy-rtags-20191222.920.el
+4.0K -rw-rw-r-- 1 kimr kimr  434 Sep 18 06:06 packages/ivy-rtags-20191222.920.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Sep 18 06:06 packages/ivy-rtags-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr  614 Sep 18 06:06 packages/ivy-rtags.log
+   0 -rw-rw-r-- 1 kimr kimr    0 Sep 18 06:06 packages/ivy-rtags-readme.txt
 8.0K -rw-rw-r-- 1 kimr kimr 5.3K Jul 20 14:34 packages/ivy-xref-20191126.401.el
 4.0K -rw-rw-r-- 1 kimr kimr  369 Jul 20 14:34 packages/ivy-xref-20191126.401.entry
 4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 20 14:34 packages/ivy-xref-badge.svg

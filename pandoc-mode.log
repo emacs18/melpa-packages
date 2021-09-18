@@ -4,23 +4,25 @@ Source:  https://github.com/joostkremers/pandoc-mode.git
 
 Updating /home/kimr/repos/my/melpa/working/pandoc-mode/
 Checking out origin/HEAD
-Checking out 2ad3cfa3045e0a3bcbdee02819c6fd356a8bc40c
+Checking out bf01a14e99304653ae722226ea064c7d4b641774
 Copying files (->) and directories (=>)
   from /home/kimr/repos/my/melpa/working/pandoc-mode/
-  to /tmp/pandoc-modeW0LPuw/pandoc-mode-20210317.2340
+  to /tmp/pandoc-modeaYwETa/pandoc-mode-20210910.2043
     pandoc-mode-utils.el -> pandoc-mode-utils.el
     pandoc-mode.el -> pandoc-mode.el
     pandoc-mode.info -> pandoc-mode.info
-Created pandoc-mode-20210317.2340.tar containing:
-  pandoc-mode-20210317.2340/
-  pandoc-mode-20210317.2340/dir
-  pandoc-mode-20210317.2340/pandoc-mode-pkg.el
-  pandoc-mode-20210317.2340/pandoc-mode-utils.el
-  pandoc-mode-20210317.2340/pandoc-mode.el
-  pandoc-mode-20210317.2340/pandoc-mode.info
-Built pandoc-mode in 0.630s, finished at 2021-08-08T16:19:02+0000
+Created pandoc-mode-20210910.2043.tar containing:
+  pandoc-mode-20210910.2043/
+  pandoc-mode-20210910.2043/dir
+  pandoc-mode-20210910.2043/pandoc-mode-pkg.el
+  pandoc-mode-20210910.2043/pandoc-mode-utils.el
+  pandoc-mode-20210910.2043/pandoc-mode.el
+  pandoc-mode-20210910.2043/pandoc-mode.info
+Built pandoc-mode in 0.204s, finished at 2021-09-18T13:13:38+0000
  ✓ Success:
 4.0K -rw-rw-r-- 1 kimr kimr  443 Aug  8 09:19 packages/pandoc-mode-20210317.2340.entry
 192K -rw-rw-r-- 1 kimr kimr 190K Aug  8 09:19 packages/pandoc-mode-20210317.2340.tar
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K Aug  8 09:19 packages/pandoc-mode-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr  197 Aug  8 09:19 packages/pandoc-mode-readme.txt
+4.0K -rw-rw-r-- 1 kimr kimr  443 Sep 18 06:13 packages/pandoc-mode-20210910.2043.entry
+192K -rw-rw-r-- 1 kimr kimr 190K Sep 18 06:13 packages/pandoc-mode-20210910.2043.tar
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Sep 18 06:13 packages/pandoc-mode-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr  197 Sep 18 06:13 packages/pandoc-mode-readme.txt

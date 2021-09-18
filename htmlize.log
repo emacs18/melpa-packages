@@ -3,9 +3,13 @@ Fetcher: github
 Source:  https://github.com/hniksic/emacs-htmlize.git
 
 Updating /home/kimr/repos/my/melpa/working/htmlize/
-Built htmlize in 0.601s, finished at 2021-07-20T21:33:51+0000
+Checking out origin/HEAD
+Checking out dd27bc3f26efd728f2b1f01f9e4ac4f61f2ffbf9
+Built htmlize in 0.229s, finished at 2021-09-18T13:13:20+0000
  ✓ Success:
  76K -rw-rw-r-- 1 kimr kimr  75K Jul 20 14:33 packages/htmlize-20200816.746.el
 4.0K -rw-rw-r-- 1 kimr kimr  366 Jul 20 14:33 packages/htmlize-20200816.746.entry
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 20 14:33 packages/htmlize-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr 2.7K Jul 20 14:33 packages/htmlize-readme.txt
+ 76K -rw-rw-r-- 1 kimr kimr  74K Sep 18 06:13 packages/htmlize-20210825.2150.el
+4.0K -rw-rw-r-- 1 kimr kimr  367 Sep 18 06:13 packages/htmlize-20210825.2150.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Sep 18 06:13 packages/htmlize-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr 2.7K Sep 18 06:13 packages/htmlize-readme.txt

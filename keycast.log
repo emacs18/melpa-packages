@@ -5,9 +5,9 @@ Source:  https://github.com/tarsius/keycast.git
 Updating /home/kimr/repos/my/melpa/working/keycast/
 Checking out origin/HEAD
 Checking out 04ba7519f34421c235bac458f0192c130f732f12
-Built keycast in 0.727s, finished at 2021-08-08T16:18:34+0000
+Built keycast in 0.244s, finished at 2021-09-18T13:13:23+0000
  ✓ Success:
- 16K -rw-rw-r-- 1 kimr kimr  14K Aug  8 09:18 packages/keycast-20210616.826.el
-4.0K -rw-rw-r-- 1 kimr kimr  346 Aug  8 09:18 packages/keycast-20210616.826.entry
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K Aug  8 09:18 packages/keycast-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr  188 Aug  8 09:18 packages/keycast-readme.txt
+ 16K -rw-rw-r-- 1 kimr kimr  14K Sep 18 06:13 packages/keycast-20210616.826.el
+4.0K -rw-rw-r-- 1 kimr kimr  346 Sep 18 06:13 packages/keycast-20210616.826.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Sep 18 06:13 packages/keycast-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr  188 Sep 18 06:13 packages/keycast-readme.txt

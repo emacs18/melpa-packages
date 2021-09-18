@@ -4,10 +4,10 @@ Source:  https://github.com/emacs-lsp/lsp-ui.git
 
 Updating /home/kimr/repos/my/melpa/working/lsp-ui/
 Checking out origin/HEAD
-Checking out 177c31e982345ba35dc7c5d90cb1f8e68585323a
+Checking out b625f3cb5e88559ab99bec58f7a14272edb296bc
 Copying files (->) and directories (=>)
   from /home/kimr/repos/my/melpa/working/lsp-ui/
-  to /tmp/lsp-uiQ8uaWI/lsp-ui-20210802.305
+  to /tmp/lsp-uiWfJmLg/lsp-ui-20210904.2037
     lsp-ui-doc.el -> lsp-ui-doc.el
     lsp-ui-flycheck.el -> lsp-ui-flycheck.el
     lsp-ui-imenu.el -> lsp-ui-imenu.el
@@ -17,24 +17,24 @@ Copying files (->) and directories (=>)
     lsp-ui.el -> lsp-ui.el
     lsp-ui-doc.html -> lsp-ui-doc.html
     resources => resources
-Created lsp-ui-20210802.305.tar containing:
-  lsp-ui-20210802.305/
-  lsp-ui-20210802.305/lsp-ui-doc.el
-  lsp-ui-20210802.305/lsp-ui-doc.html
-  lsp-ui-20210802.305/lsp-ui-flycheck.el
-  lsp-ui-20210802.305/lsp-ui-imenu.el
-  lsp-ui-20210802.305/lsp-ui-peek.el
-  lsp-ui-20210802.305/lsp-ui-pkg.el
-  lsp-ui-20210802.305/lsp-ui-sideline.el
-  lsp-ui-20210802.305/lsp-ui-util.el
-  lsp-ui-20210802.305/lsp-ui.el
-  lsp-ui-20210802.305/resources/
-  lsp-ui-20210802.305/resources/lightbulb.png
-Built lsp-ui in 0.643s, finished at 2021-08-08T16:18:44+0000
+Created lsp-ui-20210904.2037.tar containing:
+  lsp-ui-20210904.2037/
+  lsp-ui-20210904.2037/lsp-ui-doc.el
+  lsp-ui-20210904.2037/lsp-ui-doc.html
+  lsp-ui-20210904.2037/lsp-ui-flycheck.el
+  lsp-ui-20210904.2037/lsp-ui-imenu.el
+  lsp-ui-20210904.2037/lsp-ui-peek.el
+  lsp-ui-20210904.2037/lsp-ui-pkg.el
+  lsp-ui-20210904.2037/lsp-ui-sideline.el
+  lsp-ui-20210904.2037/lsp-ui-util.el
+  lsp-ui-20210904.2037/lsp-ui.el
+  lsp-ui-20210904.2037/resources/
+  lsp-ui-20210904.2037/resources/lightbulb.png
+Built lsp-ui in 0.218s, finished at 2021-09-18T13:13:28+0000
  ✓ Success:
-4.0K -rw-rw-r-- 1 kimr kimr  486 Jul 20 14:34 packages/lsp-ui-20210718.1626.entry
-160K -rw-rw-r-- 1 kimr kimr 160K Jul 20 14:34 packages/lsp-ui-20210718.1626.tar
 4.0K -rw-rw-r-- 1 kimr kimr  485 Aug  8 09:18 packages/lsp-ui-20210802.305.entry
 160K -rw-rw-r-- 1 kimr kimr 160K Aug  8 09:18 packages/lsp-ui-20210802.305.tar
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K Aug  8 09:18 packages/lsp-ui-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr  104 Aug  8 09:18 packages/lsp-ui-readme.txt
+4.0K -rw-rw-r-- 1 kimr kimr  486 Sep 18 06:13 packages/lsp-ui-20210904.2037.entry
+160K -rw-rw-r-- 1 kimr kimr 160K Sep 18 06:13 packages/lsp-ui-20210904.2037.tar
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Sep 18 06:13 packages/lsp-ui-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr  104 Sep 18 06:13 packages/lsp-ui-readme.txt

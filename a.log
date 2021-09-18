@@ -5,9 +5,9 @@ Source:  https://github.com/plexus/a.el.git
 Updating /home/kimr/repos/my/melpa/working/a/
 Checking out origin/HEAD
 Checking out 3d341eb7813ee02b00ab28e11c915295bfd4b5a7
-Built a in 0.689s, finished at 2021-08-08T16:17:40+0000
+Built a in 0.235s, finished at 2021-09-18T13:12:48+0000
  ✓ Success:
- 12K -rw-rw-r-- 1 kimr kimr  12K Aug  8 09:17 packages/a-20201203.1927.el
-4.0K -rw-rw-r-- 1 kimr kimr  361 Aug  8 09:17 packages/a-20201203.1927.entry
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K Aug  8 09:17 packages/a-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr  426 Aug  8 09:17 packages/a-readme.txt
+ 12K -rw-rw-r-- 1 kimr kimr  12K Sep 18 06:12 packages/a-20201203.1927.el
+4.0K -rw-rw-r-- 1 kimr kimr  361 Sep 18 06:12 packages/a-20201203.1927.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Sep 18 06:12 packages/a-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr  426 Sep 18 06:12 packages/a-readme.txt

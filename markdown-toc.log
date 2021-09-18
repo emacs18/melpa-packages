@@ -3,18 +3,22 @@ Fetcher: github
 Source:  https://github.com/ardumont/markdown-toc.git
 
 Updating /home/kimr/repos/my/melpa/working/markdown-toc/
+Checking out origin/HEAD
+Checking out 3d724e518a897343b5ede0b976d6fb46c46bcc01
 Copying files (->) and directories (=>)
   from /home/kimr/repos/my/melpa/working/markdown-toc/
-  to /tmp/markdown-toc6DZWGf/markdown-toc-20210629.931
+  to /tmp/markdown-tocxrDlXX/markdown-toc-20210905.738
     markdown-toc-pkg.el -> markdown-toc-pkg.el
     markdown-toc.el -> markdown-toc.el
-Created markdown-toc-20210629.931.tar containing:
-  markdown-toc-20210629.931/
-  markdown-toc-20210629.931/markdown-toc-pkg.el
-  markdown-toc-20210629.931/markdown-toc.el
-Built markdown-toc in 0.672s, finished at 2021-07-20T21:34:39+0000
+Created markdown-toc-20210905.738.tar containing:
+  markdown-toc-20210905.738/
+  markdown-toc-20210905.738/markdown-toc-pkg.el
+  markdown-toc-20210905.738/markdown-toc.el
+Built markdown-toc in 0.200s, finished at 2021-09-18T13:13:31+0000
  ✓ Success:
 4.0K -rw-rw-r-- 1 kimr kimr  436 Jul 20 14:34 packages/markdown-toc-20210629.931.entry
  20K -rw-rw-r-- 1 kimr kimr  20K Jul 20 14:34 packages/markdown-toc-20210629.931.tar
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 20 14:34 packages/markdown-toc-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr  904 Jul 20 14:34 packages/markdown-toc-readme.txt
+4.0K -rw-rw-r-- 1 kimr kimr  436 Sep 18 06:13 packages/markdown-toc-20210905.738.entry
+ 20K -rw-rw-r-- 1 kimr kimr  20K Sep 18 06:13 packages/markdown-toc-20210905.738.tar
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Sep 18 06:13 packages/markdown-toc-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr  904 Sep 18 06:13 packages/markdown-toc-readme.txt

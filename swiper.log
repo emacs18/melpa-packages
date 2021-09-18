@@ -4,10 +4,10 @@ Source:  https://github.com/abo-abo/swiper.git
 
 Updating /home/kimr/repos/my/melpa/working/swiper/
 Checking out origin/HEAD
-Checking out bde2176e89aa38344f700e9e7f9fc5c7b4fc471f
-Built swiper in 0.650s, finished at 2021-08-08T16:19:10+0000
+Checking out 6a8e5611f32cf7cc77c2c6974dc2d3a18f32d5a5
+Built swiper in 0.235s, finished at 2021-09-18T13:13:44+0000
  ✓ Success:
- 64K -rw-rw-r-- 1 kimr kimr  61K Aug  8 09:19 packages/swiper-20210521.1319.el
-4.0K -rw-rw-r-- 1 kimr kimr  367 Aug  8 09:19 packages/swiper-20210521.1319.entry
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K Aug  8 09:19 packages/swiper-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr  265 Aug  8 09:19 packages/swiper-readme.txt
+ 64K -rw-rw-r-- 1 kimr kimr  61K Sep 18 06:13 packages/swiper-20210521.1319.el
+4.0K -rw-rw-r-- 1 kimr kimr  367 Sep 18 06:13 packages/swiper-20210521.1319.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Sep 18 06:13 packages/swiper-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr  265 Sep 18 06:13 packages/swiper-readme.txt

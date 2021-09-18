@@ -3,10 +3,14 @@ Fetcher: github
 Source:  https://github.com/bbatsov/projectile.git
 
 Updating /home/kimr/repos/my/melpa/working/projectile/
+Checking out origin/HEAD
+Checking out ca89722f947710221d18c1b8e27b2a5811da176e
 Note: projectile :files spec is equivalent to the default.
-Built projectile in 0.750s, finished at 2021-07-20T21:35:50+0000
+Built projectile in 0.260s, finished at 2021-09-18T13:13:39+0000
  ✓ Success:
 236K -rw-rw-r-- 1 kimr kimr 235K Jul 20 14:35 packages/projectile-20210701.441.el
 4.0K -rw-rw-r-- 1 kimr kimr  455 Jul 20 14:35 packages/projectile-20210701.441.entry
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 20 14:35 packages/projectile-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr  356 Jul 20 14:35 packages/projectile-readme.txt
+240K -rw-rw-r-- 1 kimr kimr 237K Sep 18 06:13 packages/projectile-20210913.1840.el
+4.0K -rw-rw-r-- 1 kimr kimr  424 Sep 18 06:13 packages/projectile-20210913.1840.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Sep 18 06:13 packages/projectile-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr  356 Sep 18 06:13 packages/projectile-readme.txt

@@ -5,9 +5,9 @@ Source:  https://github.com/remyhonig/elfeed-org.git
 Updating /home/kimr/repos/my/melpa/working/elfeed-org/
 Checking out origin/HEAD
 Checking out 268efdd0121fa61f63b722c30e0951c5d31224a4
-Built elfeed-org in 0.643s, finished at 2021-08-08T16:17:58+0000
+Built elfeed-org in 0.230s, finished at 2021-09-18T13:13:01+0000
  ✓ Success:
- 20K -rw-rw-r-- 1 kimr kimr  17K Aug  8 09:17 packages/elfeed-org-20210510.1219.el
-4.0K -rw-rw-r-- 1 kimr kimr  522 Aug  8 09:17 packages/elfeed-org-20210510.1219.entry
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K Aug  8 09:17 packages/elfeed-org-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr  466 Aug  8 09:17 packages/elfeed-org-readme.txt
+ 20K -rw-rw-r-- 1 kimr kimr  17K Sep 18 06:13 packages/elfeed-org-20210510.1219.el
+4.0K -rw-rw-r-- 1 kimr kimr  522 Sep 18 06:13 packages/elfeed-org-20210510.1219.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Sep 18 06:13 packages/elfeed-org-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr  466 Sep 18 06:13 packages/elfeed-org-readme.txt

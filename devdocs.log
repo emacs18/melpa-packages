@@ -3,14 +3,20 @@ Fetcher: github
 Source:  https://github.com/astoff/devdocs.el.git
 
 Updating /home/kimr/repos/my/melpa/working/devdocs/
-Built devdocs in 0.669s, finished at 2021-07-20T21:31:37+0000
+Checking out origin/HEAD
+Checking out df9cec79ed6e7147a71fcad84835b928375047a7
+Built devdocs in 0.336s, finished at 2021-09-18T13:12:58+0000
  ✓ Success:
  20K -rw-rw-r-- 1 kimr kimr  18K Jul 20 14:31 packages/devdocs-20210625.1617.el
 4.0K -rw-rw-r-- 1 kimr kimr  353 Jul 20 14:31 packages/devdocs-20210625.1617.entry
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 20 14:31 packages/devdocs-badge.svg
- 32K -rw-rw-r-- 1 kimr kimr  32K Jul 10 10:19 packages/devdocs-browser-20210703.306.el
-4.0K -rw-rw-r-- 1 kimr kimr  387 Jul 10 10:19 packages/devdocs-browser-20210703.306.entry
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 10 10:19 packages/devdocs-browser-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr  768 Jul 10 10:19 packages/devdocs-browser.log
-4.0K -rw-rw-r-- 1 kimr kimr   52 Jul 10 10:19 packages/devdocs-browser-readme.txt
-4.0K -rw-rw-r-- 1 kimr kimr  376 Jul 20 14:31 packages/devdocs-readme.txt
+ 20K -rw-rw-r-- 1 kimr kimr  20K Sep 18 06:12 packages/devdocs-20210904.1759.el
+4.0K -rw-rw-r-- 1 kimr kimr  353 Sep 18 06:12 packages/devdocs-20210904.1759.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Sep 18 06:12 packages/devdocs-badge.svg
+ 32K -rw-rw-r-- 1 kimr kimr  32K Jul 20 14:31 packages/devdocs-browser-20210703.306.el
+4.0K -rw-rw-r-- 1 kimr kimr  387 Jul 20 14:31 packages/devdocs-browser-20210703.306.entry
+ 32K -rw-rw-r-- 1 kimr kimr  32K Sep 18 06:05 packages/devdocs-browser-20210815.1600.el
+4.0K -rw-rw-r-- 1 kimr kimr  388 Sep 18 06:05 packages/devdocs-browser-20210815.1600.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Sep 18 06:05 packages/devdocs-browser-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr  847 Sep 18 06:05 packages/devdocs-browser.log
+4.0K -rw-rw-r-- 1 kimr kimr   52 Sep 18 06:05 packages/devdocs-browser-readme.txt
+4.0K -rw-rw-r-- 1 kimr kimr  375 Sep 18 06:12 packages/devdocs-readme.txt

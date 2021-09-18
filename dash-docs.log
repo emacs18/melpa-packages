@@ -3,9 +3,23 @@ Fetcher: github
 Source:  https://github.com/dash-docs-el/dash-docs.git
 
 Updating /home/kimr/repos/my/melpa/working/dash-docs/
-Built dash-docs in 0.676s, finished at 2021-07-20T21:31:30+0000
+Checking out origin/HEAD
+Checking out 29848b6b347ac520f7646c200ed2ec36cea3feda
+Copying files (->) and directories (=>)
+  from /home/kimr/repos/my/melpa/working/dash-docs/
+  to /tmp/dash-docsMcJRzw/dash-docs-20210830.926
+    dash-docs.el -> dash-docs.el
+    use-package-dash-docs.el -> use-package-dash-docs.el
+Created dash-docs-20210830.926.tar containing:
+  dash-docs-20210830.926/
+  dash-docs-20210830.926/dash-docs-pkg.el
+  dash-docs-20210830.926/dash-docs.el
+  dash-docs-20210830.926/use-package-dash-docs.el
+Built dash-docs in 0.214s, finished at 2021-09-18T13:12:57+0000
  ✓ Success:
  28K -rw-rw-r-- 1 kimr kimr  26K Jul 20 14:31 packages/dash-docs-20200516.1943.el
 4.0K -rw-rw-r-- 1 kimr kimr  538 Jul 20 14:31 packages/dash-docs-20200516.1943.entry
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 20 14:31 packages/dash-docs-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr  143 Jul 20 14:31 packages/dash-docs-readme.txt
+4.0K -rw-rw-r-- 1 kimr kimr  534 Sep 18 06:12 packages/dash-docs-20210830.926.entry
+ 40K -rw-rw-r-- 1 kimr kimr  40K Sep 18 06:12 packages/dash-docs-20210830.926.tar
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Sep 18 06:12 packages/dash-docs-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr  143 Sep 18 06:12 packages/dash-docs-readme.txt

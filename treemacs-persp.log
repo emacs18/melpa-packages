@@ -4,10 +4,10 @@ Source:  https://github.com/Alexander-Miller/treemacs.git
 
 Updating /home/kimr/repos/my/melpa/working/treemacs-persp/
 Checking out origin/HEAD
-Checking out b572bc78daa01264a1845dc8143f7d47152faefb
-Built treemacs-persp in 0.647s, finished at 2021-08-08T16:19:15+0000
+Checking out 6e40f148855a7e51a13101d58b4c420d846d07eb
+Built treemacs-persp in 0.217s, finished at 2021-09-18T13:13:47+0000
  ✓ Success:
-8.0K -rw-rw-r-- 1 kimr kimr 5.5K Aug  8 09:19 packages/treemacs-persp-20210114.2135.el
-4.0K -rw-rw-r-- 1 kimr kimr  435 Aug  8 09:19 packages/treemacs-persp-20210114.2135.entry
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K Aug  8 09:19 packages/treemacs-persp-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr   69 Aug  8 09:19 packages/treemacs-persp-readme.txt
+8.0K -rw-rw-r-- 1 kimr kimr 5.5K Sep 18 06:13 packages/treemacs-persp-20210114.2135.el
+4.0K -rw-rw-r-- 1 kimr kimr  435 Sep 18 06:13 packages/treemacs-persp-20210114.2135.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Sep 18 06:13 packages/treemacs-persp-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr   69 Sep 18 06:13 packages/treemacs-persp-readme.txt

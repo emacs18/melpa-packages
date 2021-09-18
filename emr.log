@@ -7,7 +7,7 @@ Checking out origin/HEAD
 Checking out 648c2e87516fac37b84fd9bc34a6362d2a9001e2
 Copying files (->) and directories (=>)
   from /home/kimr/repos/my/melpa/working/emr/
-  to /tmp/emrSypKYn/emr-20210301.213
+  to /tmp/emrSp8GoC/emr-20210301.213
     emr-c.el -> emr-c.el
     emr-css.el -> emr-css.el
     emr-elisp.el -> emr-elisp.el
@@ -31,9 +31,9 @@ Created emr-20210301.213.tar containing:
   emr-20210301.213/emr-ruby.el
   emr-20210301.213/emr-scheme.el
   emr-20210301.213/emr.el
-Built emr in 0.669s, finished at 2021-08-08T16:17:59+0000
+Built emr in 0.207s, finished at 2021-09-18T13:13:02+0000
  ✓ Success:
-4.0K -rw-rw-r-- 1 kimr kimr  627 Aug  8 09:17 packages/emr-20210301.213.entry
-112K -rw-rw-r-- 1 kimr kimr 110K Aug  8 09:17 packages/emr-20210301.213.tar
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K Aug  8 09:17 packages/emr-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr  338 Aug  8 09:17 packages/emr-readme.txt
+4.0K -rw-rw-r-- 1 kimr kimr  627 Sep 18 06:13 packages/emr-20210301.213.entry
+112K -rw-rw-r-- 1 kimr kimr 110K Sep 18 06:13 packages/emr-20210301.213.tar
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Sep 18 06:13 packages/emr-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr  338 Sep 18 06:13 packages/emr-readme.txt

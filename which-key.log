@@ -4,12 +4,12 @@ Source:  https://github.com/justbur/emacs-which-key.git
 
 Updating /home/kimr/repos/my/melpa/working/which-key/
 Checking out origin/HEAD
-Checking out cc84b2d0da629ecb62a92e3fd23cbee4ea20ce56
-Built which-key in 0.629s, finished at 2021-08-08T16:19:19+0000
+Checking out 4790a14683a2f3e4f72ade197c78e4c0af1cdd4b
+Built which-key in 0.482s, finished at 2021-09-18T13:13:51+0000
  ✓ Success:
-112K -rw-rw-r-- 1 kimr kimr 110K Jul 20 14:36 packages/which-key-20210712.1852.el
-4.0K -rw-rw-r-- 1 kimr kimr  364 Jul 20 14:36 packages/which-key-20210712.1852.entry
 112K -rw-rw-r-- 1 kimr kimr 110K Aug  8 09:19 packages/which-key-20210728.150.el
 4.0K -rw-rw-r-- 1 kimr kimr  363 Aug  8 09:19 packages/which-key-20210728.150.entry
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K Aug  8 09:19 packages/which-key-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr  624 Aug  8 09:19 packages/which-key-readme.txt
+112K -rw-rw-r-- 1 kimr kimr 110K Sep 18 06:13 packages/which-key-20210824.11.el
+4.0K -rw-rw-r-- 1 kimr kimr  362 Sep 18 06:13 packages/which-key-20210824.11.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Sep 18 06:13 packages/which-key-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr  624 Sep 18 06:13 packages/which-key-readme.txt

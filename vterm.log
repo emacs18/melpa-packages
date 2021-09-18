@@ -4,10 +4,10 @@ Source:  https://github.com/akermu/emacs-libvterm.git
 
 Updating /home/kimr/repos/my/melpa/working/vterm/
 Checking out origin/HEAD
-Checking out f73644a07ce56712101d1568139a8f3c3b4a9e59
+Checking out 2681120b770573044832ba8c22ccbac192e1a294
 Copying files (->) and directories (=>)
   from /home/kimr/repos/my/melpa/working/vterm/
-  to /tmp/vtermmwjO3I/vterm-20210804.405
+  to /tmp/vtermlcFZg6/vterm-20210908.640
     .git => .git
     .gitmodules -> .gitmodules
     CMakeLists.txt -> CMakeLists.txt
@@ -22,30 +22,30 @@ Copying files (->) and directories (=>)
     vterm-module.c -> vterm-module.c
     vterm-module.h -> vterm-module.h
     vterm.el -> vterm.el
-Created vterm-20210804.405.tar containing:
-  vterm-20210804.405/
-  vterm-20210804.405/.gitmodules
-  vterm-20210804.405/CMakeLists.txt
-  vterm-20210804.405/LICENSE
-  vterm-20210804.405/README.md
-  vterm-20210804.405/elisp.c
-  vterm-20210804.405/elisp.h
-  vterm-20210804.405/emacs-module.h
-  vterm-20210804.405/etc/
-  vterm-20210804.405/etc/emacs-vterm-bash.sh
-  vterm-20210804.405/etc/emacs-vterm-zsh.sh
-  vterm-20210804.405/etc/emacs-vterm.fish
-  vterm-20210804.405/utf8.c
-  vterm-20210804.405/utf8.h
-  vterm-20210804.405/vterm-module.c
-  vterm-20210804.405/vterm-module.h
-  vterm-20210804.405/vterm-pkg.el
-  vterm-20210804.405/vterm.el
-Built vterm in 0.835s, finished at 2021-08-08T16:19:18+0000
+Created vterm-20210908.640.tar containing:
+  vterm-20210908.640/
+  vterm-20210908.640/.gitmodules
+  vterm-20210908.640/CMakeLists.txt
+  vterm-20210908.640/LICENSE
+  vterm-20210908.640/README.md
+  vterm-20210908.640/elisp.c
+  vterm-20210908.640/elisp.h
+  vterm-20210908.640/emacs-module.h
+  vterm-20210908.640/etc/
+  vterm-20210908.640/etc/emacs-vterm-bash.sh
+  vterm-20210908.640/etc/emacs-vterm-zsh.sh
+  vterm-20210908.640/etc/emacs-vterm.fish
+  vterm-20210908.640/utf8.c
+  vterm-20210908.640/utf8.h
+  vterm-20210908.640/vterm-module.c
+  vterm-20210908.640/vterm-module.h
+  vterm-20210908.640/vterm-pkg.el
+  vterm-20210908.640/vterm.el
+Built vterm in 0.520s, finished at 2021-09-18T13:13:50+0000
  ✓ Success:
-4.0K -rw-rw-r-- 1 kimr kimr  352 Jul 20 14:36 packages/vterm-20210618.1922.entry
-232K -rw-rw-r-- 1 kimr kimr 230K Jul 20 14:36 packages/vterm-20210618.1922.tar
 4.0K -rw-rw-r-- 1 kimr kimr  351 Aug  8 09:19 packages/vterm-20210804.405.entry
 232K -rw-rw-r-- 1 kimr kimr 230K Aug  8 09:19 packages/vterm-20210804.405.tar
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K Aug  8 09:19 packages/vterm-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr  977 Aug  8 09:19 packages/vterm-readme.txt
+4.0K -rw-rw-r-- 1 kimr kimr  351 Sep 18 06:13 packages/vterm-20210908.640.entry
+232K -rw-rw-r-- 1 kimr kimr 230K Sep 18 06:13 packages/vterm-20210908.640.tar
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Sep 18 06:13 packages/vterm-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr  977 Sep 18 06:13 packages/vterm-readme.txt

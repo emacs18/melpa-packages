@@ -9,7 +9,7 @@
 	      (with-editor
 	       (3 0 4)))
 	     "Edit Git commit messages" tar
-	     ((:commit . "a990a44c96dc069bb52800b923c466acc6d5f369")
+	     ((:commit . "bc85c477b53b8ad0ba87120f172230a2909a2fec")
 	      (:authors
 	       ("Jonas Bernoulli" . "jonas@bernoul.li")
 	       ("Sebastian Wiesner" . "lunaryorn@gmail.com")
