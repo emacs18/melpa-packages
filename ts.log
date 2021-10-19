@@ -5,11 +5,9 @@ Source:  https://github.com/alphapapa/ts.el.git
 Updating /home/kimr/repos/my/melpa/working/ts/
 Checking out origin/HEAD
 Checking out 3fee71ceefac71ba55eb34829d7e94bb3df37cee
-Built ts in 0.266s, finished at 2021-09-18T13:13:49+0000
+Built ts in 0.474s, finished at 2021-10-19T04:53:54+0000
  ✓ Success:
- 28K -rw-rw-r-- 1 kimr kimr  27K Aug  8 09:19 packages/ts-20210801.2230.el
-4.0K -rw-rw-r-- 1 kimr kimr  434 Aug  8 09:19 packages/ts-20210801.2230.entry
- 28K -rw-rw-r-- 1 kimr kimr  27K Sep 18 06:13 packages/ts-20210813.1617.el
-4.0K -rw-rw-r-- 1 kimr kimr  428 Sep 18 06:13 packages/ts-20210813.1617.entry
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K Sep 18 06:13 packages/ts-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr  952 Sep 18 06:13 packages/ts-readme.txt
+ 28K -rw-rw-r-- 1 kimr kimr  27K Oct 18 21:53 packages/ts-20210813.1617.el
+4.0K -rw-rw-r-- 1 kimr kimr  428 Oct 18 21:53 packages/ts-20210813.1617.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Oct 18 21:53 packages/ts-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr  952 Oct 18 21:53 packages/ts-readme.txt

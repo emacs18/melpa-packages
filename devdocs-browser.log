@@ -5,11 +5,9 @@ Source:  https://github.com/blahgeek/emacs-devdocs-browser.git
 Updating /home/kimr/repos/my/melpa/working/devdocs-browser/
 Checking out origin/HEAD
 Checking out 4d81e4db165671ba3e7326dec72f950b26df4dde
-Built devdocs-browser in 0.231s, finished at 2021-09-18T13:12:59+0000
+Built devdocs-browser in 0.588s, finished at 2021-10-19T04:49:33+0000
  ✓ Success:
- 32K -rw-rw-r-- 1 kimr kimr  32K Jul 20 14:31 packages/devdocs-browser-20210703.306.el
-4.0K -rw-rw-r-- 1 kimr kimr  387 Jul 20 14:31 packages/devdocs-browser-20210703.306.entry
- 32K -rw-rw-r-- 1 kimr kimr  32K Sep 18 06:12 packages/devdocs-browser-20210815.1600.el
-4.0K -rw-rw-r-- 1 kimr kimr  388 Sep 18 06:12 packages/devdocs-browser-20210815.1600.entry
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K Sep 18 06:12 packages/devdocs-browser-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr   52 Sep 18 06:12 packages/devdocs-browser-readme.txt
+ 32K -rw-rw-r-- 1 kimr kimr  32K Oct 18 21:49 packages/devdocs-browser-20210815.1600.el
+4.0K -rw-rw-r-- 1 kimr kimr  388 Oct 18 21:49 packages/devdocs-browser-20210815.1600.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Oct 18 21:49 packages/devdocs-browser-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr   52 Oct 18 21:49 packages/devdocs-browser-readme.txt

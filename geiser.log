@@ -4,10 +4,10 @@ Source:  https://gitlab.com/emacs-geiser/geiser.git
 
 Updating /home/kimr/repos/my/melpa/working/geiser/
 Checking out origin/HEAD
-Checking out 327ff01e5b9c6e019fdd0cb710a4c19082249345
+Checking out d5cdad7f3eb44cec434610846cf78f2ad272089b
 Copying files (->) and directories (=>)
   from /home/kimr/repos/my/melpa/working/geiser/
-  to /tmp/geiserGTz9vG/geiser-20210808.16
+  to /tmp/geiserFSW0ns/geiser-20211003.2152
   ! elisp/geiser-autodoc.el -> geiser-autodoc.el
   ! elisp/geiser-base.el -> geiser-base.el
   ! elisp/geiser-company.el -> geiser-company.el
@@ -33,40 +33,40 @@ Copying files (->) and directories (=>)
   ! elisp/geiser.el -> geiser.el
   ! doc/dir -> dir
   ! doc/geiser.texi -> geiser.texi
-Created /tmp/geiserGTz9vG/geiser-20210808.16/geiser.info
-Created geiser-20210808.16.tar containing:
-  geiser-20210808.16/
-  geiser-20210808.16/dir
-  geiser-20210808.16/geiser-autodoc.el
-  geiser-20210808.16/geiser-base.el
-  geiser-20210808.16/geiser-company.el
-  geiser-20210808.16/geiser-compile.el
-  geiser-20210808.16/geiser-completion.el
-  geiser-20210808.16/geiser-connection.el
-  geiser-20210808.16/geiser-custom.el
-  geiser-20210808.16/geiser-debug.el
-  geiser-20210808.16/geiser-doc.el
-  geiser-20210808.16/geiser-edit.el
-  geiser-20210808.16/geiser-eval.el
-  geiser-20210808.16/geiser-image.el
-  geiser-20210808.16/geiser-impl.el
-  geiser-20210808.16/geiser-log.el
-  geiser-20210808.16/geiser-menu.el
-  geiser-20210808.16/geiser-mode.el
-  geiser-20210808.16/geiser-pkg.el
-  geiser-20210808.16/geiser-popup.el
-  geiser-20210808.16/geiser-reload.el
-  geiser-20210808.16/geiser-repl.el
-  geiser-20210808.16/geiser-syntax.el
-  geiser-20210808.16/geiser-table.el
-  geiser-20210808.16/geiser-xref.el
-  geiser-20210808.16/geiser.el
-  geiser-20210808.16/geiser.info
-Built geiser in 0.540s, finished at 2021-09-18T13:13:09+0000
+Created /tmp/geiserFSW0ns/geiser-20211003.2152/geiser.info
+Created geiser-20211003.2152.tar containing:
+  geiser-20211003.2152/
+  geiser-20211003.2152/dir
+  geiser-20211003.2152/geiser-autodoc.el
+  geiser-20211003.2152/geiser-base.el
+  geiser-20211003.2152/geiser-company.el
+  geiser-20211003.2152/geiser-compile.el
+  geiser-20211003.2152/geiser-completion.el
+  geiser-20211003.2152/geiser-connection.el
+  geiser-20211003.2152/geiser-custom.el
+  geiser-20211003.2152/geiser-debug.el
+  geiser-20211003.2152/geiser-doc.el
+  geiser-20211003.2152/geiser-edit.el
+  geiser-20211003.2152/geiser-eval.el
+  geiser-20211003.2152/geiser-image.el
+  geiser-20211003.2152/geiser-impl.el
+  geiser-20211003.2152/geiser-log.el
+  geiser-20211003.2152/geiser-menu.el
+  geiser-20211003.2152/geiser-mode.el
+  geiser-20211003.2152/geiser-pkg.el
+  geiser-20211003.2152/geiser-popup.el
+  geiser-20211003.2152/geiser-reload.el
+  geiser-20211003.2152/geiser-repl.el
+  geiser-20211003.2152/geiser-syntax.el
+  geiser-20211003.2152/geiser-table.el
+  geiser-20211003.2152/geiser-xref.el
+  geiser-20211003.2152/geiser.el
+  geiser-20211003.2152/geiser.info
+Built geiser in 0.605s, finished at 2021-10-19T04:50:39+0000
  ✓ Success:
-4.0K -rw-rw-r-- 1 kimr kimr  375 Aug  8 09:18 packages/geiser-20210428.1942.entry
-220K -rw-rw-r-- 1 kimr kimr 220K Aug  8 09:18 packages/geiser-20210428.1942.tar
 4.0K -rw-rw-r-- 1 kimr kimr  373 Sep 18 06:13 packages/geiser-20210808.16.entry
 312K -rw-rw-r-- 1 kimr kimr 310K Sep 18 06:13 packages/geiser-20210808.16.tar
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K Sep 18 06:13 packages/geiser-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr 1.4K Sep 18 06:13 packages/geiser-readme.txt
+4.0K -rw-rw-r-- 1 kimr kimr  375 Oct 18 21:50 packages/geiser-20211003.2152.entry
+312K -rw-rw-r-- 1 kimr kimr 310K Oct 18 21:50 packages/geiser-20211003.2152.tar
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Oct 18 21:50 packages/geiser-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr 1.4K Oct 18 21:50 packages/geiser-readme.txt

@@ -3,20 +3,22 @@ Fetcher: github
 Source:  https://github.com/emacs-helm/helm-org.git
 
 Updating /home/kimr/repos/my/melpa/working/helm-org/
+Checking out origin/HEAD
+Checking out d67186d3a64e610c03a5f3d583488f018fb032e4
 Note: helm-org :files spec is equivalent to the default.
-Built helm-org in 0.667s, finished at 2021-07-20T21:33:37+0000
+Built helm-org in 0.566s, finished at 2021-10-19T04:51:21+0000
  ✓ Success:
- 24K -rw-rw-r-- 1 kimr kimr  22K Jul 20 14:33 packages/helm-org-20210324.1927.el
-4.0K -rw-rw-r-- 1 kimr kimr  408 Jul 20 14:33 packages/helm-org-20210324.1927.entry
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 20 14:33 packages/helm-org-badge.svg
-8.0K -rw-rw-r-- 1 kimr kimr 7.7K Jul 10 10:20 packages/helm-org-ql-20210608.1556.el
-4.0K -rw-rw-r-- 1 kimr kimr  448 Jul 10 10:20 packages/helm-org-ql-20210608.1556.entry
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 10 10:21 packages/helm-org-ql-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr  720 Jul 10 10:21 packages/helm-org-ql.log
-4.0K -rw-rw-r-- 1 kimr kimr  293 Jul 10 10:20 packages/helm-org-ql-readme.txt
-4.0K -rw-rw-r-- 1 kimr kimr   48 Jul 20 14:33 packages/helm-org-readme.txt
- 84K -rw-rw-r-- 1 kimr kimr  82K Jul 10 10:21 packages/helm-org-rifle-20200512.1943.el
-4.0K -rw-rw-r-- 1 kimr kimr  468 Jul 10 10:21 packages/helm-org-rifle-20200512.1943.entry
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 10 10:21 packages/helm-org-rifle-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr  573 Jul 10 10:21 packages/helm-org-rifle.log
-4.0K -rw-rw-r-- 1 kimr kimr 1.1K Jul 10 10:21 packages/helm-org-rifle-readme.txt
+ 24K -rw-rw-r-- 1 kimr kimr  22K Oct 18 21:51 packages/helm-org-20210324.1927.el
+4.0K -rw-rw-r-- 1 kimr kimr  408 Oct 18 21:51 packages/helm-org-20210324.1927.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Oct 18 21:51 packages/helm-org-badge.svg
+8.0K -rw-rw-r-- 1 kimr kimr 7.7K Sep 18 06:13 packages/helm-org-ql-20210608.1556.el
+4.0K -rw-rw-r-- 1 kimr kimr  448 Sep 18 06:13 packages/helm-org-ql-20210608.1556.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Sep 18 06:13 packages/helm-org-ql-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr  628 Sep 18 06:13 packages/helm-org-ql.log
+4.0K -rw-rw-r-- 1 kimr kimr  293 Sep 18 06:13 packages/helm-org-ql-readme.txt
+4.0K -rw-rw-r-- 1 kimr kimr   48 Oct 18 21:51 packages/helm-org-readme.txt
+ 84K -rw-rw-r-- 1 kimr kimr  82K Jul 20 14:33 packages/helm-org-rifle-20200512.1943.el
+4.0K -rw-rw-r-- 1 kimr kimr  468 Jul 20 14:33 packages/helm-org-rifle-20200512.1943.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 20 14:33 packages/helm-org-rifle-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr  573 Jul 20 14:33 packages/helm-org-rifle.log
+4.0K -rw-rw-r-- 1 kimr kimr 1.1K Jul 20 14:33 packages/helm-org-rifle-readme.txt

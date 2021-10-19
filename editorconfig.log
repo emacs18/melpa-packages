@@ -7,14 +7,14 @@ Checking out origin/HEAD
 Checking out 2ab86dc9a8ed7a669ca348252d4af46522b5c411
 Copying files (->) and directories (=>)
   from /home/kimr/repos/my/melpa/working/editorconfig/
-  to /tmp/editorconfiggHUblr/editorconfig-20210830.1025
+  to /tmp/editorconfigxDSQPK/editorconfig-20210830.1025
     editorconfig-conf-mode.el -> editorconfig-conf-mode.el
     editorconfig-core-handle.el -> editorconfig-core-handle.el
     editorconfig-core.el -> editorconfig-core.el
     editorconfig-fnmatch.el -> editorconfig-fnmatch.el
     editorconfig.el -> editorconfig.el
   ! doc/editorconfig.texi -> editorconfig.texi
-Created /tmp/editorconfiggHUblr/editorconfig-20210830.1025/editorconfig.info
+Created /tmp/editorconfigxDSQPK/editorconfig-20210830.1025/editorconfig.info
 Created editorconfig-20210830.1025.tar containing:
   editorconfig-20210830.1025/
   editorconfig-20210830.1025/dir
@@ -25,11 +25,9 @@ Created editorconfig-20210830.1025.tar containing:
   editorconfig-20210830.1025/editorconfig-pkg.el
   editorconfig-20210830.1025/editorconfig.el
   editorconfig-20210830.1025/editorconfig.info
-Built editorconfig in 0.460s, finished at 2021-09-18T13:13:00+0000
+Built editorconfig in 0.871s, finished at 2021-10-19T04:49:40+0000
  ✓ Success:
-4.0K -rw-rw-r-- 1 kimr kimr  426 Jul 20 14:31 packages/editorconfig-20210407.407.entry
- 92K -rw-rw-r-- 1 kimr kimr  90K Jul 20 14:31 packages/editorconfig-20210407.407.tar
-4.0K -rw-rw-r-- 1 kimr kimr  427 Sep 18 06:13 packages/editorconfig-20210830.1025.entry
-100K -rw-rw-r-- 1 kimr kimr 100K Sep 18 06:13 packages/editorconfig-20210830.1025.tar
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K Sep 18 06:13 packages/editorconfig-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr  394 Sep 18 06:13 packages/editorconfig-readme.txt
+4.0K -rw-rw-r-- 1 kimr kimr  427 Oct 18 21:49 packages/editorconfig-20210830.1025.entry
+100K -rw-rw-r-- 1 kimr kimr 100K Oct 18 21:49 packages/editorconfig-20210830.1025.tar
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Oct 18 21:49 packages/editorconfig-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr  394 Oct 18 21:49 packages/editorconfig-readme.txt

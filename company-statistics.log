@@ -3,9 +3,11 @@ Fetcher: github
 Source:  https://github.com/company-mode/company-statistics.git
 
 Updating /home/kimr/repos/my/melpa/working/company-statistics/
-Built company-statistics in 0.884s, finished at 2021-07-20T21:31:14+0000
+Checking out origin/HEAD
+Checking out e62157d43b2c874d2edbd547c3bdfb05d0a7ae5c
+Built company-statistics in 0.661s, finished at 2021-10-19T04:49:13+0000
  ✓ Success:
- 16K -rw-rw-r-- 1 kimr kimr  16K Jul 20 14:31 packages/company-statistics-20170210.1933.el
-4.0K -rw-rw-r-- 1 kimr kimr  486 Jul 20 14:31 packages/company-statistics-20170210.1933.entry
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 20 14:31 packages/company-statistics-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr  887 Jul 20 14:31 packages/company-statistics-readme.txt
+ 16K -rw-rw-r-- 1 kimr kimr  16K Oct 18 21:49 packages/company-statistics-20170210.1933.el
+4.0K -rw-rw-r-- 1 kimr kimr  486 Oct 18 21:49 packages/company-statistics-20170210.1933.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Oct 18 21:49 packages/company-statistics-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr  887 Oct 18 21:49 packages/company-statistics-readme.txt

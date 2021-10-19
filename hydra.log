@@ -3,9 +3,11 @@ Fetcher: github
 Source:  https://github.com/abo-abo/hydra.git
 
 Updating /home/kimr/repos/my/melpa/working/hydra/
+Checking out origin/HEAD
+Checking out 2d553787aca1aceb3e6927e426200e9bb9f056f1
 Copying files (->) and directories (=>)
   from /home/kimr/repos/my/melpa/working/hydra/
-  to /tmp/hydraa56lI6/hydra-20201115.1055
+  to /tmp/hydrain8Nem/hydra-20201115.1055
     hydra-examples.el -> hydra-examples.el
     hydra-ox.el -> hydra-ox.el
     hydra.el -> hydra.el
@@ -15,9 +17,9 @@ Created hydra-20201115.1055.tar containing:
   hydra-20201115.1055/hydra-ox.el
   hydra-20201115.1055/hydra-pkg.el
   hydra-20201115.1055/hydra.el
-Built hydra in 0.677s, finished at 2021-07-20T21:33:53+0000
+Built hydra in 0.303s, finished at 2021-10-19T04:51:37+0000
  ✓ Success:
-4.0K -rw-rw-r-- 1 kimr kimr  349 Jul 20 14:33 packages/hydra-20201115.1055.entry
- 92K -rw-rw-r-- 1 kimr kimr  90K Jul 20 14:33 packages/hydra-20201115.1055.tar
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 20 14:33 packages/hydra-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr 1.9K Jul 20 14:33 packages/hydra-readme.txt
+4.0K -rw-rw-r-- 1 kimr kimr  349 Oct 18 21:51 packages/hydra-20201115.1055.entry
+ 92K -rw-rw-r-- 1 kimr kimr  90K Oct 18 21:51 packages/hydra-20201115.1055.tar
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Oct 18 21:51 packages/hydra-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr 1.9K Oct 18 21:51 packages/hydra-readme.txt

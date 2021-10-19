@@ -3,9 +3,11 @@ Fetcher: github
 Source:  https://github.com/leoliu/pcmpl-git-el.git
 
 Updating /home/kimr/repos/my/melpa/working/pcmpl-git/
+Checking out origin/HEAD
+Checking out 9472ac70baeda025ef7becd1cf141d72aec93f32
 Copying files (->) and directories (=>)
   from /home/kimr/repos/my/melpa/working/pcmpl-git/
-  to /tmp/pcmpl-gitRaIZZp/pcmpl-git-20170121.59
+  to /tmp/pcmpl-gitET7bUO/pcmpl-git-20170121.59
     pcmpl-git-parse.el -> pcmpl-git-parse.el
     pcmpl-git.el -> pcmpl-git.el
     git-options -> git-options
@@ -15,9 +17,9 @@ Created pcmpl-git-20170121.59.tar containing:
   pcmpl-git-20170121.59/pcmpl-git-parse.el
   pcmpl-git-20170121.59/pcmpl-git-pkg.el
   pcmpl-git-20170121.59/pcmpl-git.el
-Built pcmpl-git in 0.675s, finished at 2021-07-20T21:35:35+0000
+Built pcmpl-git in 0.667s, finished at 2021-10-19T04:53:02+0000
  ✓ Success:
-4.0K -rw-rw-r-- 1 kimr kimr  265 Jul 20 14:35 packages/pcmpl-git-20170121.59.entry
- 72K -rw-rw-r-- 1 kimr kimr  70K Jul 20 14:35 packages/pcmpl-git-20170121.59.tar
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 20 14:35 packages/pcmpl-git-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr  267 Jul 20 14:35 packages/pcmpl-git-readme.txt
+4.0K -rw-rw-r-- 1 kimr kimr  265 Oct 18 21:53 packages/pcmpl-git-20170121.59.entry
+ 72K -rw-rw-r-- 1 kimr kimr  70K Oct 18 21:53 packages/pcmpl-git-20170121.59.tar
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Oct 18 21:53 packages/pcmpl-git-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr  267 Oct 18 21:53 packages/pcmpl-git-readme.txt

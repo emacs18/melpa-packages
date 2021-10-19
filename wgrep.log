@@ -3,14 +3,16 @@ Fetcher: github
 Source:  https://github.com/mhayashi1120/Emacs-wgrep.git
 
 Updating /home/kimr/repos/my/melpa/working/wgrep/
-Built wgrep in 0.659s, finished at 2021-07-20T21:36:44+0000
+Checking out origin/HEAD
+Checking out f9687c28bbc2e84f87a479b6ce04407bb97cfb23
+Built wgrep in 0.495s, finished at 2021-10-19T04:54:03+0000
  ✓ Success:
- 40K -rw-rw-r-- 1 kimr kimr  40K Jul 20 14:36 packages/wgrep-20210322.2207.el
-4.0K -rw-rw-r-- 1 kimr kimr  402 Jul 20 14:36 packages/wgrep-20210322.2207.entry
-8.0K -rw-rw-r-- 1 kimr kimr 7.8K Jul 10 10:23 packages/wgrep-ag-20200217.1028.el
-4.0K -rw-rw-r-- 1 kimr kimr  447 Jul 10 10:23 packages/wgrep-ag-20200217.1028.entry
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 10 10:23 packages/wgrep-ag-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr  536 Jul 10 10:23 packages/wgrep-ag.log
-4.0K -rw-rw-r-- 1 kimr kimr   84 Jul 10 10:23 packages/wgrep-ag-readme.txt
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 20 14:36 packages/wgrep-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr 2.5K Jul 20 14:36 packages/wgrep-readme.txt
+ 40K -rw-rw-r-- 1 kimr kimr  40K Oct 18 21:54 packages/wgrep-20210322.2207.el
+4.0K -rw-rw-r-- 1 kimr kimr  402 Oct 18 21:54 packages/wgrep-20210322.2207.entry
+8.0K -rw-rw-r-- 1 kimr kimr 7.8K Jul 20 14:36 packages/wgrep-ag-20200217.1028.el
+4.0K -rw-rw-r-- 1 kimr kimr  447 Jul 20 14:36 packages/wgrep-ag-20200217.1028.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 20 14:36 packages/wgrep-ag-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr  536 Jul 20 14:36 packages/wgrep-ag.log
+4.0K -rw-rw-r-- 1 kimr kimr   84 Jul 20 14:36 packages/wgrep-ag-readme.txt
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Oct 18 21:54 packages/wgrep-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr 2.5K Oct 18 21:54 packages/wgrep-readme.txt

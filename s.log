@@ -3,10 +3,12 @@ Fetcher: github
 Source:  https://github.com/magnars/s.el.git
 
 Updating /home/kimr/repos/my/melpa/working/s/
+Checking out origin/HEAD
+Checking out 08661efb075d1c6b4fa812184c1e5e90c08795a9
 Note: s :files spec is equivalent to the default.
-Built s in 0.676s, finished at 2021-07-20T21:36:04+0000
+Built s in 0.653s, finished at 2021-10-19T04:53:28+0000
  ✓ Success:
- 24K -rw-rw-r-- 1 kimr kimr  24K Jul 20 14:36 packages/s-20210616.619.el
-4.0K -rw-rw-r-- 1 kimr kimr  297 Jul 20 14:36 packages/s-20210616.619.entry
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 20 14:36 packages/s-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr  113 Jul 20 14:36 packages/s-readme.txt
+ 24K -rw-rw-r-- 1 kimr kimr  24K Oct 18 21:53 packages/s-20210616.619.el
+4.0K -rw-rw-r-- 1 kimr kimr  297 Oct 18 21:53 packages/s-20210616.619.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Oct 18 21:53 packages/s-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr  113 Oct 18 21:53 packages/s-readme.txt

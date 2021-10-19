@@ -3,9 +3,11 @@ Fetcher: github
 Source:  https://github.com/pythonic-emacs/company-anaconda.git
 
 Updating /home/kimr/repos/my/melpa/working/company-anaconda/
-Built company-anaconda in 0.872s, finished at 2021-07-20T21:31:07+0000
+Checking out origin/HEAD
+Checking out da1566db41a68809ef7f91ebf2de28118067c89b
+Built company-anaconda in 0.498s, finished at 2021-10-19T04:49:07+0000
  ✓ Success:
-8.0K -rw-rw-r-- 1 kimr kimr 5.9K Jul 20 14:31 packages/company-anaconda-20200404.1859.el
-4.0K -rw-rw-r-- 1 kimr kimr  494 Jul 20 14:31 packages/company-anaconda-20200404.1859.entry
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 20 14:31 packages/company-anaconda-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr   33 Jul 20 14:31 packages/company-anaconda-readme.txt
+8.0K -rw-rw-r-- 1 kimr kimr 5.9K Oct 18 21:49 packages/company-anaconda-20200404.1859.el
+4.0K -rw-rw-r-- 1 kimr kimr  494 Oct 18 21:49 packages/company-anaconda-20200404.1859.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Oct 18 21:49 packages/company-anaconda-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr   33 Oct 18 21:49 packages/company-anaconda-readme.txt

@@ -3,9 +3,11 @@ Fetcher: github
 Source:  https://github.com/alphapapa/outshine.git
 
 Updating /home/kimr/repos/my/melpa/working/outshine/
+Checking out origin/HEAD
+Checking out 9334b555aaf1426a9e405a57b80809a1615627b3
 Copying files (->) and directories (=>)
   from /home/kimr/repos/my/melpa/working/outshine/
-  to /tmp/outshine8SJDv1/outshine-20191112.1414
+  to /tmp/outshine79bUNp/outshine-20191112.1414
     outshine-org-cmds.el -> outshine-org-cmds.el
     outshine.el -> outshine.el
 Created outshine-20191112.1414.tar containing:
@@ -13,9 +15,9 @@ Created outshine-20191112.1414.tar containing:
   outshine-20191112.1414/outshine-org-cmds.el
   outshine-20191112.1414/outshine-pkg.el
   outshine-20191112.1414/outshine.el
-Built outshine in 0.675s, finished at 2021-07-20T21:35:15+0000
+Built outshine in 0.488s, finished at 2021-10-19T04:52:47+0000
  ✓ Success:
-4.0K -rw-rw-r-- 1 kimr kimr  398 Jul 20 14:35 packages/outshine-20191112.1414.entry
-280K -rw-rw-r-- 1 kimr kimr 280K Jul 20 14:35 packages/outshine-20191112.1414.tar
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 20 14:35 packages/outshine-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr  178 Jul 20 14:35 packages/outshine-readme.txt
+4.0K -rw-rw-r-- 1 kimr kimr  398 Oct 18 21:52 packages/outshine-20191112.1414.entry
+280K -rw-rw-r-- 1 kimr kimr 280K Oct 18 21:52 packages/outshine-20191112.1414.tar
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Oct 18 21:52 packages/outshine-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr  178 Oct 18 21:52 packages/outshine-readme.txt

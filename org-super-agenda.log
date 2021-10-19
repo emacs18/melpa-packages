@@ -4,21 +4,23 @@ Source:  https://github.com/alphapapa/org-super-agenda.git
 
 Updating /home/kimr/repos/my/melpa/working/org-super-agenda/
 Checking out origin/HEAD
-Checking out a5557ea4f51571ee9def3cd9a1ab1c38f1a27af7
+Checking out fb5e2ef277bc811a3b061106c99e4c47b6b86f80
 Copying files (->) and directories (=>)
   from /home/kimr/repos/my/melpa/working/org-super-agenda/
-  to /tmp/org-super-agendaEcPbS9/org-super-agenda-20201211.918
+  to /tmp/org-super-agendaTWkmH1/org-super-agenda-20210928.916
     org-super-agenda.el -> org-super-agenda.el
     org-super-agenda.info -> org-super-agenda.info
-Created org-super-agenda-20201211.918.tar containing:
-  org-super-agenda-20201211.918/
-  org-super-agenda-20201211.918/dir
-  org-super-agenda-20201211.918/org-super-agenda-pkg.el
-  org-super-agenda-20201211.918/org-super-agenda.el
-  org-super-agenda-20201211.918/org-super-agenda.info
-Built org-super-agenda in 0.423s, finished at 2021-08-08T16:19:00+0000
+Created org-super-agenda-20210928.916.tar containing:
+  org-super-agenda-20210928.916/
+  org-super-agenda-20210928.916/dir
+  org-super-agenda-20210928.916/org-super-agenda-pkg.el
+  org-super-agenda-20210928.916/org-super-agenda.el
+  org-super-agenda-20210928.916/org-super-agenda.info
+Built org-super-agenda in 0.510s, finished at 2021-10-19T04:52:45+0000
  ✓ Success:
 4.0K -rw-rw-r-- 1 kimr kimr  533 Aug  8 09:18 packages/org-super-agenda-20201211.918.entry
  92K -rw-rw-r-- 1 kimr kimr  90K Aug  8 09:18 packages/org-super-agenda-20201211.918.tar
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K Aug  8 09:19 packages/org-super-agenda-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr 3.9K Aug  8 09:18 packages/org-super-agenda-readme.txt
+4.0K -rw-rw-r-- 1 kimr kimr  533 Oct 18 21:52 packages/org-super-agenda-20210928.916.entry
+100K -rw-rw-r-- 1 kimr kimr 100K Oct 18 21:52 packages/org-super-agenda-20210928.916.tar
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Oct 18 21:52 packages/org-super-agenda-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr 3.9K Oct 18 21:52 packages/org-super-agenda-readme.txt

@@ -5,11 +5,9 @@ Source:  https://github.com/smihica/emmet-mode.git
 Updating /home/kimr/repos/my/melpa/working/emmet-mode/
 Checking out origin/HEAD
 Checking out 6b2e554f7fd27f732810f4b14ea01e3c54b7b3da
-Built emmet-mode in 0.241s, finished at 2021-09-18T13:13:02+0000
+Built emmet-mode in 0.653s, finished at 2021-10-19T04:49:50+0000
  ✓ Success:
-144K -rw-rw-r-- 1 kimr kimr 144K Jul 20 14:31 packages/emmet-mode-20180613.341.el
-4.0K -rw-rw-r-- 1 kimr kimr  366 Jul 20 14:31 packages/emmet-mode-20180613.341.entry
-152K -rw-rw-r-- 1 kimr kimr 149K Sep 18 06:13 packages/emmet-mode-20210820.1124.el
-4.0K -rw-rw-r-- 1 kimr kimr  367 Sep 18 06:13 packages/emmet-mode-20210820.1124.entry
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K Sep 18 06:13 packages/emmet-mode-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr  852 Sep 18 06:13 packages/emmet-mode-readme.txt
+152K -rw-rw-r-- 1 kimr kimr 149K Oct 18 21:49 packages/emmet-mode-20210820.1124.el
+4.0K -rw-rw-r-- 1 kimr kimr  367 Oct 18 21:49 packages/emmet-mode-20210820.1124.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Oct 18 21:49 packages/emmet-mode-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr  852 Oct 18 21:49 packages/emmet-mode-readme.txt

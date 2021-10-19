@@ -3,9 +3,11 @@ Fetcher: github
 Source:  https://github.com/tonini/alchemist.el.git
 
 Updating /home/kimr/repos/my/melpa/working/alchemist/
+Checking out origin/HEAD
+Checking out 6f99367511ae209f8fe2c990779764bbb4ccb6ed
 Copying files (->) and directories (=>)
   from /home/kimr/repos/my/melpa/working/alchemist/
-  to /tmp/alchemistoHZaFU/alchemist-20180312.1304
+  to /tmp/alchemistDpZdd4/alchemist-20180312.1304
     alchemist-company.el -> alchemist-company.el
     alchemist-compile.el -> alchemist-compile.el
     alchemist-complete.el -> alchemist-complete.el
@@ -104,9 +106,9 @@ Created alchemist-20180312.1304.tar containing:
   alchemist-20180312.1304/alchemist-test-mode.el
   alchemist-20180312.1304/alchemist-utils.el
   alchemist-20180312.1304/alchemist.el
-Built alchemist in 0.680s, finished at 2021-07-20T21:30:30+0000
+Built alchemist in 0.663s, finished at 2021-10-19T04:48:37+0000
  ✓ Success:
-4.0K -rw-rw-r-- 1 kimr kimr  593 Jul 20 14:30 packages/alchemist-20180312.1304.entry
-292K -rw-rw-r-- 1 kimr kimr 290K Jul 20 14:30 packages/alchemist-20180312.1304.tar
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 20 14:30 packages/alchemist-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr  449 Jul 20 14:30 packages/alchemist-readme.txt
+4.0K -rw-rw-r-- 1 kimr kimr  593 Oct 18 21:48 packages/alchemist-20180312.1304.entry
+292K -rw-rw-r-- 1 kimr kimr 290K Oct 18 21:48 packages/alchemist-20180312.1304.tar
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Oct 18 21:48 packages/alchemist-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr  449 Oct 18 21:48 packages/alchemist-readme.txt

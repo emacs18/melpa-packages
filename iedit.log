@@ -7,7 +7,7 @@ Checking out origin/HEAD
 Checking out 2f504c966e7f640dcd6ecbf40a6a1a05ea286de0
 Copying files (->) and directories (=>)
   from /home/kimr/repos/my/melpa/working/iedit/
-  to /tmp/ieditDptCh6/iedit-20210812.735
+  to /tmp/ieditFOwH4U/iedit-20210812.735
     iedit-lib.el -> iedit-lib.el
     iedit-rect.el -> iedit-rect.el
     iedit.el -> iedit.el
@@ -17,11 +17,9 @@ Created iedit-20210812.735.tar containing:
   iedit-20210812.735/iedit-pkg.el
   iedit-20210812.735/iedit-rect.el
   iedit-20210812.735/iedit.el
-Built iedit in 0.197s, finished at 2021-09-18T13:13:20+0000
+Built iedit in 0.582s, finished at 2021-10-19T04:51:38+0000
  ✓ Success:
-4.0K -rw-rw-r-- 1 kimr kimr  378 Aug  8 09:18 packages/iedit-20210805.723.entry
-100K -rw-rw-r-- 1 kimr kimr 100K Aug  8 09:18 packages/iedit-20210805.723.tar
-4.0K -rw-rw-r-- 1 kimr kimr  378 Sep 18 06:13 packages/iedit-20210812.735.entry
-100K -rw-rw-r-- 1 kimr kimr 100K Sep 18 06:13 packages/iedit-20210812.735.tar
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K Sep 18 06:13 packages/iedit-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr 2.8K Sep 18 06:13 packages/iedit-readme.txt
+4.0K -rw-rw-r-- 1 kimr kimr  378 Oct 18 21:51 packages/iedit-20210812.735.entry
+100K -rw-rw-r-- 1 kimr kimr 100K Oct 18 21:51 packages/iedit-20210812.735.tar
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Oct 18 21:51 packages/iedit-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr 2.8K Oct 18 21:51 packages/iedit-readme.txt

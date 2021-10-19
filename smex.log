@@ -3,9 +3,11 @@ Fetcher: github
 Source:  https://github.com/nonsequitur/smex.git
 
 Updating /home/kimr/repos/my/melpa/working/smex/
-Built smex in 0.669s, finished at 2021-07-20T21:36:14+0000
+Checking out origin/HEAD
+Checking out 55aaebe3d793c2c990b39a302eb26c184281c42c
+Built smex in 0.663s, finished at 2021-10-19T04:53:37+0000
  ✓ Success:
- 20K -rw-rw-r-- 1 kimr kimr  18K Jul 20 14:36 packages/smex-20151212.2209.el
-4.0K -rw-rw-r-- 1 kimr kimr  392 Jul 20 14:36 packages/smex-20151212.2209.entry
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 20 14:36 packages/smex-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr  193 Jul 20 14:36 packages/smex-readme.txt
+ 20K -rw-rw-r-- 1 kimr kimr  18K Oct 18 21:53 packages/smex-20151212.2209.el
+4.0K -rw-rw-r-- 1 kimr kimr  392 Oct 18 21:53 packages/smex-20151212.2209.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Oct 18 21:53 packages/smex-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr  193 Oct 18 21:53 packages/smex-readme.txt

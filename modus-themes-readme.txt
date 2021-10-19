@@ -8,30 +8,32 @@ themes, or available at: <https://protesilaos.com/modus-themes>).
 
 The themes share the following customization variables:
 
-    modus-themes-inhibit-reload                 (boolean)
-    modus-themes-italic-constructs              (boolean)
+    modus-themes-headings                       (alist)
+    modus-themes-org-agenda                     (alist)
     modus-themes-bold-constructs                (boolean)
-    modus-themes-variable-pitch-headings        (boolean)
-    modus-themes-variable-pitch-ui              (boolean)
+    modus-themes-inhibit-reload                 (boolean)
+    modus-themes-intense-markup                 (boolean)
+    modus-themes-italic-constructs              (boolean)
+    modus-themes-mixed-fonts                    (boolean)
     modus-themes-scale-headings                 (boolean)
     modus-themes-subtle-line-numbers            (boolean)
     modus-themes-success-deuteranopia           (boolean)
-    modus-themes-no-mixed-fonts                 (boolean)
-    modus-themes-headings                       (alist)
-    modus-themes-fringes                        (choice)
-    modus-themes-lang-checkers                  (choice)
-    modus-themes-org-agenda                     (alist)
-    modus-themes-org-blocks                     (choice)
-    modus-themes-prompts                        (choice)
-    modus-themes-mode-line                      (choice)
-    modus-themes-diffs                          (choice)
-    modus-themes-syntax                         (choice)
-    modus-themes-hl-line                        (choice)
-    modus-themes-paren-match                    (choice)
-    modus-themes-region                         (choice)
-    modus-themes-links                          (choice)
+    modus-themes-variable-pitch-headings        (boolean)
+    modus-themes-variable-pitch-ui              (boolean)
     modus-themes-completions                    (choice)
+    modus-themes-diffs                          (choice)
+    modus-themes-fringes                        (choice)
+    modus-themes-hl-line                        (choice)
+    modus-themes-lang-checkers                  (choice)
+    modus-themes-links                          (choice)
     modus-themes-mail-citations                 (choice)
+    modus-themes-mode-line                      (choice)
+    modus-themes-org-blocks                     (choice)
+    modus-themes-paren-match                    (choice)
+    modus-themes-prompts                        (choice)
+    modus-themes-region                         (choice)
+    modus-themes-syntax                         (choice)
+    modus-themes-mode-line-padding              (natnum)
 
 The default scale for headings is as follows (it can be customized as
 well---remember, no scaling takes place by default):
@@ -64,6 +66,7 @@ missing package or change you would like to see.
     alert
     all-the-icons
     annotate
+    ansi-color
     anzu
     apropos
     apt-sources-list
@@ -250,6 +253,7 @@ missing package or change you would like to see.
     mu4e
     mu4e-conversation
     multiple-cursors
+    nano-modeline
     neotree
     no-emoji
     notmuch
@@ -350,6 +354,7 @@ missing package or change you would like to see.
     vc-annotate (C-x v g)
     vdiff
     vertico
+    vertico-quick
     vimish-fold
     visible-mark
     visual-regexp

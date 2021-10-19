@@ -3,19 +3,23 @@ Fetcher: github
 Source:  https://github.com/noctuid/general.el.git
 
 Updating /home/kimr/repos/my/melpa/working/general/
+Checking out origin/HEAD
+Checking out 26f1d4c4e258c40e6b70ce831a04800c914f29b3
 Copying files (->) and directories (=>)
   from /home/kimr/repos/my/melpa/working/general/
-  to /tmp/general9qI9S4/general-20200516.50
+  to /tmp/general9EofAd/general-20211008.1651
     .dirs-local.el -> .dirs-local.el
     general.el -> general.el
-Created general-20200516.50.tar containing:
-  general-20200516.50/
-  general-20200516.50/.dirs-local.el
-  general-20200516.50/general-pkg.el
-  general-20200516.50/general.el
-Built general in 0.597s, finished at 2021-07-20T21:32:50+0000
+Created general-20211008.1651.tar containing:
+  general-20211008.1651/
+  general-20211008.1651/.dirs-local.el
+  general-20211008.1651/general-pkg.el
+  general-20211008.1651/general.el
+Built general in 0.412s, finished at 2021-10-19T04:50:40+0000
  ✓ Success:
 4.0K -rw-rw-r-- 1 kimr kimr  406 Jul 20 14:32 packages/general-20200516.50.entry
 132K -rw-rw-r-- 1 kimr kimr 130K Jul 20 14:32 packages/general-20200516.50.tar
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 20 14:32 packages/general-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr  560 Jul 20 14:32 packages/general-readme.txt
+4.0K -rw-rw-r-- 1 kimr kimr  408 Oct 18 21:50 packages/general-20211008.1651.entry
+132K -rw-rw-r-- 1 kimr kimr 130K Oct 18 21:50 packages/general-20211008.1651.tar
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Oct 18 21:50 packages/general-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr  560 Oct 18 21:50 packages/general-readme.txt

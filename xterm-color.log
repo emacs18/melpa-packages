@@ -3,9 +3,11 @@ Fetcher: github
 Source:  https://github.com/atomontage/xterm-color.git
 
 Updating /home/kimr/repos/my/melpa/working/xterm-color/
-Built xterm-color in 0.673s, finished at 2021-07-20T21:36:53+0000
+Checking out origin/HEAD
+Checking out 1a4012854c69a5cdaeb5a73d2ad705011892fca3
+Built xterm-color in 0.676s, finished at 2021-10-19T04:54:10+0000
  ✓ Success:
- 40K -rw-rw-r-- 1 kimr kimr  38K Jul 20 14:36 packages/xterm-color-20200605.2017.el
-4.0K -rw-rw-r-- 1 kimr kimr  378 Jul 20 14:36 packages/xterm-color-20200605.2017.entry
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 20 14:36 packages/xterm-color-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr  303 Jul 20 14:36 packages/xterm-color-readme.txt
+ 40K -rw-rw-r-- 1 kimr kimr  38K Oct 18 21:54 packages/xterm-color-20200605.2017.el
+4.0K -rw-rw-r-- 1 kimr kimr  378 Oct 18 21:54 packages/xterm-color-20200605.2017.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Oct 18 21:54 packages/xterm-color-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr  303 Oct 18 21:54 packages/xterm-color-readme.txt

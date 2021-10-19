@@ -3,9 +3,11 @@ Fetcher: git
 Source:  https://git.savannah.nongnu.org/git/bbdb.git
 
 Updating /home/kimr/repos/my/melpa/working/bbdb/
+Checking out origin/HEAD
+Checking out 03c9ab00642fd54d7fb601f95a094b8b7f0eefb0
 Copying files (->) and directories (=>)
   from /home/kimr/repos/my/melpa/working/bbdb/
-  to /tmp/bbdb2Fqicc/bbdb-20210108.38
+  to /tmp/bbdbzS9Qba/bbdb-20210108.38
   ! lisp/bbdb-anniv.el -> bbdb-anniv.el
   ! lisp/bbdb-com.el -> bbdb-com.el
   ! lisp/bbdb-gnus-aux.el -> bbdb-gnus-aux.el
@@ -30,9 +32,9 @@ Copying files (->) and directories (=>)
   ! doc/bbdb.texi -> bbdb.texi
   ! doc/doclicense.texi -> doclicense.texi
   ! doc/gpl.texi -> gpl.texi
-Created /tmp/bbdb2Fqicc/bbdb-20210108.38/bbdb.info
-Created /tmp/bbdb2Fqicc/bbdb-20210108.38/doclicense.info
-Created /tmp/bbdb2Fqicc/bbdb-20210108.38/gpl.info
+Created /tmp/bbdbzS9Qba/bbdb-20210108.38/bbdb.info
+Created /tmp/bbdbzS9Qba/bbdb-20210108.38/doclicense.info
+Created /tmp/bbdbzS9Qba/bbdb-20210108.38/gpl.info
 Created bbdb-20210108.38.tar containing:
   bbdb-20210108.38/
   bbdb-20210108.38/bbdb-anniv.el
@@ -60,9 +62,9 @@ Created bbdb-20210108.38.tar containing:
   bbdb-20210108.38/dir
   bbdb-20210108.38/doclicense.info
   bbdb-20210108.38/gpl.info
-Built bbdb in 1.249s, finished at 2021-07-20T21:30:45+0000
+Built bbdb in 1.040s, finished at 2021-10-19T04:48:49+0000
  ✓ Success:
-4.0K -rw-rw-r-- 1 kimr kimr  213 Jul 20 14:30 packages/bbdb-20210108.38.entry
-672K -rw-rw-r-- 1 kimr kimr 670K Jul 20 14:30 packages/bbdb-20210108.38.tar
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 20 14:30 packages/bbdb-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr  707 Jul 20 14:30 packages/bbdb-readme.txt
+4.0K -rw-rw-r-- 1 kimr kimr  213 Oct 18 21:48 packages/bbdb-20210108.38.entry
+672K -rw-rw-r-- 1 kimr kimr 670K Oct 18 21:48 packages/bbdb-20210108.38.tar
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Oct 18 21:48 packages/bbdb-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr  707 Oct 18 21:48 packages/bbdb-readme.txt

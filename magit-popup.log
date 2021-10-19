@@ -3,21 +3,23 @@ Fetcher: github
 Source:  https://github.com/magit/magit-popup.git
 
 Updating /home/kimr/repos/my/melpa/working/magit-popup/
+Checking out origin/HEAD
+Checking out d8585fa39f88956963d877b921322530257ba9f5
 Copying files (->) and directories (=>)
   from /home/kimr/repos/my/melpa/working/magit-popup/
-  to /tmp/magit-popupSSnZf4/magit-popup-20200719.1015
+  to /tmp/magit-popupFTzW7g/magit-popup-20200719.1015
     magit-popup.el -> magit-popup.el
     magit-popup.texi -> magit-popup.texi
-Created /tmp/magit-popupSSnZf4/magit-popup-20200719.1015/magit-popup.info
+Created /tmp/magit-popupFTzW7g/magit-popup-20200719.1015/magit-popup.info
 Created magit-popup-20200719.1015.tar containing:
   magit-popup-20200719.1015/
   magit-popup-20200719.1015/dir
   magit-popup-20200719.1015/magit-popup-pkg.el
   magit-popup-20200719.1015/magit-popup.el
   magit-popup-20200719.1015/magit-popup.info
-Built magit-popup in 1.015s, finished at 2021-07-20T21:34:34+0000
+Built magit-popup in 0.516s, finished at 2021-10-19T04:52:13+0000
  ✓ Success:
-4.0K -rw-rw-r-- 1 kimr kimr  421 Jul 20 14:34 packages/magit-popup-20200719.1015.entry
- 92K -rw-rw-r-- 1 kimr kimr  90K Jul 20 14:34 packages/magit-popup-20200719.1015.tar
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 20 14:34 packages/magit-popup-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr  343 Jul 20 14:34 packages/magit-popup-readme.txt
+4.0K -rw-rw-r-- 1 kimr kimr  421 Oct 18 21:52 packages/magit-popup-20200719.1015.entry
+ 92K -rw-rw-r-- 1 kimr kimr  90K Oct 18 21:52 packages/magit-popup-20200719.1015.tar
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Oct 18 21:52 packages/magit-popup-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr  343 Oct 18 21:52 packages/magit-popup-readme.txt

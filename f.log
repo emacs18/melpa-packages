@@ -3,9 +3,11 @@ Fetcher: github
 Source:  https://github.com/rejeep/f.el.git
 
 Updating /home/kimr/repos/my/melpa/working/f/
+Checking out origin/HEAD
+Checking out 50af874cd19042f17c8686813d52569b1025c76a
 Note: f :files spec is equivalent to the default.
-Built f in 0.669s, finished at 2021-07-20T21:32:29+0000
+Built f in 0.677s, finished at 2021-10-19T04:50:20+0000
  ✓ Success:
- 20K -rw-rw-r-- 1 kimr kimr  19K Jul 20 14:32 packages/f-20210624.1103.el
-4.0K -rw-rw-r-- 1 kimr kimr  419 Jul 20 14:32 packages/f-20210624.1103.entry
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 20 14:32 packages/f-badge.svg
+ 20K -rw-rw-r-- 1 kimr kimr  19K Oct 18 21:50 packages/f-20210624.1103.el
+4.0K -rw-rw-r-- 1 kimr kimr  419 Oct 18 21:50 packages/f-20210624.1103.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Oct 18 21:50 packages/f-badge.svg

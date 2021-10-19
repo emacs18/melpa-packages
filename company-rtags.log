@@ -5,9 +5,9 @@ Source:  https://github.com/Andersbakken/rtags.git
 Updating /home/kimr/repos/my/melpa/working/company-rtags/
 Checking out origin/HEAD
 Checking out cdff9b47fc17710aad7815652490c3c620b5e792
-Built company-rtags in 0.268s, finished at 2021-09-18T13:12:53+0000
+Built company-rtags in 0.537s, finished at 2021-10-19T04:49:12+0000
  ✓ Success:
- 16K -rw-rw-r-- 1 kimr kimr  13K Sep 18 06:12 packages/company-rtags-20191222.920.el
-4.0K -rw-rw-r-- 1 kimr kimr  428 Sep 18 06:12 packages/company-rtags-20191222.920.entry
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K Sep 18 06:12 packages/company-rtags-badge.svg
-   0 -rw-rw-r-- 1 kimr kimr    0 Sep 18 06:12 packages/company-rtags-readme.txt
+ 16K -rw-rw-r-- 1 kimr kimr  13K Oct 18 21:49 packages/company-rtags-20191222.920.el
+4.0K -rw-rw-r-- 1 kimr kimr  428 Oct 18 21:49 packages/company-rtags-20191222.920.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Oct 18 21:49 packages/company-rtags-badge.svg
+   0 -rw-rw-r-- 1 kimr kimr    0 Oct 18 21:49 packages/company-rtags-readme.txt

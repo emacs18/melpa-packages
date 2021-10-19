@@ -3,9 +3,11 @@ Fetcher: github
 Source:  https://github.com/alexeyr/company-auctex.git
 
 Updating /home/kimr/repos/my/melpa/working/company-auctex/
-Built company-auctex in 0.674s, finished at 2021-07-20T21:31:08+0000
+Checking out origin/HEAD
+Checking out 9400a2ec7459dde8cbf1a5d50dfee4e300ed7e18
+Built company-auctex in 0.659s, finished at 2021-10-19T04:49:07+0000
  ✓ Success:
- 12K -rw-rw-r-- 1 kimr kimr  12K Jul 20 14:31 packages/company-auctex-20200529.1835.el
-4.0K -rw-rw-r-- 1 kimr kimr  508 Jul 20 14:31 packages/company-auctex-20200529.1835.entry
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 20 14:31 packages/company-auctex-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr  102 Jul 20 14:31 packages/company-auctex-readme.txt
+ 12K -rw-rw-r-- 1 kimr kimr  12K Oct 18 21:49 packages/company-auctex-20200529.1835.el
+4.0K -rw-rw-r-- 1 kimr kimr  508 Oct 18 21:49 packages/company-auctex-20200529.1835.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Oct 18 21:49 packages/company-auctex-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr  102 Oct 18 21:49 packages/company-auctex-readme.txt

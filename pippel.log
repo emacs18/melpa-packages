@@ -3,9 +3,11 @@ Fetcher: github
 Source:  https://github.com/arifer612/pippel.git
 
 Updating /home/kimr/repos/my/melpa/working/pippel/
+Checking out origin/HEAD
+Checking out 2480fd376b8f69691b45b0141fca0d900a5ac64a
 Copying files (->) and directories (=>)
   from /home/kimr/repos/my/melpa/working/pippel/
-  to /tmp/pippelJPV2ye/pippel-20210614.1655
+  to /tmp/pippelcOmwwy/pippel-20210614.1655
     pippel.el -> pippel.el
     pippel.py -> pippel.py
 Created pippel-20210614.1655.tar containing:
@@ -13,8 +15,8 @@ Created pippel-20210614.1655.tar containing:
   pippel-20210614.1655/pippel-pkg.el
   pippel-20210614.1655/pippel.el
   pippel-20210614.1655/pippel.py
-Built pippel in 0.671s, finished at 2021-07-20T21:35:41+0000
+Built pippel in 0.590s, finished at 2021-10-19T04:53:06+0000
  ✓ Success:
-4.0K -rw-rw-r-- 1 kimr kimr  372 Jul 20 14:35 packages/pippel-20210614.1655.entry
- 32K -rw-rw-r-- 1 kimr kimr  30K Jul 20 14:35 packages/pippel-20210614.1655.tar
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 20 14:35 packages/pippel-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr  372 Oct 18 21:53 packages/pippel-20210614.1655.entry
+ 32K -rw-rw-r-- 1 kimr kimr  30K Oct 18 21:53 packages/pippel-20210614.1655.tar
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Oct 18 21:53 packages/pippel-badge.svg

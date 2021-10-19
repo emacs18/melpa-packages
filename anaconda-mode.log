@@ -3,19 +3,23 @@ Fetcher: github
 Source:  https://github.com/pythonic-emacs/anaconda-mode.git
 
 Updating /home/kimr/repos/my/melpa/working/anaconda-mode/
+Checking out origin/HEAD
+Checking out 0546c093071417e4f30f505d9de09da883109cbf
 Copying files (->) and directories (=>)
   from /home/kimr/repos/my/melpa/working/anaconda-mode/
-  to /tmp/anaconda-modei5CBxg/anaconda-mode-20210409.1536
+  to /tmp/anaconda-modeFlcPps/anaconda-mode-20210714.1738
     anaconda-mode.el -> anaconda-mode.el
     anaconda-mode.py -> anaconda-mode.py
-Created anaconda-mode-20210409.1536.tar containing:
-  anaconda-mode-20210409.1536/
-  anaconda-mode-20210409.1536/anaconda-mode-pkg.el
-  anaconda-mode-20210409.1536/anaconda-mode.el
-  anaconda-mode-20210409.1536/anaconda-mode.py
-Built anaconda-mode in 1.947s, finished at 2021-07-20T21:30:33+0000
+Created anaconda-mode-20210714.1738.tar containing:
+  anaconda-mode-20210714.1738/
+  anaconda-mode-20210714.1738/anaconda-mode-pkg.el
+  anaconda-mode-20210714.1738/anaconda-mode.el
+  anaconda-mode-20210714.1738/anaconda-mode.py
+Built anaconda-mode in 0.648s, finished at 2021-10-19T04:48:39+0000
  ✓ Success:
 4.0K -rw-rw-r-- 1 kimr kimr  462 Jul 20 14:30 packages/anaconda-mode-20210409.1536.entry
  40K -rw-rw-r-- 1 kimr kimr  40K Jul 20 14:30 packages/anaconda-mode-20210409.1536.tar
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 20 14:30 packages/anaconda-mode-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr   33 Jul 20 14:30 packages/anaconda-mode-readme.txt
+4.0K -rw-rw-r-- 1 kimr kimr  462 Oct 18 21:48 packages/anaconda-mode-20210714.1738.entry
+ 40K -rw-rw-r-- 1 kimr kimr  40K Oct 18 21:48 packages/anaconda-mode-20210714.1738.tar
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Oct 18 21:48 packages/anaconda-mode-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr   33 Oct 18 21:48 packages/anaconda-mode-readme.txt

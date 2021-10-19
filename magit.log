@@ -4,10 +4,10 @@ Source:  https://github.com/magit/magit.git
 
 Updating /home/kimr/repos/my/melpa/working/magit/
 Checking out origin/HEAD
-Checking out bc85c477b53b8ad0ba87120f172230a2909a2fec
+Checking out 1b83f8ee1c5aa069f2f846e25d99df3d415d9657
 Copying files (->) and directories (=>)
   from /home/kimr/repos/my/melpa/working/magit/
-  to /tmp/magitfIBdsH/magit-20210916.1754
+  to /tmp/magitg9hU7k/magit-20211019.54
   ! lisp/magit-apply.el -> magit-apply.el
   ! lisp/magit-autorevert.el -> magit-autorevert.el
   ! lisp/magit-bisect.el -> magit-bisect.el
@@ -26,7 +26,6 @@ Copying files (->) and directories (=>)
   ! lisp/magit-git.el -> magit-git.el
   ! lisp/magit-gitignore.el -> magit-gitignore.el
   ! lisp/magit-imenu.el -> magit-imenu.el
-  ! lisp/magit-libgit-pkg.el -> magit-libgit-pkg.el
   ! lisp/magit-log.el -> magit-log.el
   ! lisp/magit-margin.el -> magit-margin.el
   ! lisp/magit-merge.el -> magit-merge.el
@@ -43,7 +42,6 @@ Copying files (->) and directories (=>)
   ! lisp/magit-remote.el -> magit-remote.el
   ! lisp/magit-repos.el -> magit-repos.el
   ! lisp/magit-reset.el -> magit-reset.el
-  ! lisp/magit-section-pkg.el -> magit-section-pkg.el
   ! lisp/magit-sequence.el -> magit-sequence.el
   ! lisp/magit-stash.el -> magit-stash.el
   ! lisp/magit-status.el -> magit-status.el
@@ -59,70 +57,68 @@ Copying files (->) and directories (=>)
   ! Documentation/magit.texi -> magit.texi
   ! Documentation/AUTHORS.md -> AUTHORS.md
     LICENSE -> LICENSE
-Created /tmp/magitfIBdsH/magit-20210916.1754/magit.info
-Created magit-20210916.1754.tar containing:
-  magit-20210916.1754/
-  magit-20210916.1754/AUTHORS.md
-  magit-20210916.1754/LICENSE
-  magit-20210916.1754/dir
-  magit-20210916.1754/git-rebase.el
-  magit-20210916.1754/magit-apply.el
-  magit-20210916.1754/magit-autorevert.el
-  magit-20210916.1754/magit-bisect.el
-  magit-20210916.1754/magit-blame.el
-  magit-20210916.1754/magit-bookmark.el
-  magit-20210916.1754/magit-branch.el
-  magit-20210916.1754/magit-bundle.el
-  magit-20210916.1754/magit-clone.el
-  magit-20210916.1754/magit-commit.el
-  magit-20210916.1754/magit-core.el
-  magit-20210916.1754/magit-diff.el
-  magit-20210916.1754/magit-ediff.el
-  magit-20210916.1754/magit-extras.el
-  magit-20210916.1754/magit-fetch.el
-  magit-20210916.1754/magit-files.el
-  magit-20210916.1754/magit-git.el
-  magit-20210916.1754/magit-gitignore.el
-  magit-20210916.1754/magit-imenu.el
-  magit-20210916.1754/magit-libgit-pkg.el
-  magit-20210916.1754/magit-log.el
-  magit-20210916.1754/magit-margin.el
-  magit-20210916.1754/magit-merge.el
-  magit-20210916.1754/magit-mode.el
-  magit-20210916.1754/magit-notes.el
-  magit-20210916.1754/magit-obsolete.el
-  magit-20210916.1754/magit-patch.el
-  magit-20210916.1754/magit-pkg.el
-  magit-20210916.1754/magit-process.el
-  magit-20210916.1754/magit-pull.el
-  magit-20210916.1754/magit-push.el
-  magit-20210916.1754/magit-reflog.el
-  magit-20210916.1754/magit-refs.el
-  magit-20210916.1754/magit-remote.el
-  magit-20210916.1754/magit-repos.el
-  magit-20210916.1754/magit-reset.el
-  magit-20210916.1754/magit-section-pkg.el
-  magit-20210916.1754/magit-sequence.el
-  magit-20210916.1754/magit-stash.el
-  magit-20210916.1754/magit-status.el
-  magit-20210916.1754/magit-submodule.el
-  magit-20210916.1754/magit-subtree.el
-  magit-20210916.1754/magit-tag.el
-  magit-20210916.1754/magit-transient.el
-  magit-20210916.1754/magit-utils.el
-  magit-20210916.1754/magit-wip.el
-  magit-20210916.1754/magit-worktree.el
-  magit-20210916.1754/magit.el
-  magit-20210916.1754/magit.info
-  magit-20210916.1754/magit.info-1
-  magit-20210916.1754/magit.info-2
-Built magit in 1.572s, finished at 2021-09-18T13:13:29+0000
+Created /tmp/magitg9hU7k/magit-20211019.54/magit.info
+Created magit-20211019.54.tar containing:
+  magit-20211019.54/
+  magit-20211019.54/AUTHORS.md
+  magit-20211019.54/LICENSE
+  magit-20211019.54/dir
+  magit-20211019.54/git-rebase.el
+  magit-20211019.54/magit-apply.el
+  magit-20211019.54/magit-autorevert.el
+  magit-20211019.54/magit-bisect.el
+  magit-20211019.54/magit-blame.el
+  magit-20211019.54/magit-bookmark.el
+  magit-20211019.54/magit-branch.el
+  magit-20211019.54/magit-bundle.el
+  magit-20211019.54/magit-clone.el
+  magit-20211019.54/magit-commit.el
+  magit-20211019.54/magit-core.el
+  magit-20211019.54/magit-diff.el
+  magit-20211019.54/magit-ediff.el
+  magit-20211019.54/magit-extras.el
+  magit-20211019.54/magit-fetch.el
+  magit-20211019.54/magit-files.el
+  magit-20211019.54/magit-git.el
+  magit-20211019.54/magit-gitignore.el
+  magit-20211019.54/magit-imenu.el
+  magit-20211019.54/magit-log.el
+  magit-20211019.54/magit-margin.el
+  magit-20211019.54/magit-merge.el
+  magit-20211019.54/magit-mode.el
+  magit-20211019.54/magit-notes.el
+  magit-20211019.54/magit-obsolete.el
+  magit-20211019.54/magit-patch.el
+  magit-20211019.54/magit-pkg.el
+  magit-20211019.54/magit-process.el
+  magit-20211019.54/magit-pull.el
+  magit-20211019.54/magit-push.el
+  magit-20211019.54/magit-reflog.el
+  magit-20211019.54/magit-refs.el
+  magit-20211019.54/magit-remote.el
+  magit-20211019.54/magit-repos.el
+  magit-20211019.54/magit-reset.el
+  magit-20211019.54/magit-sequence.el
+  magit-20211019.54/magit-stash.el
+  magit-20211019.54/magit-status.el
+  magit-20211019.54/magit-submodule.el
+  magit-20211019.54/magit-subtree.el
+  magit-20211019.54/magit-tag.el
+  magit-20211019.54/magit-transient.el
+  magit-20211019.54/magit-utils.el
+  magit-20211019.54/magit-wip.el
+  magit-20211019.54/magit-worktree.el
+  magit-20211019.54/magit.el
+  magit-20211019.54/magit.info
+  magit-20211019.54/magit.info-1
+  magit-20211019.54/magit.info-2
+Built magit in 1.922s, finished at 2021-10-19T04:52:11+0000
  ✓ Success:
-4.0K -rw-rw-r-- 1 kimr kimr  533 Aug  8 09:18 packages/magit-20210808.1544.entry
-1.7M -rw-rw-r-- 1 kimr kimr 1.7M Aug  8 09:18 packages/magit-20210808.1544.tar
 4.0K -rw-rw-r-- 1 kimr kimr  533 Sep 18 06:13 packages/magit-20210916.1754.entry
 1.7M -rw-rw-r-- 1 kimr kimr 1.7M Sep 18 06:13 packages/magit-20210916.1754.tar
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K Sep 18 06:13 packages/magit-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr  531 Oct 18 21:52 packages/magit-20211019.54.entry
+1.7M -rw-rw-r-- 1 kimr kimr 1.7M Oct 18 21:52 packages/magit-20211019.54.tar
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Oct 18 21:52 packages/magit-badge.svg
  24K -rw-rw-r-- 1 kimr kimr  21K Jul 20 14:34 packages/magit-gitflow-20170929.824.el
 4.0K -rw-rw-r-- 1 kimr kimr  395 Jul 20 14:34 packages/magit-gitflow-20170929.824.entry
 4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 20 14:34 packages/magit-gitflow-badge.svg
@@ -133,14 +129,12 @@ Built magit in 1.572s, finished at 2021-09-18T13:13:29+0000
 4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 20 14:34 packages/magit-popup-badge.svg
 4.0K -rw-rw-r-- 1 kimr kimr 1.1K Jul 20 14:34 packages/magit-popup.log
 4.0K -rw-rw-r-- 1 kimr kimr  343 Jul 20 14:34 packages/magit-popup-readme.txt
-4.0K -rw-rw-r-- 1 kimr kimr  581 Sep 18 06:13 packages/magit-readme.txt
-4.0K -rw-rw-r-- 1 kimr kimr  371 Aug  8 09:18 packages/magit-section-20210806.1607.entry
-100K -rw-rw-r-- 1 kimr kimr 100K Aug  8 09:18 packages/magit-section-20210806.1607.tar
-4.0K -rw-rw-r-- 1 kimr kimr  371 Sep 18 06:06 packages/magit-section-20210829.1849.entry
-100K -rw-rw-r-- 1 kimr kimr 100K Sep 18 06:06 packages/magit-section-20210829.1849.tar
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K Sep 18 06:06 packages/magit-section-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr 1.4K Sep 18 06:06 packages/magit-section.log
-4.0K -rw-rw-r-- 1 kimr kimr  255 Sep 18 06:06 packages/magit-section-readme.txt
+4.0K -rw-rw-r-- 1 kimr kimr  581 Oct 18 21:52 packages/magit-readme.txt
+4.0K -rw-rw-r-- 1 kimr kimr  371 Sep 18 06:13 packages/magit-section-20210829.1849.entry
+100K -rw-rw-r-- 1 kimr kimr 100K Sep 18 06:13 packages/magit-section-20210829.1849.tar
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Sep 18 06:13 packages/magit-section-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr 1.4K Sep 18 06:13 packages/magit-section.log
+4.0K -rw-rw-r-- 1 kimr kimr  255 Sep 18 06:13 packages/magit-section-readme.txt
  16K -rw-rw-r-- 1 kimr kimr  13K Jul 20 14:34 packages/magit-svn-20210426.2114.el
 4.0K -rw-rw-r-- 1 kimr kimr  395 Jul 20 14:34 packages/magit-svn-20210426.2114.entry
 4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 20 14:34 packages/magit-svn-badge.svg

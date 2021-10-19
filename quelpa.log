@@ -7,7 +7,7 @@ Checking out origin/HEAD
 Checking out 9acc440f8c200b1e6134f53e219d84360ee1b6b7
 Copying files (->) and directories (=>)
   from /home/kimr/repos/my/melpa/working/quelpa/
-  to /tmp/quelpa9JJl7k/quelpa-20210329.639
+  to /tmp/quelpazFt1XA/quelpa-20210329.639
     bootstrap.el -> bootstrap.el
     quelpa.el -> quelpa.el
 Created quelpa-20210329.639.tar containing:
@@ -15,9 +15,9 @@ Created quelpa-20210329.639.tar containing:
   quelpa-20210329.639/bootstrap.el
   quelpa-20210329.639/quelpa-pkg.el
   quelpa-20210329.639/quelpa.el
-Built quelpa in 0.211s, finished at 2021-09-18T13:13:40+0000
+Built quelpa in 0.511s, finished at 2021-10-19T04:53:21+0000
  ✓ Success:
-4.0K -rw-rw-r-- 1 kimr kimr  352 Sep 18 06:13 packages/quelpa-20210329.639.entry
- 92K -rw-rw-r-- 1 kimr kimr  90K Sep 18 06:13 packages/quelpa-20210329.639.tar
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K Sep 18 06:13 packages/quelpa-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr  223 Sep 18 06:13 packages/quelpa-readme.txt
+4.0K -rw-rw-r-- 1 kimr kimr  352 Oct 18 21:53 packages/quelpa-20210329.639.entry
+ 92K -rw-rw-r-- 1 kimr kimr  90K Oct 18 21:53 packages/quelpa-20210329.639.tar
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Oct 18 21:53 packages/quelpa-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr  223 Oct 18 21:53 packages/quelpa-readme.txt

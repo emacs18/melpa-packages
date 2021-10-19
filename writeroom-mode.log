@@ -4,21 +4,23 @@ Source:  https://github.com/joostkremers/writeroom-mode.git
 
 Updating /home/kimr/repos/my/melpa/working/writeroom-mode/
 Checking out origin/HEAD
-Checking out 7f4ec92404a85b72f8c25635fe80e49f9ef3d065
+Checking out eac1da790f316f357ed76ed67fbb790d6a4d126a
 Copying files (->) and directories (=>)
   from /home/kimr/repos/my/melpa/working/writeroom-mode/
-  to /tmp/writeroom-modeoTc7zc/writeroom-mode-20201229.2242
+  to /tmp/writeroom-mode7aj3CM/writeroom-mode-20210927.1301
     writeroom-mode.el -> writeroom-mode.el
     writeroom-mode.info -> writeroom-mode.info
-Created writeroom-mode-20201229.2242.tar containing:
-  writeroom-mode-20201229.2242/
-  writeroom-mode-20201229.2242/dir
-  writeroom-mode-20201229.2242/writeroom-mode-pkg.el
-  writeroom-mode-20201229.2242/writeroom-mode.el
-  writeroom-mode-20201229.2242/writeroom-mode.info
-Built writeroom-mode in 0.247s, finished at 2021-09-18T13:13:53+0000
+Created writeroom-mode-20210927.1301.tar containing:
+  writeroom-mode-20210927.1301/
+  writeroom-mode-20210927.1301/dir
+  writeroom-mode-20210927.1301/writeroom-mode-pkg.el
+  writeroom-mode-20210927.1301/writeroom-mode.el
+  writeroom-mode-20210927.1301/writeroom-mode.info
+Built writeroom-mode in 0.286s, finished at 2021-10-19T04:54:08+0000
  ✓ Success:
 4.0K -rw-rw-r-- 1 kimr kimr  424 Sep 18 06:13 packages/writeroom-mode-20201229.2242.entry
  60K -rw-rw-r-- 1 kimr kimr  60K Sep 18 06:13 packages/writeroom-mode-20201229.2242.tar
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K Sep 18 06:13 packages/writeroom-mode-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr  270 Sep 18 06:13 packages/writeroom-mode-readme.txt
+4.0K -rw-rw-r-- 1 kimr kimr  424 Oct 18 21:54 packages/writeroom-mode-20210927.1301.entry
+ 60K -rw-rw-r-- 1 kimr kimr  60K Oct 18 21:54 packages/writeroom-mode-20210927.1301.tar
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Oct 18 21:54 packages/writeroom-mode-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr  270 Oct 18 21:54 packages/writeroom-mode-readme.txt

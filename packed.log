@@ -3,10 +3,12 @@ Fetcher: github
 Source:  https://github.com/emacscollective/packed.git
 
 Updating /home/kimr/repos/my/melpa/working/packed/
+Checking out origin/HEAD
+Checking out ed63b4803899c3719aeeba461e249c473e5b26f0
 Note: packed :files spec is equivalent to the default.
-Built packed in 0.877s, finished at 2021-07-20T21:35:26+0000
+Built packed in 0.535s, finished at 2021-10-19T04:52:55+0000
  ✓ Success:
- 24K -rw-rw-r-- 1 kimr kimr  21K Jul 20 14:35 packages/packed-20210503.2046.el
-4.0K -rw-rw-r-- 1 kimr kimr  414 Jul 20 14:35 packages/packed-20210503.2046.entry
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 20 14:35 packages/packed-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr  548 Jul 20 14:35 packages/packed-readme.txt
+ 24K -rw-rw-r-- 1 kimr kimr  21K Oct 18 21:52 packages/packed-20210503.2046.el
+4.0K -rw-rw-r-- 1 kimr kimr  414 Oct 18 21:52 packages/packed-20210503.2046.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Oct 18 21:52 packages/packed-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr  548 Oct 18 21:52 packages/packed-readme.txt

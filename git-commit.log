@@ -4,20 +4,21 @@ Source:  https://github.com/magit/magit.git
 
 Updating /home/kimr/repos/my/melpa/working/git-commit/
 Checking out origin/HEAD
-Checking out bc85c477b53b8ad0ba87120f172230a2909a2fec
+Checking out 1b83f8ee1c5aa069f2f846e25d99df3d415d9657
 Copying files (->) and directories (=>)
   from /home/kimr/repos/my/melpa/working/git-commit/
-  to /tmp/git-commit9CsC6U/git-commit-20210806.1607
+  to /tmp/git-commitTdaTda/git-commit-20211010.1635
   ! lisp/git-commit.el -> git-commit.el
-    LICENSE -> LICENSE
-Created git-commit-20210806.1607.tar containing:
-  git-commit-20210806.1607/
-  git-commit-20210806.1607/LICENSE
-  git-commit-20210806.1607/git-commit-pkg.el
-  git-commit-20210806.1607/git-commit.el
-Built git-commit in 0.206s, finished at 2021-09-18T13:13:11+0000
+  ! lisp/git-commit-pkg.el -> git-commit-pkg.el
+Created git-commit-20211010.1635.tar containing:
+  git-commit-20211010.1635/
+  git-commit-20211010.1635/git-commit-pkg.el
+  git-commit-20211010.1635/git-commit.el
+Built git-commit in 0.651s, finished at 2021-10-19T04:50:46+0000
  ✓ Success:
 4.0K -rw-rw-r-- 1 kimr kimr  644 Sep 18 06:13 packages/git-commit-20210806.1607.entry
  80K -rw-rw-r-- 1 kimr kimr  80K Sep 18 06:13 packages/git-commit-20210806.1607.tar
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K Sep 18 06:13 packages/git-commit-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr 3.5K Sep 18 06:13 packages/git-commit-readme.txt
+4.0K -rw-rw-r-- 1 kimr kimr  653 Oct 18 21:50 packages/git-commit-20211010.1635.entry
+ 52K -rw-rw-r-- 1 kimr kimr  50K Oct 18 21:50 packages/git-commit-20211010.1635.tar
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Oct 18 21:50 packages/git-commit-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr 3.5K Oct 18 21:50 packages/git-commit-readme.txt

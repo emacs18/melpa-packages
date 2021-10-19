@@ -4,11 +4,11 @@ Source:  https://github.com/emacs-helm/helm-ls-git.git
 
 Updating /home/kimr/repos/my/melpa/working/helm-ls-git/
 Checking out origin/HEAD
-Checking out 1f0e85baee4e963b275f82fab506d220cc3fef99
-Built helm-ls-git in 0.230s, finished at 2021-09-18T13:13:17+0000
+Checking out 3eadeb2bc5d609e68bdaa184c2a50407c974c2a8
+Built helm-ls-git in 0.354s, finished at 2021-10-19T04:51:19+0000
  ✓ Success:
- 32K -rw-rw-r-- 1 kimr kimr  30K Aug  8 09:18 packages/helm-ls-git-20210729.911.el
-4.0K -rw-rw-r-- 1 kimr kimr  161 Aug  8 09:18 packages/helm-ls-git-20210729.911.entry
  56K -rw-rw-r-- 1 kimr kimr  54K Sep 18 06:13 packages/helm-ls-git-20210918.1133.el
 4.0K -rw-rw-r-- 1 kimr kimr  162 Sep 18 06:13 packages/helm-ls-git-20210918.1133.entry
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K Sep 18 06:13 packages/helm-ls-git-badge.svg
+ 76K -rw-rw-r-- 1 kimr kimr  74K Oct 18 21:51 packages/helm-ls-git-20211016.1433.el
+4.0K -rw-rw-r-- 1 kimr kimr  162 Oct 18 21:51 packages/helm-ls-git-20211016.1433.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Oct 18 21:51 packages/helm-ls-git-badge.svg

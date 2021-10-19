@@ -3,9 +3,11 @@ Fetcher: github
 Source:  https://github.com/Wilfred/pip-requirements.el.git
 
 Updating /home/kimr/repos/my/melpa/working/pip-requirements/
-Built pip-requirements in 0.672s, finished at 2021-07-20T21:35:42+0000
+Checking out origin/HEAD
+Checking out 216cd1690f80cc965d4ae47b8753fc185f778ff6
+Built pip-requirements in 0.649s, finished at 2021-10-19T04:53:07+0000
  ✓ Success:
-8.0K -rw-rw-r-- 1 kimr kimr 6.0K Jul 20 14:35 packages/pip-requirements-20181027.1629.el
-4.0K -rw-rw-r-- 1 kimr kimr  319 Jul 20 14:35 packages/pip-requirements-20181027.1629.entry
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 20 14:35 packages/pip-requirements-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr  266 Jul 20 14:35 packages/pip-requirements-readme.txt
+8.0K -rw-rw-r-- 1 kimr kimr 6.0K Oct 18 21:53 packages/pip-requirements-20181027.1629.el
+4.0K -rw-rw-r-- 1 kimr kimr  319 Oct 18 21:53 packages/pip-requirements-20181027.1629.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Oct 18 21:53 packages/pip-requirements-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr  266 Oct 18 21:53 packages/pip-requirements-readme.txt

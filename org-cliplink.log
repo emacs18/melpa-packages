@@ -3,9 +3,11 @@ Fetcher: github
 Source:  https://github.com/rexim/org-cliplink.git
 
 Updating /home/kimr/repos/my/melpa/working/org-cliplink/
+Checking out origin/HEAD
+Checking out 13e0940b65d22bec34e2de4bc8cba1412a7abfbc
 Copying files (->) and directories (=>)
   from /home/kimr/repos/my/melpa/working/org-cliplink/
-  to /tmp/org-cliplinkGtua4h/org-cliplink-20201126.1020
+  to /tmp/org-cliplinkUM5T3M/org-cliplink-20201126.1020
     org-cliplink-string.el -> org-cliplink-string.el
     org-cliplink-transport.el -> org-cliplink-transport.el
     org-cliplink.el -> org-cliplink.el
@@ -15,9 +17,9 @@ Created org-cliplink-20201126.1020.tar containing:
   org-cliplink-20201126.1020/org-cliplink-string.el
   org-cliplink-20201126.1020/org-cliplink-transport.el
   org-cliplink-20201126.1020/org-cliplink.el
-Built org-cliplink in 0.830s, finished at 2021-07-20T21:34:55+0000
+Built org-cliplink in 0.692s, finished at 2021-10-19T04:52:35+0000
  ✓ Success:
-4.0K -rw-rw-r-- 1 kimr kimr  354 Jul 20 14:34 packages/org-cliplink-20201126.1020.entry
- 52K -rw-rw-r-- 1 kimr kimr  50K Jul 20 14:34 packages/org-cliplink-20201126.1020.tar
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 20 14:34 packages/org-cliplink-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr  289 Jul 20 14:34 packages/org-cliplink-readme.txt
+4.0K -rw-rw-r-- 1 kimr kimr  354 Oct 18 21:52 packages/org-cliplink-20201126.1020.entry
+ 52K -rw-rw-r-- 1 kimr kimr  50K Oct 18 21:52 packages/org-cliplink-20201126.1020.tar
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Oct 18 21:52 packages/org-cliplink-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr  289 Oct 18 21:52 packages/org-cliplink-readme.txt

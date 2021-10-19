@@ -3,9 +3,11 @@ Fetcher: github
 Source:  https://github.com/cask/epl.git
 
 Updating /home/kimr/repos/my/melpa/working/epl/
-Built epl in 1.086s, finished at 2021-07-20T21:31:59+0000
+Checking out origin/HEAD
+Checking out 78ab7a85c08222cd15582a298a364774e3282ce6
+Built epl in 0.664s, finished at 2021-10-19T04:49:53+0000
  ✓ Success:
- 28K -rw-rw-r-- 1 kimr kimr  26K Jul 20 14:31 packages/epl-20180205.2049.el
-4.0K -rw-rw-r-- 1 kimr kimr  367 Jul 20 14:31 packages/epl-20180205.2049.entry
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 20 14:31 packages/epl-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr 2.5K Jul 20 14:31 packages/epl-readme.txt
+ 28K -rw-rw-r-- 1 kimr kimr  26K Oct 18 21:49 packages/epl-20180205.2049.el
+4.0K -rw-rw-r-- 1 kimr kimr  367 Oct 18 21:49 packages/epl-20180205.2049.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Oct 18 21:49 packages/epl-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr 2.5K Oct 18 21:49 packages/epl-readme.txt

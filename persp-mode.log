@@ -3,9 +3,11 @@ Fetcher: github
 Source:  https://github.com/Bad-ptr/persp-mode.el.git
 
 Updating /home/kimr/repos/my/melpa/working/persp-mode/
-Built persp-mode in 0.674s, finished at 2021-07-20T21:35:39+0000
+Checking out origin/HEAD
+Checking out 298df111f081b5925f0aa0126a1b8d334117e0a2
+Built persp-mode in 0.516s, finished at 2021-10-19T04:53:04+0000
  ✓ Success:
-168K -rw-rw-r-- 1 kimr kimr 167K Jul 20 14:35 packages/persp-mode-20201128.2015.el
-4.0K -rw-rw-r-- 1 kimr kimr  523 Jul 20 14:35 packages/persp-mode-20201128.2015.entry
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 20 14:35 packages/persp-mode-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 20 14:35 packages/persp-mode-readme.txt
+168K -rw-rw-r-- 1 kimr kimr 167K Oct 18 21:53 packages/persp-mode-20201128.2015.el
+4.0K -rw-rw-r-- 1 kimr kimr  523 Oct 18 21:53 packages/persp-mode-20201128.2015.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Oct 18 21:53 packages/persp-mode-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Oct 18 21:53 packages/persp-mode-readme.txt

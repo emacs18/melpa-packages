@@ -3,9 +3,11 @@ Fetcher: github
 Source:  https://github.com/antonj/scss-mode.git
 
 Updating /home/kimr/repos/my/melpa/working/scss-mode/
-Built scss-mode in 0.674s, finished at 2021-07-20T21:36:06+0000
+Checking out origin/HEAD
+Checking out cf58dbec5394280503eb5502938f3b5445d1b53d
+Built scss-mode in 0.552s, finished at 2021-10-19T04:53:29+0000
  ✓ Success:
-8.0K -rw-rw-r-- 1 kimr kimr 4.7K Jul 20 14:36 packages/scss-mode-20180123.1708.el
-4.0K -rw-rw-r-- 1 kimr kimr  383 Jul 20 14:36 packages/scss-mode-20180123.1708.entry
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 20 14:36 packages/scss-mode-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr  299 Jul 20 14:36 packages/scss-mode-readme.txt
+8.0K -rw-rw-r-- 1 kimr kimr 4.7K Oct 18 21:53 packages/scss-mode-20180123.1708.el
+4.0K -rw-rw-r-- 1 kimr kimr  383 Oct 18 21:53 packages/scss-mode-20180123.1708.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Oct 18 21:53 packages/scss-mode-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr  299 Oct 18 21:53 packages/scss-mode-readme.txt

@@ -4,22 +4,24 @@ Source:  https://github.com/redguardtoo/evil-nerd-commenter.git
 
 Updating /home/kimr/repos/my/melpa/working/evil-nerd-commenter/
 Checking out origin/HEAD
-Checking out 6bc41317ba4b8710d713a62e1b78047c3cc2d2d5
+Checking out 63baf2d1c796edd11bbec5fe1dee711173d4155d
 Copying files (->) and directories (=>)
   from /home/kimr/repos/my/melpa/working/evil-nerd-commenter/
-  to /tmp/evil-nerd-commenterAmerfY/evil-nerd-commenter-20210719.1305
+  to /tmp/evil-nerd-commenter8h768Y/evil-nerd-commenter-20211014.455
     evil-nerd-commenter-operator.el -> evil-nerd-commenter-operator.el
     evil-nerd-commenter-sdk.el -> evil-nerd-commenter-sdk.el
     evil-nerd-commenter.el -> evil-nerd-commenter.el
-Created evil-nerd-commenter-20210719.1305.tar containing:
-  evil-nerd-commenter-20210719.1305/
-  evil-nerd-commenter-20210719.1305/evil-nerd-commenter-operator.el
-  evil-nerd-commenter-20210719.1305/evil-nerd-commenter-pkg.el
-  evil-nerd-commenter-20210719.1305/evil-nerd-commenter-sdk.el
-  evil-nerd-commenter-20210719.1305/evil-nerd-commenter.el
-Built evil-nerd-commenter in 0.647s, finished at 2021-08-08T16:18:06+0000
+Created evil-nerd-commenter-20211014.455.tar containing:
+  evil-nerd-commenter-20211014.455/
+  evil-nerd-commenter-20211014.455/evil-nerd-commenter-operator.el
+  evil-nerd-commenter-20211014.455/evil-nerd-commenter-pkg.el
+  evil-nerd-commenter-20211014.455/evil-nerd-commenter-sdk.el
+  evil-nerd-commenter-20211014.455/evil-nerd-commenter.el
+Built evil-nerd-commenter in 0.726s, finished at 2021-10-19T04:50:11+0000
  ✓ Success:
 4.0K -rw-rw-r-- 1 kimr kimr  462 Aug  8 09:18 packages/evil-nerd-commenter-20210719.1305.entry
  60K -rw-rw-r-- 1 kimr kimr  60K Aug  8 09:18 packages/evil-nerd-commenter-20210719.1305.tar
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K Aug  8 09:18 packages/evil-nerd-commenter-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr 3.9K Aug  8 09:18 packages/evil-nerd-commenter-readme.txt
+4.0K -rw-rw-r-- 1 kimr kimr  461 Oct 18 21:50 packages/evil-nerd-commenter-20211014.455.entry
+ 60K -rw-rw-r-- 1 kimr kimr  60K Oct 18 21:50 packages/evil-nerd-commenter-20211014.455.tar
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Oct 18 21:50 packages/evil-nerd-commenter-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr 3.9K Oct 18 21:50 packages/evil-nerd-commenter-readme.txt

@@ -3,9 +3,11 @@ Fetcher: github
 Source:  https://github.com/abingham/emacs-ycmd.git
 
 Updating /home/kimr/repos/my/melpa/working/ycmd/
+Checking out origin/HEAD
+Checking out c17ff9e0250a9b39d23af37015a2b300e2f36fed
 Copying files (->) and directories (=>)
   from /home/kimr/repos/my/melpa/working/ycmd/
-  to /tmp/ycmd86ASXo/ycmd-20190416.807
+  to /tmp/ycmd3TWPvK/ycmd-20190416.807
     ycmd.el -> ycmd.el
     ycmd-eldoc.el -> ycmd-eldoc.el
   ! contrib/ycmd-next-error.el -> ycmd-next-error.el
@@ -15,9 +17,9 @@ Created ycmd-20190416.807.tar containing:
   ycmd-20190416.807/ycmd-next-error.el
   ycmd-20190416.807/ycmd-pkg.el
   ycmd-20190416.807/ycmd.el
-Built ycmd in 0.858s, finished at 2021-07-20T21:37:01+0000
+Built ycmd in 0.289s, finished at 2021-10-19T04:54:17+0000
  ✓ Success:
-4.0K -rw-rw-r-- 1 kimr kimr  406 Jul 20 14:37 packages/ycmd-20190416.807.entry
-112K -rw-rw-r-- 1 kimr kimr 110K Jul 20 14:37 packages/ycmd-20190416.807.tar
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 20 14:37 packages/ycmd-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr 2.5K Jul 20 14:37 packages/ycmd-readme.txt
+4.0K -rw-rw-r-- 1 kimr kimr  406 Oct 18 21:54 packages/ycmd-20190416.807.entry
+112K -rw-rw-r-- 1 kimr kimr 110K Oct 18 21:54 packages/ycmd-20190416.807.tar
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Oct 18 21:54 packages/ycmd-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr 2.5K Oct 18 21:54 packages/ycmd-readme.txt

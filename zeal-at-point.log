@@ -3,8 +3,10 @@ Fetcher: github
 Source:  https://github.com/jinzhu/zeal-at-point.git
 
 Updating /home/kimr/repos/my/melpa/working/zeal-at-point/
-Built zeal-at-point in 0.666s, finished at 2021-07-20T21:37:01+0000
+Checking out origin/HEAD
+Checking out 0fc3263f44e95acd3e9d91057677621ce4d297ee
+Built zeal-at-point in 0.648s, finished at 2021-10-19T04:54:18+0000
  ✓ Success:
- 12K -rw-rw-r-- 1 kimr kimr 8.3K Jul 20 14:37 packages/zeal-at-point-20180131.2354.el
-4.0K -rw-rw-r-- 1 kimr kimr  304 Jul 20 14:37 packages/zeal-at-point-20180131.2354.entry
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 20 14:37 packages/zeal-at-point-badge.svg
+ 12K -rw-rw-r-- 1 kimr kimr 8.3K Oct 18 21:54 packages/zeal-at-point-20180131.2354.el
+4.0K -rw-rw-r-- 1 kimr kimr  304 Oct 18 21:54 packages/zeal-at-point-20180131.2354.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Oct 18 21:54 packages/zeal-at-point-badge.svg

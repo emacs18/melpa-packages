@@ -5,11 +5,9 @@ Source:  https://github.com/thanhvg/emacs-howdoyou.git
 Updating /home/kimr/repos/my/melpa/working/howdoyou/
 Checking out origin/master
 Checking out a01971a7279c8a031de78513c004d7a09d293712
-Built howdoyou in 0.225s, finished at 2021-09-18T13:13:20+0000
+Built howdoyou in 0.658s, finished at 2021-10-19T04:51:34+0000
  ✓ Success:
- 20K -rw-rw-r-- 1 kimr kimr  19K Jul 24 14:47 packages/howdoyou-20210707.1513.el
-4.0K -rw-rw-r-- 1 kimr kimr  428 Jul 24 14:47 packages/howdoyou-20210707.1513.entry
- 20K -rw-rw-r-- 1 kimr kimr  19K Sep 18 06:13 packages/howdoyou-20210909.2000.el
-4.0K -rw-rw-r-- 1 kimr kimr  428 Sep 18 06:13 packages/howdoyou-20210909.2000.entry
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K Sep 18 06:13 packages/howdoyou-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr 2.0K Sep 18 06:13 packages/howdoyou-readme.txt
+ 20K -rw-rw-r-- 1 kimr kimr  19K Oct 18 21:51 packages/howdoyou-20210909.2000.el
+4.0K -rw-rw-r-- 1 kimr kimr  428 Oct 18 21:51 packages/howdoyou-20210909.2000.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Oct 18 21:51 packages/howdoyou-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr 2.0K Oct 18 21:51 packages/howdoyou-readme.txt

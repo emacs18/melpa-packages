@@ -3,9 +3,11 @@ Fetcher: github
 Source:  https://github.com/randomphrase/company-c-headers.git
 
 Updating /home/kimr/repos/my/melpa/working/company-c-headers/
-Built company-c-headers in 0.546s, finished at 2021-07-20T21:31:09+0000
+Checking out origin/HEAD
+Checking out 9d384571b1190e99d0a789e5296176d69a3d0771
+Built company-c-headers in 0.655s, finished at 2021-10-19T04:49:08+0000
  ✓ Success:
-8.0K -rw-rw-r-- 1 kimr kimr 7.5K Jul 20 14:31 packages/company-c-headers-20190825.1631.el
-4.0K -rw-rw-r-- 1 kimr kimr  407 Jul 20 14:31 packages/company-c-headers-20190825.1631.entry
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 20 14:31 packages/company-c-headers-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr  620 Jul 20 14:31 packages/company-c-headers-readme.txt
+8.0K -rw-rw-r-- 1 kimr kimr 7.5K Oct 18 21:49 packages/company-c-headers-20190825.1631.el
+4.0K -rw-rw-r-- 1 kimr kimr  407 Oct 18 21:49 packages/company-c-headers-20190825.1631.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Oct 18 21:49 packages/company-c-headers-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr  620 Oct 18 21:49 packages/company-c-headers-readme.txt

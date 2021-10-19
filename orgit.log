@@ -3,14 +3,16 @@ Fetcher: github
 Source:  https://github.com/magit/orgit.git
 
 Updating /home/kimr/repos/my/melpa/working/orgit/
-Built orgit in 0.677s, finished at 2021-07-20T21:34:57+0000
+Checking out origin/HEAD
+Checking out f956d802f19ea495efa95af6c673588afeb3adc5
+Built orgit in 0.358s, finished at 2021-10-19T04:52:36+0000
  ✓ Success:
- 20K -rw-rw-r-- 1 kimr kimr  19K Jul 20 14:34 packages/orgit-20210620.1943.el
-4.0K -rw-rw-r-- 1 kimr kimr  355 Jul 20 14:34 packages/orgit-20210620.1943.entry
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 20 14:34 packages/orgit-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr 3.8K Jul 10 10:22 packages/orgit-forge-20210615.1516.el
-4.0K -rw-rw-r-- 1 kimr kimr  452 Jul 10 10:22 packages/orgit-forge-20210615.1516.entry
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 10 10:22 packages/orgit-forge-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr  550 Jul 10 10:22 packages/orgit-forge.log
-4.0K -rw-rw-r-- 1 kimr kimr  103 Jul 10 10:22 packages/orgit-forge-readme.txt
-4.0K -rw-rw-r-- 1 kimr kimr 2.3K Jul 20 14:34 packages/orgit-readme.txt
+ 20K -rw-rw-r-- 1 kimr kimr  19K Oct 18 21:52 packages/orgit-20210620.1943.el
+4.0K -rw-rw-r-- 1 kimr kimr  355 Oct 18 21:52 packages/orgit-20210620.1943.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Oct 18 21:52 packages/orgit-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr 3.8K Sep 18 06:13 packages/orgit-forge-20210615.1516.el
+4.0K -rw-rw-r-- 1 kimr kimr  452 Sep 18 06:13 packages/orgit-forge-20210615.1516.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Sep 18 06:13 packages/orgit-forge-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr  629 Sep 18 06:13 packages/orgit-forge.log
+4.0K -rw-rw-r-- 1 kimr kimr  103 Sep 18 06:13 packages/orgit-forge-readme.txt
+4.0K -rw-rw-r-- 1 kimr kimr 2.3K Oct 18 21:52 packages/orgit-readme.txt

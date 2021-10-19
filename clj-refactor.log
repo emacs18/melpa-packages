@@ -4,22 +4,24 @@ Source:  https://github.com/clojure-emacs/clj-refactor.el.git
 
 Updating /home/kimr/repos/my/melpa/working/clj-refactor/
 Checking out origin/HEAD
-Checking out 466822ff6f9da584f7cf72c868017b8840574dbd
+Checking out 4cb75bd6a2fcb376455e8b4f3edee509f87b86b8
 Copying files (->) and directories (=>)
   from /home/kimr/repos/my/melpa/working/clj-refactor/
-  to /tmp/clj-refactorS9ioaf/clj-refactor-20210628.1154
+  to /tmp/clj-refactorMWqFoi/clj-refactor-20211018.1836
     clj-refactor-compat.el -> clj-refactor-compat.el
     clj-refactor.el -> clj-refactor.el
     CHANGELOG.md -> CHANGELOG.md
-Created clj-refactor-20210628.1154.tar containing:
-  clj-refactor-20210628.1154/
-  clj-refactor-20210628.1154/CHANGELOG.md
-  clj-refactor-20210628.1154/clj-refactor-compat.el
-  clj-refactor-20210628.1154/clj-refactor-pkg.el
-  clj-refactor-20210628.1154/clj-refactor.el
-Built clj-refactor in 0.213s, finished at 2021-09-18T13:12:51+0000
+Created clj-refactor-20211018.1836.tar containing:
+  clj-refactor-20211018.1836/
+  clj-refactor-20211018.1836/CHANGELOG.md
+  clj-refactor-20211018.1836/clj-refactor-compat.el
+  clj-refactor-20211018.1836/clj-refactor-pkg.el
+  clj-refactor-20211018.1836/clj-refactor.el
+Built clj-refactor in 0.294s, finished at 2021-10-19T04:49:02+0000
  ✓ Success:
 4.0K -rw-rw-r-- 1 kimr kimr  707 Sep 18 06:12 packages/clj-refactor-20210628.1154.entry
 192K -rw-rw-r-- 1 kimr kimr 190K Sep 18 06:12 packages/clj-refactor-20210628.1154.tar
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K Sep 18 06:12 packages/clj-refactor-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr   66 Sep 18 06:12 packages/clj-refactor-readme.txt
+4.0K -rw-rw-r-- 1 kimr kimr  710 Oct 18 21:49 packages/clj-refactor-20211018.1836.entry
+192K -rw-rw-r-- 1 kimr kimr 190K Oct 18 21:49 packages/clj-refactor-20211018.1836.tar
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Oct 18 21:49 packages/clj-refactor-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr   66 Oct 18 21:49 packages/clj-refactor-readme.txt

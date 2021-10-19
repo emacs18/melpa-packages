@@ -2,24 +2,26 @@ Package: orderless
 Fetcher: github
 Source:  https://github.com/oantolin/orderless.git
 
-Cloning https://github.com/oantolin/orderless.git to /home/kimr/repos/my/melpa/working/orderless/
+Updating /home/kimr/repos/my/melpa/working/orderless/
 Checking out origin/HEAD
-Checking out 1a7011ac9c476dbb083c5ead88462a5f520ef8aa
+Checking out 62f71c34baca0b7d0adeab4a1c07d85ffcee80d9
 Copying files (->) and directories (=>)
   from /home/kimr/repos/my/melpa/working/orderless/
-  to /tmp/orderlessugHoGs/orderless-20210812.2035
+  to /tmp/orderlessbDS46r/orderless-20210912.1932
     orderless.el -> orderless.el
     orderless.texi -> orderless.texi
-Created /tmp/orderlessugHoGs/orderless-20210812.2035/orderless.info
-Created orderless-20210812.2035.tar containing:
-  orderless-20210812.2035/
-  orderless-20210812.2035/dir
-  orderless-20210812.2035/orderless-pkg.el
-  orderless-20210812.2035/orderless.el
-  orderless-20210812.2035/orderless.info
-Built orderless in 1.346s, finished at 2021-08-26T04:58:38+0000
+Created /tmp/orderlessbDS46r/orderless-20210912.1932/orderless.info
+Created orderless-20210912.1932.tar containing:
+  orderless-20210912.1932/
+  orderless-20210912.1932/dir
+  orderless-20210912.1932/orderless-pkg.el
+  orderless-20210912.1932/orderless.el
+  orderless-20210912.1932/orderless.info
+Built orderless in 0.686s, finished at 2021-10-19T04:52:31+0000
  ✓ Success:
 4.0K -rw-rw-r-- 1 kimr kimr  417 Aug 25 21:58 packages/orderless-20210812.2035.entry
  52K -rw-rw-r-- 1 kimr kimr  50K Aug 25 21:58 packages/orderless-20210812.2035.tar
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K Aug 25 21:58 packages/orderless-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K Aug 25 21:58 packages/orderless-readme.txt
+4.0K -rw-rw-r-- 1 kimr kimr  417 Oct 18 21:52 packages/orderless-20210912.1932.entry
+ 52K -rw-rw-r-- 1 kimr kimr  50K Oct 18 21:52 packages/orderless-20210912.1932.tar
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Oct 18 21:52 packages/orderless-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Oct 18 21:52 packages/orderless-readme.txt

@@ -5,11 +5,9 @@ Source:  https://github.com/yoshiki/yaml-mode.git
 Updating /home/kimr/repos/my/melpa/working/yaml-mode/
 Checking out origin/HEAD
 Checking out 63b637f846411806ae47e63adc06fe9427be1131
-Built yaml-mode in 0.653s, finished at 2021-08-08T16:19:22+0000
+Built yaml-mode in 0.660s, finished at 2021-10-19T04:54:11+0000
  ✓ Success:
- 20K -rw-rw-r-- 1 kimr kimr  18K Jul 20 14:36 packages/yaml-mode-20210508.1641.el
-4.0K -rw-rw-r-- 1 kimr kimr  448 Jul 20 14:36 packages/yaml-mode-20210508.1641.entry
- 20K -rw-rw-r-- 1 kimr kimr  18K Aug  8 09:19 packages/yaml-mode-20210808.1122.el
-4.0K -rw-rw-r-- 1 kimr kimr  448 Aug  8 09:19 packages/yaml-mode-20210808.1122.entry
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K Aug  8 09:19 packages/yaml-mode-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr  942 Aug  8 09:19 packages/yaml-mode-readme.txt
+ 20K -rw-rw-r-- 1 kimr kimr  18K Oct 18 21:54 packages/yaml-mode-20210808.1122.el
+4.0K -rw-rw-r-- 1 kimr kimr  448 Oct 18 21:54 packages/yaml-mode-20210808.1122.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Oct 18 21:54 packages/yaml-mode-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr  942 Oct 18 21:54 packages/yaml-mode-readme.txt

@@ -5,11 +5,9 @@ Source:  https://github.com/integral-dw/org-superstar-mode.git
 Updating /home/kimr/repos/my/melpa/working/org-superstar/
 Checking out origin/HEAD
 Checking out 03be6c0a3081c46a59b108deb8479ee24a6d86c0
-Built org-superstar in 0.256s, finished at 2021-09-18T13:13:37+0000
+Built org-superstar in 0.654s, finished at 2021-10-19T04:52:45+0000
  ✓ Success:
- 36K -rw-rw-r-- 1 kimr kimr  35K Aug  8 09:19 packages/org-superstar-20210216.1925.el
-4.0K -rw-rw-r-- 1 kimr kimr  419 Aug  8 09:19 packages/org-superstar-20210216.1925.entry
- 36K -rw-rw-r-- 1 kimr kimr  35K Sep 18 06:13 packages/org-superstar-20210915.1934.el
-4.0K -rw-rw-r-- 1 kimr kimr  419 Sep 18 06:13 packages/org-superstar-20210915.1934.entry
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K Sep 18 06:13 packages/org-superstar-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr 1.9K Sep 18 06:13 packages/org-superstar-readme.txt
+ 36K -rw-rw-r-- 1 kimr kimr  35K Oct 18 21:52 packages/org-superstar-20210915.1934.el
+4.0K -rw-rw-r-- 1 kimr kimr  419 Oct 18 21:52 packages/org-superstar-20210915.1934.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Oct 18 21:52 packages/org-superstar-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr 1.9K Oct 18 21:52 packages/org-superstar-readme.txt

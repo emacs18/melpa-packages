@@ -3,14 +3,16 @@ Fetcher: github
 Source:  https://github.com/lewang/flx.git
 
 Updating /home/kimr/repos/my/melpa/working/flx/
-Built flx in 0.663s, finished at 2021-07-20T21:32:33+0000
+Checking out origin/HEAD
+Checking out 647cb2f92f9936c62e277d7a74ad54a80502d255
+Built flx in 0.639s, finished at 2021-10-19T04:50:24+0000
  ✓ Success:
- 16K -rw-rw-r-- 1 kimr kimr  16K Jul 20 14:32 packages/flx-20191115.659.el
-4.0K -rw-rw-r-- 1 kimr kimr  275 Jul 20 14:32 packages/flx-20191115.659.entry
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 20 14:32 packages/flx-badge.svg
- 12K -rw-rw-r-- 1 kimr kimr 9.9K Jul 10 10:20 packages/flx-ido-20180117.1519.el
-4.0K -rw-rw-r-- 1 kimr kimr  279 Jul 10 10:20 packages/flx-ido-20180117.1519.entry
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 10 10:20 packages/flx-ido-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr  515 Jul 10 10:20 packages/flx-ido.log
-4.0K -rw-rw-r-- 1 kimr kimr  579 Jul 10 10:20 packages/flx-ido-readme.txt
-4.0K -rw-rw-r-- 1 kimr kimr  498 Jul 20 14:32 packages/flx-readme.txt
+ 16K -rw-rw-r-- 1 kimr kimr  16K Oct 18 21:50 packages/flx-20191115.659.el
+4.0K -rw-rw-r-- 1 kimr kimr  275 Oct 18 21:50 packages/flx-20191115.659.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Oct 18 21:50 packages/flx-badge.svg
+ 12K -rw-rw-r-- 1 kimr kimr 9.9K Jul 20 14:32 packages/flx-ido-20180117.1519.el
+4.0K -rw-rw-r-- 1 kimr kimr  279 Jul 20 14:32 packages/flx-ido-20180117.1519.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 20 14:32 packages/flx-ido-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr  515 Jul 20 14:32 packages/flx-ido.log
+4.0K -rw-rw-r-- 1 kimr kimr  579 Jul 20 14:32 packages/flx-ido-readme.txt
+4.0K -rw-rw-r-- 1 kimr kimr  498 Oct 18 21:50 packages/flx-readme.txt

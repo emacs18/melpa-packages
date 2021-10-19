@@ -3,10 +3,12 @@ Fetcher: github
 Source:  https://github.com/nicferrier/emacs-fakir.git
 
 Updating /home/kimr/repos/my/melpa/working/fakir/
+Checking out origin/HEAD
+Checking out 1fca406ad7de80fece6319ff75d4230b648534b0
 Note: fakir :files spec is equivalent to the default.
-Built fakir in 0.666s, finished at 2021-07-20T21:32:29+0000
+Built fakir in 0.648s, finished at 2021-10-19T04:50:20+0000
  ✓ Success:
- 28K -rw-rw-r-- 1 kimr kimr  26K Jul 20 14:32 packages/fakir-20140729.1652.el
-4.0K -rw-rw-r-- 1 kimr kimr  386 Jul 20 14:32 packages/fakir-20140729.1652.entry
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 20 14:32 packages/fakir-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr   76 Jul 20 14:32 packages/fakir-readme.txt
+ 28K -rw-rw-r-- 1 kimr kimr  26K Oct 18 21:50 packages/fakir-20140729.1652.el
+4.0K -rw-rw-r-- 1 kimr kimr  386 Oct 18 21:50 packages/fakir-20140729.1652.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Oct 18 21:50 packages/fakir-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr   76 Oct 18 21:50 packages/fakir-readme.txt

@@ -3,9 +3,11 @@ Fetcher: github
 Source:  https://github.com/skeeto/emacsql.git
 
 Updating /home/kimr/repos/my/melpa/working/emacsql/
+Checking out origin/HEAD
+Checking out 9dca5996168c4963eb67e61c7f17fdcb8228e314
 Copying files (->) and directories (=>)
   from /home/kimr/repos/my/melpa/working/emacsql/
-  to /tmp/emacsqlZh9Uxk/emacsql-20210615.1539
+  to /tmp/emacsqlY9J4mc/emacsql-20210615.1539
     emacsql.el -> emacsql.el
     emacsql-compiler.el -> emacsql-compiler.el
     README.md -> README.md
@@ -15,19 +17,19 @@ Created emacsql-20210615.1539.tar containing:
   emacsql-20210615.1539/emacsql-compiler.el
   emacsql-20210615.1539/emacsql-pkg.el
   emacsql-20210615.1539/emacsql.el
-Built emacsql in 0.679s, finished at 2021-07-20T21:31:53+0000
+Built emacsql in 0.542s, finished at 2021-10-19T04:49:46+0000
  ✓ Success:
-4.0K -rw-rw-r-- 1 kimr kimr  349 Jul 20 14:31 packages/emacsql-20210615.1539.entry
- 60K -rw-rw-r-- 1 kimr kimr  60K Jul 20 14:31 packages/emacsql-20210615.1539.tar
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 20 14:31 packages/emacsql-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr 1.8K Jul 20 14:31 packages/emacsql-readme.txt
-4.0K -rw-rw-r-- 1 kimr kimr  377 Jul 10 10:19 packages/emacsql-sqlite-20190727.1710.entry
-7.5M -rw-rw-r-- 1 kimr kimr 7.5M Jul 10 10:19 packages/emacsql-sqlite-20190727.1710.tar
- 12K -rw-rw-r-- 1 kimr kimr 9.9K Jul 10 10:19 packages/emacsql-sqlite3-20200914.508.el
-4.0K -rw-rw-r-- 1 kimr kimr  413 Jul 10 10:19 packages/emacsql-sqlite3-20200914.508.entry
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 10 10:19 packages/emacsql-sqlite3-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr  580 Jul 10 10:19 packages/emacsql-sqlite3.log
-4.0K -rw-rw-r-- 1 kimr kimr 2.1K Jul 10 10:19 packages/emacsql-sqlite3-readme.txt
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 10 10:19 packages/emacsql-sqlite-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 10 10:19 packages/emacsql-sqlite.log
-4.0K -rw-rw-r-- 1 kimr kimr  125 Jul 10 10:19 packages/emacsql-sqlite-readme.txt
+4.0K -rw-rw-r-- 1 kimr kimr  349 Oct 18 21:49 packages/emacsql-20210615.1539.entry
+ 60K -rw-rw-r-- 1 kimr kimr  60K Oct 18 21:49 packages/emacsql-20210615.1539.tar
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Oct 18 21:49 packages/emacsql-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr 1.8K Oct 18 21:49 packages/emacsql-readme.txt
+4.0K -rw-rw-r-- 1 kimr kimr  377 Jul 20 14:31 packages/emacsql-sqlite-20190727.1710.entry
+7.5M -rw-rw-r-- 1 kimr kimr 7.5M Jul 20 14:31 packages/emacsql-sqlite-20190727.1710.tar
+ 12K -rw-rw-r-- 1 kimr kimr 9.9K Jul 20 14:31 packages/emacsql-sqlite3-20200914.508.el
+4.0K -rw-rw-r-- 1 kimr kimr  413 Jul 20 14:31 packages/emacsql-sqlite3-20200914.508.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 20 14:31 packages/emacsql-sqlite3-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr  580 Jul 20 14:31 packages/emacsql-sqlite3.log
+4.0K -rw-rw-r-- 1 kimr kimr 2.1K Jul 20 14:31 packages/emacsql-sqlite3-readme.txt
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 20 14:31 packages/emacsql-sqlite-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 20 14:31 packages/emacsql-sqlite.log
+4.0K -rw-rw-r-- 1 kimr kimr  125 Jul 20 14:31 packages/emacsql-sqlite-readme.txt

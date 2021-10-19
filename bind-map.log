@@ -3,9 +3,11 @@ Fetcher: github
 Source:  https://github.com/justbur/emacs-bind-map.git
 
 Updating /home/kimr/repos/my/melpa/working/bind-map/
-Built bind-map in 0.671s, finished at 2021-07-20T21:30:47+0000
+Checking out origin/HEAD
+Checking out bf4181e3a41463684adfffc6c5c305b30480e30f
+Built bind-map in 0.657s, finished at 2021-10-19T04:48:52+0000
  ✓ Success:
- 20K -rw-rw-r-- 1 kimr kimr  19K Jul 20 14:30 packages/bind-map-20161207.1511.el
-4.0K -rw-rw-r-- 1 kimr kimr  358 Jul 20 14:30 packages/bind-map-20161207.1511.entry
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 20 14:30 packages/bind-map-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr 3.2K Jul 20 14:30 packages/bind-map-readme.txt
+ 20K -rw-rw-r-- 1 kimr kimr  19K Oct 18 21:48 packages/bind-map-20161207.1511.el
+4.0K -rw-rw-r-- 1 kimr kimr  358 Oct 18 21:48 packages/bind-map-20161207.1511.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Oct 18 21:48 packages/bind-map-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr 3.2K Oct 18 21:48 packages/bind-map-readme.txt

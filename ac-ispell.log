@@ -3,9 +3,11 @@ Fetcher: github
 Source:  https://github.com/emacsorphanage/ac-ispell.git
 
 Updating /home/kimr/repos/my/melpa/working/ac-ispell/
-Built ac-ispell in 0.669s, finished at 2021-07-20T21:30:27+0000
+Checking out origin/HEAD
+Checking out 22bace7387e9012002a6a444922f75f9913077b0
+Built ac-ispell in 0.669s, finished at 2021-10-19T04:48:34+0000
  ✓ Success:
-8.0K -rw-rw-r-- 1 kimr kimr 5.0K Jul 20 14:30 packages/ac-ispell-20151101.226.el
-4.0K -rw-rw-r-- 1 kimr kimr  399 Jul 20 14:30 packages/ac-ispell-20151101.226.entry
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 20 14:30 packages/ac-ispell-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr  509 Jul 20 14:30 packages/ac-ispell-readme.txt
+8.0K -rw-rw-r-- 1 kimr kimr 5.0K Oct 18 21:48 packages/ac-ispell-20151101.226.el
+4.0K -rw-rw-r-- 1 kimr kimr  399 Oct 18 21:48 packages/ac-ispell-20151101.226.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Oct 18 21:48 packages/ac-ispell-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr  509 Oct 18 21:48 packages/ac-ispell-readme.txt

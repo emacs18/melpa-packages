@@ -3,9 +3,11 @@ Fetcher: github
 Source:  https://github.com/emacsorphanage/gnuplot.git
 
 Updating /home/kimr/repos/my/melpa/working/gnuplot/
+Checking out origin/HEAD
+Checking out 7138b139d2dca9683f1a81325c643b2744aa1ea3
 Copying files (->) and directories (=>)
   from /home/kimr/repos/my/melpa/working/gnuplot/
-  to /tmp/gnuplot4XRnke/gnuplot-20210609.834
+  to /tmp/gnuplotaJfHbd/gnuplot-20210609.834
     gnuplot.el -> gnuplot.el
     gnuplot-gui.el -> gnuplot-gui.el
     gnuplot-context.el -> gnuplot-context.el
@@ -15,9 +17,9 @@ Created gnuplot-20210609.834.tar containing:
   gnuplot-20210609.834/gnuplot-gui.el
   gnuplot-20210609.834/gnuplot-pkg.el
   gnuplot-20210609.834/gnuplot.el
-Built gnuplot in 0.837s, finished at 2021-07-20T21:33:10+0000
+Built gnuplot in 0.458s, finished at 2021-10-19T04:50:57+0000
  ✓ Success:
-4.0K -rw-rw-r-- 1 kimr kimr  406 Jul 20 14:33 packages/gnuplot-20210609.834.entry
-260K -rw-rw-r-- 1 kimr kimr 260K Jul 20 14:33 packages/gnuplot-20210609.834.tar
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 20 14:33 packages/gnuplot-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr 2.3K Jul 20 14:33 packages/gnuplot-readme.txt
+4.0K -rw-rw-r-- 1 kimr kimr  406 Oct 18 21:50 packages/gnuplot-20210609.834.entry
+260K -rw-rw-r-- 1 kimr kimr 260K Oct 18 21:50 packages/gnuplot-20210609.834.tar
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Oct 18 21:50 packages/gnuplot-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr 2.3K Oct 18 21:50 packages/gnuplot-readme.txt

@@ -3,9 +3,11 @@ Fetcher: github
 Source:  https://github.com/winterTTr/ace-jump-mode.git
 
 Updating /home/kimr/repos/my/melpa/working/ace-jump-mode/
-Built ace-jump-mode in 0.677s, finished at 2021-07-20T21:30:25+0000
+Checking out origin/HEAD
+Checking out 8351e2df4fbbeb2a4003f2fb39f46d33803f3dac
+Built ace-jump-mode in 0.659s, finished at 2021-10-19T04:48:31+0000
  ✓ Success:
- 44K -rw-rw-r-- 1 kimr kimr  43K Jul 20 14:30 packages/ace-jump-mode-20140616.815.el
-4.0K -rw-rw-r-- 1 kimr kimr  373 Jul 20 14:30 packages/ace-jump-mode-20140616.815.entry
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 20 14:30 packages/ace-jump-mode-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr 1.9K Jul 20 14:30 packages/ace-jump-mode-readme.txt
+ 44K -rw-rw-r-- 1 kimr kimr  43K Oct 18 21:48 packages/ace-jump-mode-20140616.815.el
+4.0K -rw-rw-r-- 1 kimr kimr  373 Oct 18 21:48 packages/ace-jump-mode-20140616.815.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Oct 18 21:48 packages/ace-jump-mode-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr 1.9K Oct 18 21:48 packages/ace-jump-mode-readme.txt

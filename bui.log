@@ -3,9 +3,11 @@ Fetcher: github
 Source:  https://github.com/alezost/bui.el.git
 
 Updating /home/kimr/repos/my/melpa/working/bui/
+Checking out origin/HEAD
+Checking out f3a137628e112a91910fd33c0cff0948fa58d470
 Copying files (->) and directories (=>)
   from /home/kimr/repos/my/melpa/working/bui/
-  to /tmp/buiS4b4NO/bui-20210108.1141
+  to /tmp/buigBdVfg/bui-20210108.1141
     bui-button.el -> bui-button.el
     bui-core.el -> bui-core.el
     bui-entry.el -> bui-entry.el
@@ -25,9 +27,9 @@ Created bui-20210108.1141.tar containing:
   bui-20210108.1141/bui-pkg.el
   bui-20210108.1141/bui-utils.el
   bui-20210108.1141/bui.el
-Built bui in 1.041s, finished at 2021-07-20T21:30:51+0000
+Built bui in 0.655s, finished at 2021-10-19T04:48:54+0000
  ✓ Success:
-4.0K -rw-rw-r-- 1 kimr kimr  368 Jul 20 14:30 packages/bui-20210108.1141.entry
-112K -rw-rw-r-- 1 kimr kimr 110K Jul 20 14:30 packages/bui-20210108.1141.tar
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 20 14:30 packages/bui-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr  584 Jul 20 14:30 packages/bui-readme.txt
+4.0K -rw-rw-r-- 1 kimr kimr  368 Oct 18 21:48 packages/bui-20210108.1141.entry
+112K -rw-rw-r-- 1 kimr kimr 110K Oct 18 21:48 packages/bui-20210108.1141.tar
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Oct 18 21:48 packages/bui-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr  584 Oct 18 21:48 packages/bui-readme.txt

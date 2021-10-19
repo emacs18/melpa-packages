@@ -3,9 +3,11 @@ Fetcher: github
 Source:  https://github.com/vedang/pdf-tools.git
 
 Updating /home/kimr/repos/my/melpa/working/pdf-tools/
+Checking out origin/HEAD
+Checking out f68899cf0646255ca763f1144f7a9520e7cd46db
 Copying files (->) and directories (=>)
   from /home/kimr/repos/my/melpa/working/pdf-tools/
-  to /tmp/pdf-toolsm2OcN7/pdf-tools-20210531.1613
+  to /tmp/pdf-toolsSHoPQp/pdf-tools-20211004.514
   ! lisp/pdf-annot.el -> pdf-annot.el
   ! lisp/pdf-cache.el -> pdf-cache.el
   ! lisp/pdf-dev.el -> pdf-dev.el
@@ -24,30 +26,32 @@ Copying files (->) and directories (=>)
   ! lisp/pdf-view.el -> pdf-view.el
   ! lisp/pdf-virtual.el -> pdf-virtual.el
     README -> README
-Created pdf-tools-20210531.1613.tar containing:
-  pdf-tools-20210531.1613/
-  pdf-tools-20210531.1613/README
-  pdf-tools-20210531.1613/pdf-annot.el
-  pdf-tools-20210531.1613/pdf-cache.el
-  pdf-tools-20210531.1613/pdf-dev.el
-  pdf-tools-20210531.1613/pdf-history.el
-  pdf-tools-20210531.1613/pdf-info.el
-  pdf-tools-20210531.1613/pdf-isearch.el
-  pdf-tools-20210531.1613/pdf-links.el
-  pdf-tools-20210531.1613/pdf-loader.el
-  pdf-tools-20210531.1613/pdf-macs.el
-  pdf-tools-20210531.1613/pdf-misc.el
-  pdf-tools-20210531.1613/pdf-occur.el
-  pdf-tools-20210531.1613/pdf-outline.el
-  pdf-tools-20210531.1613/pdf-sync.el
-  pdf-tools-20210531.1613/pdf-tools-pkg.el
-  pdf-tools-20210531.1613/pdf-tools.el
-  pdf-tools-20210531.1613/pdf-util.el
-  pdf-tools-20210531.1613/pdf-view.el
-  pdf-tools-20210531.1613/pdf-virtual.el
-Built pdf-tools in 0.669s, finished at 2021-07-20T21:35:37+0000
+Created pdf-tools-20211004.514.tar containing:
+  pdf-tools-20211004.514/
+  pdf-tools-20211004.514/README
+  pdf-tools-20211004.514/pdf-annot.el
+  pdf-tools-20211004.514/pdf-cache.el
+  pdf-tools-20211004.514/pdf-dev.el
+  pdf-tools-20211004.514/pdf-history.el
+  pdf-tools-20211004.514/pdf-info.el
+  pdf-tools-20211004.514/pdf-isearch.el
+  pdf-tools-20211004.514/pdf-links.el
+  pdf-tools-20211004.514/pdf-loader.el
+  pdf-tools-20211004.514/pdf-macs.el
+  pdf-tools-20211004.514/pdf-misc.el
+  pdf-tools-20211004.514/pdf-occur.el
+  pdf-tools-20211004.514/pdf-outline.el
+  pdf-tools-20211004.514/pdf-sync.el
+  pdf-tools-20211004.514/pdf-tools-pkg.el
+  pdf-tools-20211004.514/pdf-tools.el
+  pdf-tools-20211004.514/pdf-util.el
+  pdf-tools-20211004.514/pdf-view.el
+  pdf-tools-20211004.514/pdf-virtual.el
+Built pdf-tools in 0.458s, finished at 2021-10-19T04:53:03+0000
  ✓ Success:
 4.0K -rw-rw-r-- 1 kimr kimr  450 Jul 20 14:35 packages/pdf-tools-20210531.1613.entry
 500K -rw-rw-r-- 1 kimr kimr 500K Jul 20 14:35 packages/pdf-tools-20210531.1613.tar
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 20 14:35 packages/pdf-tools-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr 1.9K Jul 20 14:35 packages/pdf-tools-readme.txt
+4.0K -rw-rw-r-- 1 kimr kimr  449 Oct 18 21:53 packages/pdf-tools-20211004.514.entry
+500K -rw-rw-r-- 1 kimr kimr 500K Oct 18 21:53 packages/pdf-tools-20211004.514.tar
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Oct 18 21:53 packages/pdf-tools-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr 1.9K Oct 18 21:53 packages/pdf-tools-readme.txt

@@ -1,9 +1,0 @@
-(command-log-mode .
-		  [(20150615 1416)
-		   nil "log keyboard commands to buffer" single
-		   ((:commit . "7408c0cb96709b8449f25a58a2203ed90bb5b850")
-		    (:authors
-		     ("Michael Weber" . "michaelw@foldr.org"))
-		    (:maintainer "Michael Weber" . "michaelw@foldr.org")
-		    (:keywords "help")
-		    (:url . "https://github.com/lewang/command-log-mode"))])

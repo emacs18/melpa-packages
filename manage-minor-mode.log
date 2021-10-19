@@ -3,9 +3,11 @@ Fetcher: github
 Source:  https://github.com/emacsorphanage/manage-minor-mode.git
 
 Updating /home/kimr/repos/my/melpa/working/manage-minor-mode/
-Built manage-minor-mode in 0.674s, finished at 2021-07-20T21:34:38+0000
+Checking out origin/HEAD
+Checking out f4b37fffec7b6608a597e6a3f6900634802807b4
+Built manage-minor-mode in 0.686s, finished at 2021-10-19T04:52:16+0000
  ✓ Success:
- 20K -rw-rw-r-- 1 kimr kimr  20K Jul 20 14:34 packages/manage-minor-mode-20210108.1832.el
-4.0K -rw-rw-r-- 1 kimr kimr  441 Jul 20 14:34 packages/manage-minor-mode-20210108.1832.entry
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 20 14:34 packages/manage-minor-mode-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr  147 Jul 20 14:34 packages/manage-minor-mode-readme.txt
+ 20K -rw-rw-r-- 1 kimr kimr  20K Oct 18 21:52 packages/manage-minor-mode-20210108.1832.el
+4.0K -rw-rw-r-- 1 kimr kimr  441 Oct 18 21:52 packages/manage-minor-mode-20210108.1832.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Oct 18 21:52 packages/manage-minor-mode-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr  147 Oct 18 21:52 packages/manage-minor-mode-readme.txt

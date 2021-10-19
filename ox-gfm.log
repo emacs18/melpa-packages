@@ -3,9 +3,11 @@ Fetcher: github
 Source:  https://github.com/syl20bnr/ox-gfm.git
 
 Updating /home/kimr/repos/my/melpa/working/ox-gfm/
-Built ox-gfm in 1.070s, finished at 2021-07-20T21:35:18+0000
+Checking out origin/HEAD
+Checking out 352ab00a5e06d042700bf7955f9ace48c503c1c8
+Built ox-gfm in 0.665s, finished at 2021-10-19T04:52:50+0000
  ✓ Success:
- 16K -rw-rw-r-- 1 kimr kimr  15K Jul 20 14:35 packages/ox-gfm-20161114.1408.el
-4.0K -rw-rw-r-- 1 kimr kimr  271 Jul 20 14:35 packages/ox-gfm-20161114.1408.entry
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 20 14:35 packages/ox-gfm-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr  106 Jul 20 14:35 packages/ox-gfm-readme.txt
+ 16K -rw-rw-r-- 1 kimr kimr  15K Oct 18 21:52 packages/ox-gfm-20161114.1408.el
+4.0K -rw-rw-r-- 1 kimr kimr  271 Oct 18 21:52 packages/ox-gfm-20161114.1408.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Oct 18 21:52 packages/ox-gfm-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr  106 Oct 18 21:52 packages/ox-gfm-readme.txt

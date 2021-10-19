@@ -3,18 +3,20 @@ Fetcher: github
 Source:  https://github.com/rejeep/drag-stuff.el.git
 
 Updating /home/kimr/repos/my/melpa/working/drag-stuff/
+Checking out origin/HEAD
+Checking out 6d06d846cd37c052d79acd0f372c13006aa7e7c8
 Copying files (->) and directories (=>)
   from /home/kimr/repos/my/melpa/working/drag-stuff/
-  to /tmp/drag-stuffdKWnZP/drag-stuff-20161108.749
+  to /tmp/drag-stuffBKDpla/drag-stuff-20161108.749
     drag-stuff-pkg.el -> drag-stuff-pkg.el
     drag-stuff.el -> drag-stuff.el
 Created drag-stuff-20161108.749.tar containing:
   drag-stuff-20161108.749/
   drag-stuff-20161108.749/drag-stuff-pkg.el
   drag-stuff-20161108.749/drag-stuff.el
-Built drag-stuff in 0.674s, finished at 2021-07-20T21:31:44+0000
+Built drag-stuff in 0.596s, finished at 2021-10-19T04:49:38+0000
  ✓ Success:
-4.0K -rw-rw-r-- 1 kimr kimr  399 Jul 20 14:31 packages/drag-stuff-20161108.749.entry
- 20K -rw-rw-r-- 1 kimr kimr  20K Jul 20 14:31 packages/drag-stuff-20161108.749.tar
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 20 14:31 packages/drag-stuff-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr 1.1K Jul 20 14:31 packages/drag-stuff-readme.txt
+4.0K -rw-rw-r-- 1 kimr kimr  399 Oct 18 21:49 packages/drag-stuff-20161108.749.entry
+ 20K -rw-rw-r-- 1 kimr kimr  20K Oct 18 21:49 packages/drag-stuff-20161108.749.tar
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Oct 18 21:49 packages/drag-stuff-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr 1.1K Oct 18 21:49 packages/drag-stuff-readme.txt

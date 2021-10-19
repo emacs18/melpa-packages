@@ -4,11 +4,11 @@ Source:  https://github.com/yjwen/org-reveal.git
 
 Updating /home/kimr/repos/my/melpa/working/ox-reveal/
 Checking out origin/HEAD
-Checking out 624dee4ee2300315eb1a32b17e8831ce6677fc72
-Built ox-reveal in 0.213s, finished at 2021-09-18T13:13:37+0000
+Checking out 2926349690e7abe9019f59d7d7ada14354e6f5a2
+Built ox-reveal in 0.661s, finished at 2021-10-19T04:52:52+0000
  ✓ Success:
- 68K -rw-rw-r-- 1 kimr kimr  66K Jul 20 14:35 packages/ox-reveal-20210705.2321.el
-4.0K -rw-rw-r-- 1 kimr kimr  387 Jul 20 14:35 packages/ox-reveal-20210705.2321.entry
  68K -rw-rw-r-- 1 kimr kimr  68K Sep 18 06:13 packages/ox-reveal-20210902.1452.el
 4.0K -rw-rw-r-- 1 kimr kimr  387 Sep 18 06:13 packages/ox-reveal-20210902.1452.entry
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K Sep 18 06:13 packages/ox-reveal-badge.svg
+ 72K -rw-rw-r-- 1 kimr kimr  69K Oct 18 21:52 packages/ox-reveal-20211018.1449.el
+4.0K -rw-rw-r-- 1 kimr kimr  387 Oct 18 21:52 packages/ox-reveal-20211018.1449.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Oct 18 21:52 packages/ox-reveal-badge.svg

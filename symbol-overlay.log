@@ -5,11 +5,9 @@ Source:  https://github.com/wolray/symbol-overlay.git
 Updating /home/kimr/repos/my/melpa/working/symbol-overlay/
 Checking out origin/HEAD
 Checking out 8629a4ddbe95d42c39ce817d724877deb1984ba1
-Built symbol-overlay in 0.253s, finished at 2021-09-18T13:13:45+0000
+Built symbol-overlay in 0.665s, finished at 2021-10-19T04:53:42+0000
  ✓ Success:
- 32K -rw-rw-r-- 1 kimr kimr  32K Jul 20 14:36 packages/symbol-overlay-20210422.2110.el
-4.0K -rw-rw-r-- 1 kimr kimr  400 Jul 20 14:36 packages/symbol-overlay-20210422.2110.entry
- 32K -rw-rw-r-- 1 kimr kimr  32K Sep 18 06:13 packages/symbol-overlay-20210906.614.el
-4.0K -rw-rw-r-- 1 kimr kimr  399 Sep 18 06:13 packages/symbol-overlay-20210906.614.entry
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K Sep 18 06:13 packages/symbol-overlay-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr 2.6K Sep 18 06:13 packages/symbol-overlay-readme.txt
+ 32K -rw-rw-r-- 1 kimr kimr  32K Oct 18 21:53 packages/symbol-overlay-20210906.614.el
+4.0K -rw-rw-r-- 1 kimr kimr  399 Oct 18 21:53 packages/symbol-overlay-20210906.614.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Oct 18 21:53 packages/symbol-overlay-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr 2.6K Oct 18 21:53 packages/symbol-overlay-readme.txt

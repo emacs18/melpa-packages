@@ -3,9 +3,11 @@ Fetcher: github
 Source:  https://github.com/xuchunyang/eshell-z.git
 
 Updating /home/kimr/repos/my/melpa/working/eshell-z/
-Built eshell-z in 0.672s, finished at 2021-07-20T21:32:01+0000
+Checking out origin/HEAD
+Checking out 337cb241e17bd472bd3677ff166a0800f684213c
+Built eshell-z in 0.661s, finished at 2021-10-19T04:49:54+0000
  ✓ Success:
- 16K -rw-rw-r-- 1 kimr kimr  16K Jul 20 14:32 packages/eshell-z-20191116.333.el
-4.0K -rw-rw-r-- 1 kimr kimr  372 Jul 20 14:32 packages/eshell-z-20191116.333.entry
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 20 14:32 packages/eshell-z-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr 1.5K Jul 20 14:32 packages/eshell-z-readme.txt
+ 16K -rw-rw-r-- 1 kimr kimr  16K Oct 18 21:49 packages/eshell-z-20191116.333.el
+4.0K -rw-rw-r-- 1 kimr kimr  372 Oct 18 21:49 packages/eshell-z-20191116.333.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Oct 18 21:49 packages/eshell-z-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr 1.5K Oct 18 21:49 packages/eshell-z-readme.txt

@@ -3,10 +3,12 @@ Fetcher: github
 Source:  https://github.com/zk-phi/symon.git
 
 Updating /home/kimr/repos/my/melpa/working/symon/
+Checking out origin/HEAD
+Checking out 8dd8b6df49b03cd7d31b85aedbe9dd08fb922335
 Note: symon :files spec is equivalent to the default.
-Built symon in 0.670s, finished at 2021-07-20T21:36:21+0000
+Built symon in 0.665s, finished at 2021-10-19T04:53:42+0000
  ✓ Success:
- 32K -rw-rw-r-- 1 kimr kimr  29K Jul 20 14:36 packages/symon-20170224.833.el
-4.0K -rw-rw-r-- 1 kimr kimr  228 Jul 20 14:36 packages/symon-20170224.833.entry
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 20 14:36 packages/symon-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr  149 Jul 20 14:36 packages/symon-readme.txt
+ 32K -rw-rw-r-- 1 kimr kimr  29K Oct 18 21:53 packages/symon-20170224.833.el
+4.0K -rw-rw-r-- 1 kimr kimr  228 Oct 18 21:53 packages/symon-20170224.833.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Oct 18 21:53 packages/symon-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr  149 Oct 18 21:53 packages/symon-readme.txt

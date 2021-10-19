@@ -4,12 +4,12 @@ Source:  https://github.com/noctuid/link-hint.el.git
 
 Updating /home/kimr/repos/my/melpa/working/link-hint/
 Checking out origin/HEAD
-Checking out d3c5bacc9c697c4cf8b14616c4199210f9267068
-Built link-hint in 0.857s, finished at 2021-08-08T16:18:36+0000
+Checking out 83cd0489b16f013647d0507ef20905a0a91db433
+Built link-hint in 0.664s, finished at 2021-10-19T04:51:57+0000
  ✓ Success:
- 56K -rw-rw-r-- 1 kimr kimr  54K Jul 26 09:34 packages/link-hint-20210723.1633.el
-4.0K -rw-rw-r-- 1 kimr kimr  452 Jul 26 09:34 packages/link-hint-20210723.1633.entry
  56K -rw-rw-r-- 1 kimr kimr  54K Aug  8 09:18 packages/link-hint-20210727.1302.el
 4.0K -rw-rw-r-- 1 kimr kimr  452 Aug  8 09:18 packages/link-hint-20210727.1302.entry
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K Aug  8 09:18 packages/link-hint-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr  741 Aug  8 09:18 packages/link-hint-readme.txt
+ 56K -rw-rw-r-- 1 kimr kimr  54K Oct 18 21:51 packages/link-hint-20211008.1652.el
+4.0K -rw-rw-r-- 1 kimr kimr  452 Oct 18 21:51 packages/link-hint-20211008.1652.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Oct 18 21:51 packages/link-hint-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr  741 Oct 18 21:51 packages/link-hint-readme.txt

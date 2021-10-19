@@ -3,9 +3,11 @@ Fetcher: git
 Source:  https://mumble.net/~campbell/git/paredit.git
 
 Updating /home/kimr/repos/my/melpa/working/paredit/
+Checking out origin/HEAD
+Checking out 8330a41e8188fe18d3fa805bb9aa529f015318e8
 Note: paredit :files spec is equivalent to the default.
-Built paredit in 0.956s, finished at 2021-07-20T21:35:29+0000
+Built paredit in 0.464s, finished at 2021-10-19T04:52:57+0000
  ✓ Success:
-120K -rw-rw-r-- 1 kimr kimr 120K Jul 20 14:35 packages/paredit-20191121.2328.el
-4.0K -rw-rw-r-- 1 kimr kimr  312 Jul 20 14:35 packages/paredit-20191121.2328.entry
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 20 14:35 packages/paredit-badge.svg
+120K -rw-rw-r-- 1 kimr kimr 120K Oct 18 21:52 packages/paredit-20191121.2328.el
+4.0K -rw-rw-r-- 1 kimr kimr  312 Oct 18 21:52 packages/paredit-20191121.2328.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Oct 18 21:52 packages/paredit-badge.svg

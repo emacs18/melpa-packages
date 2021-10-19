@@ -3,9 +3,11 @@ Fetcher: github
 Source:  https://github.com/emacsorphanage/helm-pydoc.git
 
 Updating /home/kimr/repos/my/melpa/working/helm-pydoc/
+Checking out origin/HEAD
+Checking out 85480a29b56dacde425655bc8f5a597c785afdf5
 Copying files (->) and directories (=>)
   from /home/kimr/repos/my/melpa/working/helm-pydoc/
-  to /tmp/helm-pydoc7PtkUX/helm-pydoc-20160918.542
+  to /tmp/helm-pydoc2xir8v/helm-pydoc-20160918.542
     helm-pydoc.el -> helm-pydoc.el
     helm-pydoc.py -> helm-pydoc.py
 Created helm-pydoc-20160918.542.tar containing:
@@ -13,9 +15,9 @@ Created helm-pydoc-20160918.542.tar containing:
   helm-pydoc-20160918.542/helm-pydoc-pkg.el
   helm-pydoc-20160918.542/helm-pydoc.el
   helm-pydoc-20160918.542/helm-pydoc.py
-Built helm-pydoc in 0.671s, finished at 2021-07-20T21:33:41+0000
+Built helm-pydoc in 0.292s, finished at 2021-10-19T04:51:25+0000
  ✓ Success:
-4.0K -rw-rw-r-- 1 kimr kimr  388 Jul 20 14:33 packages/helm-pydoc-20160918.542.entry
- 20K -rw-rw-r-- 1 kimr kimr  20K Jul 20 14:33 packages/helm-pydoc-20160918.542.tar
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 20 14:33 packages/helm-pydoc-badge.svg
-   0 -rw-rw-r-- 1 kimr kimr    0 Jul 20 14:33 packages/helm-pydoc-readme.txt
+4.0K -rw-rw-r-- 1 kimr kimr  388 Oct 18 21:51 packages/helm-pydoc-20160918.542.entry
+ 20K -rw-rw-r-- 1 kimr kimr  20K Oct 18 21:51 packages/helm-pydoc-20160918.542.tar
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Oct 18 21:51 packages/helm-pydoc-badge.svg
+   0 -rw-rw-r-- 1 kimr kimr    0 Oct 18 21:51 packages/helm-pydoc-readme.txt

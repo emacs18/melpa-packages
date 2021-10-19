@@ -3,9 +3,11 @@ Fetcher: github
 Source:  https://github.com/skeeto/skewer-mode.git
 
 Updating /home/kimr/repos/my/melpa/working/skewer-mode/
+Checking out origin/HEAD
+Checking out e5bed351939c92a1f788f78398583c2f83f1bb3c
 Copying files (->) and directories (=>)
   from /home/kimr/repos/my/melpa/working/skewer-mode/
-  to /tmp/skewer-modeULKzMJ/skewer-mode-20200304.1142
+  to /tmp/skewer-modeVva83Z/skewer-mode-20200304.1142
     example.html -> example.html
     skewer-everything.user.js -> skewer-everything.user.js
     skewer.js -> skewer.js
@@ -30,9 +32,9 @@ Created skewer-mode-20200304.1142.tar containing:
   skewer-mode-20200304.1142/skewer-repl.el
   skewer-mode-20200304.1142/skewer-setup.el
   skewer-mode-20200304.1142/skewer.js
-Built skewer-mode in 0.780s, finished at 2021-07-20T21:36:11+0000
+Built skewer-mode in 0.713s, finished at 2021-10-19T04:53:34+0000
  ✓ Success:
-4.0K -rw-rw-r-- 1 kimr kimr  459 Jul 20 14:36 packages/skewer-mode-20200304.1142.entry
- 80K -rw-rw-r-- 1 kimr kimr  80K Jul 20 14:36 packages/skewer-mode-20200304.1142.tar
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 20 14:36 packages/skewer-mode-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr 3.1K Jul 20 14:36 packages/skewer-mode-readme.txt
+4.0K -rw-rw-r-- 1 kimr kimr  459 Oct 18 21:53 packages/skewer-mode-20200304.1142.entry
+ 80K -rw-rw-r-- 1 kimr kimr  80K Oct 18 21:53 packages/skewer-mode-20200304.1142.tar
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Oct 18 21:53 packages/skewer-mode-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr 3.1K Oct 18 21:53 packages/skewer-mode-readme.txt

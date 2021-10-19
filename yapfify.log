@@ -5,11 +5,9 @@ Source:  https://github.com/JorisE/yapfify.git
 Updating /home/kimr/repos/my/melpa/working/yapfify/
 Checking out origin/HEAD
 Checking out c9347e3b1dec5fc8d34883e206fcdc8500d22368
-Built yapfify in 0.216s, finished at 2021-09-18T13:13:54+0000
+Built yapfify in 0.635s, finished at 2021-10-19T04:54:12+0000
  ✓ Success:
-8.0K -rw-rw-r-- 1 kimr kimr 4.4K Jul 20 14:36 packages/yapfify-20200406.830.el
-4.0K -rw-rw-r-- 1 kimr kimr  328 Jul 20 14:36 packages/yapfify-20200406.830.entry
-8.0K -rw-rw-r-- 1 kimr kimr 4.5K Sep 18 06:13 packages/yapfify-20210914.634.el
-4.0K -rw-rw-r-- 1 kimr kimr  328 Sep 18 06:13 packages/yapfify-20210914.634.entry
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K Sep 18 06:13 packages/yapfify-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr  421 Sep 18 06:13 packages/yapfify-readme.txt
+8.0K -rw-rw-r-- 1 kimr kimr 4.5K Oct 18 21:54 packages/yapfify-20210914.634.el
+4.0K -rw-rw-r-- 1 kimr kimr  328 Oct 18 21:54 packages/yapfify-20210914.634.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Oct 18 21:54 packages/yapfify-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr  421 Oct 18 21:54 packages/yapfify-readme.txt

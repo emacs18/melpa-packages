@@ -3,9 +3,11 @@ Fetcher: github
 Source:  https://github.com/purcell/package-lint.git
 
 Updating /home/kimr/repos/my/melpa/working/package-lint/
+Checking out origin/HEAD
+Checking out 10b6f3aab4f7c014ce339694255cf2c6dfd2bdea
 Copying files (->) and directories (=>)
   from /home/kimr/repos/my/melpa/working/package-lint/
-  to /tmp/package-lintFNgZoO/package-lint-20210528.2348
+  to /tmp/package-lintBJL9Sp/package-lint-20210528.2348
     package-lint.el -> package-lint.el
     data => data
 Created package-lint-20210528.2348.tar containing:
@@ -14,9 +16,9 @@ Created package-lint-20210528.2348.tar containing:
   package-lint-20210528.2348/data/stdlib-changes
   package-lint-20210528.2348/package-lint-pkg.el
   package-lint-20210528.2348/package-lint.el
-Built package-lint in 0.644s, finished at 2021-07-20T21:35:25+0000
+Built package-lint in 0.306s, finished at 2021-10-19T04:52:54+0000
  ✓ Success:
-4.0K -rw-rw-r-- 1 kimr kimr  475 Jul 20 14:35 packages/package-lint-20210528.2348.entry
-760K -rw-rw-r-- 1 kimr kimr 760K Jul 20 14:35 packages/package-lint-20210528.2348.tar
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 20 14:35 packages/package-lint-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr  260 Jul 20 14:35 packages/package-lint-readme.txt
+4.0K -rw-rw-r-- 1 kimr kimr  475 Oct 18 21:52 packages/package-lint-20210528.2348.entry
+760K -rw-rw-r-- 1 kimr kimr 760K Oct 18 21:52 packages/package-lint-20210528.2348.tar
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Oct 18 21:52 packages/package-lint-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr  260 Oct 18 21:52 packages/package-lint-readme.txt

@@ -5,11 +5,9 @@ Source:  https://github.com/tarsius/hl-todo.git
 Updating /home/kimr/repos/my/melpa/working/hl-todo/
 Checking out origin/HEAD
 Checking out 42f744ffb513cf2b95517144c64dbf3fc69f711a
-Built hl-todo in 0.234s, finished at 2021-09-18T13:13:19+0000
+Built hl-todo in 0.559s, finished at 2021-10-19T04:51:33+0000
  ✓ Success:
- 16K -rw-rw-r-- 1 kimr kimr  14K Jul 20 14:33 packages/hl-todo-20210615.1505.el
-4.0K -rw-rw-r-- 1 kimr kimr  361 Jul 20 14:33 packages/hl-todo-20210615.1505.entry
- 16K -rw-rw-r-- 1 kimr kimr  14K Sep 18 06:13 packages/hl-todo-20210909.1114.el
-4.0K -rw-rw-r-- 1 kimr kimr  361 Sep 18 06:13 packages/hl-todo-20210909.1114.entry
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K Sep 18 06:13 packages/hl-todo-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K Sep 18 06:13 packages/hl-todo-readme.txt
+ 16K -rw-rw-r-- 1 kimr kimr  14K Oct 18 21:51 packages/hl-todo-20210909.1114.el
+4.0K -rw-rw-r-- 1 kimr kimr  361 Oct 18 21:51 packages/hl-todo-20210909.1114.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Oct 18 21:51 packages/hl-todo-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Oct 18 21:51 packages/hl-todo-readme.txt

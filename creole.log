@@ -3,10 +3,12 @@ Fetcher: github
 Source:  https://github.com/nicferrier/elwikicreole.git
 
 Updating /home/kimr/repos/my/melpa/working/creole/
+Checking out origin/HEAD
+Checking out 7d5cffe93857f6c75ca09ac79c0e47b8d4410e53
 Note: creole :files spec is equivalent to the default.
-Built creole in 0.675s, finished at 2021-07-20T21:31:23+0000
+Built creole in 0.500s, finished at 2021-10-19T04:49:21+0000
  ✓ Success:
- 68K -rw-rw-r-- 1 kimr kimr  66K Jul 20 14:31 packages/creole-20140924.1500.el
-4.0K -rw-rw-r-- 1 kimr kimr  341 Jul 20 14:31 packages/creole-20140924.1500.entry
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 20 14:31 packages/creole-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr  416 Jul 20 14:31 packages/creole-readme.txt
+ 68K -rw-rw-r-- 1 kimr kimr  66K Oct 18 21:49 packages/creole-20140924.1500.el
+4.0K -rw-rw-r-- 1 kimr kimr  341 Oct 18 21:49 packages/creole-20140924.1500.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Oct 18 21:49 packages/creole-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr  416 Oct 18 21:49 packages/creole-readme.txt

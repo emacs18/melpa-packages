@@ -3,9 +3,13 @@ Fetcher: github
 Source:  https://github.com/kuanyui/tldr.el.git
 
 Updating /home/kimr/repos/my/melpa/working/tldr/
-Built tldr in 0.667s, finished at 2021-07-20T21:36:25+0000
+Checking out origin/HEAD
+Checking out d3fd2a809a266c005915026799121c78e8b358f0
+Built tldr in 0.657s, finished at 2021-10-19T04:53:46+0000
  ✓ Success:
  16K -rw-rw-r-- 1 kimr kimr  14K Jul 20 14:36 packages/tldr-20200330.1025.el
 4.0K -rw-rw-r-- 1 kimr kimr  364 Jul 20 14:36 packages/tldr-20200330.1025.entry
-4.0K -rw-rw-r-- 1 kimr kimr 1.2K Jul 20 14:36 packages/tldr-badge.svg
-4.0K -rw-rw-r-- 1 kimr kimr  222 Jul 20 14:36 packages/tldr-readme.txt
+ 16K -rw-rw-r-- 1 kimr kimr  14K Oct 18 21:53 packages/tldr-20210921.1715.el
+4.0K -rw-rw-r-- 1 kimr kimr  343 Oct 18 21:53 packages/tldr-20210921.1715.entry
+4.0K -rw-rw-r-- 1 kimr kimr 1.2K Oct 18 21:53 packages/tldr-badge.svg
+4.0K -rw-rw-r-- 1 kimr kimr  222 Oct 18 21:53 packages/tldr-readme.txt
